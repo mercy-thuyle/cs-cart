@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/rss_feed.po\n"
+"X-Crowdin-File-ID: 6658\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::rss_feed"
+msgid "RSS feed"
+msgstr "RSS 피드"
+
+msgctxt "Addons::description::rss_feed"
+msgid "Generates RSS feeds for products and blog posts"
+msgstr "제품 및 블로그 게시물에 대한 RSS 피드 생성"
+
+msgctxt "Languages::rss_feed"
+msgid "RSS feed"
+msgstr "RSS 피드"
+
+msgctxt "Languages::feed_title"
+msgid "Feed title"
+msgstr "피드 제목"
+
+msgctxt "Languages::feed_description"
+msgid "Feed description"
+msgstr "피드 설명"
+
+msgctxt "Languages::rss_sort_by"
+msgid "Sort items by"
+msgstr "항목 정렬 기준"
+
+msgctxt "Languages::rss_display_sku"
+msgid "Display SKU"
+msgstr "SKU 표시"
+
+msgctxt "Languages::rss_display_image"
+msgid "Display image"
+msgstr "디스플레이 이미지"
+
+msgctxt "Languages::rss_display_price"
+msgid "Display gross price"
+msgstr "총 가격 표시"
+
+msgctxt "Languages::rss_display_original_price"
+msgid "Display net price"
+msgstr "순 가격 표시"
+
+msgctxt "Languages::rss_display_add_to_cart"
+msgid "Display add to cart button"
+msgstr "장바구니에 담기 버튼 표시"
+
+msgctxt "Languages::rss_created"
+msgid "Created"
+msgstr "만들어진"
+
+msgctxt "Languages::rss_updated"
+msgid "Updated"
+msgstr "업데이트됨"
+
+msgctxt "Languages::block_rss_feed"
+msgid "RSS feed"
+msgstr "RSS 피드"
+
+msgctxt "Languages::block_rss_feed_description"
+msgid "RSS feed subscription icon"
+msgstr "RSS 피드 구독 아이콘"
+
+msgctxt "SettingsSections::rss_feed::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::rss_feed::managing_editor"
+msgid "Content editor"
+msgstr "콘텐츠 편집기"
+
+msgctxt "SettingsOptions::rss_feed::display_rss_feed_in_category"
+msgid "Show RSS feed for each category"
+msgstr "각 카테고리에 대한 RSS 피드 표시"
+
+msgctxt "SettingsOptions::rss_feed::category_max_products_items"
+msgid "Max product number per category"
+msgstr "카테고리별 최대 제품 수"
+
+msgctxt "SettingsTooltips::rss_feed::managing_editor"
+msgid "Enter the content editor's email and real name, e.g. john@example.com (John Doe)"
+msgstr "콘텐츠 편집자의 이메일과 실명을 입력하십시오(예: john@example.com(John Doe))."
+
+msgctxt "SettingsTooltips::rss_feed::display_rss_feed_in_category"
+msgid "RSS icon near category title."
+msgstr "카테고리 제목 근처의 RSS 아이콘."
+
+msgctxt "Languages::addons.rss_feed.icon"
+msgid "RSS feed subscription icon"
+msgstr "RSS 피드 구독 아이콘"
+

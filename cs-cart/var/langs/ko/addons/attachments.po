@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "첨부 파일"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "제품에 파일 첨부 가능"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "첨부 파일"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "새로 추가"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "첨부파일 추가"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "첨부 파일 편집"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "저장소 루트 디렉터리 내의 첨부 파일 디렉터리를 지정하십시오. 가져올 첨부 파일을 이 디렉토리에 넣습니다."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "일부 제품의 첨부 파일을 가져올 수 없습니다. 해당 첨부 파일이 존재하지 않거나 액세스할 수 없거나 가져온 파일의 해당 첨부 파일에 대한 경로가 올바르지 않습니다."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "제품 첨부 파일"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "첨부 파일 구분 기호"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "제품 첨부 파일 사이의 구분 기호입니다."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "기존 첨부 파일 삭제"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "이 설정을 활성화하면 가져온 제품의 기존 첨부 파일이 가져온 파일에 지정된 첨부 파일로 바뀝니다(첨부 파일을 지정하지 않으면 이전 첨부 파일이 유지됨). 설정을 비활성화하면 새 첨부 파일이 기존 첨부 파일에 추가됩니다."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "첨부 파일 디렉토리"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "일반"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "서버에 첨부 파일 저장"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "가져온 파일에 URL로 나열된 첨부 파일이 서버에 다운로드됩니다."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "제품 [product]에 대한 파일 [url] 을 로드할 수 없습니다."
+

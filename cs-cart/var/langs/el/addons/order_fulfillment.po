@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Εκπλήρωση παραγγελίας ανά αγορά"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Σας επιτρέπει να προσφέρετε πλάνα πωλητών όπου η αγορά διεκπεραιώνει την αποστολή για πωλητές και διατηρεί τα έξοδα αποστολής."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Τύπος αποστολής"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Χειριστείτε την αποστολή για πωλητές ως μέρος αυτού του πλάνου πωλητή. Εάν η αγορά διεκπεραιώνει την αποστολή για πολλούς πωλητές, τότε ο πελάτης θα πρέπει να επιλέξει μόνο μία μέθοδο αποστολής για όλους αυτούς τους πωλητές στο ταμείο. Τα έξοδα αποστολής θα βαρύνουν επίσης την αγορά. <ul><li>Οι πωλητές που έχουν εκπλήρωση ανά αγορά ως μέρος του πλάνου πωλητή τους χρησιμοποιούν ΜΟΝΟ τις μεθόδους αποστολής που ανήκουν στην αγορά.</li><li>Οι πωλητές που δεν έχουν εκπλήρωση από την αγορά χρησιμοποιούν ΜΟΝΟ τις μεθόδους αποστολής που τους ανήκουν ειδικά.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "Οι μέθοδοι αποστολής που ανήκουν στην αγορά θα είναι πλέον διαθέσιμες στους πωλητές των οποίων τα πλανα πωλητών περιλαμβάνουν την εκπλήρωση από την αγορά."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "Οι μέθοδοι αποστολής που ανήκουν στην αγορά θα είναι πλέον διαθέσιμες ανάλογα με τις ρυθμίσεις κάθε πωλητή. Τα τέλη για αυτές τις μεθόδους αποστολής θα πάνε στους πωλητές και όχι στην αγορά."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Ο πωλητής [name] μετακινήθηκε σε ένα πρόγραμμα με εκπλήρωση παραγγελίας ανά αγορά. Ο πωλητής θα χρησιμοποιεί πλέον τις μεθόδους αποστολής που παρέχονται από την αγορά αντί για τις δικές του."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Έχετε μετακινηθεί σε ένα πλάνο με εκπλήρωση παραγγελιών ανά αγορά. Στο εξής, οι μέθοδοι αποστολής της αγοράς θα προσφέρονται στους πελάτες σας."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Ο πωλητής [name] μετακινήθηκε σε ένα πρόγραμμα χωρίς εκπλήρωση παραγγελίας ανά αγορά. Ο πωλητής πρέπει τώρα να προσφέρει τις δικές του μεθόδους αποστολής."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Έχετε μετακινηθεί σε ένα πλανο χωρίς εκπλήρωση παραγγελίας από την αγορά. Βεβαιωθείτε ότι έχετε ορίσει τις δικές σας μεθόδους αποστολής."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Εκπλήρωση ανά αγορά"
+

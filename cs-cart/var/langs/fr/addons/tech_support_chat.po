@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /release-4.15.1/addons/tech_support_chat.po\n"
+"X-Crowdin-File-ID: 6682\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::tech_support_chat"
+msgid "Technical support chat"
+msgstr "Chat d'assistance technique"
+
+msgctxt "Addons::description::tech_support_chat"
+msgid "Adds live chat with the technical support team in the Administration panel"
+msgstr "Ajoute un chat en direct avec l'équipe de support technique dans le panneau d'administration"
+

@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "供应商计划"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "为您的供应商有不同的限制和价格创建计划"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "佣金"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "在供应商佣金中包含运费"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "在供应商佣金中包含税款"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "在不预先从订单总额中扣除税款的情况下计算供应商佣金。"
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "供应商能够改变他们当前的计划"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "从供应商处收税"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "将收取的税款发送到市场帐户。"
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "供应商计划"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "供应商计划信息"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "显示有关所选供应商计划的信息"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "计划"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "计划"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "佣金"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "限制"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "为您的供应商，与不同的限制和价格创建计划"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "每月"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "每年"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "一次"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "最大值。产品"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "设置的产品供应商可以对这一计划的最大数目。请留空以允许不限的数量的产品。"
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "供应商可以在一个单独的地址，如 <i>example.com/vendor/</i> 有他或她自己的 microstore。Microstore 仅包含产品的供应商拥有此 microstore。此外，在供应商 microstore 的搜索结果只包括此供应商的产品。"
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "添加供应商计划"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "新的供应商计划"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "编辑供应商计划"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "不能删除该计划︰ 一些供应商使用它"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "不能禁用计划︰ 一些供应商使用它"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "交易费用"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "交易费（abs）"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "收入"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "收入达"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "每月收入最大化允许供应商使用此计划。将此字段留空以允许无限的收入。"
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "供应商 microstore"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "提供作为最佳的选择"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "最好的选择"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "你将收取计划后管理员批准您的供应商帐户"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "当前计划"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "当前计划使用情况"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "最好的选择"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "选择您的计划"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "选择"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "月"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "年"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "计划名称"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> 产品|<strong>[n]</strong> 产品"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "无限"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>无限</strong> 产品"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "<strong>[revenue]</strong> 的收入"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>无限</strong> 收入"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "交易费： <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "供应商佣金"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "请指定一个类别。"
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "你的计划已设置为 [plan]。看看下面你计划的细节。"
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "为您的计划付款"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "金额 [price] 已从您的帐户中撤回，用于使用[plan] 计划。请按照以下链接 <a href=\"[href]\"> 查看您的帐户余额 </a> 或查看您的计划的详细信息。"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "你的计划已经改变了"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "你的计划已经改成了[plan]。请参阅下面的新计划的详细信息。"
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "无法添加更多产品：您的产品数量已达到您的计划允许的最大数值。若要更改您的计划，请 <a href=\"[href]\"> 按照此链接 </a>。"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "超出最大收入"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor] </a> 超出了[plan] 计划允许的最大收入。"
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "不可用"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "产品太多 ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "收入太多 ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "抱歉，这个计划不适合您。请选择一个可用的计划。"
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "您正在切换到另一个供应商计划。您将被收取该计划的全部价格。确实要继续吗？"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "供应商计划：计划更改通知"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "供应商计划：支付通知"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "供应商计划：收入通知"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "可以查看"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "供应商计划"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[sum] 分之 [amount]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "出 [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "供应商计划的支付：[plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "供应商计划"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "您的更改是否会影响现有供应商？"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "<a href=\"[search_url]\" target=\"_blank\">[n] 供应商 </a> 现在正在使用这个计划我们该怎么办？|我们应该怎么做 <a href=\"[search_url]\" target=\"_blank\">[n] 供应商 </a> 现在正在使用这个计划？"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "将供应商添加到添加到计划中的店面|将供应商添加到添加到计划中的店面"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "从已从此计划中删除的店面中删除供应商|从已从此计划中删除的店面中删除供应商"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "供应商被转移到另一个计划"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "我们应该如何处理该供应商可用的店面？"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "将供应商添加到新供应商计划中可用的店面"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "从之前计划中可用的店面中删除供应商"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "高级供应商计划创建"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "已创建新的供应商计划“[plan_name]”。您现在可以 <a href=\"[link]\">为使用此计划</a>的供应商设置限制。"
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "[commission]% 费用"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "默认计划"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "供应商计划已更改"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "供应商计划"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "供应商计划：供应商计划已更改"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "供应商“[vendor]”移至“[plan]”"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "供应商“[vendor]”的计划从“[old_plan]”更改为“[new_plan]”。"
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "旧计划"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "新计划"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "将供应商管理员添加到添加到计划中的用户组"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "从从计划中删除的用户组中删除供应商管理员"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "这些是供应商获得此计划时供应商的管理员将获得的用户组"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "抱歉，该类别不适用于供应商。请检查供应商计划的配置。"
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "包括所有店面"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "包括所有类别"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "无法禁用供应商计划。必须至少存在一个活动或隐藏的供应商计划。"
+

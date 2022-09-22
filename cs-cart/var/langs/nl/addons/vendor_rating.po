@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_rating.po\n"
+"X-Crowdin-File-ID: 6698\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_rating"
+msgid "Vendor rating"
+msgstr "Leveranciersbeoordeling"
+
+msgctxt "Addons::description::vendor_rating"
+msgid "Allows you to rank vendors in the store using multi-critiera rating."
+msgstr "Hiermee kunt u leveranciers in de winkel rangschikken met behulp van multi-critiera-beoordeling."
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "Leveranciersbeoordeling"
+
+msgctxt "Languages::vendor_rating.previous_rating"
+msgid "Previous rating"
+msgstr "Vorige beoordeling"
+
+msgctxt "Languages::vendor_rating.rating"
+msgid "Rating"
+msgstr "Beoordeling"
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "Leveranciersbeoordeling"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_asc"
+msgid "Sort by Vendor rating: Low to High"
+msgstr "Sorteer op leveranciersbeoordeling: laag naar hoog"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_desc"
+msgid "Sort by Vendor rating"
+msgstr "Sorteren op leveranciersbeoordeling"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating"
+msgid "Overall rating"
+msgstr "Algemene beoordeling"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating_short"
+msgid "OA rating"
+msgstr "OA-beoordeling"
+
+msgctxt "Languages::vendor_rating.manual_vendor_rating"
+msgid "Manual vendor rating"
+msgstr "Handmatige leveranciersbeoordeling"
+
+msgctxt "Languages::vendor_rating.manual_vendor_plan_rating"
+msgid "Manual vendor plan rating"
+msgstr "Handmatige beoordeling van leveranciersplan"
+
+msgctxt "Languages::vendor_rating.company_rating"
+msgid "[company]'s rating set to [rating]"
+msgstr "[company]'s beoordeling ingesteld op [rating]"
+
+msgctxt "Languages::vendor_rating.wrong_formula"
+msgid "Unable to calculate the expression. Original error message: [error]."
+msgstr "Kan de uitdrukking niet berekenen. Oorspronkelijke foutmelding: [error]."
+
+msgctxt "Languages::vendor_rating.too_many_variables"
+msgid "The formula uses too many variables. [allowed_variables_count] allowed, [passed_variables_count] passed."
+msgstr "De formule gebruikt te veel variabelen. [allowed_variables_count] toegestaan, [passed_variables_count] geslaagd."
+
+msgctxt "Languages::vendor_rating.division_by_zero"
+msgid "Division by zero"
+msgstr "Deling door nul"
+
+msgctxt "Languages::vendor_rating.unknown_variable"
+msgid "Unknown variable <b>[variable]</b>"
+msgstr "Onbekende variabele <b>[variable]</b>"
+
+msgctxt "Languages::vendor_rating.run_rating_calculation_by_cron"
+msgid "Rating recalculation is the resource-intensive process. It's recommented to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "Het herberekenen van beoordelingen is een arbeidsintensief proces. Het wordt aanbevolen om het automatisch op bepaalde tijdsintervallen uit te voeren.<br>Om dit te doen, voegt u het volgende commando toe aan <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::vendor_rating.rating_formula"
+msgid "Rating formula"
+msgstr "Beoordelingsformule"
+
+msgctxt "Languages::vendor_rating.variables"
+msgid "You can use the following variables in the formula:"
+msgstr "U kunt de volgende variabelen in de formule gebruiken:"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.name"
+msgid "Amount of paid orders."
+msgstr "Aantal betaalde bestellingen."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "Orders in de volgende statussen geplaatst na de <i>Rekenperiode startdatum</i> worden in aanmerking genomen: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.name"
+msgid "Gross total of paid orders."
+msgstr "Bruto totaal van betaalde bestellingen."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "Orders in de volgende statussen geplaatst na de <i>Rekenperiode startdatum</i> worden in aanmerking genomen: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.name"
+msgid "Amount of active products."
+msgstr "Aantal actieve producten."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.description"
+msgid "Products in the Active status created after the <i>Calculation period start date</i> are taken into account."
+msgstr "Producten met de status Actief die zijn aangemaakt na de <i>Rekenperiode startdatum</i> worden in aanmerking genomen."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.name"
+msgid "Manually set vendor rating."
+msgstr "Handmatig leveranciersbeoordeling instellen."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor editing page."
+msgstr "Handmatige beoordeling kan worden gespecificeerd op het tabblad <b>Beoordeling</b> van de leveranciersbewerkingspagina."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.name"
+msgid "Average vendor review rating."
+msgstr "Gemiddelde beoordeling van leveranciersbeoordelingen."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.description"
+msgid "Approved vendor reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "Er wordt rekening gehouden met goedgekeurde leveranciersbeoordelingen die na de <i>Rekenperiode startdatum</i> zijn geplaatst."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.name"
+msgid "Average product reviews rating."
+msgstr "Gemiddelde beoordeling van productrecensies."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.description"
+msgid "Approved product reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "Goedgekeurde productreviews geplaatst na de <i>Rekenperiode startdatum</i> worden in aanmerking genomen."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.name"
+msgid "Manually set vendor plan rating."
+msgstr "Stel handmatig de beoordeling van het leveranciersplan in."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor plan editing page."
+msgstr "Handmatige beoordeling kan worden opgegeven op het tabblad <b>Beoordeling</b> van de bewerkingspagina van het leveranciersplan."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.name"
+msgid "Amount of return requests."
+msgstr "Aantal retourverzoeken."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.description"
+msgid "Return requests created after the <i>Calculation period start date</i> are taken into account."
+msgstr "Retouraanvragen die zijn aangemaakt na de <i>Rekenperiode startdatum</i> worden in aanmerking genomen."
+
+msgctxt "Languages::vendor_rating.recalculate_rating"
+msgid "Recalculate rating"
+msgstr "Waardering herberekenen"
+
+msgctxt "Languages::vendor_rating.run_recalculation"
+msgid "Run recalculation"
+msgstr "Herberekening uitvoeren"
+
+msgctxt "Languages::vendor_rating.start_rating_period"
+msgid "Calculation period start date"
+msgstr "Begindatum rekenperiode"
+
+msgctxt "Languages::vendor_rating.invalid_formula"
+msgid "Invalid formula"
+msgstr "Ongeldige formule"
+
+msgctxt "Languages::show_vendor_rating"
+msgid "Show vendor rating"
+msgstr "Leveranciersbeoordeling weergeven"
+
+msgctxt "Languages::log_type_vendor_rating"
+msgid "Vendor rating"
+msgstr "Leveranciersbeoordeling"
+
+msgctxt "Languages::log_action_vr_success"
+msgid "Successful recalculation"
+msgstr "Succesvolle herberekening"
+
+msgctxt "Languages::log_action_vr_failure"
+msgid "Errors"
+msgstr "fouten"
+
+msgctxt "Languages::vendor_rating.calculated_at"
+msgid "Calculated at [date]"
+msgstr "Berekend op [date]"
+
+msgctxt "Languages::vendor_rating.recalculate_now"
+msgid "Recalculate now"
+msgstr "Nu herberekenen"
+
+msgctxt "Languages::vendor_rating.rating_ranges"
+msgid "Rating ranges"
+msgstr "Beoordelingsbereiken"
+
+msgctxt "Languages::vendor_rating.bronze_rating_lower_limit"
+msgid "Bronze rating lower limit"
+msgstr "Ondergrens voor bronzen rating"
+
+msgctxt "Languages::vendor_rating.silver_rating_lower_limit"
+msgid "Silver rating lower limit"
+msgstr "Zilver rating ondergrens"
+
+msgctxt "Languages::vendor_rating.gold_rating_lower_limit"
+msgid "Gold rating lower limit"
+msgstr "Ondergrens gouden rating"
+
+msgctxt "Languages::vendor_rating.rating_above_price"
+msgid "Rating matters more than price"
+msgstr "Beoordeling is belangrijker dan prijs"
+
+msgctxt "Languages::vendor_rating.rating_above_price_tooltip"
+msgid "When using \"Common products for vendors\", offer products from vendors with highest rating first."
+msgstr "Wanneer u \"Veelgebruikte producten voor leveranciers\" gebruikt, biedt u eerst producten aan van leveranciers met de hoogste beoordeling."
+
+msgctxt "Languages::vendor_rating.rating_ranges_description"
+msgid "Setting all ranges to 0 will hide rating icons."
+msgstr "Als u alle bereiken op 0 instelt, worden beoordelingspictogrammen verborgen."
+

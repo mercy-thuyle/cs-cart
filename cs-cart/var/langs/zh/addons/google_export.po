@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_export.po\n"
+"X-Crowdin-File-ID: 6598\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "谷歌导出"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "扩展数据源插件配合谷歌Base并创建此类数据源的例子"
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>注意: 切换这个设置您若需要安装谷歌分类多语言,支持法语,德语,意大利语,西班牙语,和英国英语. 请注意此操作可能需要很长的时间.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "开始导入"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "常规信息"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "为谷歌分类安装其它语言"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr "不导出价格值为0.00 的项目"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr "您的 Google 供给产品不可包含价格价值为0.00的条目。价格为零的条目可能不会出现在搜索结果中。"
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr "在您将产品导出到 Google 产品提要之前，请确保您的商店的 <a href=\"[currency_url]\"> 主要货币 </a> 代码符合 <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\"> iso 4217 </a>，并使用<a href=\"[settings_url]\"> 权重符号 </a> 是下列值之一：lb、盎司、g、千克"
+
+msgctxt "Languages::addons.google_export.google_export"
+msgid "Google export"
+msgstr "谷歌出口"
+
+msgctxt "Languages::google_name_option"
+msgid "Equivalent in Google:"
+msgstr "等同于谷歌："
+
+msgctxt "Languages::addons.google_export.tax_notice"
+msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
+msgstr "对美国来说，不要在价格中含税。对于加拿大和印度，在价格中不包括任何增值税。对于所有其他国家, 增值税 (VAT) 必须包括在价格。"
+
+msgctxt "Languages::addons.google_export.info_google_features"
+msgid "<p>Before you export a data feed file for Google Merchant, make sure to edit your products and specify the values of product features that belong to the Google Export group. You can do this via product import and export, or mass editing.</p><p> GTIN is a key identifier of a product. If you didn't specify GTIN as a feature, product's SKU from the CODE field will be used. GTINs for option combinations are always taken from the CODE fields of combinations.</p>"
+msgstr "<p> 在为 google 商家导出数据源文件之前，请确保编辑您的产品并指定属于 google 导出组的产品功能的值。您可以通过产品导入和导出或成批编辑来完成此工作，</p><p> GTIN 是产品的关键标识符。如果没有将 GTIN 指定为功能，则将使用 \"代码\" 字段中的产品 SKU。选项组合的 GTINs 总是取自组合的代码字段。</p>"
+
+msgctxt "Languages::tt_addons_google_export_hooks_product_options_properties_post_google_name_option"
+msgid "When you export a data feed file, this option will provide data for the selected Google field type."
+msgstr "导出数据源文件时，此选项将为所选的 Google 字段类型提供数据。"
+
+msgctxt "Languages::addons.google_export.text_info_setting_options"
+msgid "Please make sure that you selected this option as \"Equivalent in Google\" for one of the options in your store. Otherwise the data feed file may not be exported properly."
+msgstr "请确保在您的商店中选择 \"Google 中的等效项\"。否则，可能无法正确导出数据源文件。"
+

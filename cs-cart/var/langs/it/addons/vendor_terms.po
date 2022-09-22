@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_terms.po\n"
+"X-Crowdin-File-ID: 6704\n"
+"PO-Revision-Date: 2022-06-23 09:43\n"
+
+msgctxt "Addons::name::vendor_terms"
+msgid "Vendor's terms and conditions"
+msgstr "Checkout: Termini e condizioni"
+
+msgctxt "Addons::description::vendor_terms"
+msgid "Allows vendors to specify terms and conditions that the customers must agree with when buying from those vendors"
+msgstr "Permette i ventori di definire termi e condizioni dove i clienti devono accordarsi comprando da quelli ventori"
+
+msgctxt "Languages::vendor_terms.terms_and_conditions"
+msgid "Terms & conditions"
+msgstr "Termi e condizioni"
+
+msgctxt "Languages::vendor_terms.terms_and_conditions_tooltip"
+msgid "If you want a customer to agree to your terms and conditions at checkout, fill in Terms & Conditions. If you leave Terms & Conditions empty, a customer proceeds without agreement."
+msgstr "Se desideri che un cliente accetti i tuoi termini e condizioni al momento del pagamento, compila Termini e condizioni. Se li lasci vuoti Termini e condizioni, un cliente procede senza alcun accordo."
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions"
+msgid "I accept the [terms_href] of [vendor]"
+msgstr "Io accetto i [terms_href] del [vendor]"
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions_name"
+msgid "Terms & conditions"
+msgstr "Termi e condizioni"
+

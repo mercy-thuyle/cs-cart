@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 6586\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "페이스북 픽셀"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Facebook Pixel을 스토어와 통합"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "페이스북 픽셀 식별자"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "모든 페이지 조회수 추적"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "장바구니에 제품 추가 추적"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "주문 추적"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_title"
+msgid "Facebook Pixel"
+msgstr "페이스북 픽셀"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_description"
+msgid "Facebook Pixel is a tool that allows us to measure ad efficiency by tracking that the browser or device that received the ad also visited a product page, added product to cart, or placed an order. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "Facebook Pixel은 광고를 수신한 브라우저나 기기도 제품 페이지를 방문했는지, 장바구니에 제품을 추가했는지, 주문했는지 추적하여 광고 효율성을 측정할 수 있는 도구입니다. 여기 <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook 개인 정보 보호 정책</a>입니다."
+

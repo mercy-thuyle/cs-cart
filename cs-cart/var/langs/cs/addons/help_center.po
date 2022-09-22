@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/help_center.po\n"
+"X-Crowdin-File-ID: 6604\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "Centrum nápovědy"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "Přidává tlačítko pomoci s odkazem na relevantní dokumentaci a/nebo video na patřičné stránky v administračním panelu."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "Pomoc"
+
+msgctxt "Languages::help_center.help_center"
+msgid "Help Center"
+msgstr "Centrum nápovědy"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "Podívat se na všechny [n] výsledky..."
+
+msgctxt "Languages::help_center.customer_care"
+msgid "Customer Care"
+msgstr "Péče o zákazníky"
+
+msgctxt "Languages::help_center.customer_care.view_all_tickets"
+msgid "View all tickets"
+msgstr "Zobrazit všechny vstupenky"
+
+msgctxt "Languages::help_center.customer_care.all_tickets"
+msgid "All tickets"
+msgstr "Všechny vstupenky"
+
+msgctxt "Languages::help_center.customer_care.no_support_tickets"
+msgid "No support tickets found."
+msgstr "Nebyly nalezeny žádné lístky podpory."
+
+msgctxt "Languages::help_center.customer_care.submit_ticket"
+msgid "Submit a ticket"
+msgstr "Předložte lístek"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable"
+msgid "Your Customer Care subscription is not active"
+msgstr "Vaše předplatné péče o zákazníky není aktivní"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable_description"
+msgid "Prolong the subscription to keep receiving support."
+msgstr "Chcete-li nadále dostávat podporu, prodlužte předplatné."
+
+msgctxt "Languages::help_center.customer_care.prolong_subscription"
+msgid "Prolong subscription"
+msgstr "Prodloužit předplatné"
+
+msgctxt "Languages::help_center.customer_care.sign_in_text"
+msgid "Sign in with your Help Desk account <br>to contact Customer Care and see your latest tickets."
+msgstr "Přihlaste se pomocí svého účtu Help Desk <br>, abyste kontaktovali zákaznickou podporu a viděli své nejnovější vstupenky."
+
+msgctxt "Languages::help_center.customer_care.status.resolved"
+msgid "Resolved"
+msgstr "Vyřešeno"
+
+msgctxt "Languages::help_center.customer_care.status.open"
+msgid "Open"
+msgstr "OTEVŘENO"
+
+msgctxt "Languages::help_center.customer_care.few_tickets_require_your_attention"
+msgid "A few tickets from Customer Care team require your attention. <a href=\"[url]\" target=\"[target]\">Click here to view tickets</a>"
+msgstr "Několik lístků od týmu péče o zákazníky vyžaduje vaši pozornost. <a href=\"[url]\" target=\"[target]\">Kliknutím sem zobrazíte vstupenky</a>"
+

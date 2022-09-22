@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_rating.po\n"
+"X-Crowdin-File-ID: 6698\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_rating"
+msgid "Vendor rating"
+msgstr "דירוג של ספק"
+
+msgctxt "Addons::description::vendor_rating"
+msgid "Allows you to rank vendors in the store using multi-critiera rating."
+msgstr "מאפשר לך לדרג ספקים בחנות לפי דירוג רב-קריטריונים."
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "דירוג של ספק"
+
+msgctxt "Languages::vendor_rating.previous_rating"
+msgid "Previous rating"
+msgstr "דירוג קודם"
+
+msgctxt "Languages::vendor_rating.rating"
+msgid "Rating"
+msgstr "דירוג"
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "דירוג של ספק"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_asc"
+msgid "Sort by Vendor rating: Low to High"
+msgstr "מיין לפי דירוג של ספק: מהנמוך לגבוה"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_desc"
+msgid "Sort by Vendor rating"
+msgstr "מיין לפי דירוג של ספק"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating"
+msgid "Overall rating"
+msgstr "דירוג כולל"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating_short"
+msgid "OA rating"
+msgstr "דירוג OA"
+
+msgctxt "Languages::vendor_rating.manual_vendor_rating"
+msgid "Manual vendor rating"
+msgstr "דירוג ספק ידני"
+
+msgctxt "Languages::vendor_rating.manual_vendor_plan_rating"
+msgid "Manual vendor plan rating"
+msgstr "דירוג תוכנית של ספק ידני"
+
+msgctxt "Languages::vendor_rating.company_rating"
+msgid "[company]'s rating set to [rating]"
+msgstr "[company] דירוג מוגדר ל-[rating]"
+
+msgctxt "Languages::vendor_rating.wrong_formula"
+msgid "Unable to calculate the expression. Original error message: [error]."
+msgstr "לא ניתן לחשב את הביטוי. הודעת שגיאה מקורית: [error]."
+
+msgctxt "Languages::vendor_rating.too_many_variables"
+msgid "The formula uses too many variables. [allowed_variables_count] allowed, [passed_variables_count] passed."
+msgstr "הנוסחה משתמשת במשתנים רבים מדי. [allowed_variables_count] מותר, [passed_variables_count] עבר."
+
+msgctxt "Languages::vendor_rating.division_by_zero"
+msgid "Division by zero"
+msgstr "חלוקה באפס"
+
+msgctxt "Languages::vendor_rating.unknown_variable"
+msgid "Unknown variable <b>[variable]</b>"
+msgstr "משתנה לא ידוע <b>[variable]</b>"
+
+msgctxt "Languages::vendor_rating.run_rating_calculation_by_cron"
+msgid "Rating recalculation is the resource-intensive process. It's recommented to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "חישוב דירוג הוא התהליך עתיר המשאבים. מומלץ להריץ אותו באופן אוטומטי בפרקי זמן מסוימים.<br>כדי לעשות זאת, הוסף את הפקודה הבאה ל <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::vendor_rating.rating_formula"
+msgid "Rating formula"
+msgstr "נוסחת דירוג"
+
+msgctxt "Languages::vendor_rating.variables"
+msgid "You can use the following variables in the formula:"
+msgstr "אתה יכול להשתמש במשתנים הבאים בנוסחה:"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.name"
+msgid "Amount of paid orders."
+msgstr "סכום כל ההזמנות בתשלום."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "הזמנות בסטטוסים הבאים שמוצבים לאחר <i>תאריך ההתחלה של תקופת החישוב</i>נלקחים בחשבון: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.name"
+msgid "Gross total of paid orders."
+msgstr "סה\"כ ההזמנות בתשלום ברוטו."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "הזמנות בסטטוסים הבאים שמוצבים לאחר <i>תאריך ההתחלה של תקופת החישוב</i>נלקחים בחשבון: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.name"
+msgid "Amount of active products."
+msgstr "כמות המוצרים הפעילים."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.description"
+msgid "Products in the Active status created after the <i>Calculation period start date</i> are taken into account."
+msgstr "מוצרים בסטטוס פעיל שנוצרו לאחר <i>תאריך ההתחלה של תקופת החישוב</i> נלקחים בחשבון."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.name"
+msgid "Manually set vendor rating."
+msgstr "הגדר ידנית את דירוג הספק."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor editing page."
+msgstr "ניתן לציין דירוג באופן ידני בכרטיסייה <b> דירוג </ b> בדף עריכת הספק."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.name"
+msgid "Average vendor review rating."
+msgstr "דירוג תגובות ממוצע של ספקים."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.description"
+msgid "Approved vendor reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr " תגובות של ספקים מאושרים הוצבו לאחר <i>תאריך ההתחלה של תקופת החישוב</i>נלקחות בחשבון."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.name"
+msgid "Average product reviews rating."
+msgstr "דירוג תגובות ממוצע של מוצר."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.description"
+msgid "Approved product reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "תגובות מוצר מאושרות שהוצבו לאחר <i>תאריך ההתחלה של תקופת החישוב</i>נלקחות בחשבון ."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.name"
+msgid "Manually set vendor plan rating."
+msgstr "הגדר ידנית את דירוג תוכנית הספק."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor plan editing page."
+msgstr "ניתן לציין דירוג ידני בכרטיסייה <b> דירוג </ b> בדף העריכה של תוכנית הספק."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.name"
+msgid "Amount of return requests."
+msgstr "כמות בקשות החזרה."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.description"
+msgid "Return requests created after the <i>Calculation period start date</i> are taken into account."
+msgstr "בקשות החזרה שנוצרו לאחר <i>תאריך ההתחלה של תקופת החישוב</i> נלקחות בחשבון."
+
+msgctxt "Languages::vendor_rating.recalculate_rating"
+msgid "Recalculate rating"
+msgstr "חישוב מחדש של הדירוג"
+
+msgctxt "Languages::vendor_rating.run_recalculation"
+msgid "Run recalculation"
+msgstr "הפעל חישוב מחדש"
+
+msgctxt "Languages::vendor_rating.start_rating_period"
+msgid "Calculation period start date"
+msgstr "תאריך התחלה של תקופת החישוב"
+
+msgctxt "Languages::vendor_rating.invalid_formula"
+msgid "Invalid formula"
+msgstr "נוסחה לא חוקית"
+
+msgctxt "Languages::show_vendor_rating"
+msgid "Show vendor rating"
+msgstr "הצג דירוג של ספק"
+
+msgctxt "Languages::log_type_vendor_rating"
+msgid "Vendor rating"
+msgstr "דירוג של ספק"
+
+msgctxt "Languages::log_action_vr_success"
+msgid "Successful recalculation"
+msgstr "חישוב מחדש מוצלח"
+
+msgctxt "Languages::log_action_vr_failure"
+msgid "Errors"
+msgstr "שגיאות"
+
+msgctxt "Languages::vendor_rating.calculated_at"
+msgid "Calculated at [date]"
+msgstr "מחושב ב- [תאריך]"
+
+msgctxt "Languages::vendor_rating.recalculate_now"
+msgid "Recalculate now"
+msgstr "לחשב מחדש"
+
+msgctxt "Languages::vendor_rating.rating_ranges"
+msgid "Rating ranges"
+msgstr "טווחי דירוג"
+
+msgctxt "Languages::vendor_rating.bronze_rating_lower_limit"
+msgid "Bronze rating lower limit"
+msgstr "דירוג ברונזה גבול נמוך יותר"
+
+msgctxt "Languages::vendor_rating.silver_rating_lower_limit"
+msgid "Silver rating lower limit"
+msgstr "דירוג כסף גבול נמוך יותר"
+
+msgctxt "Languages::vendor_rating.gold_rating_lower_limit"
+msgid "Gold rating lower limit"
+msgstr "דירוג זהב גבול נמוך יותר"
+
+msgctxt "Languages::vendor_rating.rating_above_price"
+msgid "Rating matters more than price"
+msgstr "הדירוג חשוב יותר מהמחיר"
+
+msgctxt "Languages::vendor_rating.rating_above_price_tooltip"
+msgid "When using \"Common products for vendors\", offer products from vendors with highest rating first."
+msgstr "בעת שימוש ב\"מוצרים נפוצים לספקים\", הצע תחילה מוצרים מספקים עם הדירוג הגבוה ביותר."
+
+msgctxt "Languages::vendor_rating.rating_ranges_description"
+msgid "Setting all ranges to 0 will hide rating icons."
+msgstr "הגדרת כל הטווחים ל-0 תסתיר את סמלי הדירוג."
+

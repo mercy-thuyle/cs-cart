@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/master_products.po\n"
+"X-Crowdin-File-ID: 6724\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "Спільні товари для продавців"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "Дозволяє вам створити єдину базу товарів: продавці будуть вибирати, які з існуючих в базі товарів вони продають."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "Дозволити продавцям створювати товари"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "Якщо не вмикати це налаштування, то продавці зможуть продавати лише ті товари, які додасте ви."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "Купуйте загальний продукт за замовчуванням"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "Поріч із товаром (не лише його пропозиція) з'явиться кнопка \"Додати до кошика\" та виберіть найкращу доступну пропозицію. "
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "Продавці цього продукту"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "Продавці цього товару"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "Продавці товару"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "Товари, які можна продавати"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "Товари в продажу"
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "Всі товари"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "Додати товар з каталогу"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "Створити новый товар"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "Продавати"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "Продається"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "Продавати обрані"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "[n] товар був доданий в продаж|[n] товара було доданоно в продаж|[n] товарів було доданоно в продаж"
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "Спільний товар"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "Всі продавці (спільний товар)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "Товари для експорту"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "Від [formatted_price]"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "Пропозиція продавця"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "Переглянути всі пропозиції"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "Вариація від продавця"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "Ви змінили налаштування \"Показувати товари, яких немає в наявності\". Експортуйте <a href=\"[url]\">всі позиції в каталозі</a> (скористайтеся меню шестерінки \"Експортувати знайдені товари\"). Потім імпортуйте ці товари. Це потрібно, щоб ціна загальних товарів відображалася правильно, поки знову не зміните налаштування."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "Снижка до"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "Лише продавці можуть додати комбінації продукту. Щоб додати комбінацію для загального продукту, спочатку увійдіть як один із продавців, які його продають."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "Щоб додати комбінацію для загального продукту, спочатку<a class=\"cm-post\" href=\"[href]\">почніть його продавати</a>."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "Не вдалося змінити власника продукту, оскільки деякі продавці все ще продають його. Будь ласка, видаліть <a href=\"[vendors_offers_link]\" target=\"_blank\">пропозиції продавців</a>, перш ніж змінити власника цього продукту."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "Лише продавці можуть додати пакети продуктів. Щоб додати пакет для загального продукту, спочатку увійдіть як один із продавців, які його продають."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>та інші пропозиції</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "Щоб додати потрібну кількість товару до кошика, ми повинні включити пропозиції від кількох продавців. Деякі з них можуть мати різні ціни."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "Товар знайдено, але це не звичайний продукт. Вкажіть загальний ідентифікатор продукту."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "Продукт знайдено, але він не є продуктом постачальника. Будь ласка, вкажіть ідентифікатор продукту постачальника."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "Для пошуку продуктів постачальника необхідно вказати загальний ідентифікатор продукту."
+

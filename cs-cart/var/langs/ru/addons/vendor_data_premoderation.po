@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-20 12:56\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Премодерация данных продавцов"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "Премодерация данных, добавляемых продавцами"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "Модуль \"Премодерация данных продавцов\" выключен. Если у товаров был статус \"Требует проверки\" или \"Отклонён\", то теперь у них нет никакого статуса. Эти товары не будут видны покупателям, пока вы или продавцы не зададите им какой-нибудь статус. Если вы включите модуль, то товары без статусов снова получат статусы. Если вы удалите модуль, то все товары автоматически получат правильный статус."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "Управление отдельными товарами или группой товаров, поставляемых компанией."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Премодерация данных продавцов"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "Утверждение товаров"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "Уведомлять продавца по электронной почте"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "Ваш товар [product] был утвержден администратором магазина и добавлен в каталог товаров. Теперь покупатели смогут купить этот товар в магазине."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "Ваш товар [product] был отклонен администрацией магазина"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "Спасибо за добавление новых товаров. Следующие товары были утверждены администрацией магазина и добавлены в каталог товаров"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "Теперь покупатели смогут купить эти товары в магазине."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "Спасибо за добавление новых товаров. Следующие товары были отклонены администрацией магазина"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "Утвердить выбранные"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "Отклонить выбранные"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "Требовать проверку новых товаров"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "Требовать проверку изменений в товарах"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "Требовать проверку изменений в профиле продавца"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "У вас есть товары, которые требуют утверждения. Посмотреть их список можно по этой <a href=\"[link]\">ссылке</a>."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "Ваши товары получили статус [status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "Утверждение"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "Вы уверены, что хотите обновить свою учетную запись? Информация о вашей компании не будет отображаться на витрине магазина до тех пор, пока администратор не подтвердит её."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "Управление"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "Утверждение товаров"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "Учётная запись продавца"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "Товары продавца"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "Проверка новых товаров"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "Проверка изменённых товаров"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "Проверка изменений в учётных записях продавцов"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "Сообщать продавцам о результатах модерации товаров"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "Нужна проверка, если изменится"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "Не нужна"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Нужна для некоторых продавцов"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Нужна всегда"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "Не нужна"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "Нужна для некоторых продавцов"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Нужна всегда"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "Не нужна"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Нужна для некоторых продавцов"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Нужна всегда"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "Не сообщать"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "Через email"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "Через центр уведомлений"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "Через email и центр уведомлений"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "Премодерация данных продавца"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "Исключить неодобренные товары"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "Требует проверки"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "Отклонён"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "Товары на проверке"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "Отклонённые товары"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "Отклонён"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "Одобрить товар"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "Одобрить \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "Отклонить товар"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "Отклонить \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "Отклонить товары"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "Причина отклонения"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "Укажите, почему вы отклонили товар, и сохраните изменения."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "[n] товар требует проверки|[n] товара требуют проверки|[n] товаров требуют проверки"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "Этот товар ожидает проверки с [since]. Нажмите сюда, чтобы посмотреть товар.|Эти товары ожидают проверки с [since]. Нажмите сюда, чтобы просмотреть товары."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "Ваш товар был одобрен|Ваши товары были одобрены"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "Товар \"[product]\" одобрен администрацией магазина и добавлен в каталог. Нажмите сюда, чтобы просмотреть товар.|[n] товара одобрены администрацией магазина и добавлены в каталог. Нажмите сюда, чтобы просмотреть товары.|[n] товаров одобрены администрацией магазина и добавлены в каталог. Нажмите сюда, чтобы просмотреть товары."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "Ваш товар был отклонён|Ваши товары были отклонены"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "Товар \"[product]\" отклонён администрацией магазина. Нажмите сюда, чтобы просмотреть товар.|[n] товара отклонены администрацией магазина. Нажмите сюда, чтобы просмотреть товары.|[n] товаров отклонены администрацией магазина. Нажмите сюда, чтобы просмотреть товары."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "Изменения сохранены. Перед тем, как товар появится в каталоге, его должна одобрить администрация магазина. Вот <a href=\"[product_approval_url]\">список товаров, которые ожидают одобрения</a>.|Изменения сохранены. Перед тем, как товары появятся в каталоге, их должна одобрить администрация магазина. Вот <a href=\"[product_approval_url]\">список товаров, которые ожидают одобрения</a>."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Премодерация данных продавцов: ваш товар был утверждён"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Премодерация данных продавцов: ваш товар был отклонён"
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "Если проверка нужна только для некоторых продавцов, то необходимость проверки для каждого продавца задаётся на вкладке \"Модули\" на странице редактирования продавца."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Премодерация данных продавцов: ваш товар был утверждён"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Премодерация данных продавцов: ваш товар был отклонён"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "Модерация"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "Проверка новых продавцов"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "Не нужна"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Нужна всегда"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "Если вы хотите совсем отключить регистрацию продавцов, проверьте раздел <a href=\"[url]\" target=\"_blank\">Настройки → Продавцы</a>."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "До [date]"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "Удален"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "Добавлен"
+

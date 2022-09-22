@@ -1,0 +1,135 @@
+
+                              LICENSE AGREEMENT
+                          on the use of Multi-Vendor
+
+This license agreement (hereinafter referred to as the "Agreement") constitutes a contract between Bolide Network LLC, San Diego CA, USA (hereinafter referred to as the "Company"), and you (hereinafter referred to as the "User"), hereinafter jointly referred to as the “Parties”.
+
+This Agreement contains definitions and conditions under which the User can use Multi-Vendor.
+
+This Agreement is a public offer and is available at https://www.cs-cart.com for review and acceptance of its conditions when the User acquires the right to use the Multi-Vendor.
+
+TERMS AND DEFINITIONS
+All terms given in this section of the Agreement shall have the following meaning for this Agreement only, and shall not be construed to suggest otherwise when used in respect of the conditions set forth in this Agreement.
+
+Multi-Vendor means the software registered at the U.S. Copyright Office of the Library of Congress (certificate #TX8903691).
+
+Program means the version of Multi-Vendor, description of which is available at the Official Website of the Company at: https://www.cs-cart.com/compare.html.
+
+Multi-Vendor Plus means the version of Multi-Vendor with more advanced functionality, description of which is available at the Official Website of the Company at: https://www.cs-cart.com/compare.html.
+
+Multi-Vendor Ultimate means the version of Multi-Vendor with more advanced functionality, description of which is available at the Official Website of the Company at: https://www.cs-cart.com/compare.html.
+
+Program-based Derivative means any software, work or information created by the User or a third party using the Program or any of its parts.
+
+Use of the Program means any actions related to operation of the Program according to its purpose.
+
+Upgrades of the Program means the changes in the Program distributed by the Company.
+
+Domain Name means a unique alphanumeric name intended to identify a resource on the Internet.
+
+Server means a computer to which the Program is installed.
+
+Website means a resource available on the Internet through a common Domain Name.
+
+Trial License means the right to Use the Program (one copy) on one Server within thirty (30) days after the first installation of the Program provided by the Copyright Owner to the User.
+
+Full License means the right to Use the Program (one copy) on one Server provided by the Copyright Owner to the User for unlimited time.
+
+Official Website of the Company means the Website of the Company available at https://www.cs-cart.com.
+
+Help Desk System means the software installed on the Official Website of the Company and available at https://helpdesk.cs-cart.com.
+
+Reseller means a legal entity or a private entrepreneur empowered to distribute the Trial License and/or the Full License.
+
+1. SUBJECT OF AGREEMENT
+According to the conditions of this Agreement, the Company provides the User with the Full License under a simple non-exclusive license on the entire world, provided that the User declares the number of Domain Names for which the Full License is obtained and through which the Program will be available on the Internet and the User shall pay the Company the compensation stipulated by this Agreement.
+
+This Agreement is considered concluded only after the User has fulfilled the following conditions:
+
+the User has provided truthful, accurate and complete personal information about yourself;
+the User has accepted the conditions of this Agreement;
+the User has paid the compensation for the Full License.
+
+The Company provides the User with the Trial License under a simple non-exclusive license on the entire world only once. If the User was provided with the Trial License earlier, the Trial License is not provided to him again.
+
+The User having the Trial License shall keep the text "Powered by CS-Cart" which contains a hyperlink to the site https://www.cs-cart.com on each page of the Program. Upon removing this text and/or the hyperlink the User bears liability for infringing the Company exclusive rights in accordance with the international agreements on copyright and intellectual property.
+
+The User shall, upon expiration of the term granted by the Trial License, purchase the Full License on the site https://www.cs-cart.com or from the Reseller or remove the Program both from the Server on which the Program was used and from other media if any.
+
+2. PRICE AND ORDER OF PAYMENT OF COMPENSATION
+The Company provides the User with the Full License only after the User has paid the compensation which amount is defined on the Official Website of the Company.
+
+The compensation is paid by the User through the Company's Payment System or via a direct wire transfer to the bank account of the Company based on the invoice issued by the Company.
+
+3. RIGHTS AND OBLIGATIONS OF PARTIES
+The User has the right to:
+
+Use the Program during the entire term of the Full License;
+Throughout the term of the Agreement, contact the Company with a description of bugs and errors detected during the Use of the Program. The Company, in turn, undertakes to inform the User of the possibility and term of correction of such bugs or errors.
+
+The User shall:
+
+Use the Program only in the way specified in the Agreement;
+pay the compensation to the Company on time and in full;
+not use Upgrades of the Program and/or the Program of the versions that have been released by the Company before the User has purchased the Full License, as well as after the expiration of one calendar year from the date on which the User has purchased the Full License, unless the User has purchased a secondary right for such Full License to use these upgrades of the Program and new versions of the Program on the https://www.cs-cart.com/ website, and such right is active;
+notify the Company of any (full or partial) illegal Use of the Program by a third party without delay;
+not transfer the rights received from the Company under this Agreement to a third party.
+
+The Company has the right to:
+
+use the information received from the User to improve the Program, including informing the User about the introduced improvements, updates;
+notify the User that the copy of the Program is illegal and is used without the Full License.
+
+The Company shall:
+
+provide the User with the Full License if the User has fulfilled all the conditions of this Agreement;
+grant the User access to the Help Desk System.
+
+4. CONFIDENTIALITY AND PERSONAL INFORMATION
+The Company guarantees that personal information and other personal data provided by the User for the purpose of executing Section 1 of the Agreement will be used by the Company solely for the purposes of executing this Agreement. Such information is not subjected to transfer to any third parties except for the cases as stipulated by the current legislation of the USA. By concluding this Agreement, the User grants the Company the right to process (including, but not limited to: gather, systematize, store, revise, update, change, use, transfer) their personal information and other personal data in any way not contradicting the current legislation of the USA (which includes not using any automation facilities) for the purpose of performing obligations of the Agreement imposed on the Parties.
+
+5. WARRANTIES AND LIMITATIONS
+The Program is provided "AS IS" with all possible malfunctions and in the state that is actual by the time the User pays the compensation to the Company.
+
+Under no circumstances the Company guarantees error-free and uninterrupted performance of the Program and that the Program will meet the requirements of the User as well as the Company disclaims any other warranties to the extent to which it is permitted by the effective law.
+
+6. LIABILITY
+The User assumes all the risks related to the performance and the Use of the Program, including the risk of not getting the expected profit from the Use of the Program, the risk of a software failure after the Program is installed, etc.
+
+Under no circumstances the Company is liable to the User for any damages (including, but not limited to, any loss of profits and confidential or other information, the damages caused by an interruption of the business, loss of revenue, turnover, business reputation or data, neglected business opportunities, any indirect, incidental, special, punitive or consequential damages) related to the Use of the Program or impossibility to Use the Program.
+
+In the event that the law of the User's country concedes no limitation of liability, or the liability of the Company is recognized by the competent court, the Company will be liable only for actual damage incurred from Using this Program if the damage is caused by a tort of the Company, or if the damage is caused by the reasons that the Company knew or should have known. The maximum amount of liability of the Company is limited to the amount of the compensation that the User paid for one Full License.
+
+7. TERM AND TERMINATION OF THE AGREEMENT
+The Agreement comes into effect on the date of fulfillment of all the conditions stipulated by Section 1 of this Agreement and is effective until terminated. The Agreement and the Full License are terminated immediately after the User violates any part of this Agreement without any additional notice from the Company. And the User consents to immediately remove the Program together with all copies, modifications and upgrades, or any Program-based Derivatives.
+
+The territory for this Agreement shall be the entire world. The User has the right to terminate the Full License at any time by discontinuing the Agreement and removing the Program together with all copies, modifications and upgrades, or Program-based Derivatives along with sending an appropriate notification to the Company. The Agreement will be deemed terminated from the date the Company receives the notification from the User.
+
+In all cases, termination of the Full License and the Agreement deprives the User of the right to claim the return of the compensation paid to the Company as well as any other indemnification, except for the case provided by the Company’s policy on refunding the compensation paid by the User for the Full License. The contents and the conditions of the compensation refund policy are available on the Official Website of the Company at: https://www.cs-cart.com/money-back.html.
+
+8. FORCE MAJEURE
+Neither party shall be liable for any failure to perform any of its obligations hereunder due to causes beyond its reasonable control, such as fires, strikes (of employees of the Reseller or other employees), insurrections, riots, embargoes, natural and man-made disasters, delays in transportation, guidelines from civil or military authority.
+
+Each party shall provide the other party with a prompt notice of force majeure. Such a notice shall contain detailed information about the applicable circumstances.
+
+If a party's performance is delayed for a period of more than four (4) weeks due to force majeure, the other party may terminate this Agreement by sending a notification about termination of this Agreement to the other party's email. Neither party shall be liable to the other party if the Agreement is terminated due to force majeure.
+
+9. DISPUTE SETTLEMENT PROCEDURE
+The User acknowledges that the Company may suffer damage if the conditions of this Agreement are not respected, and therefore the User agrees that the Company has the right to use any form of protecting the violated rights and legitimate interests, including the direct appeal to the appropriate court without a necessity to comply with the claim settlement procedure.
+
+You and Company agree that any dispute, claim or controversy arising out of or relating in any way to the EULA, shall be determined by binding arbitration in San Diego County, California, instead of in courts of general jurisdiction. Arbitration uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these EULA, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Company are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of this Agreement.
+
+YOU AND COMPANY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and Company agree otherwise, the arbitrator may not consolidate more than one person’s claims with your claims, and may not otherwise preside over any form of a representative or class proceeding. If this specific provision is found to be unenforceable, then the entirety of this arbitration provision shall be null and void. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim.
+
+10. FINAL PROVISIONS
+These EULA shall be governed by and construed in accordance with the laws of the state of California, USA without regard to conflict of laws provisions. If any provision or provisions of these terms shall be held to be invalid, illegal, unenforceable or in conflict with the law of any jurisdiction, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and shall remain in full force and effect.
+
+If any condition of this Agreement for any reason becomes unenforceable, or is voided or declared invalid by the competent court, then it is regarded as an omission from the text of this Agreement, which, however, shall by no means affect the legitimacy and validity of the other conditions.
+
+The section headings in the text of the Agreement are for convenience only and have no independent legal force, and shall not be interpreted in relation to the conditions of the Agreement.
+
+The User acknowledges that he has read this Agreement carefully and understood it completely, and agrees to accept its terms and conditions.
+
+The Parties acknowledge the legal validity of the documents sent by email. The documents sent by the Company are considered created in the proper written form if they are sent from sales@cs-cart.com. Documents emanating from the User will be deemed completed in proper writing if they are sent from the email address provided by the Company User in accordance with Section 1 of this Agreement. Correspondence will be considered sent to the proper address if it is sent to the above email addresses.
+
+© Bolide Network LLC

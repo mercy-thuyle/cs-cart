@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/pay360.po\n"
+"X-Crowdin-File-ID: 6626\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "תשלומים של Pay360"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "מאפשר לך לקבל תשלומים באמצעות Pay360"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "שם משתמש API"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "סיסמת API"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "קופאי מתארח"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "מספר חשבון המשמש לזיהוי הלקוח או ההלוואה. אם זה PAN, ספק את שש הספרות הראשונות ואת ארבע הספרות האחרונות של ה-PAN. אחרת, ספק עד עשרה תווים ממספר החשבון."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "חלק ראשון של המיקוד של מקבל ההלוואה; עד שש תווים. לדוגמה, אם המיקוד הוא \"EC2A 1AE\", זה יהיה \"EC2A\"."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "שם משפחה של מקבל ההלוואה; עד שישה תווים, לא כולל מספרים או תווים מיוחדים. אם השם ארוך משישה תווים, ספק את ששת התווים הראשונים. לדוגמה, עבור \"סמית\", זה יהיה \"סמית\"; עבור \"וויליאמס\", זה יהיה \"וויליה\"."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "אנא, השתמש רק בתווים אלפביתיים."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "אנא, השתמש רק בתווים אלפביתיים ומספרים."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "חובה עבור MCC 6012, 6051 ומספר 7299 סוחרים מבוססי בריטניה ואירופה"
+

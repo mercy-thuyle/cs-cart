@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/newsletters.po\n"
+"X-Crowdin-File-ID: 6618\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::newsletters"
+msgid "Newsletters"
+msgstr "뉴스레터"
+
+msgctxt "Addons::description::newsletters"
+msgid "Lets you configure newsletter sending"
+msgstr "뉴스레터 전송을 구성할 수 있습니다."
+
+msgctxt "Languages::newsletters_menu_description"
+msgid "Create and send newsletters to your customer."
+msgstr "뉴스레터를 만들어 고객에게 보냅니다."
+
+msgctxt "Languages::news_plain"
+msgid "Plain"
+msgstr "솔직한"
+
+msgctxt "Languages::text_signup_for_subscriptions"
+msgid "Sign up for our newsletters!"
+msgstr "뉴스레터에 가입하세요!"
+
+msgctxt "Languages::tmpl_subscription"
+msgid "Newsletters: subscription form"
+msgstr "뉴스레터: 구독 양식"
+
+msgctxt "Languages::unsubscribe_link"
+msgid "Unsubscribe link"
+msgstr "구독 취소 링크"
+
+msgctxt "Languages::ne_add_subscribers_from_users"
+msgid "Add subscribers from the list of users"
+msgstr "사용자 목록에서 구독자 추가"
+
+msgctxt "Languages::ne_warning_subscr_email_exists"
+msgid "<b>[email]</b> is already in the subscribers list"
+msgstr "<b>[email]</b> 는 이미 구독자 목록에 있습니다."
+
+msgctxt "Languages::warning_subscribers_import"
+msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "데이터베이스에서 입력 파일의 일부 메일링 리스트를 찾을 수 없습니다. 가져온 특정 구독자는 할당되지 않은 상태로 유지됩니다."
+
+msgctxt "Languages::subscribers_menu_item_text"
+msgid "Subscribers"
+msgstr "구독자"
+
+msgctxt "Languages::block_mailing_lists"
+msgid "Newsletter subscription"
+msgstr "신문 구독"
+
+msgctxt "Languages::block_mailing_lists_description"
+msgid "Email field for newsletter subscription"
+msgstr "뉴스레터 구독을 위한 이메일 필드"
+
+msgctxt "Languages::block_lite_checkout_newsletters"
+msgid "Checkout: Newsletters"
+msgstr "확인: 뉴스레터"
+
+msgctxt "Languages::block_lite_checkout_newsletters_description"
+msgid "Ability to sign up for newsletters"
+msgstr "뉴스레터 신청 기능"
+
+msgctxt "Languages::privileges.view_newsletters"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::privileges.manage_newsletters"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.newsletters"
+msgid "Newsletters"
+msgstr "뉴스레터"
+
+msgctxt "Languages::warning_newsletter_no_recipients"
+msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
+msgstr "선택한 기준과 일치하는 수신자가 없기 때문에 뉴스레터가 전송되지 않았습니다."
+
+msgctxt "Languages::text_newsletter_sent"
+msgid "The newsletter(s) have been sent successfully."
+msgstr "뉴스레터가 성공적으로 전송되었습니다."
+
+msgctxt "Languages::email_cannot_be_empty"
+msgid "E-mail cannot be empty"
+msgstr "이메일은 비워둘 수 없습니다."
+
+msgctxt "Languages::sending_email_to"
+msgid "Sending email to [email]..."
+msgstr "이메일을 [email]으로 보내는 중..."
+
+msgctxt "Languages::text_subscriber_added"
+msgid "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "귀하의 이메일이 무료 이메일 업데이트 목록에 성공적으로 추가되었습니다."
+
+msgctxt "Languages::error_email_already_subscribed"
+msgid "Your e-mail is already subscribed."
+msgstr "귀하의 이메일은 이미 가입되어 있습니다."
+
+msgctxt "Languages::text_subscriber_removed"
+msgid "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "귀하의 이메일이 무료 이메일 업데이트 목록에서 성공적으로 제거되었습니다."
+
+msgctxt "Languages::text_subscriber_activated"
+msgid "Your email has been successfully activated"
+msgstr "귀하의 이메일이 성공적으로 활성화되었습니다"
+
+msgctxt "Languages::link_message_for_test_letter"
+msgid "The link will be displayed in a live newsletter"
+msgstr "링크는 라이브 뉴스레터에 표시됩니다."
+
+msgctxt "Languages::newsletters"
+msgid "Newsletters"
+msgstr "뉴스레터"
+
+msgctxt "Languages::autoresponders"
+msgid "Autoresponders"
+msgstr "자동 응답기"
+
+msgctxt "Languages::campaigns"
+msgid "Campaigns"
+msgstr "캠페인"
+
+msgctxt "Languages::sent"
+msgid "Sent"
+msgstr "전송된"
+
+msgctxt "Languages::subscribers_num"
+msgid "Number of subscribers"
+msgstr "가입자 수"
+
+msgctxt "Languages::editing_mailing_list"
+msgid "Editing mailing list"
+msgstr "메일링 리스트 편집"
+
+msgctxt "Languages::from_name"
+msgid "From name"
+msgstr "이름에서"
+
+msgctxt "Languages::from_email"
+msgid "From email"
+msgstr "이메일에서"
+
+msgctxt "Languages::reply_to"
+msgid "Reply to"
+msgstr "답장하다"
+
+msgctxt "Languages::register_autoresponder"
+msgid "Confirmation email"
+msgstr "승인 메일"
+
+msgctxt "Languages::no_autoresponder"
+msgid "No autoresponder"
+msgstr "자동 응답 없음"
+
+msgctxt "Languages::show_on_checkout"
+msgid "Show at checkout"
+msgstr "결제 시 표시"
+
+msgctxt "Languages::hide_on_checkout"
+msgid "Hide at checkout"
+msgstr "결제 시 숨기기"
+
+msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
+msgid "Show on the Registration and Profile Details pages"
+msgstr "등록 및 프로필 세부 정보 페이지에 표시"
+
+msgctxt "Languages::addons.newsletters.hide_on_registration_and_profile"
+msgid "Hide on the Registration and Profile Details pages"
+msgstr "등록 및 프로필 세부 정보 페이지에서 숨기기"
+
+msgctxt "Languages::show_on_separate_page"
+msgid "Show on separate page"
+msgstr "별도 페이지에 표시"
+
+msgctxt "Languages::campaign_stats"
+msgid "Campaign statistics"
+msgstr "캠페인 통계"
+
+msgctxt "Languages::add_campaign"
+msgid "Add campaign"
+msgstr "캠페인 추가"
+
+msgctxt "Languages::new_campaign"
+msgid "New campaign"
+msgstr "새 캠페인"
+
+msgctxt "Languages::newsletter_templates"
+msgid "Newsletter templates"
+msgstr "뉴스레터 템플릿"
+
+msgctxt "Languages::newsletter_autoresponders"
+msgid "Newsletter autoresponders"
+msgstr "뉴스레터 자동 응답기"
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr "주제"
+
+msgctxt "Languages::add_newsletter"
+msgid "Add newsletter"
+msgstr "뉴스레터 추가"
+
+msgctxt "Languages::add_template"
+msgid "Add template"
+msgstr "템플릿 추가"
+
+msgctxt "Languages::add_autoresponder"
+msgid "Add autoresponder"
+msgstr "자동 응답 추가"
+
+msgctxt "Languages::more_subjects"
+msgid "Random subjects (one per line)"
+msgstr "무작위 주제(한 줄에 하나씩)"
+
+msgctxt "Languages::body_html"
+msgid "HTML body"
+msgstr "HTML 본문"
+
+msgctxt "Languages::no_template"
+msgid "No template"
+msgstr "템플릿 없음"
+
+msgctxt "Languages::load"
+msgid "Load"
+msgstr "짐"
+
+msgctxt "Languages::campaign"
+msgid "Campaign"
+msgstr "운동"
+
+msgctxt "Languages::send_to"
+msgid "Send to"
+msgstr "보내기"
+
+msgctxt "Languages::add_recipients_from_users"
+msgid "Add recipients from users"
+msgstr "사용자의 수신자 추가"
+
+msgctxt "Languages::customers_with_abandoned"
+msgid "Customers with abandoned"
+msgstr "버려진 고객"
+
+msgctxt "Languages::cart_or_wishlist"
+msgid "Cart or Wishlist"
+msgstr "장바구니 또는 위시리스트"
+
+msgctxt "Languages::which_is"
+msgid "which is"
+msgstr "이다"
+
+msgctxt "Languages::days_old"
+msgid "days old"
+msgstr "일"
+
+msgctxt "Languages::send_to_test_email"
+msgid "Send to test email"
+msgstr "테스트 이메일로 보내기"
+
+msgctxt "Languages::save_and_send"
+msgid "Save and send"
+msgstr "저장하고 보내기"
+
+msgctxt "Languages::newsletter"
+msgid "Newsletter"
+msgstr "뉴스 레터"
+
+msgctxt "Languages::newsletter_template"
+msgid "Newsletter template"
+msgstr "뉴스레터 템플릿"
+
+msgctxt "Languages::newsletter_autoresponder"
+msgid "Newsletter autoresponder"
+msgstr "뉴스레터 자동 응답기"
+
+msgctxt "Languages::mailing_list"
+msgid "Mailing list"
+msgstr "메일링 리스트"
+
+msgctxt "Languages::confirmed"
+msgid "Confirmed"
+msgstr "확인됨"
+
+msgctxt "Languages::subscribed_to"
+msgid "Subscribed to [num] lists"
+msgstr "[num] 개의 목록을 구독했습니다."
+
+msgctxt "Languages::subscribed"
+msgid "Subscribed"
+msgstr "구독"
+
+msgctxt "Languages::text_success_subscription"
+msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
+msgstr "무료 이메일 업데이트 및 프로모션을 성공적으로 구독하셨습니다!"
+
+msgctxt "Languages::text_unsubscribe_instructions"
+msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
+msgstr "우리는 귀하의 개인 정보를 존중하며 통신을 요청하지 않은 사용자에게 원치 않는 전자 메일을 보내지 않습니다. 이 이메일은 무료 업데이트 및 프로모션 수신을 요청하셨기 때문에 발송되었습니다.<br /><br /> 구독을 취소하려면 아래 링크를 따르십시오."
+
+msgctxt "Languages::updates_subscription"
+msgid "updates and promotions subscription"
+msgstr "업데이트 및 프로모션 구독"
+
+msgctxt "Languages::ult_shared_with"
+msgid "Shared with:"
+msgstr "와 공유 된:"
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
+msgid "Email of a sender."
+msgstr "보낸 사람의 이메일입니다."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
+msgid "Name of a sender (e.g. company name)."
+msgstr "보낸 사람의 이름(예: 회사 이름)."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
+msgid "Email to send replies to."
+msgstr "답장을 보낼 이메일입니다."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
+msgid "If several subjects are specified, email subject is randomly picked from this list."
+msgstr "여러 제목이 지정된 경우 이 목록에서 이메일 제목이 무작위로 선택됩니다."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
+msgid "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "메시지 텍스트에 구독 취소 링크가 포함된 경우 이러한 사용자에게는 비어 있습니다."
+
+msgctxt "Languages::add_mailing_lists"
+msgid "Add mailing list"
+msgstr "메일링 리스트 추가"
+
+msgctxt "Languages::manage_subscribers"
+msgid "Manage subscribers"
+msgstr "구독자 관리"
+
+msgctxt "Languages::new_mailing_lists"
+msgid "New mailing list"
+msgstr "새 메일링 리스트"
+
+msgctxt "Languages::newsletters.new_subscribers"
+msgid "New subscribers"
+msgstr "신규 가입자"
+
+msgctxt "SettingsSections::newsletters::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
+msgid "Newsletters sent per step"
+msgstr "단계별로 전송된 뉴스레터"
+
+msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
+msgid "Advanced mailing server options"
+msgstr "고급 메일링 서버 옵션"
+
+msgctxt "SettingsOptions::newsletters::mailer_send_method"
+msgid "Method of sending e-mails"
+msgstr "이메일 전송 방법"
+
+msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
+msgid "SMTP server settings"
+msgstr "SMTP 서버 설정"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_host"
+msgid "SMTP host"
+msgstr "SMTP 호스트"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_username"
+msgid "SMTP username"
+msgstr "SMTP 사용자 이름"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_password"
+msgid "SMTP password"
+msgstr "SMTP 비밀번호"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_ecrypted_connection"
+msgid "Use Encrypted Connection"
+msgstr "암호화된 연결 사용"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::none"
+msgid "None"
+msgstr "없음"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::tls"
+msgid "TLS"
+msgstr "TLS"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::ssl"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_auth"
+msgid "Use SMTP authentication"
+msgstr "SMTP 인증 사용"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
+msgid "via SMTP server"
+msgstr "SMTP 서버를 통해"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
+msgid "via php mail function"
+msgstr "PHP 메일 기능을 통해"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
+msgid "use default settings"
+msgstr "기본 설정 사용"
+
+msgctxt "SettingsSections::newsletters::promotions"
+msgid "Promotions"
+msgstr "프로모션"
+
+msgctxt "SettingsOptions::newsletters::coupon"
+msgid "Choose a promotion whose promo code will be given at subscription"
+msgstr "구독 시 프로모션 코드가 제공되는 프로모션을 선택하세요."
+
+msgctxt "Languages::subscribers_promo_subject"
+msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+msgstr "구독해주셔서 감사합니다! 특별 제안 \"[promotion]\"에서 쿠폰 코드 [coupon] 을 사용하십시오."
+
+msgctxt "Languages::subscribers_no_promo"
+msgid "No promotion"
+msgstr "프로모션 없음"
+
+msgctxt "Languages::promotion_cond_subscribed"
+msgid "Customer is subscribed"
+msgstr "고객이 구독 중입니다."
+
+msgctxt "Languages::addons.newsletters.email_exists_in_list"
+msgid "<b>[email]</b> is already in the mailing list"
+msgstr "<b>[email]</b> 는 이미 메일링 리스트에 있습니다."
+
+msgctxt "Languages::email_template.newsletters_newsletter"
+msgid "Newsletter"
+msgstr "뉴스 레터"
+
+msgctxt "Languages::email_template.newsletters_promotion"
+msgid "Newsletters: promotion"
+msgstr "뉴스레터: 프로모션"
+
+msgctxt "Languages::activation_key"
+msgid "Activation key"
+msgstr "정품 인증 키"
+
+msgctxt "Languages::unsubscribe_key"
+msgid "Unsubscribe key"
+msgstr "구독 취소 키"
+
+msgctxt "Languages::subscribers_date"
+msgid "Subscribers date"
+msgstr "구독자 날짜"
+
+msgctxt "Languages::mailing_list_date"
+msgid "Mailing list date"
+msgstr "메일링 리스트 날짜"
+
+msgctxt "Languages::gdpr_newsletters"
+msgid "Personal data from newsletters"
+msgstr "뉴스레터의 개인 데이터"
+
+msgctxt "Languages::newsletters.subscribe_to_newsletters"
+msgid "Newsletters: Subscribe to newsletters"
+msgstr "뉴스레터: 뉴스레터 구독"
+
+msgctxt "Languages::newsletters.agreement_text_short_subscribe_to_newsletters"
+msgid "I agree to have my personal data <u>processed as follows</u> and I want to subscribe for the following newsletters:"
+msgstr "내 개인 데이터 <u>을 다음</u> 과 같이 처리하는 데 동의하고 다음 뉴스레터를 구독하고 싶습니다."
+
+msgctxt "Languages::newsletters.agreement_text_full_subscribe_to_newsletters"
+msgid "<p>When you sign up for a specific newsletter, we ([company]) add your email address to a corresponding mailing list. While it is there, we know that we can contact you by email regarding that topic.</p> <p>You can always have your email address removed from our mailing lists. There are multiple ways to do it:</p><ul> <li>Once your account is registered, just sign in and unsubscribe from newsletters in profile settings.</li> <li>Use the “Unsubscribe” link in our newsletters that you receive.</li> <li>Send an email to [email].</li> </ul> <p>We may use a third-party email service (MailChimp and/or Mad Mimi) to send newsletters. Some members of our staff can view mailing lists with email addresses. That way they’ll be able to remove your email address from the mailing list, should you request us to do so.</p> <p>Please note that mailing lists are independent from each other. If you decide not to receive newsletters at all, you’ll have to unsubscribe from all the mailing lists. Even if you do that, you’ll still receive account-related emails (such as order status notifications, password reset emails, and more). It is essential for operating an online store.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>특정 뉴스레터에 가입하면 ([company]) 해당 메일링 리스트에 귀하의 이메일 주소가 추가됩니다. 거기에 있는 동안 해당 주제와 관련하여 이메일로 연락할 수 있다는 것을 알고 있습니다.</p> <p>귀하는 언제든지 귀하의 이메일 주소를 메일링 리스트에서 제거할 수 있습니다. 여러 가지 방법이 있습니다.</p><ul> <li>계정이 등록되면 프로필 설정에서 로그인하고 뉴스레터 구독을 취소하면 됩니다.</li> <li>수신하는 뉴스레터의 \"구독 취소\" 링크를 사용하십시오.</li> <li> [email]으로 이메일 보내기 .</li> </ul> <p>당사는 제3자 이메일 서비스(MailChimp 및/또는 Mad Mimi)를 사용하여 뉴스레터를 보낼 수 있습니다. 직원 중 일부는 이메일 주소가 포함된 메일링 리스트를 볼 수 있습니다. 그렇게 하면 귀하가 요청하는 경우 메일링 리스트에서 귀하의 이메일 주소를 제거할 수 있습니다.</p> <p>메일링 리스트는 서로 독립적입니다. 뉴스레터를 전혀 받지 않기로 결정했다면 모든 메일링 리스트에서 구독을 취소해야 합니다. 그렇게 하는 경우에도 계정 관련 이메일(예: 주문 상태 알림, 비밀번호 재설정 이메일 등)을 계속 받게 됩니다. 온라인 쇼핑몰 운영에 필수입니다.</p> <p>귀하가 더 이상 당사 스토어를 사용하지 않기로 결정하고 귀하의 개인 데이터를 당사 데이터베이스에서 제거하기를 원하는 경우(또는 당사가 보유한 귀하의 계정과 관련된 모든 개인 데이터를 가져오려는 경우) 다음을 보내주십시오. [email]로 이메일을 보냅니다.</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p>"
+
+msgctxt "Languages::newsletters.use_for_subscribe_form"
+msgid "Subscribe form"
+msgstr "구독 양식"
+
+msgctxt "Languages::newsletters.default_mailing_list"
+msgid "Default mailing list"
+msgstr "기본 메일링 리스트"
+

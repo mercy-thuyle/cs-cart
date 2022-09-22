@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/quickbooks.po\n"
+"X-Crowdin-File-ID: 6648\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::quickbooks"
+msgid "Quickbooks"
+msgstr "Livros rápidos"
+
+msgctxt "Addons::description::quickbooks"
+msgid "Integrates the Quickbooks accounting software with the store"
+msgstr "Integra o software de contabilidade Quickbooks com a loja"
+
+msgctxt "Languages::export_to_quickbooks"
+msgid "Export to Quickbooks"
+msgstr "Exportar para Quickbooks"
+
+msgctxt "SettingsSections::quickbooks::general"
+msgid "General"
+msgstr "Em geral"
+
+msgctxt "SettingsOptions::quickbooks::trns_class"
+msgid "Transaction class name"
+msgstr "Nome da classe de transação"
+
+msgctxt "SettingsOptions::quickbooks::accnt_tax"
+msgid "Account to track taxes. The type of this account should be INC."
+msgstr "Conta para acompanhar os impostos. O tipo desta conta deve ser INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_product"
+msgid "Account to track product sales. The type of this account should be INC."
+msgstr "Conta para acompanhar as vendas de produtos. O tipo desta conta deve ser INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_shipping"
+msgid "Account to track shipping cost. The type of this account should be INC."
+msgstr "Conta para acompanhar o custo de envio. O tipo desta conta deve ser INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_discount"
+msgid "Account to track discounts. The type of this account should be INC."
+msgstr "Conta para acompanhar descontos. O tipo desta conta deve ser INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_surcharge"
+msgid "Account to track the payment surcharge of your items sales (where applicable). The type of this account should be INC."
+msgstr "Conta para rastrear a sobretaxa de pagamento de suas vendas de itens (quando aplicável). O tipo desta conta deve ser INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_asset"
+msgid "Account to track the value of your inventory. The type of this account should be OASSET."
+msgstr "Conta para acompanhar o valor do seu inventário. O tipo desta conta deve ser OASSET."
+
+msgctxt "SettingsOptions::quickbooks::accnt_cogs"
+msgid "Account to track the cost of your items sales. The type of this account should be COGS."
+msgstr "Conta para acompanhar o custo das vendas de seus itens. O tipo dessa conta deve ser CPV."
+

@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "供货商资料预先管理"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "让您提前审查供货商的活动"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "供应商数据预审插件已被禁用。具有“需要批准”或“未批准”状态的产品不再具有任何状态。在您或您的供应商为它们设置其他状态之前，这些产品不会出现在客户面前。如果您再次激活插件，无状态产品将恢复其状态。如果您卸载插件，所有产品将自动获得正确的状态。"
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "管理由商店供应商提供的单个产品或组."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "供货商资料预先管理"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "产品审核"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "邮件通知供货商"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "您的产品[product]已由商店管理员核准并添加到了产品目录中.现在购买者可以在商店中订购此产品."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "您的产品[product]已由商店管理员驳回"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "谢谢提交新的产品. 以下产品已由商店管理员核准并添加到了产品目录中"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "现在购买者可以在商店中订购此产品."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "谢谢提交新的产品. 以下产品已由商店管理员驳回"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "核准选择的"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "驳回选择的"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "需要批准新产品"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "更新产品需要批准"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "需要批准供应商资料更改"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "您有产品需求您核准.请点击[以下这个链接]查看这些产品."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "您的产品已被[status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "核准"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "您确定要更新资料吗? 在管理员核准前您的公司信息将不会在前台显示."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "可以管理"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "产品认证"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "供应商帐户"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "供应商产品"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "批准新产品"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "批准产品信息更新"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "批准供应商资料更新"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "通知供应商产品审核结果"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "需要批准更新"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "不是必需的"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "某些供应商需要"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "所有供应商都需要"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "不是必需的"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "某些供应商需要"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "所有供应商都需要"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "不是必需的"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "某些供应商需要"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "所有供应商都需要"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "不通知"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "发送电子邮件"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "在通知中心显示通知"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "发送电子邮件并在通知中心显示通知"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "供货商资料预先管理"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "排除未获批准的产品"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "需要批准"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "未获批准"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "适度的产品"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "未获批准的产品"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "未获批准"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "批准产品"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "批准“[product]”"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "拒登产品"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "不赞成“[product]”"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "拒登产品"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "拒批原因"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "输入不批准的原因并保存更改。"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "您有 [n] 个产品需要您的批准|您有 [n] 产品需要您的批准"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "该产品自 [since]起正在等待您的批准。单击此处查看该产品。|这些产品自 [since]起正在等待您的批准。单击此处查看这些产品。"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "您的产品已获批|您的产品已获批"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "“[product]” 已通过商店管理部门的批准并添加到产品目录中。点击这里查看该产品。|[n] 件产品已通过商店管理部门的批准并添加到产品目录中。单击此处查看这些产品。"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "您的产品已被拒批|您的产品已被拒批"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "“[product]”已被商店管理部门拒绝。点击这里查看该产品。|[n] 件商品已被商店管理部门拒批。单击此处查看这些产品。"
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "你的修改已被保存。在将您的产品添加到产品目录之前，必须经过商店管理部门的批准。按照 <a href=\"[product_approval_url]\">此链接</a> 查看需要批准的产品。|您的更改已保存。在将您的产品添加到产品目录之前，它们必须经过商店管理部门的批准。按照 <a href=\"[product_approval_url]\">此链接</a> 查看需要批准的产品。"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "供应商数据预审核：您的产品已获批准"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "供应商数据预审核：您的产品未获批准"
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "如果仅部分供应商需要批准，您可以在供应商编辑页面的附加组件选项卡上设置需要审核的供应商。"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "供应商数据预审核：您的产品已获批准"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "供应商数据预审核：您的产品未获批准"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "适度"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "批准新创建的供应商"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "不是必需的"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "所有供应商都需要"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "如果您想完全阻止供应商注册，请检查 <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>。"
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "[date]之前"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "已删除"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "添加"
+

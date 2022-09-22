@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "Price per unit"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "Allows you to display price per unit on catalog and product pages."
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "Price per unit"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "Unit name"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "For example, 'ml' or 'g' without quotes."
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "Units in product"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "Required for automatic calculation of price per unit."
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "Show price per X units"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "For cases when you want to show price 'per 250 ml' instead of 'per ml'."

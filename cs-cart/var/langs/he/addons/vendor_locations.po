@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "מיקומים של הספקים [Beta]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "מאפשר לספקים לציין את כתובתיהם, כך שהלקוחות יוכלו לראות את המרחק עד לספקים ולסנן את המוצרים והספקים לפי מיקומיהם."
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "של מפות גוגל API מפתח"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "קבל מפתח API לפי ההוראות כאן: https://developers.google.com/maps/documentation/javascript/get-api-key"
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "רדיוס של ברירת מחדל במסנן מרחק"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "תוכל להוסיף ידנית את מסנן המוצרים שמאפשר ללקוחות לחפש מוצרים במרחק מסוים אם הם ירשמו את המיקום שלהם. הגדרה זו קובעת את רדיוס החיפוש של ברירת מחדל עבור מסנן זה. אם לא תיצור מסנן, המוצרים יוצגו בלא קשר למרחק, והגדרה זו לא תשפיע כלל."
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "רדיוס מקסימלי במסנן מרחק"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "תוכל להוסיף ידנית את מסנן המוצרים שמאפשר ללקוחות לחפש מוצרים במרחק מסוים אם הם ירשמו את המיקום שלהם. הגדרה זו קובעת את רדיוס החיפוש המקסימלי האפשרי עבור מסנן זה. אם לא תיצור מסנן, המוצרים יוצגו בלא קשר למרחק, והגדרה זו לא תשפיע כלל."
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "יחידות מדידת מרחק"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "ק\"מ"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "מייל"
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "ספקים המוצגים כברירת מחדל"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "קובע מה יוצג לספקים בעמוד רשימת ספקים (וגם במפה המוצגת באותו עמוד) כברירת מחדל."
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "הכל"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "מהעיר של הלקוח"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "מהמדינה של הלקוח"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "מיקום"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "הכתובת שתשמש כדי לקבוע את המיקום במפות של גוגל."
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "מיקום הלקוח"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "הכנס כתובת כדי לחפש לפי מיקום"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "חפש ספקים"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "ספקים לפי מיקום"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "חפש ספקים במיקום מסוים"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "הספקים הקרובים ביותר"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "ספקים מהעיר של הלקוח"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "מפת ספקים"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "מפה של כל הספקים"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "חפש ספקים"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "בורר מיקום"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "עיר הספק"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "מרחק עד לספק"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "מיקומך"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "בחר עיר"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "העיר שנבחרה"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "זאת לא העיר שלך?"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "חפש את העיר"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "חפש בבסביבה הקרובה"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "הסביבה הקרובה"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "מפת ספקים"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "ספקים הקרובים ביותר"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "גוגל מפות"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "מפות גוגל הוא שירות המאפשר לנו להציג את המפות והמיקומים השונים במפות הללו, או לקבוע באופן אוטומטי את מיקומך. הנה <a href=\"https://policies.google.com/privacy\" target=\"_blank\">מדיניות הפרטיות של Google;</a> אנו ממליצים גם על הערה <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">התמציתית והמקיפה של Google בנושא פרטיות</a>."
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/zapier.po\n"
+"X-Crowdin-File-ID: 6660\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::zapier"
+msgid "Integration with Zapier"
+msgstr "Integráció a Zapier-rel"
+
+msgctxt "Addons::description::zapier"
+msgid "Allows you to integrate CS-Cart with over 4 000 other apps through Zapier."
+msgstr "Lehetővé teszi a CS-Cart integrálását több mint 4000 másik alkalmazással a Zapieren keresztül."
+
+msgctxt "Languages::privileges.manage_zapier_hooks"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privileges.view_zapier_hooks"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::privilege_groups.zapier_hooks"
+msgid "Zapier hooks"
+msgstr "Zapier horgok"
+
+msgctxt "Languages::zapier.text_settings_general"
+msgid "Learn more about setting up integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">in the documentation</a>."
+msgstr "További információ a <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">integráció beállításáról az</a>dokumentációban."
+

@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 6646\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr "Відгуки про товар"
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr "Дозволяти вашим клієнтам залишати відгуки про товари. Це може зміцнити довіру, забезпечити соціальний доказ і додати створений користувачами вміст на вашому сайті."
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Форми \"Коментарі та відгуки\""
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Гостьова книга "
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Відгуки "
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "Відгуків не знайдено "
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Ваша оцінка "
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Коментарі та відгуки "
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Оцінка"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Дата"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr "Ви вже написали повідомлення в цьому відгуку "
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Дякуємо вам за ваше повідомлення"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Ваш відгук буде перевірено перед його публікацією."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr "Відгуки: [n]"
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "відгук|відгуки "
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Це сповіщення про нову публікацію в продукті"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Це сповіщення про нову відповідь на ваш відгук про продукт "
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Цей відгук потребує затвердження"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Останні відгуки "
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Коментар від "
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "і"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Затвердити "
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Не схвалено "
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "Затверджений"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "Не затверджено "
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Коментарі та відгуки "
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Можна переглянути "
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Можна редагувати "
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Відгуки про товар"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Сортувати за рейтингом: від низького до високого "
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Сортувати за рейтингом "
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Відгуки про товар "
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Відгуки "
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Відгуки покупців про товари "
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Написати відгук "
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Відгуки на сторінці "
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Адміністратор має схвалити надсилання дописів "
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr "Дозволити один відгук на IP-адресу"
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Розділити відгуки за вутриною"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Визначає, чи дозволені коментарі та/або відгуки для нещодавно створених товарів. Не впливає на вже наявні товари. "
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Опублікувати можуть лише покупці "
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Дозволити залишати відгуки про товар лише тим, хто його купив."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Поля відгуку "
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Прокоментувати переваги та недоліки "
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Тільки коментар "
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Будь-який клієнт "
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Тільки анонімні клієнти "
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "Затвердження не потрібно "
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Запитати місцезнаходження клієнта"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "Жоден "
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "Країна "
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "Місто "
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Відгуки про товар: Нове повідомлення про відгук"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Відгуки про товар: Сповіщення про відповідь "
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Показати оцінку відгуку "
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Показати відгуки "
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Показати відгук "
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Показати [n] відгук|Показати [n] відгуки"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Перейти до відгуків "
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Показати зображення з відгуку "
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Переглянути зображення з відгуку "
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Особисті дані з відгуків "
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "Відгуки: новий відгук"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Ваше ім'я з'явиться поруч із вашим відгуком або коментарем, яке буде видно всім. Ми ([company]) також зберігаємо вашу IP-адресу як запобіжний захід, але його можуть переглянути лише наші співробітники. Він залишається в нашій системи до тих пір, поки ви не анулюєте свою згоду. Якщо ви хочете видалити свої особисті дані, надішліть електронний лист на адресу  [email].</p> <p>Якщо ви вважаєте, що ваші персональні дані були використані неправомірно, ви маєте право подати скаргу до наглядового органу. Відповідно до \"Загального регламенту ЄС про захист даних\" ми зобов’язані інформувати вас про це право; насправді ми не маємо наміру зловживати вашими даними.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Установіть цей прапорець, щоб прийняти [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Правила та умови "
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Будь ласка, уважно прочитайте ці Загальні положення та умови (\"Умови\", \"Загальні положення та Умови\") перед використанням <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> вебсайту та мобільного додатку My Mobile App (\"Сервіс\"), яким керує My Company (\"нас\", \"ми\", або \"наш\").</p><p><strong>Отримуючи доступ до Сервісу або користуючись ним, ви погоджуєтесь дотримуватися цих Умов. Якщо ви не згодні з будь-якою частиною Умови, ви не можете отримати доступ до Сервісу.</strong></p><p><strong>Покупки</strong></p><p>Якщо ви бажаєте придбати буль-який продукт або послугу, які доступні через Сервіс (\"Покупки\"), вас можуть попросити надати певну інформацію, що стосується вашої покупки, включаючи, без обмежень, ваш ....</p><p><strong>Зміст</strong></p><p>Наш сервіс дозволяє вам публікувати, залишати посилання, зберігати, ділитися та іншим чином ділитися певною інформацією, текстом, графікою, відео та іншим матеріалом (\"Зміст\"). Ви відповідаєте за ...</p><p><strong>Зміни</strong></p><p>Ми залишаємо за собою право на власний розсуд змінювати або замінювати ці Умови в будь-який час. Якщо ми внесемо зміни, ми постараємося повідомити про це принаймні за 30 днів до набуття чинності будь-яких нових умов. Проте суттєві зміни будуть прийняті на наш власний розсуд.</p><p><strong>Зв'яжіться з нами</strong></p><p>Якщо у вас виникли запитання щодо цих Умов, зв’яжіться з нами.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Перш ніж надсилати відгук, переконайтеся, що він не порушує правила модерації: не містить посилань на сторонні ресурси та образи."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Я погоджуюся, щоб мої особисті дані <u>оброблялися таким чином.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Будь ласка, увійдіть, щоб написати відгук "
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Ви не можете написати відгук на цей товар. Клієнти можуть писати відгуки лише про придбані товари. Якщо ви купили у нас товар, але все ще не бачите дане повідомлення, зв'яжіться з нами."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "Опубліковано новий відгук "
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "До відгуку додано нову відповідь "
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "Корисність "
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Голосувати за"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Голосувати проти "
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Сортувати за датою: від новітнього до найстарішого "
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Сортувати за датою: від найстарішого до найновішого"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Нещодавно корисне "
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "Перш за все корисно "
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Сортувати за рейтингом: від високого до низького"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Сортувати за рейтингом: від низького до високого"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Переваги "
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "Недоліки "
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Коментарі "
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Коментар "
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "Вимкнено "
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Продавець "
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Відповідь продавця "
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Введіть повідомлення..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Перевірена покупка"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "відгуки "
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Відгук"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Написати свій відгук "
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Додати фото "
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Напишіть свій відгук анонімно "
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Надіслати відгук "
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Перевірена покупка"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "З фото"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Без фото"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Фото клієнтів "
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Статус перегляду "
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "Зірка"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "Зірки "
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr "[n] зірка|[n] зірки"
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "з 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Переглянути цей товар "
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Поділитися своїми думками з іншими клієнтами "
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Відповісти "
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "Ім'я та прізвище"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Дякуємо вам за ваш відгук"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "Чудово!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Дуже добре "
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "Середній "
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Виставка"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Дуже погано "
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Інформація про товар "
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Оцінка 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "Опубліковано новий відгук про товар "
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "Опубліковано новий відгук про товар [product]. Натисніть на це сповіщення, щоб побачити відгук."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Коментар "
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "Ви маєте відгуки про товар в старому додатку \"Коментарі та відгуки\". Поки це доповнення встановлено, ви зможете скопіювати ці відгуки в новий додаток \"Відгуки товарів\" <a class=\"cm-post\" href=\"[url]\">у його налаштуваннях</a> ."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Скопіюйте відгуки з доповнення \"Коментарі та відгуки\"<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Копіюватимуться лише відгуки, які мають як оцінку, так і коментар користувача. Перейдіть до своїх продуктів і перевірте параметр \\\"Відгуки\" на вкладці \"Додатки\". Можливо, вам доведеться спочатку дозволити спілкування та оцінку.</li><li>Відгук без оцінки чи без коментаря не буде копіюватися. Щоб перемістити їх, спочатку потрібно вручну додати відсутню оцінку або коментар, відредагувавши відгук.</li><li>Поки встановлено старий додаток \"Коментарі та відгуки\", відгуки не будуть видалені. Таким чином, ви можете перейти до розділу \"Відгуки товару\", коли всі відгуки будуть готові.</li><li>Якщо в майбутньому вам знадобиться скопіювати відгуки зі старого доповнення, просто видаліть та перевстановіть додаток \"Відгуки товару\". Це видалить усі відгуки з бази даних, і ви зможете повторно імпортувати відгуки з додатку \"Коментарі та відгуки\".</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Скопіювати відгуки про товар</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Оновити відповідь"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Додати відповідь"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "Відгук може містити до [max_image_number] зображень."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "Перетягнути зображення сюди "
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "Фото до [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "Відповідь адміністратора"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "Відповідь від [company_name]"
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "Приховати моє ім'я у відгуку"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr "Товар отримав оцінку [n] із 5 зірок"
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr "Натисніть, щоб переглянути відгуки"
+
+msgctxt "Languages::product_reviews.split_reviews_for_variations_as_separate_products"
+msgid "Split reviews for variations as separate products"
+msgstr "Розділити відгуки на варіанти як на окремі продукти"
+
+msgctxt "Languages::privileges.create_product_reviews"
+msgid "Can create"
+msgstr "Може створювати"
+
+msgctxt "Languages::product_reviews.upgrade_notification.title_administators_add_ability_create_product_reviews"
+msgid "Administrators can now create product reviews"
+msgstr ""
+
+msgctxt "Languages::product_reviews.upgrade_notification.message_administators_add_ability_create_product_reviews"
+msgid "Previously, administrators could edit existing product reviews in the admin panel, but couldn't post new ones. We've changed that: now the administrators who could edit reviews can add new reviews on the \"Reviews\" tab of the product editing page. Note that this change doesn't affect vendors' administrators in CS-Cart Multi-Vendor in any way. The most that they can do is leave a reply to a product review.<br><br>You can keep the old behavior if you'd like. Through user groups, you can now allow administrators to create or edit reviews (or do both of those things).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Set administrator privileges</a>"
+msgstr ""
+
+msgctxt "Languages::product_reviews.exim_error_incorrect_field_value"
+msgid "Specified [field] '[value]' was not found. The product review with comment '[comment]' was skipped."
+msgstr "Вказаний [field] '[value]' не знайдено. Огляд продукту з коментарем «[comment]» було пропущено."
+
+msgctxt "Languages::product_reviews.exim_error_empty_field"
+msgid "The value of the <b>[field]</b> field can not be empty. The product review with comment '[comment]' was skipped."
+msgstr "Значення поля <b>[field]</b> не може бути порожнім. Огляд продукту з коментарем «[comment]» було пропущено."
+
+msgctxt "Languages::product_reviews"
+msgid "Product reviews"
+msgstr "Відгуки про товар"
+
+msgctxt "Languages::images_delimiter"
+msgid "Images delimiter"
+msgstr "Розмежувач зображень"
+
+msgctxt "Languages::text_images_delimiter"
+msgid "Images path delimiter for product review images (e.g. \"Image1.png///Image2.png\")"
+msgstr "Розмежувач шляху до зображень для зображень відгуків про продукт (наприклад, \"Image1.png///Image2.png\")"
+

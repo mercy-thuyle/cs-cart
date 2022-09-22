@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/recaptcha.po\n"
+"X-Crowdin-File-ID: 6560\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::recaptcha"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Addons::description::recaptcha"
+msgid "Adds the support of Google reCAPTCHA to protect your store against bots"
+msgstr "Přidá podporu Google reCAPTCHA a ochrání váš obchod proti botům"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_theme"
+msgid "Theme"
+msgstr "Téma"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::light"
+msgid "Light"
+msgstr "Světlé"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::dark"
+msgid "Dark"
+msgstr "Tmavé"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_size"
+msgid "Size"
+msgstr "Velikost"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::normal"
+msgid "Normal"
+msgstr "Normální"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::compact"
+msgid "Compact"
+msgstr "Kompaktní"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_type"
+msgid "Type"
+msgstr "Typ"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::image"
+msgid "Image"
+msgstr "Obrázek"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::audio"
+msgid "Audio"
+msgstr "Zvuk"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_site_key"
+msgid "Site key"
+msgstr "Site key"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_secret"
+msgid "Secret"
+msgstr "Secret"
+
+msgctxt "SettingsSections::recaptcha::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsSections::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "Vyloučené země"
+
+msgctxt "SettingsOptions::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "Vyloučené země"
+
+msgctxt "Languages::error_validator_recaptcha"
+msgid "Please confirm you are not a robot."
+msgstr "Prosím potvrďte, že nejste robot."
+
+msgctxt "Languages::recaptcha_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+msgstr "<p>Pokyny, jak získat <b>site key</b> a <b>secret</b> jsou dostupné <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">zde</a></b>.</p>"
+
+msgctxt "Languages::recaptcha.text_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>Google reCAPTCHA v2: Checkbox</b> and <b>Google reCAPTCHA v3</b></p>"
+msgstr "<p>Pokyny, jak získat <b>klíč webu</b> a <b>tajný klíč</b> , jsou k dispozici <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">zde</a></b>.<br>Upozorňujeme, že doplněk aktuálně podporuje pouze <b>Google reCAPTCHA v2: Zaškrtávací políčko</b> a <b>Google reCAPTCHA v3</b></p>"
+
+msgctxt "Languages::recaptcha.text_forbidden_countries_notice"
+msgid "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+msgstr "<p>Google reCAPTACHA bude pro vybrané země zakázán. Místo toho budou návštěvníci z těchto zemí požádáni, aby napsali několik symbolů, které vidí na obrazovce.</p>"
+
+msgctxt "SettingsOptions::recaptcha::information"
+msgid "Information"
+msgstr "Informace"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v2_settings"
+msgid "reCAPTCHA v2 settings"
+msgstr "nastavení reCAPTCHA v2"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_settings"
+msgid "reCAPTCHA v3 settings"
+msgstr "nastavení reCAPTCHA v3"
+
+msgctxt "SettingsOptions::recaptcha::use_for_settings"
+msgid "Antibot settings"
+msgstr "Nastavení Antibot"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_site_key"
+msgid "Site key"
+msgstr "Site key"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_secret"
+msgid "Secret"
+msgstr "Tajný"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_success_score"
+msgid "Required rating to pass the check"
+msgstr "Požadované hodnocení pro úspěšné složení kontroly"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.9"
+msgid "0.9 (even some humans can't pass)"
+msgstr "0,9 (dokonce i někteří lidé nemohou projít)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.8"
+msgid "0.8"
+msgstr "0,8"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.7"
+msgid "0.7"
+msgstr "0,7"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.6"
+msgid "0.6"
+msgstr "0,6"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.5"
+msgid "0.5 (recommended value)"
+msgstr "0,5 (doporučená hodnota)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.4"
+msgid "0.4"
+msgstr "0,4"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.3"
+msgid "0.3"
+msgstr "0,3"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.2"
+msgid "0.2"
+msgstr "0,2"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.1"
+msgid "0.1 (bots are welcome)"
+msgstr "0.1 (boti jsou vítáni)"
+
+msgctxt "Languages::recaptcha.error_recaptcha_v3_failed"
+msgid "Sorry, the anti-bot validation has failed. If you're seeing this message, please contact us and let us know about it."
+msgstr "Litujeme, ověření anti-bot se nezdařilo. Pokud se vám zobrazuje tato zpráva, kontaktujte nás a dejte nám o ní vědět."
+
+msgctxt "Languages::recaptcha.recaptcha_v2"
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+msgctxt "Languages::recaptcha.recaptcha_v3"
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+msgctxt "Languages::recaptcha.none"
+msgid "none"
+msgstr "žádný"
+
+msgctxt "Languages::recaptcha.recaptcha_cookie_title"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Languages::recaptcha.recaptcha_cookie_description"
+msgid "Google reCAPTCHA is a service that provides anti-bot protection and verifies that site visitors are humans. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy</a>; we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google reCAPTCHA je služba, která poskytuje ochranu proti botům a ověřuje, že návštěvníci stránek jsou lidé. Zde je <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Zásady ochrany osobních údajů Google</a>; doporučujeme také stručnou a komplexní <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">poznámku společnosti Google o ochraně osobních údajů</a>."
+

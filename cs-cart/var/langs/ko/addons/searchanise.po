@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/searchanise.po\n"
+"X-Crowdin-File-ID: 6668\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::searchanise"
+msgid "Searchanise"
+msgstr "검색하다"
+
+msgctxt "Addons::description::searchanise"
+msgid "Turns on the <a target=\"_blank\" href=\"https://searchanise.io/\">Searchanise</a> fast search service"
+msgstr "<a target=\"_blank\" href=\"https://searchanise.io/\">Searchanise</a> 빠른 검색 서비스를 켭니다."
+
+msgctxt "Languages::searchanise_menu_description"
+msgid "Manage search settings, customize view and merchandise products."
+msgstr "검색 설정을 관리하고 보기 및 상품 제품을 사용자 정의합니다."
+
+msgctxt "Languages::searchanise"
+msgid "Searchanise"
+msgstr "검색하다"
+
+msgctxt "Languages::text_se_import_status_queued"
+msgid "The product catalog is queued for syncing with Searchanise."
+msgstr "제품 카탈로그는 Searchanise와 동기화하기 위해 대기 중입니다."
+
+msgctxt "Languages::text_se_re_indexation_required"
+msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise: 재인덱싱이 필요합니다( <a href=\"[link]\">Searchanise 관리 패널</a>에서 <strong>강제 재인덱싱</strong> 버튼 클릭)."
+
+msgctxt "Languages::text_se_new_engine_store"
+msgid "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "Searchanise: [store] 에 대한 새 검색 엔진이 생성되었습니다. 카탈로그 가져오기가 시작되었습니다."
+
+msgctxt "Languages::text_se_seo_settings_notice"
+msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
+msgstr "SEO 추가 기능 설정을 수정한 경우 제품 URL을 업데이트하려면 Searchanise를 사용하여 <a href=\"[link]\">재색인화</a> 제품 카탈로그를 사용하십시오."
+
+msgctxt "Languages::text_se_connect_error"
+msgid "An error occurred during Searchanise registration. Please try later."
+msgstr "Searchanise 등록 중에 오류가 발생했습니다. 나중에 다시 시도 해주세요."
+
+msgctxt "Languages::text_se_import_status_processing"
+msgid "The product catalog syncing is in progress."
+msgstr "제품 카탈로그 동기화가 진행 중입니다."
+
+msgctxt "Languages::text_se_import_status_done"
+msgid "The product catalog was synced successfully with Searchanise."
+msgstr "제품 카탈로그가 Searchanise와 성공적으로 동기화되었습니다."
+
+msgctxt "Languages::text_se_import_status_none"
+msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "제품 카탈로그가 아직 Searchanise와 동기화되지 않았습니다. 시작하려면 \"동기화\" 버튼을 누르십시오."
+
+msgctxt "Languages::text_se_data_update"
+msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
+msgstr "Searchanise 서버의 데이터는 스토어에서 변경한 후 2-3분 지연 업데이트됩니다."
+
+msgctxt "Languages::text_se_signup"
+msgid "Click the button below to connect to Searchanise."
+msgstr "Searchanise에 연결하려면 아래 버튼을 클릭하세요."
+
+msgctxt "Languages::text_se_just_connected"
+msgid "Congratulations, you've just connected to Searchanise."
+msgstr "축하합니다. 방금 Searchanise에 연결되었습니다."
+
+msgctxt "Languages::text_se_connected"
+msgid "You've connected to Searchanise."
+msgstr "Searchanise에 연결했습니다."
+
+msgctxt "Languages::text_se_ajax_connecting"
+msgid "Product indexation has started in your store. It may take some time. Wait just a little, we've almost finished."
+msgstr "상점에서 제품 색인화가 시작되었습니다. 시간이 걸릴 수 있습니다. 조금만 기다리세요. 거의 다 끝났습니다."
+
+msgctxt "Languages::text_se_database_restore_notice"
+msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "데이터베이스 덤프 파일에서 데이터를 방금 복원했습니다. 이 덤프에 제품 데이터가 포함되어 있으면 Searchanise를 사용하여 <a href=\"[link]\">다시 인덱싱</a> 하십시오."
+
+msgctxt "Languages::text_se_only_root_can_register"
+msgid "Only the root admin has the permission to connect to Searchanise"
+msgstr "루트 관리자만 Searchanise에 연결할 수 있는 권한이 있습니다."
+
+msgctxt "Languages::se_did_you_mean"
+msgid "Did you mean"
+msgstr "그런 뜻 이었습니까"
+
+msgctxt "Languages::se_product_id"
+msgid "Product Id"
+msgstr "제품 ID"
+
+msgctxt "Languages::se_title"
+msgid "Title"
+msgstr "제목"
+
+msgctxt "Languages::se_summary"
+msgid "Description"
+msgstr "설명"
+
+msgctxt "Languages::se_link"
+msgid "Product Url"
+msgstr "제품 URL"
+
+msgctxt "Languages::se_price"
+msgid "Price"
+msgstr "가격"
+
+msgctxt "Languages::se_list_price"
+msgid "List Price"
+msgstr "정가"
+
+msgctxt "Languages::se_quantity"
+msgid "Quantity"
+msgstr "수량"
+
+msgctxt "Languages::se_product_code"
+msgid "Product Code"
+msgstr "제품 코드"
+
+msgctxt "Languages::se_image_link"
+msgid "Image Url"
+msgstr "이미지 URL"
+
+msgctxt "Languages::se_category_Id"
+msgid "Category Id"
+msgstr "카테고리 ID"
+
+msgctxt "Languages::se_category_usergroup_ids"
+msgid "Category Usergroup Ids"
+msgstr "범주 사용자 그룹 ID"
+
+msgctxt "Languages::se_usergroup_ids"
+msgid "Usergroup Ids"
+msgstr "사용자 그룹 ID"
+
+msgctxt "Languages::se_company_id"
+msgid "Company Id"
+msgstr "회사 아이디"
+
+msgctxt "Languages::se_empty_categories"
+msgid "Without Categories"
+msgstr "카테고리 없음"
+
+msgctxt "Languages::se_active_companies"
+msgid "Company is active"
+msgstr "회사가 활성화되어 있습니다."
+
+msgctxt "Languages::se_price_for_usergroup_id"
+msgid "Price for usergroup Id ([id])"
+msgstr "사용자 그룹 ID에 대한 가격([id])"
+
+msgctxt "Languages::se_for_feature_id"
+msgid "Feature \"[id]\" Id"
+msgstr "기능 \"[id]\" ID"
+
+msgctxt "Languages::se_relevance"
+msgid "Relevance"
+msgstr "관련성"
+
+msgctxt "Languages::se_products"
+msgid "Products"
+msgstr "제품"
+
+msgctxt "Languages::se_popular_suggestions"
+msgid "Popular suggestions"
+msgstr "인기있는 제안"
+
+msgctxt "Languages::sort_by_relevance_asc"
+msgid "Sort by Relevance"
+msgstr "관련성순 정렬"
+
+msgctxt "Languages::se_api_key"
+msgid "API key"
+msgstr "API 키"
+
+msgctxt "Languages::se_private_key"
+msgid "Private key"
+msgstr "개인 키"
+
+msgctxt "Languages::se_options_combinations_codes"
+msgid "Options combinations codes"
+msgstr "옵션 조합 코드"
+
+msgctxt "Languages::se_master_product_status"
+msgid "Common product status"
+msgstr "일반적인 제품 상태"
+
+msgctxt "Languages::se_is_vendor_product"
+msgid "Vendor product flag"
+msgstr "공급업체 제품 플래그"
+
+msgctxt "Languages::se_is_master_product"
+msgid "Сommon product flag"
+msgstr "공통 제품 플래그"
+
+msgctxt "Languages::se_connection_warning"
+msgid "Searchanise: There is no connection to Searchanise server! For Searchanise to work properly, the store server must be able to access searchserverapi.com. Please contact Searchanise <a href=\"mailto: [email]\">[email]</a> technical support or your system administrator."
+msgstr "Searchanise: Searchanise 서버에 연결되어 있지 않습니다! Searchanise가 제대로 작동하려면 상점 서버가 searchserverapi.com에 액세스할 수 있어야 합니다. Searchanise <a href=\"mailto: [email]\">[email]</a> 기술 지원 또는 시스템 관리자에게 문의하십시오."
+
+msgctxt "Languages::se_queue_warning"
+msgid "Searchanise: We found an issue with the export of changes in your store catalog. To resolve the issue please contact the Searchanise <a href=\"mailto: [email]\">[email]</a> technical support."
+msgstr "Searchanise: 상점 카탈로그의 변경 사항을 내보내는 데 문제가 있음을 발견했습니다. 이 문제를 해결하려면 Searchanise <a href=\"mailto: [email]\">[email]</a> 기술 지원에 문의하십시오."
+
+msgctxt "SettingsSections::searchanise::configuration"
+msgid "Configuration"
+msgstr "구성"
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_privileges.po\n"
+"X-Crowdin-File-ID: 6694\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_privileges"
+msgid "Vendor Privileges"
+msgstr "הרשאות הספק"
+
+msgctxt "Addons::description::vendor_privileges"
+msgid "Allows you to create user groups for vendors' administrators."
+msgstr "מאפשר לך ליצור קבוצות משתמשים עבור מנהלים של הספקים."
+
+msgctxt "SettingsSections::vendor_privileges::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::vendor_privileges::default_vendor_usesrgroup"
+msgid "Default user group for vendors' administrators"
+msgstr "קבוצת משתמשים עבור מנהלים של הספקים המוגדרת כברירת מחדל"
+
+msgctxt "Languages::vendor_privileges.default_usergroup_is_assigned_to_new_vendors"
+msgid "<span class=\"muted\">This user group is assigned to all new vendors by the \"Vendor privileges\" add-on.</span> <a href=\"[settings_link]\" target=\"_blank\">Edit add-on settings</a>"
+msgstr "<span class=\"muted\">קבוצת משתמשים זו מוקצית לכל הספקים החדשים על ידי התוסף \"הרשאות ספקים\".</span> <a href=\"[settings_link]\" target=\"_blank\">ערוך הגדרות תוסף</a>"
+
+msgctxt "Languages::privileges.manage_vendor_usergroups"
+msgid "Can manage vendor user groups (only if managing customer user groups is allowed)"
+msgstr "יכול לנהל קבוצות משתמשים של ספקים (רק אם מותר לנהל קבוצות משתמשים של לקוחות)"
+

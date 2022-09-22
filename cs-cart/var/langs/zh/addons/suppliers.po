@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/suppliers.po\n"
+"X-Crowdin-File-ID: 6634\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::suppliers"
+msgid "Suppliers [Deprecated]"
+msgstr "供应商 [Deprecated]"
+
+msgctxt "Addons::description::suppliers"
+msgid "We are planning to remove this add-on. If you are using it, <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">let us know how<\\/a>."
+msgstr "我们计划删除此附加组件。如果您正在使用它， <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">让我们知道如何<\\/a>。"
+
+msgctxt "Languages::search_by_supplier"
+msgid "Search by supplier"
+msgstr "按供应商搜索"
+
+msgctxt "Languages::notify_supplier"
+msgid "Notify supplier"
+msgstr "通知供应商"
+
+msgctxt "Languages::view_supplier_products"
+msgid "View supplier products"
+msgstr "查看供应商产品"
+
+msgctxt "Languages::supplier"
+msgid "Supplier"
+msgstr "供应商"
+
+msgctxt "Languages::supplier_email_header"
+msgid "The following products have been purchased in our store and need to be shipped."
+msgstr "以下产品在我们的商店中已购买并需要派送."
+
+msgctxt "Languages::suppliers_menu_description"
+msgid "List of supplier accounts registered in the store."
+msgstr "注册在商店中的供应商帐户的排序列表."
+
+msgctxt "Languages::dear_sirs"
+msgid "Dear Sirs"
+msgstr "亲爱的先生"
+
+msgctxt "Languages::add_supplier"
+msgid "Add supplier"
+msgstr "添加供应商"
+
+msgctxt "Languages::available_for_supplier"
+msgid "Available for supplier"
+msgstr "现有的供应商"
+
+msgctxt "Languages::editing_supplier"
+msgid "Editing supplier"
+msgstr "编辑供应商"
+
+msgctxt "Languages::supplier_deleted"
+msgid "Supplier has been deleted successfully."
+msgstr "供应商成功删除"
+
+msgctxt "Languages::privileges.manage_suppliers"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.suppliers"
+msgid "Suppliers"
+msgstr "供应商"
+
+msgctxt "SettingsSections::suppliers::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::suppliers::display_supplier"
+msgid "Display product supplier company"
+msgstr "显示商品供应商的公司名称"
+
+msgctxt "SettingsOptions::suppliers::display_shipping_methods_separately"
+msgid "Display shipping methods to each supplier separately"
+msgstr "分开显示每个供应商的配送方式"
+
+msgctxt "Languages::email_template.suppliers_notification"
+msgid "Supplier notification"
+msgstr "供应商通知"
+
+msgctxt "Languages::email_template.supplier_notification_with_status"
+msgid "Supplier notification: [name]"
+msgstr "供应商通知： [name]"
+
+msgctxt "Languages::email_template.suppliers_notification_default"
+msgid "Supplier notification: Default template for a new order status"
+msgstr "供应商通知：新订单状态的默认模板"
+
+msgctxt "Languages::template_document_supplier_order_invoice"
+msgid "Suppliers: invoice"
+msgstr "供应商: 发票"
+
+msgctxt "Languages::document_preview_suppliers_not_found"
+msgid "Couldn't find a supplier. Preview only works with existing data. Please create a supplier and use Preview again."
+msgstr "找不到供应商。预览只适用于现有数据。请创建供应商并再次使用预览。"
+
+msgctxt "Languages::suppliers.event.order.supplier_notified.name"
+msgid "Suppliers: order status changed to [status]"
+msgstr "供应商：订单状态改为 [status]"
+
+msgctxt "Languages::event.receiver.s"
+msgid "Supplier"
+msgstr "供应商"
+
+msgctxt "Languages::suppliers.supplier_notifications"
+msgid "Supplier notifications"
+msgstr "供应商通知"
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_privileges.po\n"
+"X-Crowdin-File-ID: 6694\n"
+"PO-Revision-Date: 2022-06-29 06:16\n"
+
+msgctxt "Addons::name::vendor_privileges"
+msgid "Vendor Privileges"
+msgstr "Uprawnienia sprzedawcy"
+
+msgctxt "Addons::description::vendor_privileges"
+msgid "Allows you to create user groups for vendors' administrators."
+msgstr "Umożliwia tworzenie grup użytkowników dla administratorów sprzedawców."
+
+msgctxt "SettingsSections::vendor_privileges::general"
+msgid "General"
+msgstr "Ogólne"
+
+msgctxt "SettingsOptions::vendor_privileges::default_vendor_usesrgroup"
+msgid "Default user group for vendors' administrators"
+msgstr "Domyślna grupa użytkowników dla administratorów sprzedawców"
+
+msgctxt "Languages::vendor_privileges.default_usergroup_is_assigned_to_new_vendors"
+msgid "<span class=\"muted\">This user group is assigned to all new vendors by the \"Vendor privileges\" add-on.</span> <a href=\"[settings_link]\" target=\"_blank\">Edit add-on settings</a>"
+msgstr "<span class=\"muted\">Ta grupa użytkowników jest przypisywana do wszystkich nowych sprzedawców przez dodatek \"Uprawnienia sprzedawcy\".</span> <a href=\"[settings_link]\" target=\"_blank\">Edytuj ustawienia dodatku</a>"
+
+msgctxt "Languages::privileges.manage_vendor_usergroups"
+msgid "Can manage vendor user groups (only if managing customer user groups is allowed)"
+msgstr "Możliwość zarządzania grupami użytkowników sprzedawców (tylko jeśli zarządzanie grupami użytkowników klientów jest dozwolone)"
+

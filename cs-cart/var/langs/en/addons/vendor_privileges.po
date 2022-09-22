@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vendor_privileges"
+msgid "Vendor Privileges"
+msgstr "Vendor Privileges"
+
+msgctxt "Addons::description::vendor_privileges"
+msgid "Allows you to create user groups for vendors' administrators."
+msgstr "Allows you to create user groups for vendors' administrators."
+
+msgctxt "SettingsSections::vendor_privileges::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::vendor_privileges::default_vendor_usesrgroup"
+msgid "Default user group for vendors' administrators"
+msgstr "Default user group for vendors' administrators"
+
+msgctxt "Languages::vendor_privileges.default_usergroup_is_assigned_to_new_vendors"
+msgid "<span class=\"muted\">This user group is assigned to all new vendors by the \"Vendor privileges\" add-on.</span> <a href=\"[settings_link]\" target=\"_blank\">Edit add-on settings</a>"
+msgstr "<span class=\"muted\">This user group is assigned to all new vendors by the \"Vendor privileges\" add-on.</span> <a href=\"[settings_link]\" target=\"_blank\">Edit add-on settings</a>"
+
+msgctxt "Languages::privileges.manage_vendor_usergroups"
+msgid "Can manage vendor user groups (only if managing customer user groups is allowed)"
+msgstr "Can manage vendor user groups (only if managing customer user groups is allowed)"

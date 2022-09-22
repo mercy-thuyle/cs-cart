@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "Πακέτα πωλητών"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "Δημιουργήσετε πακέτα με διαφορετικούς περιορισμούς και τιμές για τους πωλητές σας"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "Προμήθειες"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "Συμπεριλάβετε το κόστος αποστολής στην προμήθεια του προμηθευτή"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "Συμπεριλάβετε φόρο στην προμήθεια του πωλητη"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "Υπολογίστε τις προμήθειες των πωλητών χωρίς να αφαιρέσετε εκ των προτέρων τους φόρους από το σύνολο των παραγγελιών."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "Επιτρέψτε πωλητές να αλλάξουν το τρέχον πακετο"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "Συλλέξτε φόρους από πωλητές"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "Στείλτε εισπραχθέντες φόρους στο λογαριασμό του marketplace."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "Πακετα πωλητων"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "Πληροφορίες Σχεδιου Πωλητή"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "Εμφανίζει πληροφορίες σχετικά με το επιλεγμένο Πακετο πωλητή"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "Πακετο"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "Πακετο"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "Προμήθεια"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "Περιορισμοί"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "Δημιουργήσετε Πακετα για τους πωλητές σας, με διαφορετικούς περιορισμούς και τιμές"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "ανά μήνα"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "ανά έτος"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "μία φορά"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "Μέγ. προϊόντα"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "Οορίσετε το μέγιστο αριθμό των προϊόντων ενός πωλητή που μπορεί να έχει σε αυτό το πακετο. Αφήστε κενό για να επιτρέψετε απεριόριστο αριθμό προϊόντων."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "Ο πωλητής μπορεί να έχει δική micro καταστημα σε μια ξεχωριστή διεύθυνση όπως <i>example.com/vendor/</i>. Καθε Micro καταστημα περιέχει μόνο τα προϊόντα του πωλητή που διαθετει αυτο το καταστημα. Τα αποτελέσματα αναζήτησης σε ένα καταστημα πωλητη περιλαμβάνουν, επίσης, μόνο προϊόντα από αυτόν τον πωλητή."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "Προσθέστε πακετο πωλητή"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "Νέο πακετο πωλητή"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "Επεξεργασία πακετου πωλητή"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "Δεν ηταν δυνατον να διαργαφει το πακετο: ορισμένοι πωλητές το χρησιμοποιούν"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "Δεν ηταν δυνατον να απενεργοποιηθει το πακετο: ορισμένοι πωλητές το χρησιμοποιούν"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "Τέλος συναλλαγής"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "Τέλος συναλλαγής)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "Έσοδα"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "Έσοδα μέχρι"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "Τα μέγιστα μηνιαία έσοδα που επιτρέπεται για τους πωλητές που χρησιμοποιούν αυτό το πακετο. Αφήστε αυτό το πεδίο κενό για να επιτρέψετε απεριόριστο εσόδων."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "Micro Καταστημα πωλητη"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "Προσφέρετε ως την καλύτερη επιλογή"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "Καλύτερη επιλογή"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "Θα χρεωθείτε για το σχέδιο αφου σας εγκρίνει το λογαριασμό πωλητή ο διαχειριστής"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "Τρέχον Πακετο"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "Χρηση τρεχων πακετου"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "Καλύτερη επιλογή"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Επιλέξτε το πακετο σας"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "Επιλέξτε"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "Μήνας"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "Έτος"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "Ονομα Σχεδιου"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> προϊόν|<strong>[n]</strong> προϊόντα"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "Απεριόριστη"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>Απεριοριστα</strong> προϊόντα"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "Μεχρι Τζίρο <strong>[revenue]</strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>Απεριόριστα</strong> έσοδα"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "Τέλος συναλλαγής:<strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "Προμήθεια πωλητή"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "Καθορίστε μια κατηγορία."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "Το Πακέτο σας έχει οριστεί σε [plan]. Δείτε τις λεπτομέρειες του σχεδίου σας παρακάτω."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "Πληρωμή για το πακέτο σας"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "Το ποσό των [price] έχει αποσυρθεί από το λογαριασμό σας για τη χρήση του πακετου [plan]. Ακολουθήστε το σύνδεσμο για να <a href=\"[href]\"> Δείτε το υπόλοιπο του λογαριασμού σας</a> ή να δείτε τις λεπτομέρειες του πακετου σας παρακάτω."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "Το σχέδιο σας έχει αλλάξει"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "Το πακετο σας έχει αλλάξει σε [plan]. Δείτε τις λεπτομέρειες του νέου πακετου σας παρακάτω."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "Δεν είναι δυνατό να προσθέσετε περισσότερα προϊόντα: έχετε φτάσει το μέγιστο αριθμό προϊόντων που επιτρέπονται από το πακετο σας. Για να αλλάξετε το πακετο σας, παρακαλούμε <a href=\"[href]\"> ακολουθήστε αυτόν τον σύνδεσμο</a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "Μέγιστα έσοδα υπερέβησαν"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> υπερεβει το μέγιστο εσόδων που επιτρέπεται από το πακετο [plan]."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "Δεν είναι διαθέσιμη"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "Πάρα πολλά προϊόντα ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "Πάρα πολλα έσοδα ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "Συγγνώμη, αυτό το πακετοο δεν είναι διαθέσιμο για εσάς. Παρακαλώ επιλέξτε ένα διαθέσιμο πακετο."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "Μεταβαίνετε σε άλλο πακετο πωλητή. Θα χρεωθείτε την πλήρη τιμή του πακετου. Είστε βέβαιοι ότι θέλετε να συνεχίσετε;"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "Πακετα πωλητή: Ειδοποίηση αλλαγης πακετου"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "Πακετα πωλητή: Ειδοποίηση πληρωμής"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "Πακετα πωλητή: Ειδοποίηση Εσοδων"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "Δυνατότητα Προβολής"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "Δυνατότητα Επεξεργασίας"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "Πακέτα πωλητών"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] από [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "από [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% από [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "Πληρωμή για το πακέτο του πωλητη: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "Πακέτο πωλητη"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "Nα επηρεάσουν οι αλλαγές σας τους υπάρχοντες πωλητές;"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "Τι πρέπει να κάνουμε για τον <a href=\"[search_url]\" target=\"_blank\"> πωλητή </a> ο οποίος χρησιμοποιεί αυτό το πακετο τώρα; Τι πρέπει να κάνουμε για τους <a href = \"[search_url]\" target = \"_ blank\"> [n] πωλητές </a> που χρησιμοποιούν αυτό το πακετο τώρα;"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "Προσθηκη του πωλητη στα καταστηματα που προστεθηκαν σ αυτό το πακετο | Προσθηκη των πωλητών στα καταστηματα που προστεθηκαν σ αυτό το πακετο"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "Κατάργηση του πωλητη από τα καταστηματα που καταργήθηκαν από αυτό το πακετο | Κατάργηση των πωλητών από τα καταστηματα που καταργήθηκαν από αυτό το πακετο"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "Ο πωλητής μεταφέρθηκε σε ένα άλλο Πακετο"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "Τι πρέπει να κάνουμε σχετικά με τα καταστηματα που είναι διαθέσιμα σε αυτόν τον πωλητή;"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "Προσθέστε τον πωλητή στα διαθεσιμα καταστηματα στο νέο πακετο πωλητη"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "Αφαιρέστε τον πωλητή από τα διαθεσιμα καταστηματα στο προηγούμενο σχέδιο του"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "Προηγμένη δημιουργία σχεδιου πωλητη"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "Δημιουργήθηκε ένα νέο σχέδιο πωλητή \"[plan_name]\". Τώρα μπορείτε να <a href=\"[link]\"> ορίσετε περιορισμούς για πωληές που χρησιμοποιούν αυτό το πρόγραμμα </a>."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "[commission]% αμοιβή"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "Προεπιλεγμένο σχέδιο"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "Το Πακέτο προμηθευτή άλλαξε"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "Πακετα πωλητων"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "Πακέτα Πωλητών: Το Πακέτο Πωλητή άλλαξε"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "Ο Πωλητής \"[vendor]\" μετακινήθηκε στο \"[plan]\""
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "Το πακέτο του πωλητή \"[vendor]\" άλλαξε από \"[old_plan]\" σε \"[new_plan]\"."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "Παλαιό Πακέτο"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "Νέο Πακέτο"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "Προσθέστε διαχειριστές πωλητών στις ομάδες χρηστών που έχουν προστεθεί στο πακέτο"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "Κατάργηση διαχειριστών πωλητών από τις ομάδες χρηστών που καταργήθηκαν από το πακέτο"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "Αυτές είναι οι ομάδες χρηστών που θα λάβουν οι διαχειριστές του πωλητή όταν ένας πωλητής λαβει αυτό το πακέτο"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "Λυπούμαστε, αυτή η κατηγορία δεν είναι διαθέσιμη για αυτό τον πωλητή. Ελέγξτε τη διαμόρφωση του πακέτου πωλητή."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "Περιλαμβάνονται όλες οι βιτρίνες"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "Περιλαμβάνονται όλες οι κατηγορίες"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "Δεν ήταν δυνατή η απενεργοποίηση του πλανου πωλητή. Πρέπει να υπάρχει τουλάχιστον ένα ενεργό ή κρυφό πλανο πωλητή."
+

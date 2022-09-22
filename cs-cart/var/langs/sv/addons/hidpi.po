@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "HiDPI skärmstöd"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Stöd för Retinaskärmar"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Allmän"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Beakta alla uppladdade bilder HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Beakta alla uppladdade bilder HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Markera kryssrutorna \"Jag laddar upp en HiDPI-bild\" som standard överallt där bilder laddas upp. Du kommer att kunna avmarkera dessa kryssrutor vid behov."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "HiDPI stöd är aktiverat"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Jag laddar upp en HiDPI-bild."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Om den här kryssrutan är markerad kommer källbilden att visas två gånger nedskalad. Den här inställningen påverkar endast visningen av källbilden och inte dess miniatyrbild. Om du vill att en bild ska visas i originalstorlek, avmarkera den här kryssrutan."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Bildåterställning"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "Den tidigare versionen av HiDPI-skärmstödstillägget krympte de uppladdade bilderna. Det finns inget behov av det nu. Men för att dina bilder ska se snygga och skarpa ut måste du klicka på Återställ."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Återställ"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>Observera!</strong> Denna procedur är icke-reversibel: när du återställer uppgraderingen återställs inte bildåterställningsmanipulationerna. Så se till att göra en säkerhetskopia. Proceduren kan ta lite tid – det beror på antalet bilder i din butik."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Vissa av de gamla bilderna i din butik är fortfarande av låg kvalitet. För att använda högsta möjliga kvalitet, <a href=\"[convert_url]\">återställ högkvalitativa bilder</a>. Processen är automatisk."
+

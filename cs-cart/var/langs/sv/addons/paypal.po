@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal.po\n"
+"X-Crowdin-File-ID: 6592\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "PayPal betalningar"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "Låter dig ta emot betalningar via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, och PayPal Payflow Pro."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "Åsidosätt kundinformation"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "Övningsläge"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "Säljarskydd kvalifikationer"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "IPN-inställningar"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "PayPal omvandlingstabell för orderstatus"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "PayPal logoinställningar"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>Obs!</b> Enligt PayPals <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), hanteras inga tilläggsavgifter."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "Transaktion ID"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "PayPal-logotyp"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Använd ett giltigt bildformat, t.ex. gif, jpg eller png. Begränsa bilden till 190px bredd och 60px höjd, större bilder kommer att förminskas. PayPal placerar din logo högst upp i varukorgens översikt."
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "IPN-fel"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "Antalet betalda produkter motsvarar inte antalet produkter i ordern"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "Valutan i betalningen motsvarar inte den i ordern."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "Betalsumman överensstämmer inte med ordersumman."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "PayPal läge"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "Säljare"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Använd på-sidan kassa"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "På-sidan kassa kommer inte att användas när butiken körs i Widget-läge"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "Ett handlar ID krävs för att använda <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>På-sidan kassa</a> för denna integration. Detta kan du hitta genom att logga in på <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Klicka på profilikonen överst till höger på sidan och välj <b>Kontoinställningar</b> i <b>Företagsprofil</b> avdelningen. (Om du inte ser profilikonen överst på sidan så klicka på <b>Min Profil</b>, som visas i toppmenyn när <b>Mitt Konto fliken</b> är vald.) Klicka på <b>Min företagsinformation</b> till vänster, och <b>konto-id</b> visas i listan med uppgifter till höger."
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "IPN - Instant Payment Notification är en tjänst som automatiskt meddelar butiken vid alla händelser relaterade till PayPal-transaktioner.<br>När en kund lägger en order och väljer PayPal som betalsätt får ordern statusen <b>Öppen</b>.<br>PayPal skickar direkt i bakgrunden ett IPN-meddelande som innehåller transaktionens status. Denna status ändrar orderstatusen i butiken enligt omvandlingstabellen."
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "Transaktion status"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "Transaktionsstatus: [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "Betalavgift har angetts för PayPal-tjänster. Kontrollera att detta överensstämmer med <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\"> Användaravtalet för PayPal-tjänster</a> för din region."
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "Ge återbetalning via PayPal"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "Återbetalning kommer att utföras när kundtjänst uppdaterat status för returbegäran"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "Återbetalningen har gjorts via PayPal"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] har återbetalats i [date] på [time]."
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "Orderstatus för delvis återbetalning"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "Ändra inte"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "Avgör om du vill ändra orderstatus automatiskt efter en delvis återbetalning via PayPal eller inte."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "Sätt till:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "IPN mottagande tid"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "Inledande orderstatus"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "Alla order med PayPal-betalningsmetod får denna status tills svaret från PayPal (meddelandet IPN) anländer eller en kund returnerar till butiken via en länk på webbplatsen för PayPal."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "Som standard minskar statusen <i>öppen</i> lagret, så två kunder inte kommer att kunna köpa samma produkt medan betalningen behandlas av PayPal. Men om en kund lämnar PayPals webbplats utan att betala eller återvänder till butiken via en länk på webbplatsen för PayPal, du har en övergiven <i>öppen</i> order med reserverade produkter."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "Detta säkerställer att du inte har övergett obetalda order med status <i>öppen</i> och reserverade produkter. Men tills svaret från PayPal (meddelandet IPN) anländer eller kunden returnerar till butiken via en länk på webbplatsen för PayPal, ordern visas som <i>ofullständig</i> och produkter inte reserveras."
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "Tekniska detaljer"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "Ansluter till PayPal"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "Använd dessa knappar för att slutföra konfigurationsguiden"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "Konfigurera Live"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "Konfigurera test"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "Ansluter till <b>PayPal Sign Up Server</b>..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "Betalningsmetoden <b>[payment]</b> har konfigurerats"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "Ett fel uppstod vid anslutning till ett PayPal-konto"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "Ett fel uppstod när konfigurationen av betalningsmetoden hämtades"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "Du har nu ett PayPal-företagskonto och du har framgångsrikt integrerat [product] med PayPal.<br>Glöm inte att bekräfta din e-post för att aktivera ditt konto så att du kan komma åt betalningarna. För att göra detta, följ instruktionerna som PayPal skickade till din e-post."
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "För att få tillgång till betalningar från dina kunder, vänligen bekräfta din e-postadress genom att följa instruktionerna som PayPal skickade till dig via e-post."
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "Tillägget <b>PayPal-betalningar</b> är inaktiverat så du kan inte konfigurera den här betalningsmetoden."
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "3-D Secure är obligatoriskt i Storbritannien."
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "Visa knappen \"Till kassan med PayPal\" på sidan med kundvagnens innehåll"
+
+msgctxt "Languages::paypal.paypal_cookie_title"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "Languages::paypal.paypal_cookie_description"
+msgid "PayPal is a payment provider. It allows us to accept payments, if you choose a payment method powered by PayPal. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPal privacy statement</a>."
+msgstr "PayPal är en betalningsleverantör. Det tillåter oss att acceptera betalningar om du väljer en betalningsmetod som drivs av PayPal. Här är <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPals sekretesspolicy</a>."
+

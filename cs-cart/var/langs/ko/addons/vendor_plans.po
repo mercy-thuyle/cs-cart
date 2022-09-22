@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "공급업체 계획"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "공급업체에 대해 다른 제한 사항 및 가격으로 계획 생성"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "커미션"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "공급업체 수수료에 배송비 포함"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "공급업체 수수료에 세금 포함"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "사전에 주문 총액에서 세금을 공제하지 않고 공급업체 수수료를 계산합니다."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "공급업체가 현재 계획을 변경할 수 있도록 허용"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "공급업체로부터 세금 징수"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "징수된 세금을 시장의 계정으로 보냅니다."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "공급업체 계획"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "공급업체 계획 정보"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "선택한 공급업체 계획에 대한 정보를 표시합니다."
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "계획"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "계획"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "수수료"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "제한"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "다양한 제한 사항과 가격으로 공급업체를 위한 계획 만들기"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "달마다"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "연간"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "한 번"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "최대 제품"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "공급업체가 이 계획에서 가질 수 있는 최대 제품 수를 설정합니다. 제품을 무제한으로 허용하려면 비워 둡니다."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "공급업체는 <i>example.com/vendor/</i>과 같은 별도의 주소에 자신의 마이크로스토어를 가질 수 있습니다. 소규모 매장에는 이 소규모 매장을 소유한 공급업체의 제품만 포함됩니다. 또한 공급업체 마이크로스토어의 검색 결과에는 이 공급업체의 제품만 포함됩니다."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "공급업체 계획 추가"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "신규 공급업체 계획"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "공급업체 계획 수정"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "계획을 삭제할 수 없습니다. 일부 공급업체에서 사용 중입니다."
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "계획을 비활성화할 수 없음: 일부 공급업체에서 사용"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "거래 수수료"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "거래 수수료(abs)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "수익"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "최대 수익"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "이 플랜을 사용하는 공급업체에게 허용되는 최대 월간 수익입니다. 무제한 수익을 허용하려면 이 필드를 비워 둡니다."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "공급업체 마이크로스토어"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "최선의 선택으로 제안"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "최선의 선택"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "관리자가 공급업체 계정을 승인한 후 요금제가 청구됩니다."
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "현재 계획"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "현재 요금제 사용량"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "최선의 선택"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "요금제 선택"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "선택하다"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "월"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "년도"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "플랜명"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> 상품|<strong>[n]</strong> 제품"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "제한 없는"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>무제한</strong> 제품"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "최대 <strong>[revenue]</strong>수익"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>무제한</strong> 수익"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "거래 수수료: <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "공급업체 수수료"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "카테고리를 지정하십시오."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "계획이 [plan]으로 설정되었습니다. 아래에서 계획의 세부 사항을 참조하십시오."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "귀하의 계획에 대한 지불"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "[plan] 플랜을 사용하기 위해 귀하의 계정에서 합계 [price] 이 인출되었습니다. 링크를 따라 <a href=\"[href]\">계정 잔액을 보거나</a> 아래에서 계획의 세부 정보를 확인하십시오."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "귀하의 계획이 변경되었습니다"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "계획이 [plan]으로 변경되었습니다. 아래에서 새 계획의 세부정보를 참조하세요."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "제품을 더 추가할 수 없습니다. 계획에서 허용하는 최대 제품 수에 도달했습니다. 계획을 변경하려면 <a href=\"[href]\">이 링크를 따라</a>하십시오."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "최대 수익 초과"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> [plan] 계획에서 허용하는 최대 수익을 초과했습니다."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "사용할 수 없습니다"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "너무 많은 제품 ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "너무 많은 수익 ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "죄송합니다. 이 요금제는 사용할 수 없습니다. 이용 가능한 요금제를 선택하세요."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "다른 공급업체 계획으로 전환 중입니다. 플랜의 전체 가격이 청구됩니다. 너 정말 계속하고 싶니?"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "공급업체 계획: 계획 변경 알림"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "공급업체 계획: 지불 알림"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "공급업체 계획: 수익 알림"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "공급업체 계획"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "[amount]에서"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[sum]의 [amount]%"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "공급업체 계획에 대한 지불금: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "공급업체 계획"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "변경 사항이 기존 공급업체에 영향을 미칩니까?"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "지금 이 계획을 사용하고 있는 <a href=\"[search_url]\" target=\"_blank\">[n] 공급업체 </a> 에 대해 우리는 무엇을 해야 합니까?|지금 이 계획을 사용하고 있는 <a href=\"[search_url]\" target=\"_blank\">[n] 공급업체 </a> 에 대해 우리는 무엇을 해야 합니까?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "계획에 추가된 상점 첫화면에 공급업체 추가|계획에 추가된 상점 첫화면에 공급업체 추가"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "이 계획에서 제거된 상점 첫 화면에서 공급업체 제거|이 계획에서 제거된 상점 첫화면에서 공급업체 제거"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "공급업체가 다른 계획으로 이동했습니다."
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "이 공급업체가 사용할 수 있는 상점 첫 화면은 어떻게 해야 합니까?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "새 공급업체 계획에서 사용할 수 있는 상점 첫 화면에 공급업체 추가"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "이전 계획에서 사용 가능한 상점 첫 화면에서 공급업체를 제거합니다."
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "고급 공급업체 계획 생성"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "새 공급업체 계획 \"[plan_name]\"이(가) 생성되었습니다. 이제 <a href=\"[link]\">이 계획</a>를 사용하는 공급업체에 대한 제한을 설정할 수 있습니다."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "수수료 [commission]%"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "기본 요금제"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "공급업체 계획이 변경됨"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "공급업체 계획"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "공급업체 계획: 공급업체 계획이 변경됨"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "공급업체 \"[vendor]\"이(가) \"[plan]\"(으)로 이동했습니다."
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "공급업체 \"[vendor]\"의 계획이 \"[old_plan]\"에서 \"[new_plan]\"로 변경되었습니다."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "오래된 계획"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "새로운 계획"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "계획에 추가된 사용자 그룹에 공급업체 관리자 추가"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "계획에서 제거된 사용자 그룹에서 공급업체 관리자 제거"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "공급업체가 이 계획을 얻을 때 공급업체의 관리자가 얻게 될 사용자 그룹입니다."
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "죄송합니다. 이 카테고리는 공급업체에서 사용할 수 없습니다. 공급업체 계획의 구성을 확인하십시오."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "모든 점포 포함"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "모든 카테고리 포함"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "공급업체 계획을 비활성화할 수 없습니다. 활성 또는 숨겨진 공급업체 계획이 하나 이상 있어야 합니다."
+

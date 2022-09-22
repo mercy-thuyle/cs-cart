@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/seo.po\n"
+"X-Crowdin-File-ID: 6664\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "Lägger till stöd för sökmotorvänliga webbadresser"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "Hantera globala URL omdirigeringar."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "Hantera omdirigeringar från gamla URLer."
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "Om du t.ex. vill ange ett SEO-namn för http://example.com/index.php?dispatch=<b>categories.catalog</b> skall du ange värdet \"<b>categories.catalog</b>\" i fältet \"<b>URL \"dispatch\" värde</b>\" och ange SEO-namnet i fältet \"<b>SEO namn</b>\"."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "SEO namn"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "SEO URLer är inaktiverade. Kontrollera serverns inställningar för URL manipulation."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "Dispatch värde"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "URL dispatch värde"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "Ny regel"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "SEO namn"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "sidan [n]"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "Kan redigera"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "SEO"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "Kan visa"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "Permanent flyttad (301)"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "Gammal URL"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "Ny URL"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "Ny omdirigering"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "URLen du omdirigerar från finns redan"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Google rich snippets förhandsvisning"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "Betyg"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] recension|[n] recensioner"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "Skapa omdirigering från gammal URL"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Felaktigt format för <b>[url]</b>. Om t.ex. webbadressen är <b>http://example.com/sökväg/till/objekt</b>, måste du ange <b>/sökväg/till/objekt</b>"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "Om t.ex. webbadressen är <b>http://example.com/sökväg/till/objekt</b>, skriver du in <b>/sökväg/till/objekt</b>"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "Produkt SEO URL-format"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "Kategori SEO URL-format"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "Sida SEO URL-format"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "Övriga SEO URL-format"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "Visa ytterligare språk i URL:en"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "Använd samma URL för alla språk"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "Tillåt icke-latinska tecken i URL"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/produkttitel/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/produkttitel.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/kategorititel/[underkategorititel/]produkttitel/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/kategorititel/[underkategorititel/]produkttitel.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/överliggande-kategori/kategori/[sida-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/överliggande-kategori/kategori-[sida-2].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/kategori/[sida-2/]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/överliggande-sida/sida.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/överliggande-sida/sida/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/sida/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/objekt/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/kategori[-sida-2].html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/sida.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/objekt.html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b>Varning!</b> <b>SEO</b> tillägget är konfigurerat för att använda en URL för alla språk. Om du döljer, inaktiverar eller radera ett standardspråk för en av butikerna, kommer SEO webbadresser att ändras."
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "En lämplig kod kan hjälpa den här funktionen att visas med produkten i sökmotorer. Koder som stöds:"
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "varumärke"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "Namn som används av en organisation eller affärsperson för att märka en produkt"
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "International Standard Book Number"
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr "GTIN"
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "Global Trade Artikelnummer"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "Tillverkarens artikelnummer"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "Tillägget <a href=\"[link]\">SEO</a> är för närvarande konfigurerat att använda en enda URL för alla språk. Om du ändrar ett standardspråk för detta skyltfönster kommer SEO-webbadresserna att ändras."
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "Tillägget <a href=\"[link]\">SEO</a> är för närvarande konfigurerat att använda en enda URL för alla språk. Om du ändrar ett standardspråk för standardskyltfönstret kommer SEO-webbadresserna att ändras för alla skyltfönster."
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "Följande SEO-namn finns redan i din butik: <b>[names]</b>. <p> Följande SEO-namn användes istället: <b>[new_names]</b>.|Följande SEO-namn finns redan i din butik: <b>[names]</b>. Följande SEO-namn användes istället: <b>[new_names]</b>."
+
+msgctxt "Languages::seo.error_incorrect_seo_name"
+msgid "The following SEO name had incorrect format: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names had incorrect format: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "Följande SEO-namn hade felaktigt format: <b>[names]</b>. <p> Följande SEO-namn användes istället: <b>[new_names]</b>.|Följande SEO-namn hade felaktigt format: <b>[names]</b>. Följande SEO-namn användes istället: <b>[new_names]</b>."
+

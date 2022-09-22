@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/call_requests.po\n"
+"X-Crowdin-File-ID: 6566\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::call_requests"
+msgid "Call requests"
+msgstr "Rückrufanfrage"
+
+msgctxt "Addons::description::call_requests"
+msgid "Adds the \"Buy now with one click\" and \"Request call\" buttons"
+msgstr "Fügt die Schaltflächen „Jetzt kaufen mit einem Klick“ und „Anruf anfordern“ hinzu"
+
+msgctxt "SettingsSections::call_requests::general"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "SettingsOptions::call_requests::general"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "SettingsOptions::call_requests::phone"
+msgid "Rewrite phone"
+msgstr "Anrufweiterleitung"
+
+msgctxt "SettingsOptions::call_requests::phone_prefix_length"
+msgid "Highlight first chars [Deprecated]"
+msgstr "Markieren Sie die ersten Zeichen [Deprecated]"
+
+msgctxt "SettingsOptions::call_requests::buy_now_with_one_click"
+msgid "Enable the \"Buy now with one click\" option"
+msgstr "Aktivieren Sie die \"Kaufen Sie es jetzt mit einem Klick\"-Option"
+
+msgctxt "SettingsOptions::call_requests::order_status"
+msgid "Order status"
+msgstr "Bestellstatus"
+
+msgctxt "SettingsOptions::call_requests::phone_mask"
+msgid "Phone mask [Deprecated]"
+msgstr "Telefonmaske [Deprecated]"
+
+msgctxt "SettingsTooltips::call_requests::phone_mask"
+msgid "Leave empty to use automatic country-based phone pattern, or type in a custom pattern. You can use spaces, commas, +, -, and digits. Note that 9 represents any digit; if you need a 9, type \\\\9. Examples: +9 (999) 999 99 99, 99999999, 999 999 99 or +99-99-9999-9999."
+msgstr "Leer lassen, um automatische länderorientierte Telefonmuster zu verwenden, oder geben Sie ein benutzerdefiniertes Muster ein. Sie können Leerzeichen, Kommas, +, -, und Ziffern verwenden. Bitte beachten Sie, dass die Zahl 9 jede beliebige Ziffer darstellt; wenn Sie eine 9 benötigen, tippen Sie \\\\\\\\9. Beispiele: +9 (999) 999 99 99, 99999999, 999 999 99 oder +99-99-9999-9999."
+
+msgctxt "SettingsTooltips::call_requests::phone_prefix_length"
+msgid "Including parenthesis, spaces, etc. Use to highlight country code, area code, and phone prefix."
+msgstr "Beinhaltet Klammern, Leerzeichen, etc. Verwenden Sie es, um die Länder- Orts und Telefonvorwahl hervorzuheben."
+
+msgctxt "SettingsOptions::call_requests::enable_call_requests_for_vendors"
+msgid "Enable call requests for vendors"
+msgstr "Aktivieren Sie Anrufanfragen für Anbieter"
+
+msgctxt "SettingsTooltips::call_requests::enable_call_requests_for_vendors"
+msgid "This will also replace marketplace contact information with vendors' where necessary."
+msgstr "Dadurch werden auch die Kontaktinformationen des Marktplatzes bei Bedarf durch die des Anbieters ersetzt."
+
+msgctxt "Languages::privileges.manage_call_requests"
+msgid "Can edit"
+msgstr "Kann bearbeitet werden"
+
+msgctxt "Languages::privileges.view_call_requests"
+msgid "Can view"
+msgstr "Kann angesehen werden"
+
+msgctxt "Languages::privilege_groups.call_requests"
+msgid "Call requests"
+msgstr "Anrufanfragen"
+
+msgctxt "Languages::call_requests"
+msgid "Call requests"
+msgstr "Rückrufanfragen"
+
+msgctxt "Languages::call_requests_menu_description"
+msgid "Manage customer call requests"
+msgstr "Kundenrückrufanfragen verwalten"
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Rückrufanfrage"
+
+msgctxt "Languages::call_requests.buy_now_with_one_click"
+msgid "Buy now with 1-click"
+msgstr "Kaufen Sie jetzt mit 1-Klick"
+
+msgctxt "Languages::call_requests.error_validate_call_form"
+msgid "Please enter your email or phone number"
+msgstr "Bitte geben Sie Ihre E-Mail- oder Telefonnummer ein."
+
+msgctxt "Languages::call_requests.request_recieved"
+msgid "We have received your request! Our manager will contact you soon."
+msgstr "Wir haben Ihre Anfrage erhalten und werden Sie in Kürze kontaktieren."
+
+msgctxt "Languages::call_requests.order_placed"
+msgid "We have received your request! The order #[order_id] has been successfully created. Our manager will contact you soon."
+msgstr "Wir haben Ihre Anfrage erhalten! Die Bestellung #[order_id] wurde erfolgreich an uns übermittelt. Wir werden Sie in Kürze kontaktieren."
+
+msgctxt "Languages::call_requests.phone_from_settings"
+msgid "Phone from settings"
+msgstr "Telefon aus den Einstellungen"
+
+msgctxt "Languages::call_requests.enter_phone_or_email_text"
+msgid "Please enter your phone number or email (for our manager to contact you)"
+msgstr "Bitte geben Sie Ihre Telefonnummer oder E-Mail Adresse ein, damit einer unserer Mitarbeiter mit Ihnen in Kontakt treten kann"
+
+msgctxt "Languages::call_requests.status.new"
+msgid "New"
+msgstr "Neu"
+
+msgctxt "Languages::call_requests.status.in_progress"
+msgid "In progress"
+msgstr "In Bearbeitung"
+
+msgctxt "Languages::call_requests.status.completed"
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+msgctxt "Languages::call_requests.status.no_answer"
+msgid "No answer"
+msgstr "Keine Antwort"
+
+msgctxt "Languages::call_requests.responsible"
+msgid "Responsible"
+msgstr "Zuständig"
+
+msgctxt "Languages::call_requests.notes"
+msgid "Notes"
+msgstr "Anmerkungen"
+
+msgctxt "Languages::call_requests.requested_product"
+msgid "Requested product"
+msgstr "Angefragter Artikel"
+
+msgctxt "Languages::call_requests.convenient_time"
+msgid "Convenient time"
+msgstr "Geeigneter Zeitpunkt"
+
+msgctxt "Languages::call_requests.awaiting_call"
+msgid "Awaiting call"
+msgstr "Erwarteter Anruf"
+
+msgctxt "Languages::call_requests.order_exists"
+msgid "Order exists"
+msgstr "Bestellung vorhanden"
+
+msgctxt "Languages::call_requests.person_name_and_phone"
+msgid "Name and phone"
+msgstr "Name und Telefonnummer"
+
+msgctxt "Languages::call_requests.no_name_specified"
+msgid "No name specified"
+msgstr "Kein Name angegeben"
+
+msgctxt "Languages::call_requests.use_for_call_requests"
+msgid "Call request and buy now with one click form"
+msgstr "Formular für Rückrufanfragen und Kaufen Sie jetzt mit einem Klick"
+
+msgctxt "Languages::block_call_request"
+msgid "Call request"
+msgstr "Gesprächswunsch"
+
+msgctxt "Languages::block_call_request_description"
+msgid "Store phone number and form for requesting a call"
+msgstr "Telefonnummer speichern und Formular für Rückrufanfrage"
+
+msgctxt "Languages::tmpl_call_request"
+msgid "Call request form"
+msgstr "Formular für Rückrufanfrage"
+
+msgctxt "Languages::call_requests.text_call_request"
+msgid "Customer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number]."
+msgstr "Der Kunde [customer] erwartet <a href=\"[href]\">Ihren Anruf</a> unter folgender Telefonnummer [phone_number]."
+
+msgctxt "Languages::call_requests.text_call_request_call_time"
+msgid "The convenient call time is between [time_from] and [time_to]."
+msgstr "Die gewünschte Aufrufzeit liegt zwischen [Time_from] und [Time_to]."
+
+msgctxt "Languages::call_requests.text_buy_with_one_click_request"
+msgid "Сustomer [customer] is <a href=\"[href]\">awaiting your call</a> on [phone_number], regarding the purchase of the product <a href=\"[product_href]\">[product_name]</a>."
+msgstr "Kunde [customer] <a href=\"[href]\">erwartet Ihren Anruf</a> auf [phone_number], bezüglich der Bestellung des Artikels <a href=\"[product_href]\">[product_name]</a>."
+
+msgctxt "Languages::call_requests.error_validator_phone"
+msgid "The phone number in the <b>[field]</b> field is invalid."
+msgstr "Die Telefonnummer im Feld <b>[field]</b> ist ungültig."
+
+msgctxt "Languages::email_template.call_requests_buy_with_one_click"
+msgid "Call requests: buy with one click notification"
+msgstr "Rückrufanfrage: Kaufen Sie mit \"1-Klick-Mitteilung\""
+
+msgctxt "Languages::email_template.call_requests_call_request"
+msgid "Call requests: call request notification"
+msgstr "Rückrufanfrage: Rückrufanfrage Mitteilung"
+
+msgctxt "Languages::call_request.work_time"
+msgid "Mon-Fr 9a.m.-6p.m."
+msgstr "Mo-Fr 09:00-18:00"
+
+msgctxt "Languages::call_requests.request_call_request_form"
+msgid "Call requests: request form"
+msgstr "Rückrufanfrage: Anfrageformular"
+
+msgctxt "Languages::call_requests.agreement_text_full_request_call_request_form"
+msgid "<p>We ([company]) will use the data you provide here to contact you regarding your call request or order. That data will remain in our system, visible to our staff (or the relevant vendor), until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Wir ([company]) nutzen die von Ihnen uns zur Verfügung gestellten Daten, um Sie bezüglich Ihrer Rückrufanfragen oder Bestellungen zu kontaktieren. Diese Daten werden in unserem System gespeichert und ausschließlich für unsere Mitarbeiter sichtbar sein (oder für den entsprechenden Verkäufer), bis Sie dem widersprechen. Wenn Sie Ihre persönlichen Daten löschen möchten, senden Sie uns bitte eine Mail an [email].</p> <p>Wenn Sie glauben, das Ihre persönlichen Daten für unrechte Zwecke missbraucht wurden, haben Sie das Recht, dieses der Aufsichtsbehörde zu melden. Wir sind der EU-Datenschutz-Grundverordnung verpflichtet, Sie darüber aufzuklären; wir beabsichtigen nicht, Ihre Daten zu missbrauchen.</p>"
+
+msgctxt "Languages::call_requests.agreement_text_short_request_call_request_form"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ich bin damit einverstanden, dass meine persönlichen Daten wie folgt verarbeitet werden"
+
+msgctxt "Languages::gdpr_call_requests"
+msgid "Personal data from call requests"
+msgstr "Persönliche Daten aus Rückrufanfragen"
+
+msgctxt "Languages::call_requests.event.request_created.name"
+msgid "Call requests: request created"
+msgstr "Anrufanfragen: Anfrage erstellt"
+
+msgctxt "Languages::call_requests.event.request_about_product_created.name"
+msgid "Call requests: request about product created"
+msgstr "Anrufanfragen: Anfrage zum erstellten Produkt"
+

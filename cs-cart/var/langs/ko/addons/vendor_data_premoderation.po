@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "공급업체 데이터 사전 조정"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "공급업체 활동을 사전 검토할 수 있습니다."
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "공급업체 데이터 사전 검토 추가 기능이 비활성화되었습니다. \"승인 필요\" 또는 \"비승인\" 상태의 제품에는 더 이상 상태가 없습니다. 이러한 제품은 귀하 또는 귀하의 공급업체가 다른 상태를 설정할 때까지 고객에게 표시되지 않습니다. 추가 기능을 다시 활성화하면 상태가 없는 제품의 상태가 다시 나타납니다. 추가 기능을 제거하면 모든 제품이 자동으로 올바른 상태가 됩니다."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "상점 공급업체에서 제공하는 개별 제품 또는 제품 그룹을 관리합니다."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "공급업체 데이터 사전 조정"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "제품 승인"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "전자 메일로 공급업체에 알리기"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "귀하의 제품 [product] 은 상점 관리에 의해 승인되었으며 제품 카탈로그에 추가되었습니다. 이제 쇼핑객은 매장에서 이 제품을 주문할 수 있습니다."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "귀하의 제품 [product] 은 매장 관리에 의해 승인되지 않았습니다."
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "새 제품을 제출해 주셔서 감사합니다. 다음 제품은 상점 관리에 의해 승인되어 제품 카탈로그에 추가되었습니다."
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "이제 쇼핑객은 매장에서 이러한 제품을 주문할 수 있습니다."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "새 제품을 제출해 주셔서 감사합니다. 다음 제품은 매장 관리에 의해 승인되지 않았습니다."
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "선택 승인"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "선택 비승인"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "새 제품에 대한 승인 필요"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "업데이트된 제품에 대한 승인 필요"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "공급업체 프로필 변경에 대한 승인 필요"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "승인이 필요한 제품이 있습니다. <a href=\"[link]\">이 제품을 검토하려면</a> 이 링크를 따르십시오."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "귀하의 제품은 [status]입니다"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "승인"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "프로필을 업데이트하시겠습니까? 회사에 대한 정보는 관리자가 승인할 때까지 고객 영역에서 사용할 수 없습니다."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "관리할 수 있다"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "제품 승인"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "공급업체 계정"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "공급업체 제품"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "신상품 승인"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "상품정보 업데이트 승인"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "공급업체 프로필 업데이트 승인"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "제품 조정 결과에 대해 공급업체에 알림"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "업데이트 승인 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "필수 아님"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "일부 공급업체에 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "모든 공급업체에 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "필수 아님"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "일부 공급업체에 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "모든 공급업체에 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "필수 아님"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "일부 공급업체에 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "모든 공급업체에 필요"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "알리지 않음"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "이메일을 보내"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "알림 센터에 알림 표시"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "이메일을 보내고 알림 센터에 알림 표시"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "공급업체 사전 검토"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "비승인 제품 제외"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "승인 필요"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "비승인"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "검토 중인 제품"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "비승인 제품"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "비승인"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "제품 승인"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "승인 \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "제품 비승인"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "\"[product]\" 비승인"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "제품 비승인"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "비승인 사유"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "비승인 사유를 입력하고 변경 사항을 저장합니다."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "승인이 필요한 제품이 [n] 개 있습니다|승인이 필요한 제품이 [n] 있습니다"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "이 제품은 [since]이후 승인 대기 중입니다. 이 제품을 보려면 여기를 클릭하십시오.|이 제품은 [since]부터 승인 대기 중입니다. 이 제품을 보려면 여기를 클릭하십시오."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "귀하의 제품이 승인되었습니다|귀하의 제품이 승인되었습니다"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "\"[product]\"은(는) 매장 관리에 의해 승인되었으며 제품 카탈로그에 추가되었습니다. 이 제품을 보려면 여기를 클릭하십시오.|[n] 제품이 매장 관리에 의해 승인되어 제품 카탈로그에 추가되었습니다. 이 제품을 보려면 여기를 클릭하십시오."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "귀하의 제품이 비승인되었습니다|귀하의 제품이 비승인되었습니다"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "\"[product]\"은(는) 매장 관리에 의해 승인되지 않았습니다. 이 제품을 보려면 여기를 클릭하십시오.|[n] 제품이 매장 관리에 의해 승인되지 않았습니다. 이 제품을 보려면 여기를 클릭하십시오."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "변경 사항이 저장되었습니다. 제품을 제품 카탈로그에 추가하기 전에 매장 관리자의 승인을 받아야 합니다. 승인이 필요한 제품을 보려면 <a href=\"[product_approval_url]\">이 링크</a> 을 따르세요.|변경 사항이 저장되었습니다. 제품을 제품 카탈로그에 추가하기 전에 매장 관리자의 승인을 받아야 합니다. 승인이 필요한 제품을 보려면 <a href=\"[product_approval_url]\">이 링크</a> 을 따르십시오."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "공급업체 데이터 사전 검토: 제품이 승인되었습니다."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "공급업체 데이터 사전 검토: 제품이 비승인되었습니다."
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "일부 공급업체에 대해서만 승인이 필요한 경우 공급업체 편집 페이지의 추가 기능 탭에서 중재가 필요한 공급업체를 설정할 수 있습니다."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "공급업체 데이터 사전 검토: 제품이 승인되었습니다."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "공급업체 데이터 사전 검토: 제품이 비승인되었습니다."
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "절도"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "신규 벤더 승인"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "필수 아님"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "모든 공급업체에 필요"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "벤더 등록을 아예 차단하고 싶다면 <a href=\"[url]\" target=\"_blank\">설정 → 벤더</a>에서 확인하세요."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "[date]이전"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "삭제됨"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "추가됨"
+

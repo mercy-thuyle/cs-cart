@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/myob.po\n"
+"X-Crowdin-File-ID: 6616\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::myob"
+msgid "MYOB"
+msgstr "智管软件"
+
+msgctxt "Addons::description::myob"
+msgid "Adds the MYOB integration"
+msgstr "添加整合MYOB"
+
+msgctxt "Languages::export_to_myob"
+msgid "Export to MYOB"
+msgstr "导出到MYOB"
+
+msgctxt "SettingsSections::myob::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::myob::sales_account"
+msgid "Default Sales Account"
+msgstr "默认销售帐户"
+
+msgctxt "SettingsOptions::myob::currency"
+msgid "Currency"
+msgstr "货币"
+
+msgctxt "SettingsOptions::myob::tax_gst_code"
+msgid "Tax Code / GST Code"
+msgstr "税码 / GST 代码"
+
+msgctxt "SettingsOptions::myob::freight_tax_gst_code"
+msgid "Freight Tax Code / Freight GST Code"
+msgstr "货运税代码/货运 GST 代码"
+

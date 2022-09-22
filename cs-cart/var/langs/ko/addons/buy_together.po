@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/buy_together.po\n"
+"X-Crowdin-File-ID: 6564\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::buy_together"
+msgid "Buy together [Deprecated]"
+msgstr "함께 구매 [Deprecated]"
+
+msgctxt "Addons::description::buy_together"
+msgid "Allows you to set up share discounts on certain product combinations"
+msgstr "특정 제품 조합에 대한 공유 할인을 설정할 수 있습니다."
+
+msgctxt "Languages::buy_together"
+msgid "Buy together"
+msgstr "함께 구매"
+
+msgctxt "Languages::specify_options"
+msgid "Specify options"
+msgstr "옵션 지정"
+
+msgctxt "Languages::total_list_price"
+msgid "Total list price"
+msgstr "총 정가"
+
+msgctxt "Languages::price_for_all"
+msgid "Price for all"
+msgstr "모두를 위한 가격"
+
+msgctxt "Languages::add_all_to_cart"
+msgid "Add all to cart"
+msgstr "장바구니에 모두 추가 "
+
+msgctxt "Languages::editing_combination"
+msgid "Editing combination"
+msgstr "편집 조합"
+
+msgctxt "Languages::buy_together_calculation_information"
+msgid "Total price: [total_price], Discount: [discount], Combination price: [combination_price]"
+msgstr "총 가격: [total_price], 할인: [discount], 조합 가격: [combination_price]"
+
+msgctxt "Languages::display_in_promotions"
+msgid "Display in promotions"
+msgstr "프로모션에 표시"
+
+msgctxt "Languages::combination_products"
+msgid "Combination products"
+msgstr "복합제품"
+
+msgctxt "Languages::share_discount"
+msgid "Share discount"
+msgstr "공유 할인"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_configurator"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Product configurator add-on"
+msgstr "[product_name] 은 조합에 추가할 수 없습니다. 함께 구매는 제품 구성기 추가 기능과 호환되지 않습니다."
+
+msgctxt "Languages::buy_together_is_not_compatible_with_recurring_billing"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Recurring billing add-on"
+msgstr "[product_name] 은 조합에 추가할 수 없습니다. 함께 구매는 반복 청구 추가 기능과 호환되지 않습니다."
+
+msgctxt "Languages::buy_together_combination_cannot_be_added"
+msgid "Combination cannot be added to cart"
+msgstr "장바구니에 조합을 추가할 수 없습니다."
+
+msgctxt "Languages::buy_together_product_was_removed"
+msgid "[product] did not have enough amount ([amount]) and was removed from the cart"
+msgstr "[product] 은(는) 수량([amount])이 부족하여 장바구니에서 제거되었습니다."
+
+msgctxt "Languages::buy_together_fill_the_mandatory_fields"
+msgid "Please specify product options before adding this product combination to the cart."
+msgstr "이 제품 조합을 장바구니에 추가하기 전에 제품 옵션을 지정하십시오."
+
+msgctxt "Languages::buy_together_info_message_for_mve"
+msgid "Only vendors can add product combinations. To add a combination, first <a class=\"buy-together-js-company-switcher\" data-ca-switcher-company-id=\"[company_id]\" data-ca-switcher-param-name=\"company_id\" data-ca-switcher-product-id=\"[product_id]\">log in as vendor</a>."
+msgstr "공급업체만 제품 조합을 추가할 수 있습니다. 조합을 추가하려면 먼저 공급업체 <a class=\"buy-together-js-company-switcher\" data-ca-switcher-company-id=\"[company_id]\" data-ca-switcher-param-name=\"company_id\" data-ca-switcher-product-id=\"[product_id]\">로 로그인</a>."
+
+msgctxt "Languages::buy_together_info_message"
+msgid "To add a combination, first <a class=\"buy-together-js-storefront-switcher\" data-ca-switcher-storefront-id=\"[storefront_id]\" data-ca-switcher-param-name=\"switch_company_id\" data-ca-switcher-product-id=\"[product_id]\">select the storefront</a>."
+msgstr "조합을 추가하려면 먼저 <a class=\"buy-together-js-storefront-switcher\" data-ca-switcher-storefront-id=\"[storefront_id]\" data-ca-switcher-param-name=\"switch_company_id\" data-ca-switcher-product-id=\"[product_id]\">상점 첫화면</a>을 선택하십시오."
+

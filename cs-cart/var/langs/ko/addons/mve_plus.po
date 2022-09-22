@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/mve_plus.po\n"
+"X-Crowdin-File-ID: 6612\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::mve_plus"
+msgid "Multi-Vendor Plus Functionality"
+msgstr "멀티벤더 플러스 기능"
+
+msgctxt "Addons::description::mve_plus"
+msgid "Enables the functionality available only in the Multi-Vendor Plus edition."
+msgstr "Multi-Vendor Plus 에디션에서만 사용할 수 있는 기능을 활성화합니다."
+

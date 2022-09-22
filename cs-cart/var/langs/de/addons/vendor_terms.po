@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_terms.po\n"
+"X-Crowdin-File-ID: 6704\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_terms"
+msgid "Vendor's terms and conditions"
+msgstr "Die allgemeinen Geschäftsbedingungen des Verkäufers"
+
+msgctxt "Addons::description::vendor_terms"
+msgid "Allows vendors to specify terms and conditions that the customers must agree with when buying from those vendors"
+msgstr "Ermöglicht es den Lieferanten, Bedingungen und Konditionen festzulegen, mit denen die Kunden beim Kauf bei diesen Lieferanten einverstanden sein müssen"
+
+msgctxt "Languages::vendor_terms.terms_and_conditions"
+msgid "Terms & conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+msgctxt "Languages::vendor_terms.terms_and_conditions_tooltip"
+msgid "If you want a customer to agree to your terms and conditions at checkout, fill in Terms & Conditions. If you leave Terms & Conditions empty, a customer proceeds without agreement."
+msgstr "Wenn Sie möchten, dass ein Kunde an der Kasse Ihren Allgemeinen Geschäftsbedingungen zustimmt, füllen Sie bitte die Allgemeinen Geschäftsbedingungen aus. Wenn Sie die Allgemeinen Geschäftsbedingungen leer lassen, geht ein Kunde ohne Vereinbarung weiter vor."
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions"
+msgid "I accept the [terms_href] of [vendor]"
+msgstr "Ich akzeptiere die [terms_href] von [vendor]"
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions_name"
+msgid "Terms & conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+

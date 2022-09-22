@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 6590\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "GDPR 준수(EU)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "고객에게 개인 데이터에 대한 정보를 표시하고 처리에 대한 동의를 요청하고 개인 데이터를 삭제하거나 내보내는 방법을 제공하여 GDPR(개인 데이터에 대한 유럽 연합 규정)을 준수하도록 돕습니다."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "쿠키 동의"
+
+msgctxt "SettingsOptions::gdpr::privacy_policy_page"
+msgid "Privacy policy page"
+msgstr "개인정보 보호정책 페이지"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "\"Implicit consent\" is a simple notification that the site uses cookies. \"Explicit consent\" means that visitors can select the services that can or can't set cookies."
+msgstr "\"암시적 동의\"는 사이트가 쿠키를 사용한다는 단순한 알림입니다. \"명시적 동의\"란 방문자가 쿠키를 설정할 수 있는 서비스와 그렇지 않은 서비스를 선택할 수 있음을 의미합니다."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "없음"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "절대적인"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "명백한"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "GDPR 사용자 데이터"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "사용자 개인 데이터"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "사용자 프로필의 개인 데이터"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "제품 구독의 개인 데이터"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "GDPR 계약의 개인 데이터"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "익명화"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "누군가를 익명화하면 모든 개인 정보가 무작위로 생성된 데이터로 대체됩니다. 백업에서 데이터베이스를 복원하지 않는 한 이 작업은 실행 취소할 수 없습니다. 계속하시겠습니까?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "보기 및 수정"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "주문의 개인 데이터"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "전체 계약 텍스트"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "짧은 계약 텍스트"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "체크아웃: 주문하기: 개인정보 처리"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>우리는 ([company]) 제공된 이메일 주소로 계정 관련 이메일(예: 주문 상태 알림, 비밀번호 재설정 이메일 등)을 보냅니다. 이러한 이유로 귀하가 당사 고객으로 남아 있는 동안 귀하의 이메일 주소를 저장해야 합니다.</p> <p>당사는 청구/배송 주소 섹션의 정보를 사용하여 배송 또는 지불 방법 제공자에게 다음 주소로 보낼 수 있습니다.</p> <ul> <li>귀하의 위치에서 사용할 수 있는 배송 및 지불 방법을 결정합니다. </li> <li>주문을 제출할 때 결제 시 선택한 제공업체를 통해 결제 또는 배송 프로세스를 완료합니다.</li> </ul> <p>매장에서 제품을 판매하고 관리 패널을 사용하는 일부 직원 및/또는 공급업체는 귀하의 데이터에 액세스할 수 있습니다. 우리는 귀하의 개인 정보를 소중하게 생각하므로 데이터에 대한 액세스는 상점을 운영하기 위해 알아야 할 기준에 따라 제공됩니다. 예를 들어 공급업체는 주문을 처리할 수 있도록 사용자가 주문한 경우에만 데이터를 수신합니다.</p> <p>귀하가 더 이상 당사 스토어를 사용하지 않기로 결정하고 귀하의 개인 데이터를 당사 데이터베이스에서 제거하기를 원하는 경우(또는 당사가 보유한 귀하의 계정과 관련된 모든 개인 데이터를 가져오려는 경우) 다음을 보내주십시오. [email]로 이메일을 보냅니다.</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "개인정보 <u>다음과 같이 처리하는 데 동의합니다.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "고객: 등록"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>이메일 주소는 고객을 서로 구별합니다. 여기에 제공한 이메일 주소와 비밀번호를 입력하여 스토어에 로그인합니다.</p> <p>당사는 ([company]) 계정 관련 이메일(주문 상태 알림, 비밀번호 재설정 이메일 등)도 제공된 이메일 주소로 보냅니다. 이러한 이유로 귀하가 당사 고객으로 남아 있는 동안 귀하의 이메일 주소를 저장해야 합니다.</p> <p>이 페이지에 있을 수도 있고 없을 수도 있는 기타 프로필 필드는 이메일 주소와 함께 저장됩니다. 필요한 경우 이 정보를 사용하여 귀하에게 연락할 수 있습니다.</p> <p>매장에서 제품을 판매하고 관리 패널을 사용하는 일부 직원 및/또는 공급업체는 귀하의 데이터에 액세스할 수 있습니다. 우리는 귀하의 개인 정보를 소중하게 생각하므로 데이터에 대한 액세스는 상점을 운영하기 위해 알아야 할 기준에 따라 제공됩니다. 예를 들어 공급업체는 주문을 처리할 수 있도록 사용자가 주문한 경우에만 데이터를 수신합니다.</p> <p>더 이상 당사 스토어를 사용하지 않기로 결정하고 당사 데이터베이스에서 귀하의 개인 데이터를 제거하기를 원하는 경우(또는 당사가 보유한 귀하의 계정과 관련된 모든 개인 데이터를 가져오려면) 다음을 보내주십시오. 이메일 [email].</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "개인정보 <u>다음과 같이 처리하는 데 동의합니다.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "프로필: 업데이트"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>이메일 주소는 고객을 서로 구별합니다. 여기에 제공한 이메일 주소와 비밀번호를 입력하여 스토어에 로그인합니다.</p> <p>당사는 ([company]) 계정 관련 이메일(주문 상태 알림, 비밀번호 재설정 이메일 등)도 제공된 이메일 주소로 보냅니다. 이러한 이유로 귀하가 당사 고객으로 남아 있는 동안 귀하의 이메일 주소를 저장해야 합니다.</p> <p>이 페이지에 있을 수도 있고 없을 수도 있는 기타 프로필 필드는 이메일 주소와 함께 저장됩니다. 필요한 경우 이 정보를 사용하여 귀하에게 연락할 수 있습니다.</p> <p>당사는 청구/배송 주소 섹션의 정보를 사용하여 배송 또는 지불 방법 제공자에게 다음 주소로 보낼 수 있습니다.</p> <ul> <li>귀하의 위치에서 사용할 수 있는 배송 및 지불 방법을 결정합니다.</li> <li>주문을 제출할 때 결제 시 선택한 제공업체를 통해 결제 또는 배송 프로세스를 완료합니다.</li> </ul> <p>우리 매장에서 제품을 판매하고 관리 패널을 사용하는 일부 직원 및/또는 공급업체는 귀하의 데이터에 액세스할 수 있습니다. 우리는 귀하의 개인 정보를 소중하게 생각하므로 데이터에 대한 액세스는 상점을 운영하기 위해 알아야 할 기준에 따라 제공됩니다. 예를 들어 공급업체는 주문을 처리할 수 있도록 사용자가 주문한 경우에만 데이터를 수신합니다.</p> <p>귀하가 더 이상 당사 스토어를 사용하지 않기로 결정하고 귀하의 개인 데이터를 당사 데이터베이스에서 제거하기를 원하는 경우(또는 당사가 보유한 귀하의 계정과 관련된 모든 개인 데이터를 가져오려면) 다음을 보내주십시오. [email]에게 이메일을 보냅니다.</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "개인정보 <u>다음과 같이 처리하는 데 동의합니다.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "공급업체: 공급업체에 신청"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>벤더가 우리 시장에서 제품을 판매하기 때문에 우리는 ([company]) 그들에 대한 특정 정보를 요청해야 합니다. 예를 들어, 벤더의 회사 이름과 설명은 고객에게 표시되고 벤더를 서로 구별하는 역할을 합니다. 주소는 배송료 계산에 사용됩니다.</p> <p>그러나 이름/성 및 이메일 주소와 같은 일부 개인 데이터도 요청합니다. 우리 시스템에서 공급업체의 관리자 계정을 만드는 데 필요합니다. 공급업체는 이러한 계정을 통해 시장과 협력합니다. 이메일 주소는 관리자를 서로 구별하기 때문에 필요합니다. 여기에 제공한 이메일 주소를 입력하여 스토어에 로그인합니다. 단일 공급업체에 여러 관리자가 있을 수 있으므로 이름이 필요합니다. 그렇게 하면 책임을 더 쉽게 처리할 수 있습니다.</p> <p>또한 제공된 이메일 주소로 계정 관련 이메일(주문 상태 알림, 비밀번호 재설정 이메일 등)을 보냅니다. 이러한 이유로 귀하가 당사 고객으로 남아 있는 동안 귀하의 이메일 주소를 저장해야 합니다. 더 이상 당사 마켓플레이스와 협력하지 않고 당사 데이터베이스에서 개인 데이터를 제거하기를 원하는 경우(또는 당사가 보유한 귀하의 계정과 관련된 모든 개인 데이터를 가져오려는 경우) 이메일을 보내주십시오. 에 [email].</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "개인정보 <u>다음과 같이 처리하는 데 동의합니다.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "제품: 구독"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>우리([company])는 이 제품에 대한 특별 메일링 리스트에 귀하의 이메일 주소를 추가할 것입니다. 제품의 재고가 있으면 자동으로 이에 대한 이메일을 받게 되며 귀하의 이메일 주소는 제품의 메일링 리스트에서 제거됩니다.</p> <p>데이터는 일부 직원에게 표시됩니다. 개인 데이터를 제거하려면 [email]로 이메일을 보내십시오.</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "개인정보 <u>다음과 같이 처리하는 데 동의합니다.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "체크아웃: 프로필 업데이트"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>우리는 ([company]) 제공된 이메일 주소로 계정 관련 이메일(예: 주문 상태 알림, 비밀번호 재설정 이메일 등)을 보냅니다. 이러한 이유로 귀하가 당사 고객으로 남아 있는 동안 귀하의 이메일 주소를 저장해야 합니다.</p> <p>당사는 청구/배송 주소 섹션의 정보를 사용하여 배송 또는 지불 방법 제공자에게 다음 주소로 보낼 수 있습니다.</p> <ul> <li>귀하의 위치에서 사용할 수 있는 배송 및 지불 방법을 결정합니다. </li> <li>주문을 제출할 때 결제 시 선택한 제공업체를 통해 결제 또는 배송 프로세스를 완료합니다.</li> </ul> <p>매장에서 제품을 판매하고 관리 패널을 사용하는 일부 직원 및/또는 공급업체는 귀하의 데이터에 액세스할 수 있습니다. 우리는 귀하의 개인 정보를 소중하게 생각하므로 데이터에 대한 액세스는 상점을 운영하기 위해 알아야 할 기준에 따라 제공됩니다. 예를 들어 공급업체는 주문을 처리할 수 있도록 사용자가 주문한 경우에만 데이터를 수신합니다.</p> <p>귀하가 더 이상 당사 스토어를 사용하지 않기로 결정하고 귀하의 개인 데이터를 당사 데이터베이스에서 제거하기를 원하는 경우(또는 당사가 보유한 귀하의 계정과 관련된 모든 개인 데이터를 가져오려는 경우) 다음을 보내주십시오. [email]로 이메일을 보냅니다.</p> <p>귀하의 개인 데이터가 오용되었다고 생각되면 감독 기관에 불만을 제기할 권리가 있습니다. 우리는 EU 일반 데이터 보호 규정에 따라 이 권리에 대해 알려야 할 의무가 있습니다. 우리는 실제로 귀하의 데이터를 오용할 의도가 없습니다.</p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "개인정보 <u>을 다음</u>과 같이 처리하는 데 동의합니다."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "XML로 내보내기"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "계속하려면 동의가 필요합니다."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "사용자가 익명화되었습니다."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p>익명화는 보유하고 있을 수 있는 백업 및 로그에 영향을 미치지 않습니다. 필요한 경우 다음을 수행하십시오.</p><ol><li> <b>관리 → 로그</b>에서 로그를 지웁니다.</li><li> <b>관리 → 백업/복원</b>에 있는 백업을 보호하고 삭제합니다.</li></ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "쿠키 동의"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p>이 웹사이트는 쿠키(귀하의 컴퓨터에 저장되는 작은 데이터 조각)를 사용합니다. 일부 쿠키는 웹사이트 자체에 의해 추가됩니다. 장바구니의 내용을 표시하고, 이메일과 비밀번호를 입력하면 로그인 상태를 유지하고, 기본 설정을 유지하고, 기타 많은 유용한 작업을 수행하는 데 도움이 됩니다. 우리는 사이트가 귀하에게 적절하게 작동하도록 하기 위해서만 이러한 쿠키를 사용합니다. 쿠키 사용에 대한 귀하의 동의도 쿠키로 저장됩니다.</p><p>제3자 서비스(예: PayPal, YouTube, Google 지도, Facebook 등)는 다른 쿠키를 사용하여 웹사이트에서 해당 제3자 서비스를 사용하는 방법에 대한 데이터를 저장할 수 있습니다. 당사는 제3자가 쿠키를 사용하는 방식을 제어할 수 없지만 이러한 쿠키는 웹사이트의 적절한 기능을 위해서도 중요합니다. 예를 들어 PayPal 쿠키가 없으면 PayPal 기능 중 일부가 작동하지 않을 수 있습니다.</p><p>쿠키가 없으면 많은 일이 잘못될 수 있습니다. 그렇기 때문에 계속 진행하기 전에 쿠키 사용에 동의해야 합니다. 쿠키를 원하지 않지만 웹사이트를 계속 사용하려면 쿠키를 차단하도록 브라우저를 구성하십시오. 그러면 쿠키 사용에 \"동의\"할 수 있지만 우리는 이를 귀하의 동의로 간주하지 않습니다. .</p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "동의한다"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "아니, 여기에서 나를 데려가"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site."
+msgstr "쿠키는 최고의 사용자 경험을 제공하기 위해 이 사이트에서 사용됩니다. 계속하면 이 사이트에서 쿠키를 받는 데 동의하는 것으로 간주합니다."
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "등록된 사용자가 개인 데이터 또는 익명화를 요청할 수 있습니다."
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p>고객은 매장과 상호작용하면서 다양한 목적으로 개인정보를 제공합니다. 주문할 때 배송 위치를 알아야 합니다. 이메일 뉴스레터를 구독할 때 우리는 그것을 어디로 보낼지 등을 알아야 합니다. 우리는 이 데이터를 체계적으로 유지하여 귀하가 항상 다음을 수행할 수 있도록 합니다.</p> <ol> <li>귀하의 모든 개인 데이터를 보내달라고 요청합니다. 이 경우 이메일로 XML 파일을 보내드립니다. 해당 파일에는 당사가 보유한 모든 개인 데이터가 포함됩니다.</li> <li>잊어달라고 요청합니다. 이 경우 계정이 비활성화되고 모든 개인 데이터가 제거됩니다. 필요한 경우 향후 동일한 이메일 주소로 새 계정을 등록할 수 있습니다.</li> </ol> <p>이러한 요청을 처리하는 데 시간이 필요합니다. 귀하의 요청과 관련하여 이메일 또는 기타 수단을 통해 귀하에게 연락할 수 있습니다.</p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "내 데이터를 보내"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>귀하의 모든 개인 데이터가 포함된 XML 파일을 보내드립니다. 이 요청을 처리하는 데 시간이 필요하므로 XML 파일이 포함된 이메일이 즉시 전송되지 않습니다. 요청에 대한 의견이 있으면 아래 필드에 남겨주세요.</p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "개인 데이터 복사 요청: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> 이메일 주소 [customer_email] 가 다음 의견과 함께 개인 데이터 사본을 요청했습니다:</p> <p>[comment]</p> <p>이 메시지의 시작 부분에 있는 링크를 클릭하고 관리 패널의 고객 프로필 페이지에서 해당 버튼을 사용하여 다음을 수행하십시오. XML 형식의 데이터를 가져옵니다. 그런 다음 XML 파일을 고객에게 보냅니다.</p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "내 데이터 제거"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>귀하의 계정을 비활성화하고 계정에서 모든 개인 데이터를 제거합니다. 그 후에는 로그인할 수 없습니다. 그러나 앞으로는 동일한 이메일 주소로 새 계정을 등록할 수 있습니다. 이 요청을 처리하는 데 시간이 필요하므로 계정이 즉시 비활성화되지는 않습니다. 요청에 대한 의견이 있으면 아래 필드에 남겨주세요.</p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "개인정보 삭제 요청: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> 이메일 주소 [customer_email] 가 다음 의견과 함께 개인 데이터 제거를 요청했습니다:</p> <p>[comment]</p> <p>이 메시지의 시작 부분에 있는 링크를 클릭하고 관리 패널의 고객 프로필 페이지에서 해당 버튼을 사용하여 고객을 익명화합니다.</p> <p> <b>이 작업은 고객의 모든 개인 데이터를</b> 무작위로 생성된 데이터로 대체합니다. 고객과의 모든 비즈니스(예: 주문 및 반품 요청)가 완료되었는지 확인하는 것이 가장 좋습니다.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "귀하의 요청이 성공적으로 전송되었습니다."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "요청을 보내는 동안 오류가 발생했습니다. 다시 시도하거나 다음 이메일 주소로 메시지를 보내십시오. <a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>아래 나열된 계약의 텍스트에는 <b>[email]</b> 또는 <b>[company]</b> 이 포함될 수 있습니다. 고객이 계약서를 볼 때 실제 데이터로 자동 대체되는 자리 표시자입니다. 상점이 하나만 있는 경우 자리 표시자에 대한 데이터는 <a href=\"[company_settings_url]\" target=\"_blank\">설정 → 회사</a>에서 가져옵니다. 상점이 여러 개인 경우 고객이 방문하는 상점의 설정에서 데이터를 가져옵니다.</p><ul><li><b>[company]</b> 는 <i>회사 이름</i>에서 가져옵니다.</li><li><b>[email]</b> 은 <i>사용자 부서 이메일 주소</i>에서 가져옵니다.</li></ul>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>아래 나열된 계약의 텍스트에는 <b>[email]</b> 또는 <b>[company]</b> 이 포함될 수 있습니다. 고객이 계약서를 볼 때 실제 데이터로 자동 대체되는 자리 표시자입니다. 자리 표시자에 대한 데이터는 <a href=\"[company_settings_url]\" target=\"_blank\">설정 → 회사</a>에서 가져옵니다.</p><ul><li><b>[company]</b> 는 <i>회사 이름</i>에서 가져옵니다.</li><li><b>[email]</b> 은 <i>사용자 부서 이메일 주소</i>에서 가져옵니다.</li></ul>"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_title"
+msgid "Strictly necessary cookies"
+msgstr "꼭 필요한 쿠키"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_description"
+msgid "These cookies are essential for the website to work properly. For example, they let you place an order, or help the site remember that you've signed into your account. That's why they can't be disabled through the site. You can configure your browser to disable even these cookies, but important parts of the site won't work without them."
+msgstr "이 쿠키는 웹사이트가 제대로 작동하는 데 필수적입니다. 예를 들어 주문을 하거나 사이트에서 귀하가 계정에 로그인했음을 기억할 수 있도록 합니다. 그렇기 때문에 사이트를 통해 비활성화할 수 없습니다. 이러한 쿠키도 비활성화하도록 브라우저를 구성할 수 있지만 사이트의 중요한 부분은 쿠키 없이는 작동하지 않습니다."
+
+msgctxt "Languages::gdpr.performance_cookies_title"
+msgid "Performance cookies"
+msgstr "성능 쿠키"
+
+msgctxt "Languages::gdpr.performance_cookies_description"
+msgid "These cookies allow us to see how the website works. The information that these cookies help to collect is anonymous; it is typically presented in numbers. For example, these cookies help us see how often errors occur, how many unique visitors we have, or how long each page is viewed on average. Thanks to these cookies, we can improve the site for you."
+msgstr "이 쿠키를 통해 웹사이트가 어떻게 작동하는지 확인할 수 있습니다. 이러한 쿠키가 수집하는 데 도움이 되는 정보는 익명입니다. 일반적으로 숫자로 표시됩니다. 예를 들어, 이러한 쿠키는 오류 발생 빈도, 고유 방문자 수 또는 각 페이지가 평균적으로 조회되는 시간을 확인하는 데 도움이 됩니다. 이 쿠키 덕분에 사이트를 개선할 수 있습니다."
+
+msgctxt "Languages::gdpr.functional_cookies_title"
+msgid "Functional cookies"
+msgstr "기능 쿠키"
+
+msgctxt "Languages::gdpr.functional_cookies_description"
+msgid "These cookies enable additional functionality at the website. They may be set by third-party providers whose services we've added to the website. Those services may include many things, like maps, geolocation for preliminary shipping rate calculation, or the ability to sign in with your social network account. Without functional cookies, the parts of the site associated with these services may not work properly."
+msgstr "이 쿠키는 웹사이트에서 추가 기능을 활성화합니다. 이는 당사가 웹사이트에 추가한 서비스를 제공하는 제3자 제공업체에 의해 설정될 수 있습니다. 이러한 서비스에는 지도, 예비 배송료 계산을 위한 지리적 위치 또는 소셜 네트워크 계정으로 로그인하는 기능과 같은 많은 항목이 포함될 수 있습니다. 기능 쿠키가 없으면 이러한 서비스와 연결된 사이트의 일부가 제대로 작동하지 않을 수 있습니다."
+
+msgctxt "Languages::gdpr.marketing_cookies_title"
+msgid "Marketing cookies"
+msgstr "마케팅 쿠키"
+
+msgctxt "Languages::gdpr.marketing_cookies_description"
+msgid "These cookies are used by our advertising partners. They help them to measure promotion efficiency and serve you ads that are more relevant and less repetitive. This is usually achieved by remembering the browser and device that saw the ad. Turning these cookies off won't reduce the number of ads you see on the internet, but will make them less personalized."
+msgstr "이러한 쿠키는 당사의 광고 파트너가 사용합니다. 프로모션 효율성을 측정하고 관련성이 높고 반복적이지 않은 광고를 제공하는 데 도움이 됩니다. 이것은 일반적으로 광고를 본 브라우저와 기기를 기억함으로써 달성됩니다. 이 쿠키를 끄더라도 인터넷에 표시되는 광고의 수가 줄어들지는 않지만 덜 개인화됩니다."
+
+msgctxt "Languages::gdpr.eway_cookies_title"
+msgid "eWAY"
+msgstr "eWAY"
+
+msgctxt "Languages::gdpr.eway_cookies_description"
+msgid "eWAY is a payment provider. It allows us to accept payments, if you choose a payment method powered by eWAY. Here is <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY privacy policy</a>."
+msgstr "eWAY는 결제 서비스 제공업체입니다. eWAY에서 제공하는 지불 방법을 선택하면 지불을 수락할 수 있습니다. 여기 <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY 개인 정보 보호 정책</a>입니다."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_title"
+msgid "You can find out more in this document: {privacyPolicy}."
+msgstr "이 문서에서 더 많은 정보를 찾을 수 있습니다: {privacyPolicy}."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_name"
+msgid "Privacy policy"
+msgstr "개인 정보 정책"
+
+msgctxt "Languages::gdpr.klaro_service"
+msgid "service"
+msgstr "서비스"
+
+msgctxt "Languages::gdpr.klaro_services"
+msgid "services"
+msgstr "서비스"
+
+msgctxt "Languages::gdpr.klaro_accept_all"
+msgid "Accept all"
+msgstr "모든것을 받아 들인다"
+
+msgctxt "Languages::gdpr.klaro_accept_selected"
+msgid "Accept selected"
+msgstr "선택 수락"
+
+msgctxt "Languages::gdpr.klaro_close"
+msgid "Close"
+msgstr "닫다"
+
+msgctxt "Languages::gdpr.klaro_consent_modal_description"
+msgid "Here you can assess and customize the services (and their respective cookies) that we'd like to use on this website. You're in charge! Enable or disable services as you see fit."
+msgstr "여기에서 이 웹사이트에서 사용하고자 하는 서비스(및 해당 쿠키)를 평가하고 사용자 지정할 수 있습니다. 당신이 책임입니다! 필요에 따라 서비스를 활성화하거나 비활성화합니다."
+
+msgctxt "Languages::gdpr.klaro_consent_modal_title"
+msgid "Cookies we would like to use"
+msgstr "사용하고자 하는 쿠키"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_change_description"
+msgid "There were changes since your last visit, please renew your consent."
+msgstr "마지막 방문 이후 변경 사항이 있습니다. 동의를 갱신하십시오."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_title"
+msgid "Cookie Consent"
+msgstr "쿠키 동의"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_description"
+msgid "Hi! Could we please enable some additional services that require cookies? You can always change or withdraw your consent later."
+msgstr "안녕! 쿠키가 필요한 일부 추가 서비스를 활성화할 수 있습니까? 나중에 언제든지 동의를 변경하거나 철회할 수 있습니다."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_learn_more"
+msgid "Let me choose"
+msgstr "내가 선택하자"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_testing"
+msgid "Testing mode!"
+msgstr "테스트 모드!"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_always"
+msgid "Always"
+msgstr "언제나"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_once"
+msgid "'Yes'"
+msgstr "'예'"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_description"
+msgid "Do you want to load external content supplied by {title}?"
+msgstr "{title}에서 제공한 외부 콘텐츠를 로드하시겠습니까?"
+
+msgctxt "Languages::gdpr.klaro_decline"
+msgid "I decline"
+msgstr "내가 거절"
+
+msgctxt "Languages::gdpr.klaro_ok"
+msgid "That's ok"
+msgstr "괜찮아"
+
+msgctxt "Languages::gdpr.klaro_powered_by"
+msgid "Realized with Klaro!"
+msgstr "클라로와 함께 실현!"
+
+msgctxt "Languages::gdpr.klaro_service_purpose"
+msgid "purpose"
+msgstr "목적"
+
+msgctxt "Languages::gdpr.klaro_service_purposes"
+msgid "purposes"
+msgstr "목적"
+
+msgctxt "Languages::gdpr.klaro_service_required_description"
+msgid "This service is always required"
+msgstr "이 서비스는 항상 필요합니다"
+
+msgctxt "Languages::gdpr.disable_all_description"
+msgid "Use this switch to enable or disable all services."
+msgstr "이 스위치를 사용하여 모든 서비스를 활성화하거나 비활성화합니다."
+
+msgctxt "Languages::gdpr.disable_all_title"
+msgid "Enable or disable all services"
+msgstr "모든 서비스 활성화 또는 비활성화"
+
+msgctxt "Languages::gdpr.opt_out_description"
+msgid "This service is enabled by default (but you can opt out)"
+msgstr "이 서비스는 기본적으로 활성화되어 있지만 선택 해제할 수 있습니다."
+
+msgctxt "Languages::gdpr.opt_out_title"
+msgid "(opt-out)"
+msgstr "(옵트아웃)"
+
+msgctxt "Languages::gdpr.klaro_service_required_title"
+msgid "(always required)"
+msgstr "(항상 필수)"
+

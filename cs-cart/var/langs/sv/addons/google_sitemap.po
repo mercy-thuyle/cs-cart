@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_sitemap.po\n"
+"X-Crowdin-File-ID: 6600\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::google_sitemap"
+msgid "Google sitemap"
+msgstr "Google sidkarta"
+
+msgctxt "Addons::description::google_sitemap"
+msgid "Creates a sitemap.xml for Google"
+msgstr "Skapar en sitemap.xml för Google"
+
+msgctxt "Languages::google_sitemap.text_regenerate"
+msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "Om produkter, kategorier, etc. ändrats eller lagts till behöver du <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Återskapa sidkartan</a><br><br> [sitemap_available_in_customer]"
+
+msgctxt "Languages::google_sitemap.text_auto_regenerate"
+msgid "You can run the regeneration of the site map automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "Du kan köra regenereringen av webbplatskartan automatiskt med vissa tidsintervall. För att göra det, lägg till följande kommando till CRON:"
+
+msgctxt "Languages::google_sitemap.text_select_storefront"
+msgid "To generate a sitemap, please select storefront first."
+msgstr "För att generera en sidkarta måste du först välja butik."
+
+msgctxt "Languages::sitemap_available_in_customer"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Sidkartan finns på denna URL: <a href=\"[sitemap_url]\">[sitemap_url]</a><br><br>Sikartan kan även nås på denna URL: <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+
+msgctxt "Languages::always"
+msgid "Always"
+msgstr "Alltid"
+
+msgctxt "Languages::hourly"
+msgid "Hourly"
+msgstr "Varje timme"
+
+msgctxt "Languages::daily"
+msgid "Daily"
+msgstr "Dagligen"
+
+msgctxt "Languages::weekly"
+msgid "Weekly"
+msgstr "Veckovis"
+
+msgctxt "Languages::monthly"
+msgid "Monthly"
+msgstr "Månadsvis"
+
+msgctxt "Languages::yearly"
+msgid "Yearly"
+msgstr "Årligen"
+
+msgctxt "Languages::never"
+msgid "Never"
+msgstr "Aldrig"
+
+msgctxt "Languages::google_sitemap.generate_map"
+msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "Sidkartan är inte genererad ännu. Gå till tilläggets inställningar och klicka på \"Återskapa sidkarta\" knappen"
+
+msgctxt "Languages::google_sitemap.map_generated"
+msgid "The sitemap was generated successfully"
+msgstr "Sidkartan har nu skapats"
+
+msgctxt "SettingsSections::google_sitemap::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::google_sitemap::information"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "SettingsOptions::google_sitemap::clear_url"
+msgid "Clear cache"
+msgstr "Rensa cacheminne"
+
+msgctxt "SettingsOptions::google_sitemap::site_setting"
+msgid "Homepage settings"
+msgstr "Startsidan"
+
+msgctxt "SettingsOptions::google_sitemap::site_change"
+msgid "Update frequency"
+msgstr "Uppdateringsfrekvens"
+
+msgctxt "SettingsOptions::google_sitemap::site_priority"
+msgid "Priority"
+msgstr "Prioritet"
+
+msgctxt "SettingsOptions::google_sitemap::products_setting"
+msgid "Products settings"
+msgstr "Produkter"
+
+msgctxt "SettingsOptions::google_sitemap::include_products"
+msgid "Include in sitemap"
+msgstr "Inkludera i sidkarta"
+
+msgctxt "SettingsOptions::google_sitemap::products_change"
+msgid "Update frequency"
+msgstr "Uppdateringsfrekvens"
+
+msgctxt "SettingsOptions::google_sitemap::products_priority"
+msgid "Priority"
+msgstr "Prioritet"
+
+msgctxt "SettingsOptions::google_sitemap::categories_setting"
+msgid "Categories settings"
+msgstr "Kategorier"
+
+msgctxt "SettingsOptions::google_sitemap::include_categories"
+msgid "Include in sitemap"
+msgstr "Inkludera i sidkarta"
+
+msgctxt "SettingsOptions::google_sitemap::categories_change"
+msgid "Update frequency"
+msgstr "Uppdateringsfrekvens"
+
+msgctxt "SettingsOptions::google_sitemap::categories_priority"
+msgid "Priority"
+msgstr "Prioritet"
+
+msgctxt "SettingsOptions::google_sitemap::pages_setting"
+msgid "Pages settings"
+msgstr "Sidor"
+
+msgctxt "SettingsOptions::google_sitemap::include_pages"
+msgid "Include in sitemap"
+msgstr "Inkludera i sidkarta"
+
+msgctxt "SettingsOptions::google_sitemap::pages_change"
+msgid "Update frequency"
+msgstr "Uppdateringsfrekvens"
+
+msgctxt "SettingsOptions::google_sitemap::pages_priority"
+msgid "Priority"
+msgstr "Prioritet"
+
+msgctxt "SettingsOptions::google_sitemap::extended_setting"
+msgid "Brand/Manufacturer feature pages settings"
+msgstr "Varumärke/tillverkare egenskapssidor"
+
+msgctxt "SettingsOptions::google_sitemap::include_extended"
+msgid "Include in sitemap"
+msgstr "Inkludera i sidkarta"
+
+msgctxt "SettingsOptions::google_sitemap::extended_change"
+msgid "Update frequency"
+msgstr "Uppdateringsfrekvens"
+
+msgctxt "SettingsOptions::google_sitemap::extended_priority"
+msgid "Priority"
+msgstr "Prioritet"
+
+msgctxt "SettingsOptions::google_sitemap::companies_setting"
+msgid "Companies settings"
+msgstr "Företag"
+
+msgctxt "SettingsOptions::google_sitemap::include_companies"
+msgid "Include in sitemap"
+msgstr "Inkludera i sidkarta"
+
+msgctxt "SettingsOptions::google_sitemap::companies_change"
+msgid "Update frequency"
+msgstr "Uppdateringsfrekvens"
+
+msgctxt "SettingsOptions::google_sitemap::companies_priority"
+msgid "Priority"
+msgstr "Prioritet"
+
+msgctxt "Languages::google_sitemap.export_progress_entry"
+msgid "[storefront]: [object]"
+msgstr "[storefront]: [object]"
+

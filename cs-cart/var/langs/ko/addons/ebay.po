@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/ebay.po\n"
+"X-Crowdin-File-ID: 6716\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::ebay"
+msgid "eBay synchronization"
+msgstr "이베이 동기화"
+
+msgctxt "Addons::description::ebay"
+msgid "Synchronizes products and orders with an eBay account."
+msgstr "eBay 계정과 제품 및 주문을 동기화합니다."
+
+msgctxt "Languages::paypal_required_and_selected"
+msgid "For the selected eBay category PayPal payment method is required. It is selected automatically."
+msgstr "선택한 eBay 카테고리의 경우 PayPal 결제 방법이 필요합니다. 자동으로 선택됩니다."
+
+msgctxt "Languages::wait_for_shippings_cached"
+msgid "Wait for shippings cached. Mean time to 3 minutes"
+msgstr "배송이 캐시될 때까지 기다립니다. 평균 시간 3분"
+
+msgctxt "Languages::ebay_duration"
+msgid "Listing duration"
+msgstr "상장 기간"
+
+msgctxt "Languages::list_products_on"
+msgid "List products on"
+msgstr "에 제품 나열"
+
+msgctxt "Languages::private_listing"
+msgid "Private listing"
+msgstr "비공개 목록"
+
+msgctxt "Languages::use_as_default"
+msgid "Use as default"
+msgstr "기본값으로 사용"
+
+msgctxt "Languages::ebay_root_category"
+msgid "eBay Root category"
+msgstr "이베이 루트 카테고리"
+
+msgctxt "Languages::ebay_root_sec_category"
+msgid "eBay Secondary root category"
+msgstr "eBay 보조 루트 범주"
+
+msgctxt "Languages::ebay_sec_category"
+msgid "eBay Secondary category"
+msgstr "eBay 보조 카테고리"
+
+msgctxt "Languages::quantity_to_sell"
+msgid "Quantity to sell"
+msgstr "판매 수량"
+
+msgctxt "Languages::just_one"
+msgid "Just one"
+msgstr "딱 하나만"
+
+msgctxt "Languages::more_than_one"
+msgid "More than one"
+msgstr "하나 이상"
+
+msgctxt "Languages::use_main_image"
+msgid "Export product images"
+msgstr "제품 이미지 내보내기"
+
+msgctxt "Languages::selling_method"
+msgid "Selling method"
+msgstr "판매 방법"
+
+msgctxt "Languages::online_auction"
+msgid "Online auction"
+msgstr "온라인 경매"
+
+msgctxt "Languages::buy_it_now"
+msgid "Buy it now"
+msgstr "지금 구매하세요"
+
+msgctxt "Languages::ebay_requests"
+msgid "eBay requests"
+msgstr "이베이 요청"
+
+msgctxt "Languages::log_type_ebay_requests"
+msgid "eBay requests"
+msgstr "이베이 요청"
+
+msgctxt "Languages::errors"
+msgid "Errors"
+msgstr "에러"
+
+msgctxt "Languages::log_action_all"
+msgid "All"
+msgstr "모두"
+
+msgctxt "Languages::error_code"
+msgid "Error code"
+msgstr "에러 코드"
+
+msgctxt "Languages::editing_ebay_template"
+msgid "Editing eBay template"
+msgstr "eBay 템플릿 편집"
+
+msgctxt "Languages::new_ebay_template"
+msgid "New eBay template"
+msgstr "새로운 eBay 템플릿"
+
+msgctxt "Languages::ebay_templates"
+msgid "eBay templates"
+msgstr "이베이 템플릿"
+
+msgctxt "Languages::ebay_registration_notice"
+msgid "In order to get this information you need first to register your Developer account <a href=\"https://developer.ebay.com/join/\">here</a>.<br /><br />After you registered, you will receive the \"DevID\", \"AppID\" and \"CertID\" keys. So you have to generate the special \"Token\" in order to use this API. In order to generate the \"Token\", please click the \"Get a User Token\" link at the bottom of \"My account\" page (tools box) or follow <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">this link</a>.<br /><br />Please complete this form with the given credentials."
+msgstr "이 정보를 얻으려면 먼저 여기</a>에서 개발자 계정 <a href=\"https://developer.ebay.com/join/\">을 등록해야 합니다.<br /><br />등록한 후 \"DevID\", \"AppID\" 및 \"CertID\" 키를 받게 됩니다. 따라서 이 API를 사용하려면 특별한 \"토큰\"을 생성해야 합니다. \"토큰\"을 생성하려면 \"내 계정\" 페이지(도구 상자) 하단에 있는 \"사용자 토큰 가져오기\" 링크를 클릭하거나 <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">이 링크</a>를 따르십시오.<br /><br />주어진 자격 증명으로 이 양식을 작성하십시오."
+
+msgctxt "Languages::add_ebay_template"
+msgid "Add eBay template"
+msgstr "이베이 템플릿 추가"
+
+msgctxt "Languages::shipping_type"
+msgid "Shipping type"
+msgstr "배송 유형"
+
+msgctxt "Languages::flat"
+msgid "Flat"
+msgstr "평평한"
+
+msgctxt "Languages::calculated"
+msgid "Calculated"
+msgstr "계획된"
+
+msgctxt "Languages::domestic_shipping_service"
+msgid "Domestic shipping service"
+msgstr "국내 배송 서비스"
+
+msgctxt "Languages::international_shipping_service"
+msgid "International shipping service"
+msgstr "국제 배송 서비스"
+
+msgctxt "Languages::dispatch_days"
+msgid "Dispatch days"
+msgstr "파견일"
+
+msgctxt "Languages::ebay_payment_methods"
+msgid "eBay payment methods"
+msgstr "이베이 결제 방법"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal email"
+msgstr "페이팔 이메일"
+
+msgctxt "Languages::ebay.paypal_email"
+msgid "PayPal email"
+msgstr "페이팔 이메일"
+
+msgctxt "Languages::ebay_category_condition"
+msgid "eBay category condition"
+msgstr "이베이 카테고리 조건"
+
+msgctxt "Languages::ebay_associated_category"
+msgid "Associated eBay category"
+msgstr "관련 eBay 카테고리"
+
+msgctxt "Languages::ebay_category_preferences"
+msgid "eBay Category <br> Preferences"
+msgstr "eBay 카테고리 <br> 기본 설정"
+
+msgctxt "Languages::ebay_category_preferences_tooltip"
+msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
+msgstr "템플릿의 eBay 카테고리를 사용하거나 스토어의 이 카테고리에 속하는 제품에 다른 eBay 카테고리를 지정하십시오."
+
+msgctxt "Languages::ebay_template"
+msgid "eBay template"
+msgstr "이베이 템플릿"
+
+msgctxt "Languages::ebay_orders"
+msgid "eBay orders"
+msgstr "이베이 주문"
+
+msgctxt "Languages::get_ebay_orders"
+msgid "Get eBay orders"
+msgstr "이베이 주문 받기"
+
+msgctxt "Languages::ebay"
+msgid "eBay"
+msgstr "이베이"
+
+msgctxt "Languages::wait_for_categories_cached"
+msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "카테고리가 캐시될 때까지 기다리십시오. 약 3분이 소요됩니다. 그 전에는 배송, 지불 및 반품 정책 탭이 비어 있습니다."
+
+msgctxt "Languages::Some_parameters_is_missing"
+msgid "Some parameters is missing. Please check ebay add-on settings"
+msgstr "일부 매개변수가 누락되었습니다. eBay 애드온 설정을 확인하세요."
+
+msgctxt "Languages::ebay_success_products_notice"
+msgid "Products have been successfully exported."
+msgstr "제품을 성공적으로 내보냈습니다."
+
+msgctxt "Languages::ebay_success_orders_notice"
+msgid "Orders have been successfully imported."
+msgstr "주문을 성공적으로 가져왔습니다."
+
+msgctxt "Languages::ebay_failed_orders_notice"
+msgid "An error occurred during order import."
+msgstr "주문 가져오기 중 오류가 발생했습니다."
+
+msgctxt "Languages::exporting_products_to_ebay"
+msgid "Exporting products to eBay."
+msgstr "eBay에 제품 수출."
+
+msgctxt "Languages::ebay_default_template_not_found"
+msgid "Default template for the [company_name] was not found."
+msgstr "[company_name] 에 대한 기본 템플릿을 찾을 수 없습니다."
+
+msgctxt "Languages::delete_this_template"
+msgid "Delete this template"
+msgstr "이 템플릿 삭제"
+
+msgctxt "Languages::test_version"
+msgid "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
+msgstr "이 모듈의 테스트 버전을 사용 중이며 유효 기간은 2013년 12월 7일입니다. 테스트 기간이 끝나면 모듈의 기능을 사용할 수 없습니다. <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">헬프데스크</a>을 통해 정식 버전을 구입할 수 있습니다."
+
+msgctxt "Languages::ttc_list_products_on"
+msgid "Choose the region of the eBay auction for which your site will work"
+msgstr "귀하의 사이트가 작동할 eBay 경매 지역을 선택하십시오."
+
+msgctxt "Languages::ttc_use_as_default"
+msgid "Use this template for products with no template defined"
+msgstr "템플릿이 정의되지 않은 제품에 이 템플릿 사용"
+
+msgctxt "Languages::ttc_ebay_root_category"
+msgid "The product root category at eBay"
+msgstr "eBay의 제품 루트 카테고리"
+
+msgctxt "Languages::ttc_ebay_root_sec_category"
+msgid "The additional product root category at eBay"
+msgstr "eBay의 추가 제품 루트 카테고리"
+
+msgctxt "Languages::ebay_second_category_tooltip"
+msgid "The additional product subcategory at eBay"
+msgstr "eBay의 추가 제품 하위 범주"
+
+msgctxt "Languages::ttc_shipping_type"
+msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
+msgstr "계산된 배송 유형을 사용할지 고정 배송 유형을 사용할지 선택합니다. 계산됨 - 배송료는 고객의 우편번호, 패키지 무게, 제공하는 배송 서비스 유형에 따라 계산됩니다. 고정 - 배송비가 고정됩니다."
+
+msgctxt "Languages::ttc_domestic_shipping_service"
+msgid "Choose the shipping service that will be used for delivering products in the domestic region"
+msgstr "국내 지역에서 제품을 배송할 때 사용할 배송 서비스를 선택합니다."
+
+msgctxt "Languages::ttc_international_shipping_service"
+msgid "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "전 세계적으로 제품을 배송하는 데 사용할 배송 서비스를 선택하십시오."
+
+msgctxt "Languages::ttc_dispatch_days"
+msgid "The period of product delivery to a customer  (in days)"
+msgstr "고객에게 제품을 배송하는 기간(일)"
+
+msgctxt "Languages::ttc_ebay_payment_methods"
+msgid "Payment method(s), available for a template"
+msgstr "템플릿에 사용할 수 있는 결제 방법"
+
+msgctxt "Languages::ttc_ebay.paypal_email"
+msgid "Define login of the PayPal account"
+msgstr "PayPal 계정 로그인 정의"
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "Define login of the PayPal account"
+msgstr "PayPal 계정 로그인 정의"
+
+msgctxt "Languages::eBay_category_condition_tooltip"
+msgid "Define login of the PayPal account"
+msgstr "PayPal 계정 로그인 정의"
+
+msgctxt "Languages::ttc_free_shipping"
+msgid "Choose, if you want free shipping to be applied to products in a template"
+msgstr "템플릿의 제품에 무료 배송을 적용하려면 선택하세요."
+
+msgctxt "Languages::ttc_shipping_cost"
+msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
+msgstr "배송 유형이 고정(eBay의 배송 및 취급 설정)인 경우 한 항목에 대한 고정 배송료입니다."
+
+msgctxt "Languages::ttc_shipping_cost_additional"
+msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
+msgstr "주문의 각 추가 항목에 대한 배송료(eBay의 각 추가 항목 설정)"
+
+msgctxt "Languages::shipping_cost_additional"
+msgid "Additional shipping fee"
+msgstr "추가 배송료"
+
+msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
+msgid "The storefront, for which a template will be created"
+msgstr "템플릿이 생성될 상점 첫화면"
+
+msgctxt "Languages::shipping_cost_cannot_be_null"
+msgid "Shipping cost must be non-zero"
+msgstr "배송비는 0이 아니어야 합니다."
+
+msgctxt "Languages::ebay_title"
+msgid "eBay product title"
+msgstr "이베이 제품명"
+
+msgctxt "Languages::ebay_title_tooltip"
+msgid "eBay title the title of the product to be used at eBay"
+msgstr "eBay 제목 eBay에서 사용할 제품의 제목"
+
+msgctxt "Languages::ebay_description"
+msgid "eBay product description"
+msgstr "이베이 제품 설명"
+
+msgctxt "Languages::ebay_description_tooltip"
+msgid "eBay description the description of the product to be used at eBay"
+msgstr "eBay 설명 eBay에서 사용할 제품에 대한 설명"
+
+msgctxt "Languages::override"
+msgid "Redefinition of the product name and description on eBay"
+msgstr "eBay에서 제품 이름 및 설명 재정의"
+
+msgctxt "Languages::override_tooltip"
+msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
+msgstr "원래 제품 이름과 설명을 eBay 제품 제목 및 eBay 제품 설명 필드에 지정된 것으로 바꾸려면 선택하십시오."
+
+msgctxt "Languages::return_policy"
+msgid "Return Policy"
+msgstr "반품 정책"
+
+msgctxt "Languages::ttc_return_policy"
+msgid "Choose whether returns are allowed or not for products grouped under this template"
+msgstr "이 템플릿에 따라 그룹화된 제품에 대해 반품을 허용할지 여부를 선택합니다."
+
+msgctxt "Languages::returns_accepted"
+msgid "Returns Accepted"
+msgstr "반품 접수"
+
+msgctxt "Languages::no_returns_accepted"
+msgid "No returns accepted"
+msgstr "반품 불가"
+
+msgctxt "Languages::contact_time"
+msgid "After receiving the item, your buyer should contact you within"
+msgstr "항목을 받은 후 구매자는 이내에 연락해야 합니다"
+
+msgctxt "Languages::ttc_contact_time"
+msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
+msgstr "구매자가 제품을 받았는지 확인하기 위해 귀하에게 연락해야 하는 기간을 선택하십시오."
+
+msgctxt "Languages::refund_method"
+msgid "Refund will be given as"
+msgstr "다음과 같이 환불됩니다."
+
+msgctxt "Languages::ttc_refund_method"
+msgid "Choose the action that will replace the return, if it is not allowed"
+msgstr "허용되지 않는 경우 반품을 대체할 조치를 선택하십시오."
+
+msgctxt "Languages::money_back"
+msgid "Money Back"
+msgstr "환불"
+
+msgctxt "Languages::money_back_or_replace"
+msgid "Money back or replacement (buyer's choice)"
+msgstr "환불 또는 교체(구매자 선택)"
+
+msgctxt "Languages::money_back_or_exchange"
+msgid "Money back or exchange (buyer's choice)"
+msgstr "환불 또는 교환(구매자 선택)"
+
+msgctxt "Languages::cost_paid_by"
+msgid "Return shipping will be paid by"
+msgstr "반품 배송료는"
+
+msgctxt "Languages::ttc_cost_paid_by"
+msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
+msgstr "반품 구매 배송비를 누가 부담할지 선택하세요 — 판매자 또는 구매자"
+
+msgctxt "Languages::seller"
+msgid "Seller"
+msgstr "파는 사람"
+
+msgctxt "Languages::buyer"
+msgid "Buyer"
+msgstr "사는 사람"
+
+msgctxt "Languages::return_policy_descr"
+msgid "Policy description"
+msgstr "정책 설명"
+
+msgctxt "Languages::ttc_return_policy_descr"
+msgid "Write the detailed description of your return policy here"
+msgstr "여기에 반품 정책에 대한 자세한 설명을 작성하세요."
+
+msgctxt "Languages::large_envelope"
+msgid "Large envelope"
+msgstr "큰 봉투"
+
+msgctxt "Languages::large_package"
+msgid "Large package"
+msgstr "대형 패키지"
+
+msgctxt "Languages::package_type_tooltip"
+msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
+msgstr "패키지 유형을 모르는 경우 \"대형 패키지\" 옵션을 선택하십시오. 가장 정확한 비용을 보장하기 위해 정확한 패키지 치수를 입력하라는 메시지가 표시됩니다."
+
+msgctxt "Languages::product_out_of_weight"
+msgid "Products with the [ids] id were not exported because their weight equals zero."
+msgstr "ID가 [ids] 인 제품은 무게가 0이기 때문에 내보내지 않았습니다."
+
+msgctxt "Languages::exported_to_ebay"
+msgid "Exported to eBay"
+msgstr "이베이에 수출"
+
+msgctxt "Languages::revised_after_the_latest_export"
+msgid "Revised after the latest export"
+msgstr "최신 내보내기 이후 수정됨"
+
+msgctxt "Languages::exporting_images_to_ebay"
+msgid "Exporting product \"[product]\" images to eBay"
+msgstr "제품 \"[product]\" 이미지를 eBay로 내보내기"
+
+msgctxt "Languages::ebay_package"
+msgid "Package/thick envelope"
+msgstr "패키지/두꺼운 봉투"
+
+msgctxt "Languages::ebay_cant_remove_template"
+msgid "You don't have permissions to remove some of the templates as they belong to another owner."
+msgstr "다른 소유자에게 속한 템플릿 중 일부를 삭제할 권한이 없습니다."
+
+msgctxt "Languages::ebay_commercial_using_title"
+msgid "Activate add-on"
+msgstr "추가 기능 활성화"
+
+msgctxt "Languages::ebay_templates_not_found"
+msgid "eBay templates not found"
+msgstr "eBay 템플릿을 찾을 수 없습니다"
+
+msgctxt "SettingsSections::ebay::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::ebay::notice"
+msgid "Notice"
+msgstr "알아채다"
+
+msgctxt "SettingsOptions::ebay::dev_id"
+msgid "eBay DevID"
+msgstr "이베이 DevID"
+
+msgctxt "SettingsOptions::ebay::app_id"
+msgid "eBay AppID"
+msgstr "이베이 앱ID"
+
+msgctxt "SettingsOptions::ebay::cert_id"
+msgid "eBay CertID"
+msgstr "이베이 인증서 ID"
+
+msgctxt "SettingsOptions::ebay::token"
+msgid "eBay User Token"
+msgstr "이베이 사용자 토큰"
+
+msgctxt "SettingsOptions::ebay::listing_mode"
+msgid "Sandbox / Production"
+msgstr "샌드박스 / 프로덕션"
+
+msgctxt "SettingsOptions::ebay::site_id"
+msgid "Default site"
+msgstr "기본 사이트"
+
+msgctxt "SettingsOptions::ebay::ebay_timestamp"
+msgid "eBay timestamp"
+msgstr "이베이 타임스탬프"
+
+msgctxt "SettingsVariants::ebay::listing_mode::S"
+msgid "Sandbox"
+msgstr "모래 상자"
+
+msgctxt "SettingsVariants::ebay::listing_mode::P"
+msgid "Production"
+msgstr "생산"
+
+msgctxt "Languages::wait_for_shippings_cached"
+msgid "Please wait, shipping information is loaded."
+msgstr "잠시만 기다려 주십시오. 배송 정보가 로드되었습니다."
+
+msgctxt "Languages::privileges.view_ebay_templates"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::privileges.manage_ebay_templates"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.ebay_templates"
+msgid "eBay templates"
+msgstr "이베이 템플릿"
+
+msgctxt "Languages::ebay_price"
+msgid "eBay product price"
+msgstr "이베이 제품 가격"
+
+msgctxt "Languages::override_price"
+msgid "Redefine price on eBay"
+msgstr "eBay에서 가격 재정의"
+
+msgctxt "Languages::ebay_product_status"
+msgid "eBay product status"
+msgstr "이베이 제품 상태"
+
+msgctxt "Languages::ebay_product_status_not_exported"
+msgid "Not exported"
+msgstr "내보내지 않음"
+
+msgctxt "Languages::ebay_product_status_active"
+msgid "Active"
+msgstr "활동적인"
+
+msgctxt "Languages::ebay_product_status_closed"
+msgid "Ended"
+msgstr "종료"
+
+msgctxt "Languages::ebay_success_exported_product_notice"
+msgid "Product was successfully exported to eBay"
+msgstr "제품이 eBay로 성공적으로 수출되었습니다."
+
+msgctxt "Languages::ebay_success_close_product_notice"
+msgid "Product successfully ended on eBay"
+msgstr "제품이 eBay에서 성공적으로 종료되었습니다."
+
+msgctxt "Languages::ebay_export_failed"
+msgid "Product export failed"
+msgstr "제품 내보내기 실패"
+
+msgctxt "Languages::ebay_export_success"
+msgid "Product export successful"
+msgstr "제품 내보내기 성공"
+
+msgctxt "Languages::ebay_export_failed_msg"
+msgid "Some of the products have not been exported to eBay.<br> Check the logs to see what products weren't exported and the reason why it happened."
+msgstr "일부 제품은 eBay로 수출되지 않았습니다.<br> 로그를 확인하여 어떤 제품이 내보내지지 않았는지, 왜 그런 일이 발생했는지 확인하세요."
+
+msgctxt "Languages::ebay_export_success_msg"
+msgid "All the selected products have been exported to eBay without errors."
+msgstr "선택한 모든 제품은 오류 없이 eBay로 내보내졌습니다."
+
+msgctxt "Languages::ebay_end_summary_title"
+msgid "Product ending summary"
+msgstr "제품 종료 요약"
+
+msgctxt "Languages::ebay_export_product"
+msgid "Exporting product \"[product]\" to eBay"
+msgstr "제품 \"[product]\"을 eBay로 내보내기"
+
+msgctxt "Languages::ebay_export_products"
+msgid "Exporting products \"[product]\" to eBay"
+msgstr "eBay에 \"[product]\" 제품 수출"
+
+msgctxt "Languages::ebay_override"
+msgid "Redefinition of the product name and description on eBay"
+msgstr "eBay에서 제품 이름 및 설명 재정의"
+
+msgctxt "Languages::ebay_end_products"
+msgid "Ending products \"[product]\" on eBay"
+msgstr "eBay의 최종 제품 \"[product]\""
+
+msgctxt "Languages::ebay_count_product_successfully_exported"
+msgid "Products successfully exported:"
+msgstr "성공적으로 내보낸 제품:"
+
+msgctxt "Languages::ebay_count_product_fail_exported"
+msgid "Products export failed:"
+msgstr "제품 내보내기 실패:"
+
+msgctxt "Languages::ebay_count_product_successfully_ended"
+msgid "Successfully ended products:"
+msgstr "성공적으로 종료된 제품:"
+
+msgctxt "Languages::ebay_count_product_fail_ended"
+msgid "Products ending failed:"
+msgstr "제품 종료 실패:"
+
+msgctxt "Languages::ebay_end_products_on_ebay"
+msgid "End eBay sales"
+msgstr "이베이 판매 종료"
+
+msgctxt "Languages::products_assigned"
+msgid "Products assigned"
+msgstr "할당된 제품"
+
+msgctxt "Languages::ttc_products_assigned"
+msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
+msgstr "eBay 템플릿을 한 번에 여러 제품에 적용할 수도 있습니다. 제품 → 제품으로 이동하여 템플릿을 적용할 제품의 체크박스를 체크한 후 톱니바퀴 버튼을 누르고 선택 항목 편집을 선택하세요. 팝업 창에서 eBay 템플릿 확인란만 선택한 상태로 두고 수정을 클릭합니다."
+
+msgctxt "Languages::ebay_template_category_product"
+msgid "Use eBay template's category"
+msgstr "eBay 템플릿 카테고리 사용"
+
+msgctxt "Languages::ebay_set_manualy"
+msgid "Assign a different eBay category"
+msgstr "다른 eBay 카테고리 지정"
+
+msgctxt "Languages::ebay_end_template_on_ebay"
+msgid "End eBay sales"
+msgstr "eBay 판매 종료"
+
+msgctxt "Languages::ebay_action_export_product"
+msgid "Export product"
+msgstr "수출 제품"
+
+msgctxt "Languages::ebay_action_update_product"
+msgid "Update product"
+msgstr "제품 업데이트"
+
+msgctxt "Languages::ebay_action_upload_image_product"
+msgid "Upload the product image"
+msgstr "제품 이미지 업로드"
+
+msgctxt "Languages::ebay_action_get_status_product"
+msgid "Get product status"
+msgstr "제품 상태 가져오기"
+
+msgctxt "Languages::ebay_action_end_product"
+msgid "Ending sale on eBay"
+msgstr "eBay에서 판매 종료"
+
+msgctxt "Languages::ebay_show_logs"
+msgid "Show logs"
+msgstr "로그 표시"
+
+msgctxt "Languages::ebay_international_shipping_cost"
+msgid "International shipping fee"
+msgstr "국제배송비"
+
+msgctxt "Languages::ebay_international_shipping_cost_tooltip"
+msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
+msgstr "배송 유형이 고정(eBay의 배송 및 취급 설정)인 경우 한 항목에 대한 고정 배송료입니다."
+
+msgctxt "Languages::ebay_international_shipping_cost_additional_tooltip"
+msgid "International shipping fee for each additional item in the order (the Each additional item setting on eBay)"
+msgstr "주문의 각 추가 품목에 대한 국제 배송료(eBay의 각 추가 품목 설정)"
+
+msgctxt "Languages::ebay_international_shipping_cost_additional"
+msgid "Additional international shipping fee"
+msgstr "추가 국제 배송료"
+
+msgctxt "Languages::ebay_logs"
+msgid "eBay logs"
+msgstr "이베이 로그"
+
+msgctxt "Languages::ebay_products"
+msgid "eBay products"
+msgstr "이베이 제품"
+
+msgctxt "Languages::ebay_sync_products_status"
+msgid "Get product status from eBay"
+msgstr "eBay에서 제품 상태 가져오기"
+
+msgctxt "Languages::ebay_get_product_status"
+msgid "Getting product \"[product]\" status from eBay"
+msgstr "eBay에서 제품 \"[product]\" 상태 가져오기"
+
+msgctxt "Languages::ebay_update_status_summary_title"
+msgid "Summary: Product status retrieval from eBay"
+msgstr "요약: eBay에서 제품 상태 검색"
+
+msgctxt "Languages::ebay_count_product_successfully_status_updated"
+msgid "Products with updated statuses:"
+msgstr "상태가 업데이트된 제품:"
+
+msgctxt "Languages::ebay_count_product_fail_status_updated"
+msgid "Products with status update errors:"
+msgstr "상태 업데이트 오류가 있는 제품:"
+
+msgctxt "Languages::ebay_count_product_skip"
+msgid "Products skipped:"
+msgstr "건너뛴 제품:"
+
+msgctxt "Languages::ebay_product_not_exported"
+msgid "Product \"[product]\" was not exported on eBay"
+msgstr "제품 \"[product]\"이(가) eBay에서 내보내지지 않았습니다."
+
+msgctxt "Languages::ebay_product_already_sales_closed"
+msgid "Sales of product \"[product]\" were already completed on eBay"
+msgstr "제품 \"[product]\"의 판매는 이미 eBay에서 완료되었습니다."
+
+msgctxt "Languages::ebay_failed_request"
+msgid "Failed request to [url]. Http status code: [code]"
+msgstr "[url]에 대한 요청이 실패했습니다. HTTP 상태 코드: [code]"
+
+msgctxt "Languages::ebay_package_type"
+msgid "eBay package type"
+msgstr "이베이 패키지 유형"
+
+msgctxt "Languages::ebay_category"
+msgid "eBay Category"
+msgstr "이베이 카테고리"
+
+msgctxt "Languages::ebay_region"
+msgid "eBay region"
+msgstr "이베이 지역"
+
+msgctxt "Languages::ebay_synchronization_title"
+msgid "Synchronizing eBay data"
+msgstr "eBay 데이터 동기화"
+
+msgctxt "Languages::ebay_synchronization_regions"
+msgid "Synchronizing eBay regions"
+msgstr "eBay 지역 동기화"
+
+msgctxt "Languages::ebay_synchronization_categories"
+msgid "Synchronizing eBay categories (it may take around 3 minutes)"
+msgstr "eBay 카테고리 동기화(약 3분 소요)"
+
+msgctxt "Languages::ebay_synchronization_shipping_services"
+msgid "Synchronizing eBay shipping services"
+msgstr "eBay 배송 서비스 동기화"
+
+msgctxt "Languages::ebay_synchronization_category_features"
+msgid "Synchronizing eBay category features"
+msgstr "eBay 카테고리 기능 동기화"
+
+msgctxt "Languages::ebay_changed_region_message"
+msgid "After you change eBay region, please check other settings.<br>If your template's Shipping type is set to Calculated, change your primary currency (Administration → Currencies), company address (Settings → Company) and weight measurement units (Settings → General) accordingly.<br>If your template's Shipping type is set to Flat, change your primary currency (Administration → Currencies)."
+msgstr "eBay 지역을 변경한 후 다른 설정을 확인하십시오.<br>템플릿의 배송 유형이 계산됨으로 설정된 경우 기본 통화(관리 → 통화), 회사 주소(설정 → 회사) 및 무게 측정 단위(설정 → 일반)를 적절하게 변경합니다.<br>템플릿의 배송 유형이 고정으로 설정된 경우 기본 통화를 변경합니다(관리 → 통화)."
+
+msgctxt "Languages::export_products_to_ebay"
+msgid "Export/Revise products on eBay"
+msgstr "eBay에서 제품 수출/개정"
+
+msgctxt "Languages::ebay_product_identifier_upc"
+msgid "UPC"
+msgstr "UPC"
+
+msgctxt "Languages::ebay_product_identifier_ean"
+msgid "EAN"
+msgstr "이안"
+
+msgctxt "Languages::ebay_product_identifier_isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::ebay_product_identifier_mpn"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::ebay_product_identifier_brand"
+msgid "Brand"
+msgstr "상표"
+
+msgctxt "Languages::ebay_product_identifiers"
+msgid "Product identifiers"
+msgstr "제품 식별자"
+
+msgctxt "Languages::ebay_product"
+msgid "Product"
+msgstr "제품"
+
+msgctxt "Languages::ebay_product_variation"
+msgid "Option combination"
+msgstr "옵션 조합"
+
+msgctxt "Languages::ebay_none"
+msgid "None"
+msgstr "없음"
+
+msgctxt "Languages::ebay_does_not_apply"
+msgid "Does not apply"
+msgstr "적용되지 않습니다"
+
+msgctxt "Languages::ebay_product_code"
+msgid "Product code"
+msgstr "제품 코드"
+
+msgctxt "Languages::ebay_product_feature"
+msgid "Product feature"
+msgstr "제품 기능"
+
+msgctxt "Languages::ebay_combination_code"
+msgid "Combination code"
+msgstr "조합 코드"
+
+msgctxt "Languages::ebay_synchronization_region_details"
+msgid "Synchronizing eBay region details"
+msgstr "eBay 지역 세부 정보 동기화"
+
+msgctxt "Languages::ebay_feature_group_product_identifiers"
+msgid "eBay product identifiers"
+msgstr "eBay 제품 식별자"
+

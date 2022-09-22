@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "HiDPI viser hjælp"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Støtte for Retina skærme"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Generel"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Overvej alle uploadede billeder HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Overvej alle uploadede billeder HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Sæt afkrydsningsfelterne \"Jeg uploader et HiDPI-billede\" som standard alle steder, hvor billeder uploades. Du vil være i stand til at fjerne markeringen i disse afkrydsningsfelter, når det er nødvendigt."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "HiDPI support er aktiveret"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Jeg uploader et HiDPI-billede."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Hvis dette afkrydsningsfelt er markeret, vil kildebilledet blive vist to gange nedskaleret. Denne indstilling påvirker kun visningen af kildebilledet og ikke dets thumbnail. Hvis du ønsker, at et billede skal vises i den originale størrelse, skal du fjerne markeringen i dette afkrydsningsfelt."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Billedgendannelse"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "Den tidligere version af HiDPI-skærmstøttetilføjelsen krympede de uploadede billeder. Det er der ikke behov for nu. Men for at få dine billeder til at se flotte og skarpe ud, skal du klikke på Gendan."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Gendan"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>OBS!</strong> Denne procedure er ikke-reversibel: Når du vender tilbage til opgraderingen, vil billedgendannelsesmanipulationerne ikke blive vendt tilbage. Så sørg for at lave en sikkerhedskopi. Proceduren kan tage noget tid - det afhænger af antallet af billeder i din butik."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Nogle af de gamle billeder i din butik er stadig af lav kvalitet. For at bruge den højest mulige kvalitet skal du <a href=\"[convert_url]\">gendanne billeder i høj kvalitet</a>. Processen er automatisk."
+

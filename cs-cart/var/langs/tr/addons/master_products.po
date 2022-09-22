@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.15.1/addons/master_products.po\n"
+"X-Crowdin-File-ID: 6724\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "Satıcılar için Ortak Ürünler"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "Tek bir ürün tabanı oluşturmanıza olanak tanır: satıcılar, mevcut ürünlerden hangisini satacaklarını seçer."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "Genel"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "Satıcıların ürün oluşturmasına izin verin"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "İzin vermezseniz, satıcılar yalnızca pazara eklediğiniz ürünleri satabilecektir."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "Varsayılan bir ortak ürün satın alın"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "Ürünün (yalnızca tekliflerinin değil) yanında \"Sepete ekle\" düğmesi görünecek ve mevcut en iyi teklifi seçecektir."
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "Bu ürünün satıcıları"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "Bu ürünün satıcıları"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "Bir ürünün satıcıları"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "Satıcıların satabileceği ürünler"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "Satılan ürünler"
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "Tüm ürünler"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "Katalogdan ürün ekle"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "Yeni ürün oluştur"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "Bunu sat"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "Satılık"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "Seçileni sat"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "Ürünlerinize [n] ürün eklendi| Ürünlerinize[n] ürün eklendi"
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "Ortak ürün"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "Tüm satıcılar (ortak ürün)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "İhracat yapılacak ürünler"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "[formatted_price]itibaren"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "Satıcı teklifi"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "Tüm teklifleri görün"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "Satıcı varyasyon teklifi"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "<b>Stokta olmayan ürünleri göster</b> ayarını değiştirdiniz. Lütfen tüm katalog öğelerinizi <a href=\"[url]\">dışa aktarın</a> dişli düğmesindeki \"Bulunan ürünleri dışa aktar\" seçeneğini kullanın) ve yeniden içe aktarın. Bu, ayarı tekrar değiştirene kadar ortak ürünlerin görüntülenen fiyatının her zaman doğru kalmasını sağlayacaktır."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "Na kaydet"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "Yalnızca satıcılar ürün kombinasyonları ekleyebilir. Ortak bir ürüne kombinasyon eklemek için, önce onu satan satıcılardan biri olarak oturum açın."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "Ortak bir ürün için kombinasyon eklemek için <a class=\"cm-post\" href=\"[href]\">, önce</a> satmaya başlayın."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "Bazı satıcılar hala sattığı için ürünün sahibi değiştirilemedi. Bu ürünün sahibini değiştirmeden önce lütfen <a href=\"[vendors_offers_link]\" target=\"_blank\">satıcının teklifini</a> silin."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "Yalnızca satıcılar ürün paketleri ekleyebilir. Ortak bir ürün için paket eklemek için, önce onu satan satıcılardan biri olarak oturum açın."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>ve diğer teklifler</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "Sepete gerekli sayıda ürün eklemek için birden fazla satıcıdan gelen teklifleri eklememiz gerekiyordu. Bazıları farklı fiyatlarla gelebilir."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "Ürün bulundu ama yaygın bir ürün değil. Lütfen ortak ürün kimliğini belirtin."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "Ürün bulundu ancak satıcının ürünü değil. Lütfen satıcının ürün kimliğini belirtin."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "Satıcının ürün araması için ortak ürün kimliği belirtilmelidir."
+

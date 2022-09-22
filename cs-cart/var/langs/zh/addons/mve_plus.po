@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/mve_plus.po\n"
+"X-Crowdin-File-ID: 6612\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::mve_plus"
+msgid "Multi-Vendor Plus Functionality"
+msgstr "多供应商加功能"
+
+msgctxt "Addons::description::mve_plus"
+msgid "Enables the functionality available only in the Multi-Vendor Plus edition."
+msgstr "启用仅在 Multi-Vendor Plus 版本中可用的功能。"
+

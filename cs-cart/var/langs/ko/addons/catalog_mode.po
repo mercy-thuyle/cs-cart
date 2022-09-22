@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/catalog_mode.po\n"
+"X-Crowdin-File-ID: 6568\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::catalog_mode"
+msgid "Catalog mode"
+msgstr "카탈로그 모드"
+
+msgctxt "Addons::description::catalog_mode"
+msgid "Allows you to use the store as a product catalog"
+msgstr "상점을 제품 카탈로그로 사용할 수 있습니다."
+
+msgctxt "Languages::catalog_mode"
+msgid "Catalog Mode"
+msgstr "카탈로그 모드"
+
+msgctxt "Languages::text_catalog_mode_zero_price_action_notice"
+msgid "In order that the \"Buy now\" button could be displayed on the product details page, please set \"Zero price action\" as \"Allow customers to add the product to cart\"."
+msgstr "\"지금 구매\" 버튼이 제품 세부 정보 페이지에 표시되도록 하려면 \"제로 가격 조치\"를 \"고객이 제품을 장바구니에 추가하도록 허용\"으로 설정하십시오."
+
+msgctxt "Languages::buy_now_url"
+msgid "Buy Now URL"
+msgstr "지금 구매 URL"
+
+msgctxt "SettingsSections::catalog_mode::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::catalog_mode::main_store_mode"
+msgid "Store operation mode"
+msgstr "매장 운영 모드"
+
+msgctxt "SettingsOptions::catalog_mode::add_to_cart_empty_buy_now_url"
+msgid "Allow purchasing products with empty Buy Now URL"
+msgstr "지금 구매 URL이 비어 있는 제품 구매 허용"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::catalog"
+msgid "Catalog"
+msgstr "목록"
+
+msgctxt "SettingsVariants::catalog_mode::main_store_mode::store"
+msgid "Store"
+msgstr "가게"
+

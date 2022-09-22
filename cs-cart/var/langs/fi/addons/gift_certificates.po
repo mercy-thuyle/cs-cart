@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/gift_certificates.po\n"
+"X-Crowdin-File-ID: 6594\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::gift_certificates"
+msgid "Gift certificates"
+msgstr "Lahjakortit"
+
+msgctxt "Addons::description::gift_certificates"
+msgid "Adds a built-in gift certificate system"
+msgstr "Lisää sisäänrakennetun lahjakorttijärjestelmän"
+
+msgctxt "Languages::gift_certificate"
+msgid "Gift certificate"
+msgstr "Lahjakortti"
+
+msgctxt "Languages::gift_certificates"
+msgid "Gift certificates"
+msgstr "Lahjakortit"
+
+msgctxt "Languages::gift_certificates_menu_description"
+msgid "View and manage the gift certificates that customers have purchased."
+msgstr "Tarkastele ja hallinnoi asiakkaiden ostamia lahjakortteja."
+
+msgctxt "Languages::gift_certificate_info"
+msgid "Gift certificate info"
+msgstr "Lahjakortin tiedot"
+
+msgctxt "Languages::gift_certificate_verification"
+msgid "Gift certificate verification"
+msgstr "Lahjakortin vahvistus"
+
+msgctxt "Languages::gift_cert_code"
+msgid "Gift certificate code"
+msgstr "Lahjakortin koodi"
+
+msgctxt "Languages::gift_cert_debit"
+msgid "Debit balance"
+msgstr "Veloitussaldo"
+
+msgctxt "Languages::gift_cert_from"
+msgid "From"
+msgstr "Lähettäjän nimi"
+
+msgctxt "Languages::gift_cert_to"
+msgid "To"
+msgstr "Saajan nimi"
+
+msgctxt "Languages::promotion_bonus_gift_certificate"
+msgid "Gift certificate"
+msgstr "Lahjakortti"
+
+msgctxt "Languages::purchase_gift_certificate"
+msgid "Purchase Gift Certificate"
+msgstr "Lahjakorttitilaus"
+
+msgctxt "Languages::text_gift_certificate_logo"
+msgid "Logo for <b>gift certificates</b>"
+msgstr "Logo <b>lahjakortille</b>"
+
+msgctxt "Languages::text_gift_cert_amount_alert"
+msgid "Amount should be between [min] and [max]"
+msgstr "Arvo vähintään [min] ja enintään [max]"
+
+msgctxt "Languages::text_gift_cert_has_been_deleted"
+msgid "Gift certificate has been deleted successfully."
+msgstr "Lahjakortti on poistettu onnistuneesti."
+
+msgctxt "Languages::error_gift_cert_code"
+msgid "The gift certificate code you entered is invalid. Please try again."
+msgstr "Antamasi lahjakortin koodi on virheellinen. Yritä uudelleen."
+
+msgctxt "Languages::gift_add_products"
+msgid "Add products for a gift"
+msgstr "Lisää tuotteita lahjaksi"
+
+msgctxt "Languages::gift_comment"
+msgid "Message"
+msgstr "Viesti"
+
+msgctxt "Languages::certificate_verification"
+msgid "Validate/Redeem gift certificate"
+msgstr "Lahjakortin lunastus"
+
+msgctxt "Languages::detailed_info"
+msgid "Detailed information"
+msgstr "Yksityiskohtainen tieto"
+
+msgctxt "Languages::history"
+msgid "History"
+msgstr "Historia"
+
+msgctxt "Languages::gift_certificate_statuses"
+msgid "Gift certificate statuses"
+msgstr "Lahjakorttien tilat"
+
+msgctxt "Languages::gift_certificates.recipient_email"
+msgid "Recipient email"
+msgstr "Vastaanottajan Sähköposti"
+
+msgctxt "Languages::text_gift_cert_applied"
+msgid "Gift certificate has been applied"
+msgstr "Lahjakortti on laitettu"
+
+msgctxt "Languages::certificate_already_used"
+msgid "This gift certificate is already in use"
+msgstr "Tämä lahjakortti on jo käytössä"
+
+msgctxt "Languages::certificate_code_not_available"
+msgid "Gift certificate cannot be applied. Please contact the store administration."
+msgstr "Lahjakorttia ei voi hakea. Ota yhteyttä myymälän hallintoon."
+
+msgctxt "Languages::certificate_code_not_valid"
+msgid "Gift certificate code is not valid"
+msgstr "Lahjakortin koodi ei kelpaa"
+
+msgctxt "Languages::warning_gift_cert_deny"
+msgid "The following gift certificates have been deleted or cancelled by administrator and have been removed from your cart: [codes]. Please contact the store administrator or try another one."
+msgstr "Ylläpitäjä on poistanut tai peruuttanut seuraavat lahjakortit ja ne on poistettu ostoskoristasi: [codes]. Ota yhteyttä kaupan ylläpitäjään tai kokeile toista."
+
+msgctxt "Languages::text_gift_cert_cannot_delete"
+msgid "Gift certificate [code] cannot be deleted because it is used in order(s) [ids]."
+msgstr "Lahjakorttia [code] ei voi poistaa, koska sitä käytetään tilauksissa [ids]."
+
+msgctxt "Languages::gift_cert_amount_changed"
+msgid "Gift certificate amount has been changed."
+msgstr "Lahjakortin summa on muuttunut."
+
+msgctxt "Languages::purchased"
+msgid "Purchased"
+msgstr "Osti"
+
+msgctxt "Languages::used"
+msgid "Used"
+msgstr "Käytetty"
+
+msgctxt "Languages::create_gift_certificate_for_customer"
+msgid "Create Gift Certificate for this customer"
+msgstr "Luo lahjakortti tälle asiakkaalle"
+
+msgctxt "Languages::gift_certificate_created"
+msgid "Gift Certificate has been created"
+msgstr "Lahjakortti on luotu"
+
+msgctxt "Languages::related_gift_cert"
+msgid "Related gift certificates"
+msgstr "Aiheeseen liittyvät lahjakortit"
+
+msgctxt "Languages::add_gift_certificate"
+msgid "Add gift certificate"
+msgstr "Lisää lahjakortti"
+
+msgctxt "Languages::gift_certificate_status"
+msgid "Gift certificate status"
+msgstr "Lahjakortin tila"
+
+msgctxt "Languages::current_amount"
+msgid "Current amount"
+msgstr "Nykyinen määrä"
+
+msgctxt "Languages::mail"
+msgid "Mail"
+msgstr "Mail"
+
+msgctxt "Languages::statuses"
+msgid "statuses"
+msgstr "tilat"
+
+msgctxt "Languages::new_certificate"
+msgid "New certificate"
+msgstr "Uusi todistus"
+
+msgctxt "Languages::editing_certificate"
+msgid "Editing certificate"
+msgstr "Varmenteen muokkaaminen"
+
+msgctxt "Languages::shop_now"
+msgid "Shop now"
+msgstr "Ostoksille"
+
+msgctxt "Languages::theme_editor.gift_cert"
+msgid "Gift Certificate"
+msgstr "Lahjakortti"
+
+msgctxt "Languages::theme_editor_logo.gift_cert"
+msgid "Gift Certificate"
+msgstr "Lahjakortti"
+
+msgctxt "Languages::promo_code_or_certificate"
+msgid "Gift certificate or promo code"
+msgstr "Lahjakortti- tai alennuskoodi"
+
+msgctxt "Languages::gift_certificate_added_to_cart"
+msgid "Gift certificate was added to your cart"
+msgstr "Lahjakortti lisättiin ostoskoriin"
+
+msgctxt "Languages::gift_certificates_verify"
+msgid "Gift certificate verification"
+msgstr "Lahjakortin vahvistus"
+
+msgctxt "Languages::block_gift_certificates_verify"
+msgid "Gift certificate verification"
+msgstr "Lahjakortin vahvistus"
+
+msgctxt "Languages::block_gift_certificates_verify_description"
+msgid "Gift certificate input and validation"
+msgstr "Lahjakortin syöttö ja vahvistus"
+
+msgctxt "Languages::recipients_name"
+msgid "To"
+msgstr "Saajan nimi"
+
+msgctxt "Languages::purchasers_name"
+msgid "From"
+msgstr "Lähettäjän nimi"
+
+msgctxt "Languages::gift_cert_error_amount"
+msgid "Amount should not be higher than [max] and less than [min]"
+msgstr "Summa ei saa olla suurempi kuin [max] ja pienempi kuin [min]"
+
+msgctxt "Languages::privileges.manage_gift_certificates"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.gift_certificates"
+msgid "Gift certificates"
+msgstr "Lahjakortit"
+
+msgctxt "Languages::change_gift_certificate_status"
+msgid "Change gift certificate status to"
+msgstr "Muuta lahjakortin tilaksi"
+
+msgctxt "Languages::gift_cert_with_products"
+msgid "Purchasing products and gift certificates together is impossible. Please, place the current order and repeat your attempt."
+msgstr "Tuotteiden ja lahjakorttien ostaminen yhdessä on mahdotonta. Ole hyvä ja tee nykyinen tilaus ja toista yritys."
+
+msgctxt "SettingsSections::gift_certificates::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::gift_certificates::min_amount"
+msgid "Minimal amount"
+msgstr "Minimi määrä"
+
+msgctxt "SettingsOptions::gift_certificates::max_amount"
+msgid "Maximal amount"
+msgstr "Suurin määrä"
+
+msgctxt "SettingsOptions::gift_certificates::code_prefix"
+msgid "GC Code prefix"
+msgstr "GC-koodin etuliite"
+
+msgctxt "SettingsOptions::gift_certificates::cert_per_page"
+msgid "Gift certificates per page"
+msgstr "Lahjakortit per sivu"
+
+msgctxt "SettingsOptions::gift_certificates::free_products_allow"
+msgid "Allow to use free products"
+msgstr "Salli käyttää ilmaisia tuotteita"
+
+msgctxt "SettingsOptions::gift_certificates::redeem_shipping_cost"
+msgid "Allow to redeem shipping cost with gift certificate"
+msgstr "Lunasta toimituskulut lahjakortilla"
+
+msgctxt "Languages::gc_redeem_and_add_free_products"
+msgid "Redeem & add free products to cart"
+msgstr "Lunasta ja lisää ilmaisia tuotteita ostoskoriin"
+
+msgctxt "Languages::email_template.gift_certificates_notification"
+msgid "Gift certificate"
+msgstr "Lahjakortti"
+
+msgctxt "Languages::template_document_gift_certificate_default"
+msgid "Gift certificates: default"
+msgstr "Lahjakortit: oletusarvo"
+
+msgctxt "Languages::document_preview_gift_certificate_not_found"
+msgid "Couldn't find a gift certificate. Preview only works with existing data. Please create a gift certificate and use Preview again."
+msgstr "Lahjakorttia ei löytynyt. Esikatselu toimii vain olemassa olevien tietojen kanssa. Luo lahjakortti ja käytä Esikatselua uudelleen."
+
+msgctxt "Languages::gift_certificates.certificate_purchase_form"
+msgid "Gift certificate purchase form"
+msgstr "Lahjakortin ostolomake"
+
+msgctxt "Languages::gift_certificates.event.gift_certificate.status_changed.name"
+msgid "Gift certificate status changed to [status]"
+msgstr "Lahjakortin tilaksi muutettu [status]"
+
+msgctxt "Languages::gift_certificates.event.gift_certificate.updated.name"
+msgid "Gift certificate updated"
+msgstr "Lahjakortti päivitetty"
+
+msgctxt "Languages::logo_section.gift_cert"
+msgid "Gift certificate logo"
+msgstr "Lahjakortin logo"
+

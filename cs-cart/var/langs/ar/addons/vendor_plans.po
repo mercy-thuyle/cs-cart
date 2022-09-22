@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "خطط البائعين"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "إنشاء خطط مع قيود وأسعار مختلفة للبائعين"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "العمولة"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "تضمين تكلفة الشحن في عمولات البائع"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "تضمين الضرائب في عمولات البائع"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "احسب عمولات البائع دون طرح الضرائب من إجمالي الطلب مسبقًا."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "اسمح للبائعين بتغيير خطتهم الحالية"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "تحصيل الضرائب من البائعين"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "إرسال الضرائب المحصلة إلى حساب السوق."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "خطط البائعين"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "معلومات خطة البائع"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "يعرض معلومات حول خطة البائعين المحددة"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "خطة"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "خطة"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "العمولة"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "قيود"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "إنشاء خطط للبائعين ، مع قيود وأسعار مختلفة"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "في الشهر"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "في السنة"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "مرة واحدة"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "الحد الاقصي للمنتجات"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "قم بتعيين الحد الأقصى لعدد المنتجات التي يمكن للبائع الحصول عليها في هذه الخطة."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "يمكن أن يكون لدى البائع متجر صغير خاص به في عنوان منفصل مثل <i>example.com/vendor/</i>. لا يحتوي المتجر الصغير إلا على منتجات البائع الذي يمتلك هذا المتجر الصغير. أيضًا ، تتضمن نتائج البحث في متجر صغير للبائع منتجات هذا البائع فقط."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "إضافة خطة بائع"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "خطة بائع جديدة"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "تحرير خطة البائع"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "تعذّر حذف الخطة: يستخدمها بعض البائعين"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "تعذّر تعطيل الخطة: يستخدمها بعض البائعين"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "رسوم المعاملات"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "رسوم المعاملة (abs)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "إيرادات"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "الإيرادات حتى"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "الحد الأقصى للإيراد الشهري المسموح به للبائعين الذين يستخدمون هذه الخطة. اترك هذا الحقل فارغًا للسماح بإيرادات غير محدودة."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "متجر صغير البائع"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "عرض كخيار أفضل"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "أفضل خيار"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "سيتم محاسبتك على الخطة بعد موافقة المشرف على حساب البائع الخاص بك"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "الخطه الحاليه"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "استخدام الخطة الحالية"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "أفضل خيار"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "إختر خطتك"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "اختر"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "الشهر"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "السنة"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "إسم الخطة"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> منتج |<strong>[n]</strong> منتجات"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "غير محدود"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "منتجات <strong> غير محدودة </strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "تصل الإيرادات إلى <strong> [revenue] </strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "عائدات <strong> غير محدودة </strong>"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "رسوم المعاملة: <strong> [value] </strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "عمولة البائع"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "يرجى تحديد فئة."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "تم ضبط خطتك على [plan]. انظر تفاصيل خطتك أدناه."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "الدفع للخطة الخاصة بك"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "تم سحب مبلغ [price] من حسابك لاستخدام خطة [plan]. اتبع الرابط إلى <a href=\"[href]\">عرض رصيد حسابك</a> أو الاطلاع على تفاصيل خطتك أدناه."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "لقد تم تغيير خطتك"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "تم تغيير خطتك إلى [plan]. شاهد تفاصيل خطتك الجديدة أدناه."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "لا يمكن إضافة المزيد من المنتجات: لقد وصلت إلى الحد الأقصى من المنتجات المسموح بها في خطتك. لتغيير خطتك ، يرجى <a href=\"[href]\"> اتباع هذا الرابط </a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "أقصى الإيرادات تجاوزت"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\"> [vendor] </a> تجاوز الحد الأقصى للعائد الذي تسمح به خطة [plan]."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "غير متوفر"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "عدد كبير جدًا من المنتجات ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "عائد كبير جدًا ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "نعتذر لعدم توفر هذة الخطة لك ، الرجاء اختيار خطة متاحة أخرى ."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "لقد قمت بتغيير بتبديل باقة خطة التاجر ، ستتحمل كامل قيمة الباقة ، هل انت موافق على ذلك ؟"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "خطة التاجر: إشعار تغيير باقة الخطة"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "خطة التاجر: إشعار الدفع"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "خطط البائعين: إشعار الإيرادات"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "يمكن العرض"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "قابل للتحرير"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "خطط البائعين"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] من [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "من [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]٪ من [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "العائد لخطة البائع: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "خطة البائع"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "هل يجب أن تؤثر تغييراتك على البائعين الحاليين؟"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "ماذا يجب أن نفعل حيال <a href=\"[search_url]\" target=\"_blank\">[n] بائع </a> يستخدم هذه الخطة الآن؟ | ماذا يجب أن نفعل حيال <a href=\"[search_url]\" target=\"_blank\">[n] بائعين </a> الذين يستخدمون هذه الخطة الآن؟"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "أضف البائع إلى واجهات المتاجر التي تمت إضافتها إلى الخطة | أضف البائعين إلى واجهات المتاجر التي تمت إضافتها إلى الخطة"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "قم بإزالة البائع من واجهات المتاجر التي تمت إزالتها من هذه الخطة | قم بإزالة البائعين من واجهات المتاجر التي تمت إزالتها من هذه الخطة"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "تم نقل البائع إلى خطة أخرى"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "ما الذي يجب أن نفعله حيال واجهات المحلات المتاحة لهذا البائع؟"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "أضف البائع إلى واجهات المحلات المتوفرة في خطة البائع الجديدة"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "قم بإزالة البائع من واجهات المحلات المتوفرة في خطته السابقة"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "إنشاء خطة البائعين المتقدمة"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "تم إنشاء خطة بائع جديدة \"[plan_name]\". يمكنك الآن <a href=\"[link]\"> تعيين قيود على الموردين الذين يستخدمون هذه الخطة </a>."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "[commission]٪ رسوم"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "الخطة الافتراضية"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "تم تغيير خطة البائع"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "خطط البائعين"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "خطط البائع: تم تغيير خطة البائع"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "تم نقل المورّد \"[vendor]\" إلى \"[plan]\""
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "تم تغيير خطة البائع \"[vendor]\" من \"[old_plan]\" إلى \"[new_plan]\"."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "خطة قديمة"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "خطة جديدة"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "أضف مسؤولي البائعين إلى مجموعات المستخدمين المضافة إلى الخطة"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "إزالة مسؤولي البائع من مجموعات المستخدمين التي تمت إزالتها من الخطة"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "هذه هي مجموعات المستخدمين التي سيحصل عليها مسؤولو البائع عندما يحصل البائع على هذه الخطة"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "عذرا ، هذه الفئة غير متوفرة للبائع. يرجى التحقق من تكوين خطة البائع."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "جميع واجهات المحلات متضمنة"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "تم تضمين جميع الفئات"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "تعذر تعطيل خطة البائع. يجب أن توجد خطة مورِّد واحدة نشطة أو مخفية على الأقل."
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "附件"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "可以将文件附加到产品"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "附件"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "新的附件"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "添加附件"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "编辑附件"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "请在商店根目录中指定附件目录。将要导入的附件放在此目录中。"
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "无法导入某些产品的附件。这些附件不存在（或无法访问），或者导入文件中这些附件的路径不正确。"
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "商品附件"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "附件分隔符"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "产品附件之间的分隔符。"
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "删除已存在的附件"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "如果启用此设置，则导入产品的现有附件将替换为导入文件中指定的附件（如果未指定附件，则保留旧附件）。如果该设置被禁用，新附件将简单地添加到现有附件中。"
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "附件目录"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "将附件保存到您的服务器"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "在导入文件中列为 URL 的附件将下载到您的服务器。"
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "无法为产品 [product]加载文件 [url]"
+

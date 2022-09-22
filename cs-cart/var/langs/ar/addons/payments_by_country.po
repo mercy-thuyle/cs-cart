@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/payments_by_country.po\n"
+"X-Crowdin-File-ID: 6630\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::payments_by_country"
+msgid "Payments by country"
+msgstr "المدفوعات حسب الدولة"
+
+msgctxt "Addons::description::payments_by_country"
+msgid "Show or hide payment methods depending on the country"
+msgstr "إظهار أو إخفاء طرق الدفع حسب الدولة"
+
+msgctxt "Languages::payments_by_country.show_payment_method_in_selected_countries"
+msgid "Show payment method in selected countries"
+msgstr "عرض طريقة الدفع في البلدان المختارة"
+
+msgctxt "Languages::payments_by_country.hide_payment_method_in_selected_countries"
+msgid "Hide payment method in selected countries"
+msgstr "إخفاء طريقة الدفع في البلدان المختارة"
+

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/anti_fraud.po\n"
+"X-Crowdin-File-ID: 6584\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::anti_fraud"
+msgid "Anti fraud"
+msgstr "사기 방지"
+
+msgctxt "Addons::description::anti_fraud"
+msgid "Adds configurable security order verification using the Maxmind service to prevent fraud"
+msgstr "구성 가능한 보안 주문 확인 Maxmind 서비스를 사용 하 여 사기를 방지 하기 위해 추가"
+
+msgctxt "Languages::af_big_order_total"
+msgid "Order total exceeds the allowed maximum"
+msgstr "주문금액이 허용금액을 초과하였습니다"
+
+msgctxt "Languages::af_country_doesnt_match"
+msgid "The country does not match the IP address"
+msgstr "국가 IP 주소와 일치 하지 않습니다."
+
+msgctxt "Languages::af_has_failed_orders"
+msgid "Customer has FAILED orders"
+msgstr "실패한 주문이 있습니다"
+
+msgctxt "Languages::af_has_successfull_orders"
+msgid "Customer has SUCCESSFUL orders"
+msgstr "성공한 주문이 있습니다"
+
+msgctxt "Languages::af_high_risk_country"
+msgid "High risk country"
+msgstr "위험이 높은 국가"
+
+msgctxt "Languages::af_high_risk_email"
+msgid "High risk email"
+msgstr "높은 위험 이메일"
+
+msgctxt "Languages::af_high_risk_factor"
+msgid "Risk factor exceeds the defined value"
+msgstr "위험 요소는 정의 된 값을 초과 하면"
+
+msgctxt "Languages::af_ip_not_found"
+msgid "Failed to identify customer's IP address"
+msgstr "고객의 IP 주소를 확인 하지 못했습니다."
+
+msgctxt "Languages::af_long_distance"
+msgid "Customer is outside the safe distance"
+msgstr "고객이 안전 거리 밖에 있습니다."
+
+msgctxt "Languages::af_low_risk_factor"
+msgid "Risk factor is admissible"
+msgstr "위험 요소는 허용됩니다."
+
+msgctxt "Languages::antifraud_failed_order"
+msgid "Your order was placed in the store. It is undergoing an additional check now. We will contact you as soon as the administrator finishes it"
+msgstr "주문이 매장에 접수되었습니다. 현재 추가 확인 중입니다. 관리자가 완료되는 대로 연락드리겠습니다."
+
+msgctxt "Languages::risk_factor"
+msgid "Risk factor"
+msgstr "위험 요인"
+
+msgctxt "Languages::not_available"
+msgid "n/a"
+msgstr "없음"
+
+msgctxt "Languages::decision"
+msgid "Decision"
+msgstr "결정"
+
+msgctxt "Languages::anti_fraud_order_not_approved"
+msgid "Order has not been approved because risk factor exceeds Maximum risk factor"
+msgstr "위험 요소가 최대 위험 요소를 초과하여 주문이 승인되지 않았습니다."
+
+msgctxt "Languages::anti_fraud_order_approved"
+msgid "Order has been approved"
+msgstr "주문이 승인되었습니다"
+
+msgctxt "Languages::fraud_risk"
+msgid "Fraud risk"
+msgstr "사기 위험"
+
+msgctxt "Languages::fraud_checking"
+msgid "Fraud checking"
+msgstr "사기 검사"
+
+msgctxt "SettingsSections::anti_fraud::general"
+msgid "General"
+msgstr "일반"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_key"
+msgid "Maxmind license key"
+msgstr "Maxmind 라이센스 키"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_user_id"
+msgid "Maxmind user ID"
+msgstr "Maxmind 사용자 ID"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_safe_distance"
+msgid "Safe distance (km)"
+msgstr "안전거리(km)"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_max_order_total"
+msgid "Max order total"
+msgstr "최대 주문 합계"
+
+msgctxt "SettingsOptions::anti_fraud::anti_fraud_risk_factor"
+msgid "Maximum risk factor (1..100)"
+msgstr "최대 위험 요소(1..100)"
+
+msgctxt "SettingsOptions::anti_fraud::antifraud_order_status"
+msgid "Order status"
+msgstr "주문 상태:"
+

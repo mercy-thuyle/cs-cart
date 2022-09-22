@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::payments_by_country"
+msgid "Payments by country"
+msgstr "Payments by country"
+
+msgctxt "Addons::description::payments_by_country"
+msgid "Show or hide payment methods depending on the country"
+msgstr "Show or hide payment methods depending on the country"
+
+msgctxt "Languages::payments_by_country.show_payment_method_in_selected_countries"
+msgid "Show payment method in selected countries"
+msgstr "Show payment method in selected countries"
+
+msgctxt "Languages::payments_by_country.hide_payment_method_in_selected_countries"
+msgid "Hide payment method in selected countries"
+msgstr "Hide payment method in selected countries"

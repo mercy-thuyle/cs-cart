@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Оплата від продавців адміністратору"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "Обмежує функціональність панелей адміністрування продавців при певних умовах; дозволяє продавцям оплачувати підписку і платити борги безпосередньо з панелей адміністраторів. Процес оплати боргів не складніше покупки товару на вітрині."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Призупиняти облікові записи продавців, якщо їх баланс залишається нижче"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Час на поповнення балансу"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Податок на поповнення балансу"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Оплата від продавців адміністратору"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Оплата заборгованості"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Оплата заборгованості (замовлення#[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Додаткова оплата комісії на marketplace (замовлення #[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Оплатити заборгованість"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Обмежити функціональність панелі адміністратора, якщо борг продавця досягає"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "Коли негативний баланс продавця досягає цієї суми, панель адміністрування продавця не дозволить нічого зробити. Якщо борг продавця дорівнює половині цієї суми, то продавець побачить попередження; його текст береться з мовної змінної \"vendor_debt_payout.debt_near_limit_message\"."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Відтермінування для оплати тарифного плану"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "Оплата за тарифний план списується з балансу продавця. Якщо баланс став негативним після списання оплати, а цей період закінчився, то панель адміністратора продавця не дозволить виконувати ніякі дії, поки продавець не сплатить заборгованість."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "дн."
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Необхідно сплатити суму [fee_amount] за використання тарифного плану [plan_name]. Ваш поточний баланс становить [current_balance]. Якщо сума не буде сплачена до [overdue_date], ви не зможете працювати з панеллю адміністратора, поки не <a href=\"[pay_url]\" target=\"_blank\">сплатите заборгованість</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Ваш поточний баланс становить [current_balance]. Якщо він досягне [minimal_balance], ви не зможете користуватися панеллю адміністратора, поки не <a href=\"[pay_url]\" target=\"_blank\">сплатите заборгованість</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p>Ваш доступ до панелі адміністратора було автоматично обмежено, тому що ви досягли ліміту негативного балансу або не сплатили свій тарифний план вчасно.</p> <p>Ваш поточний баланс становить [current_balance].</p> <p> <a href=\"[pay_url]\">Сплатіть заборгованість</a> - після обробки платежу ваш доступ до панелі адміністратора відновиться автоматично</p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Призупинити продавців"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Призупиняти облікові записи продавців, якщо їх баланс залишається нижче"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Час на поповнення балансу"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "Борг розміром [amount] не було сплачено до [date]."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "Щоб спростити роботу з призупиненими продавцями, перевірте налаштування доповнення <a href=\"[link]\">Платежі від продавця до адміністратора</a>. "
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "Обліковий запис продавця може бути призупинено, якщо борг вендора перевищить умови <a href=\"[link]\">тарифного плану</a>."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "Приховувати товари призупинених продавців"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Блокувати панель адміністратора призупинених продавців"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Блокувати панель адміністратора призупинених продавців"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Повідомляти продавцям про майбутнє призупинення"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Повідомити адміністратора про призупинених продавців "
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">Редагувати сповіщення</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Надсилати щотижневий дайджест призупинених продавців"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Заблокувати призупинених продавців через деякий час "
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Час у днях до блокування призупиненого продавця "
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Повідомити продавців про їх заблокований обліковий запис"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Повідомити адміністратора про відключених продавців "
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Дії над призупиненими продавцями"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Сповіщення"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Поповнити баланс"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Введіть суму"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "На жаль, не вдалося продовжити оплату. Вказана сума має бути більшою за 0. "
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Ваш обліковий запис призупинено. Щоб скасувати призупинення, будь ласка, внесіть депозит у розмірі щонайменше [amount], щоб поповнити баланс до [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Поповніть баланс</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Незабаром ваш обліковий запис може бути призупинено. Щоб уникнути призупинення, внесіть депозит принаймні на [amount] до [date]. <a target=\"_blank\" href=\"[link]\">Поповнити баланс</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>Ваш обліковий запис було автоматично призупинено.</p><p>Причина: ваш поточний баланс становить [balance], який є нижче за мінімально дозволений баланс [lowers_allowed_balance].</p><p>Внесіть принаймні [amount]. Після обробки платежу призупинення буде автоматично скасовано.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>Ваш поточний баланс становить [balance], який є нижче за мінімально доступний баланс [lowers_allowed_balance].</p><p>Внесіть принаймні [amount] до [date]. В іншому випадку, ваш обліковий запис може бути призупинено."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "Призупинені продавці"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Ваш обліковий запис скоро може бути призупинено"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Ваш обліковий запис призупинено."
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Вхід продавця: борг і пільговий період "
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Щоб уникнути призупинення, внесіть депозит принаймні на [amount] до [date]."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "Щоб скасувати призупинення, внесіть депозит принаймні на [amount], щоб поповнити баланс до [vendor_plan_lowers_allowed_balance]."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Повідомлення про платежі від продавця до адміністратора"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Повідомлення про платежі від постачальника до адміністратора"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Повідомлення про платежі від постачальника до адміністратора"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Повідомлення про платежі від постачальника до адміністратора"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Статус продавця змінено на \"Призупинено\" "
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Повідомлення про платежі від постачальника до адміністратора"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Продавець вийшов зі статусу \"Призупинено\""
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Вхід продавця: борг і пільговий період "
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Повідомлення про платежі від продавця до адміністратора"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Статус продавця змінено на \"Заблоковано\" "
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[Marketplace_name]: Щотижневий звіт про боржників"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "Це щотижневий звіт про боржників на вашому marketplace. Включає продавців, які стали боржниками або сплатили свій борг з моменту останнього звіту. На вашому marketplace може бути <a href=\"[href]\">більше призупинених продавців</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Щотижневий дайджест про боржників"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Щотижневий дайджест про боржників"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: Статус змінено на [status]"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "Статус продавця [vendor_name] змінено на [status]."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Незабаром ваш обліковий запис може бути призупинено"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "Ваш обліковий запис на [marketplace] може бути незабаром призупинено."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Інформація про майбутнє призупинення"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Ваш поточний баланс становить [balance], який є нижче за мінімально доступний баланс [lowers_allowed_balance]. Будь ласка, внесіть принаймні [amount] до [date], щоб уникнути призупинення. Ви можете поповнити баланс у своїй <a href=\"[link]\">панелі продавця</a>."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "Ми встановили мінімально доступний баланс на 0. Тепер, коли баланс постачальника опускається нижче 0, почнеться пільговий період, і продавцю буде запропоновано сплатити борг."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Надсилати щотижневий дайджест припинених продавців"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "Розмір боргу"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Баланс облікового запису"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "Ці продавці були автоматично призупинені через борги з моменту останнього звіту:"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "Ці продавці сплатили свій борг і їх призупинили з моменту останнього звіту:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "З моменту останнього звіту жодного продавця не було автоматично призупинено за борги."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "З моменту останнього звіту жодний продавець не сплатив свій борг і їх не призупинили."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "Загальна заборгованість усіх продавців на вашому marketplace (включно з тими, які не перелічені в цьому звіті) наразі становить [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr "Називати \"Борг продавця\" різними мовами "
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Продавці погашають свої борги, купуючи конкретний товар на marketplace. Тут ви можете редагувати деталі товару та категорії, до якої він належить."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Товар "
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Категорія "
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Редагувати</a>"
+

@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "Pachetele de produse"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "Vă permite să creați pachete de produse și să configurați reduceri pentru acestea."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "Pachetele de produse"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "Vizualizați, adăugați și editați pachetele de produse."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "Imagine promoțională"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "Afisare in promotii"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "Pachet de produse"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "Pret pentru toti"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "Reducerea la acțiuni"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "Numele pachetului"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "Produse la pachet"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "Cost total"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "Adăugați un pachet nou"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "Pachetul <b>[bundle_name]</b> a fost dezactivat, din cauza produselor din acest pachet a fost șters.|Pachetul <b>[bundle_name]</b> a fost dezactivat, deoarece unul dintre produsele din aceste pachete a fost șters."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "Pachet nou"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "Pachete active"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "Specificați caracteristicile"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "Orice variație"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "Specificați opțiunile"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "Preț total de listă"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "Reducere la comanda"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "Adăugați totul în coș"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "Conectați-vă pentru a vedea prețul"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "Detalii pachet"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "Pachet cu produs"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "Acest nume este afișat numai în panoul de administrare pentru a vă ajuta să faceți distincția între mai multe pachete de produse care au același nume afișat."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "Afișați pe pagina produselor"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "Sigur doriți să creați un pachet fără produse?"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "Sigur doriți să creați un pachet cu 1 produs?"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "Opțiunile de produs ar trebui specificate"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "Poate vizualiza"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "Pot edita"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "Pachetele de produse"
+

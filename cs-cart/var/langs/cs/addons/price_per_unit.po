@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_per_unit.po\n"
+"X-Crowdin-File-ID: 6732\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "Cena za jednotku"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "Umožňuje zobrazit cenu za jednotku na stránkách katalogu a produktů."
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "Cena za jednotku"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "Název jednotky"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "Například „ml“ nebo „g“ bez uvozovek."
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "Jednotky v produktu"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "Požadováno pro automatický výpočet ceny za jednotku."
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "Zobrazit cenu za X jednotek"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "Pro případy, kdy chcete zobrazit cenu „za 250 ml“ místo „za ml“."
+

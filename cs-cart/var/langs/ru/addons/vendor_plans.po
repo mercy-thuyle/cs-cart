@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-20 12:56\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "Тарифные планы для продавцов"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "Создавайте планы с различными условиями и ценами для своих продавцов"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "Комиссии"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "Включить стоимость доставки в комиссию продавца"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "Включить налоги в комиссию продавца"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "Рассчитывать комиссии продавцов без предварительного вычета налогов из итоговых сумм заказов."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "Разрешить продавцам изменять выбранный план"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "Собирать налоги с продавцов"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "Отправлять собранные налоги на счёт маркетплейса."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "Тарифные планы для продавцов"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "Информация о тарифном плане"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "Отображает информацию о выбранном тарифном плане"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "Тарифный план"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "План"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "Комиссия"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "Условия"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "Создавайте тарифные планы для своих продавцов с различными условиями и ценами"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "в месяц"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "в год"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "разовый"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "Макс. число товаров"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "Устанавливает максимальное число товаров доступных по данному плану. Пустое поле означает неограниченное число товаров."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "У продавца может быть свой микромагазин, расположенный по отдельному адресу, например <i>example.com/vendor/</i>. В микромагазине продаются только товары продавца, которому он принадлежит. Поисковые запросы в микромагазине выдают только те товары, которые продаются в данном микромагазине."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "Добавить тарифный план"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "Новый тарифный план"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "Редактирование тарифного плана"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "Не удаётся удалить план, так как он используется некоторыми продавцами"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "Не удаётся выключить план, так как он используется некоторыми продавцами"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "Плата за транзакцию"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "Плата за транзакцию (фикс.)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "Выручка"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "Порог выручки"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "Максимальная выручка в месяц по выбранному плану. Оставьте это поле пустым, чтобы снять ограничение по выручке."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "Микромагазин продавца"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "Предложить в качестве лучшего выбора"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "Лучший выбор"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "После утверждения администратором Вашей учётной записи продавца с Вас начнёт взиматься плата в соответствии с выбранным планом"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "Текущий план"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "Текущее использование плана"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "Лучший выбор"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Выберите Ваш план"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "Выбрать"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "Месяц"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "Год"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "Название тарифного плана"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> товар|<strong>[n]</strong> товара|<strong>[n]</strong> товаров"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "Безлимитный"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>Неограниченное количество</strong> товаров"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "Порог выручки: <strong>[revenue]</strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "Выручка <strong>без ограничений</strong>"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "Плата за транзакцию: <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "Комиссия продавца"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "Пожалуйста, укажите категорию."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "Был выбран план [plan]. Более подробная информация доступна ниже."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "Оплата Вашего плана"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "С Вашей учётной записи была списана сумма [price] за использование плана [plan]. Для просмотра баланса Вашей учётной записи, пожалуйста, перейдите по <a href=\"[href]\">следующей ссылке</a> или обратитесь к описанию плана ниже."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "Ваш план был изменён"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "Ваш план был изменён на [plan]. Более подробная информация доступна ниже."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "Не удаётся добавить больше товаров, так как было достигнуто максимальное число товаров доступных по данному плану. Для смены палан, пожалуйста, перейдите по <a href=\"[href]\">данной ссылке</a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "Достигнут предел максимальной выручки"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> превысил порог выручки, предусмотренный планом [plan]."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "Недоступен"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "Слишком много товаров ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "Превышен порог выручки ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "К сожалению, данный тарифный план недоступен для Вас. Пожалуйста, выберите другой план."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "Вы собираетесь перейти на другой тарифный план. После перехода с Вас будет взиматься полная стоимость выбранного плана. Вы уверены, что хотите продолжить?"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "Тарифные планы для продавцов: уведомление о смене плана"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "Тарифные планы для продавцов: уведомление об оплате"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "Тарифные планы для продавцов: уведомление о выручке"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "Просмотр"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "Редактирование"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "Тарифные планы для продавцов"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] из [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "из [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% из [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "Выплата за тарифный план: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "Тарифный план"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "Должны ли ваши изменения затронуть существующих продавцов?"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "Как поступить с <a href=\"[search_url]\" target=\"_blank\">[n] продавцом</a>, который сейчас использует этот план?|Как поступить с <a href=\"[search_url]\" target=\"_blank\">[n] продавцами</a>, которые сейчас используют этот план?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "Добавить продавца на витрины, которые добавились в план|Добавить продавцов на витрины, которые добавились в план"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "Убрать продавца с витрин, которые были убраны у плана|Убрать продавцов с витрин, которые были убраны у плана"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "Продавец переведён на другой план"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "Как поступить с витринами, доступными этому продавцу?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "Добавить продавца на витрины, доступные в новом плане"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "Убрать продавца с витрин, которые были доступны в его предыдущем плане"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "Расширенное создание плана"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "Создан новый тарифный план \"[plan_name]\". Теперь вы можете <a href=\"[link]\">задать ограничения для продавцов с этим планом</a>."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "Комиссия [commission]%"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "План по умолчанию"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "Тарифный план был изменён"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "Тарифные планы"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "Тарифные планы: план продавца был изменён"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "Продавец \"[vendor]\" перешёл на план \"[plan]\""
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "Тарифный план продавца \"[vendor]\" изменился с \"[old_plan]\" на \"[new_plan]\"."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "Старый план"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "Новый план"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "Добавить администраторов продавцов в группы пользователей, добавленные плану"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "Убрать администраторов продавцов из групп пользователей, убранных у планов"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "Это группы пользователей, которые получат администраторы продавца, когда продавец получит этот план"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "К сожалению, эта категория недоступна для этого продавца. Проверьте настройки тарифного плана."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "Включает все витрины"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "Включает все категории"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "Не удалось выключить тарифный план. Должен существовать хотя бы один включенный или скрытый план."
+

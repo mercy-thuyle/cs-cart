@@ -1,0 +1,73 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "Help center"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "Help"
+
+msgctxt "Languages::help_center.help_center"
+msgid "Help Center"
+msgstr "Help Center"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "See all [n] results..."
+
+msgctxt "Languages::help_center.customer_care"
+msgid "Customer Care"
+msgstr "Customer Care"
+
+msgctxt "Languages::help_center.customer_care.view_all_tickets"
+msgid "View all tickets"
+msgstr "View all tickets"
+
+msgctxt "Languages::help_center.customer_care.all_tickets"
+msgid "All tickets"
+msgstr "All tickets"
+
+msgctxt "Languages::help_center.customer_care.no_support_tickets"
+msgid "No support tickets found."
+msgstr "No support tickets found."
+
+msgctxt "Languages::help_center.customer_care.submit_ticket"
+msgid "Submit a ticket"
+msgstr "Submit a ticket"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable"
+msgid "Your Customer Care subscription is not active"
+msgstr "Your Customer Care subscription is not active"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable_description"
+msgid "Prolong the subscription to keep receiving support."
+msgstr "Prolong the subscription to keep receiving support."
+
+msgctxt "Languages::help_center.customer_care.prolong_subscription"
+msgid "Prolong subscription"
+msgstr "Prolong subscription"
+
+msgctxt "Languages::help_center.customer_care.sign_in_text"
+msgid "Sign in with your Help Desk account <br>to contact Customer Care and see your latest tickets."
+msgstr "Sign in with your Help Desk account <br>to contact Customer Care and see your latest tickets."
+
+msgctxt "Languages::help_center.customer_care.status.resolved"
+msgid "Resolved"
+msgstr "Resolved"
+
+msgctxt "Languages::help_center.customer_care.status.open"
+msgid "Open"
+msgstr "Open"
+
+msgctxt "Languages::help_center.customer_care.few_tickets_require_your_attention"
+msgid "A few tickets from Customer Care team require your attention. <a href=\"[url]\" target=\"[target]\">Click here to view tickets</a>"
+msgstr "A few tickets from Customer Care team require your attention. <a href=\"[url]\" target=\"[target]\">Click here to view tickets</a>"

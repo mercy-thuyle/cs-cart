@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 6690\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "Viestikeskus"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "Antaa asiakkaiden, myyjien ja järjestelmänvalvojien ottaa yhteyttä toisiinsa sisäänrakennetun chatin kautta."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "Asiakkaille"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "Ota yhteyttä -painike tuotesivuilla"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "Ota yhteyttä -painike myyjän mikrokaupassa"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "Ota yhteyttä -painike \"Viestit\"-valikossa"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "Näytä \"Esitä kysymys\" -painike tuotesivuilla."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "Näytä \"Kysy kysymys\" -painike myyjien mikroliikkeissä."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "Asiakkaan ja myyjän välinen viestintä"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "Toimittajan ja järjestelmänvalvojan välinen viestintä"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr "Ota yhteyttä -painike yksityiskohtaisella tilaussivulla"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr "Näytä \"Aloita viestintä\" -painike yksityiskohtaisella tilaussivulla."
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "Viestit"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "Viestikeskus"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "Viestikeskus"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "Viestit asiakkailta"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "Viestit asiakkaalta myyjälle"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "Tekijä"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "Viesti"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Ota yhteyttä myyjään"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "Kysy kysymys"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "Ota yhteyttä [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "Luotu"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Viestisi on lähetetty numeroon <b>[vendor_name]</b>.<br/><br/>Toimittajan vastaus lähetetään tilisi sähköpostiosoitteeseen. Voit tarkastella viestihistoriaasi siirtymällä Viestikeskukseen <a href=\"[thread_url]\">\"Oma tili\" -valikon Viestit</a> osiossa."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Viestisi on lähetetty numeroon <b>[vendor_name]</b>.<br/><br/>Ilmoitamme sinulle vastauksesta. Voit tarkastella viestihistoriaasi siirtymällä Viestikeskukseen <a href=\"[thread_url]\" target=\"_blank\">\"Oma tili\" -valikon Viestit</a> osiossa."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "Lankaa ei voi päivittää"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "Lankaa ei voi luoda"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "Kysy myyjältä: Järjestelmänvalvojan ilmoitus"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "Kysy myyjältä: Asiakasilmoitus"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "Sinulla on uusi <a href=\"[thread_url]\">viesti</a> osoitteesta [message_from]."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "Sinulla on uusi viesti numerolta [message_from]"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "Lanka nro[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. Yhteydenpito [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "Lanka"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "Viestejä ei löytynyt"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "Asiakkaan nimi"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "Kirjoita viestisi"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "Kirjoita viesti..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "Sinä"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "Tilauksen tiedot"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "Tuo tiedot"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "Viesti on poistettu"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "Säikeet on poistettu"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "Lankaa ei voi poistaa"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "Säikeitä ei voi poistaa"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "Viestiä ei voi lähettää"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "Viestiä ei löytynyt"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "[field_name] -kenttä on pakollinen"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "Annettu säikeen objektityyppi on virheellinen"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "Kirjaudu sisään ottaaksesi yhteyttä myyjään"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "Viestikeskus: asiakkaan ja toimittajan välinen viestintä"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "Viestisi numeroon [vendor_name]"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "Ole hyvä ja kirjaudu sisään, jotta voimme ilmoittaa sinulle vastauksesta"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr "Viestikeskus"
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "Asiakkaalta toimittajalle: Uusi viesti vastaanotettu"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "Toimittajalta järjestelmänvalvojalle: Uusi viesti vastaanotettu"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr "Uusi viesti vastaanotettu"
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] :lla on uusi viesti käyttäjältä [customer]"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "Napsauta tätä ilmoitusta nähdäksesi viestin"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "Ota yhteyttä ylläpitäjään"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Ota yhteyttä myyjään"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "Viestintä"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "Viestikeskus"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "Viestit myyjältä järjestelmänvalvojalle"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "Myyjän viestintä"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "Asiakasviestintä"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "Adminin viestintä"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "Viestisi järjestelmänvalvojalle"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "Joitakin säikeitä ei ole luotu: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Viestisi on lähetetty numeroon <b>[name]</b>.<br/><br/>Voit tarkastella viestihistoriaasi siirtymällä <a href=\"[thread_url]\">Viestikeskukseen</a> \"Toimittajat\"-valikossa."
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr "Viestisi on lähetetty numeroon <b>[name]</b>.<br/><br/>Voit tarkastella viestihistoriaasi siirtymällä <a href=\"[thread_url]\">Viestikeskukseen</a> \"Asiakkaat\"-valikossa."
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Viestisi on lähetetty.<br/><br/>Voit tarkastella viestihistoriaasi siirtymällä <a href=\"[thread_url]\">Viestikeskukseen</a> \"Toimittajat\"-valikossa."
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "Viestikeskus: toimittajan ja järjestelmänvalvojan välinen viestintä"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr "Asiakkaalta järjestelmänvalvojalle: Uusi viesti vastaanotettu"
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr "Aloita viestintä"
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr "Viestikeskus: viestintä asiakkaan kanssa"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr "Yhteydenpito myyjän kanssa"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr "Viestintä asiakkaan kanssa"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr "Yhteydenpito ylläpitäjän kanssa"
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr "Ota yhteyttä asiakkaaseen"
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr "Aihe"
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr "Admin"
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr "Viestisi asiakkaalle"
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr "Tilausviestintä: Uusi viesti vastaanotettu"
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Vieritä ylös"
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr "Lähetä viesti"
+

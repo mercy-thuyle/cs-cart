@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/master_products.po\n"
+"X-Crowdin-File-ID: 6724\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "Běžné produkty pro prodejce"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "Dovoluje vám vytvořit jednu základnu produktů: prodejci vybírají, které z již existujících produktů prodají."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "Umožnit prodejcům tvořit produkty"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "Pokud to nepovolíte, prodejci budou pouze schopni prodat produkty, které jsou přidané na marketplace."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "Koupit výchozí běžný produkt"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "U produktu (nejen jeho nabídek) se objeví tlačítko \"Přidat do košíku\" a vyberte nejlepší dostupnou nabídku."
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "Prodejci tohoto produktu"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "Prodejci tohoto produktu"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "Prodejci produktu"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "Produkty, které prodejce může prodat"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "Produkty jsou prodány"
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "Všechno zboží"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "Přidat produkt z katalogu"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "Vytvořit nové produkty"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "Prodat toto"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "Na prodej"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "Prodat vybrané"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "[n] produkt byl přidán do vašich produktů|[n] produkty byly přidány do vašich produktů"
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "Běžný produkt"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "Všichni prodejci (běžný produkt)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "Produkty k exportu"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "Od [formatted_price]"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "Nabídka prodejce"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "Zobrazit všechny nabídky"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "Nabídka variant prodejce"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "Změnili jste nastavení pro <b>Zobrazit vyprodané produkty</b>. Exportujte prosím <a href=\"[url]\"> všechno zboží z vašeho katalogu</a> (použijte tlačítko \"Exportovat nalezené produkty\") a přeimportujte jej. To způsobí, že zobrazená cena běžných produktů bude vždy zobrazena správně, dokud to nezměníte znovu."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "Ušetřete až"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "Kombinace produktů mohou přidávat pouze prodejci. Chcete-li přidat kombinaci pro společný produkt, nejprve se přihlaste jako jeden z dodavatelů, kteří jej prodávají."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "Chcete-li přidat kombinaci pro běžný produkt, <a class=\"cm-post\" href=\"[href]\">jej začněte prodávat</a> jako první."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "Vlastníka produktu se nepodařilo změnit, protože jej někteří prodejci stále prodávají. Před změnou vlastníka tohoto produktu prosím smažte nabídky <a href=\"[vendors_offers_link]\" target=\"_blank\">prodejců</a>."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "Balíčky produktů mohou přidávat pouze dodavatelé. Chcete-li přidat balíček pro běžný produkt, nejprve se přihlaste jako jeden z dodavatelů, kteří jej prodávají."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>a další nabídky</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "Abychom do košíku přidali požadovaný počet položek, museli jsme zahrnout nabídky od více prodejců. Některé z nich mohou mít různé ceny."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "Produkt byl nalezen, ale nejedná se o běžný produkt. Zadejte společné ID produktu."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "Produkt byl nalezen, ale není produktem dodavatele. Uveďte prosím ID produktu dodavatele."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "Pro vyhledávání produktů dodavatele je nutné zadat společné ID produktu."
+

@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_adaptive.po\n"
+"X-Crowdin-File-ID: 6582\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::paypal_adaptive"
+msgid "PayPal Adaptive Payments [Deprecated]"
+msgstr "PayPal Adaptive Payments [Deprecated]"
+
+msgctxt "Addons::description::paypal_adaptive"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal. Only existing PayPal Adaptive clients can use this add-on. We recommend you to use the PayPal Commerce Platform add-on instead."
+msgstr "Tento doplněk pomůže správcům kořenových obchodů automaticky rozdělovat finanční prostředky mezi více dodavatelů prostřednictvím služby PayPal. Tento doplněk mohou používat pouze stávající klienti PayPal Adaptive. Doporučujeme vám místo toho použít doplněk PayPal Commerce Platform."
+
+msgctxt "Languages::paypal_api_username"
+msgid "API username"
+msgstr "Uživatelské jméno API"
+
+msgctxt "Languages::paypal_api_password"
+msgid "API password"
+msgstr "Heslo API"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal Business Account email"
+msgstr "E-mail obchodního účtu PayPal"
+
+msgctxt "Languages::paypal_adaptive.paypal_email"
+msgid "PayPal Business Account email"
+msgstr "E-mail obchodního účtu PayPal"
+
+msgctxt "Languages::paypal_adaptive.vendor.paypal_email"
+msgid "PayPal Account email"
+msgstr "E-mail účtu PayPal"
+
+msgctxt "Languages::pp_adaptive_payments"
+msgid "PayPal Adaptive Payments"
+msgstr "Adaptivní platby PayPal"
+
+msgctxt "Languages::primary_email"
+msgid "PayPal Primary account email"
+msgstr "E-mail primárního účtu PayPal"
+
+msgctxt "Languages::processing_payment_for_order"
+msgid "Processing Payment for order"
+msgstr "Zpracování platby za objednávku"
+
+msgctxt "Languages::paypal_adaptive_pay_orders"
+msgid "Pay order"
+msgstr "Zaplatit příkaz"
+
+msgctxt "Languages::paypal_adaptive_pay_step"
+msgid "step pay"
+msgstr "krokový plat"
+
+msgctxt "Languages::paypal_adaptive_pay"
+msgid "Pay"
+msgstr "Platit"
+
+msgctxt "Languages::paypal_adaptive_progress_payment_order"
+msgid "Progress pay orders"
+msgstr "Progress platební příkazy"
+
+msgctxt "Languages::paypal_adaptive_paid"
+msgid "Paid"
+msgstr "Zaplaceno"
+
+msgctxt "Languages::paypal_adaptive_cancel"
+msgid "Return to checkout"
+msgstr "Vraťte se k pokladně"
+
+msgctxt "Languages::paypal_adaptive_type_payments"
+msgid "PayPal payments type"
+msgstr "Typ platby PayPal"
+
+msgctxt "Languages::paypal_adaptive_papallel_payments"
+msgid "Parallel"
+msgstr "Paralelní"
+
+msgctxt "Languages::paypal_adaptive_chained_payments"
+msgid "Chained"
+msgstr "Připoutaný"
+
+msgctxt "Languages::order_subtotal"
+msgid "Order subtotal"
+msgstr "Mezisoučet objednávky"
+
+msgctxt "Languages::paypal_adaptive_payer_fees"
+msgid "Payer fees"
+msgstr "Poplatky plátce"
+
+msgctxt "Languages::paypal_adaptive_fees_eachreceiver"
+msgid "Each receiver"
+msgstr "Každý přijímač"
+
+msgctxt "Languages::paypal_adaptive_fees_primaryreceiver"
+msgid "Primary receiver"
+msgstr "Primární přijímač"
+
+msgctxt "Languages::paypal_adaptive_pending_payment"
+msgid "Pending payment"
+msgstr "Čekající platba"
+
+msgctxt "Languages::block_paypal_adaptive"
+msgid "PayPal Adaptive"
+msgstr "Adaptivní PayPal"
+
+msgctxt "Languages::paypal_calc_comission_based_on"
+msgid "To calculate commission based on"
+msgstr "Pro výpočet provize na základě"
+
+msgctxt "SettingsSections::paypal_adaptive::general"
+msgid "General"
+msgstr "Všeobecné"
+
+msgctxt "SettingsOptions::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "To calculate commission based on"
+msgstr "Pro výpočet provize na základě"
+
+msgctxt "SettingsTooltips::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "Indicates the sum based on which commission will be calculated"
+msgstr "Udává částku, na základě které bude vypočítána provize"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::O"
+msgid "Order total"
+msgstr "Celková objednávka"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::S"
+msgid "Order subtotal"
+msgstr "Mezisoučet objednávky"
+
+msgctxt "SettingsOptions::paypal_adaptive::collect_payouts"
+msgid "Collect payouts on vendors"
+msgstr "Sbírejte výplaty u prodejců"
+
+msgctxt "SettingsTooltips::paypal_adaptive::collect_payouts"
+msgid "When creating a withdrawal for a vendor, the amount of unpaid payouts will be held back from the withdrawal amount."
+msgstr "Při vytváření výběru pro dodavatele bude částka nevyplacených výplat pozdržena z částky výběru."
+
+msgctxt "Languages::paypal_adaptive_override_with_secondary_currency"
+msgid "Use customer's choice of currency"
+msgstr "Použijte měnu dle výběru zákazníka"
+
+msgctxt "Languages::paypal_adaptive_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Použijte kontextovou pokladnu"
+
+msgctxt "Languages::works_in_browsers"
+msgid "It doesn't work in Safari browser and ios devices"
+msgstr "Nefunguje v prohlížeči Safari a zařízeních ios"
+
+msgctxt "Languages::paypal_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Provize za adaptivní platby PayPal"
+
+msgctxt "Languages::paypal_commission_type"
+msgid "PayPal commission type"
+msgstr "Typ provize PayPal"
+
+msgctxt "Languages::paypal_adaptive.commission_type"
+msgid "Commission type"
+msgstr "Typ provize"
+
+msgctxt "Languages::paypal_adaptive.tooltips.commission_type"
+msgid "The setting allows to select the way commission is charged to the vendor when using the PayPal Adaptive payment method. If Vendors commission is selected, commission will be charged in the amount that is specified in the corresponding field of the vendor. If PayPal Adaptive commission is selected, a separate field will be used to avoid confusion with standard commissions. It will be used only for the PayPal Adaptive payment method. If the 'Vendor commission' add-on is not installed/disabled, 'PayPal Adaptive Payments commission' will be used."
+msgstr "Nastavení umožňuje vybrat způsob, jakým bude dodavateli účtována provize při použití platební metody PayPal Adaptive. Pokud je vybrána provize dodavatele, bude provize účtována ve výši, která je uvedena v odpovídajícím poli dodavatele. Pokud je vybrána provize PayPal Adaptive, bude použito samostatné pole, aby se předešlo záměně se standardními provizemi. Bude použit pouze pro platební metodu PayPal Adaptive. Pokud doplněk 'Provize dodavatele' není nainstalován/deaktivován, použije se 'Provize za adaptivní platby PayPal'."
+
+msgctxt "Languages::paypal_adaptive.ppa_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Provize za adaptivní platby PayPal"
+
+msgctxt "Languages::paypal_adaptive.vendor_plans"
+msgid "Vendor plans"
+msgstr "Prodejce plánuje"
+
+msgctxt "Languages::paypal_verification"
+msgid "PayPal verification"
+msgstr "Ověření přes PayPal"
+
+msgctxt "Languages::paypal_verification_short"
+msgid "PP ver."
+msgstr "PP ver."
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "Nekontrolováno"
+
+msgctxt "Languages::not_verified"
+msgid "Not verified"
+msgstr "Neověřeno"
+
+msgctxt "Languages::verified"
+msgid "Verified"
+msgstr "Ověřeno"
+
+msgctxt "Languages::paypal_adaptive_auto_info_data_verification"
+msgid "Use the following line to run the script to get E-mail verification status of your vendors according to schedule:"
+msgstr "Pomocí následujícího řádku spusťte skript, abyste získali stav ověření e-mailu vašich dodavatelů podle plánu:"
+
+msgctxt "Languages::paypal_adaptive_statuses_updated_successfully"
+msgid "PayPal verification statuses have been updated successfully."
+msgstr "Stavy ověření PayPal byly úspěšně aktualizovány."
+
+msgctxt "SettingsOptions::paypal_adaptive::display_verification_status_on_storefront"
+msgid "Display verification status to customers"
+msgstr "Zobrazit stav ověření zákazníkům"
+
+msgctxt "SettingsTooltips::paypal_adaptive::display_verification_status_on_storefront"
+msgid "The setting allows to display verification status at the product details page on the storefront. If the vendor E-mail is not verified, the status will not be shown to the customers."
+msgstr "Nastavení umožňuje zobrazit stav ověření na stránce s podrobnostmi o produktu ve výloze. Pokud není e-mail dodavatele ověřen, stav se zákazníkům nezobrazí."
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image"
+msgid "PayPal verification image"
+msgstr "Ověřovací obrázek PayPal"
+
+msgctxt "Languages::paypal_ver_image"
+msgid "Verification image"
+msgstr "Ověřovací obrázek"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_width"
+msgid "Image width"
+msgstr "Šířka obrázku"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_height"
+msgid "Image height"
+msgstr "Výška obrázku"
+
+msgctxt "Languages::verified_by_paypal"
+msgid "Verified by PayPal"
+msgstr "Ověřeno službou PayPal"
+
+msgctxt "Languages::paypal_adaptive_error_wrong_cron_key"
+msgid "Error: Wrong cron key."
+msgstr "Chyba: Chybný cron klíč."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_width"
+msgid "The width of the verified image."
+msgstr "Šířka ověřeného obrázku."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_height"
+msgid "The height of the verified image."
+msgstr "Výška ověřeného obrázku."
+
+msgctxt "Languages::paypal_adaptive.tooltips.paypal_ver_image"
+msgid "The setting allows to display verification image instead of the text status at the product details page on the storefront. If an image is not uploaded, the status will be shown as text."
+msgstr "Nastavení umožňuje zobrazit ověřovací obrázek namísto textového stavu na stránce s podrobnostmi o produktu ve výloze. Pokud není obrázek nahrán, stav se zobrazí jako text."
+
+msgctxt "Languages::paypal_emails_must_be_unique"
+msgid "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+msgstr "Dodavatel s PayPal Adaptive E-mail, kterého jste si vybrali, již existuje, zkuste prosím jiného."
+
+msgctxt "Languages::addons.paypal_adaptive.logo"
+msgid "PayPal Adaptive logo"
+msgstr "Adaptivní logo PayPal"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Použijte platný grafický formát, například .gif, .jpg nebo .png. Omezte obrázek na šířku 190 pixelů a výšku 60 pixelů. PayPal ořízne obrázky, které jsou větší. PayPal umístí obrázek vašeho loga do horní části oblasti pro kontrolu košíku."
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "E-mail vašeho obchodního účtu PayPal. E-mail osobního účtu nebude fungovat."
+
+msgctxt "Languages::ttc_paypal_adaptive.paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "E-mail vašeho obchodního účtu PayPal. E-mail osobního účtu nebude fungovat."
+
+msgctxt "Languages::ttc_paypal_adaptive.vendor.paypal_email"
+msgid "The email of your PayPal account."
+msgstr "E-mail vašeho účtu PayPal."
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_workflow"
+msgid "PayPal workflow"
+msgstr "Pracovní postup PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.store_settings"
+msgid "Store settings"
+msgstr "Uložit nastavení"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_credentials"
+msgid "PayPal credentials"
+msgstr "Pověření pro PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] z [sum]"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% z [sum]"
+
+msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Výběr pro objednávku #[order_id]"
+
+msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
+msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."
+msgstr "Zřetězené platby nelze použít, pokud je doplněk <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> nakonfigurován tak, aby shromažďoval provizi za objednávku i nevyplacené platby."
+
+msgctxt "Languages::addons.paypal_adaptive.primary_email_notice"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "E-mail vašeho obchodního účtu PayPal. E-mail osobního účtu nebude fungovat."
+
+msgctxt "Languages::addons.paypal_adaptive.commission_includes"
+msgid "Commission includes"
+msgstr "Komise zahrnuje"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission"
+msgid "Order commission"
+msgstr "Objednávková provize"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission_and_payouts"
+msgid "Order commission and unpaid payouts"
+msgstr "Provize za objednávku a nevyplacené platby"
+
+msgctxt "Languages::addons.paypal_adaptive.first_name"
+msgid "PayPal account holder's first name"
+msgstr "Křestní jméno majitele účtu PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.last_name"
+msgid "PayPal account holder's last name"
+msgstr "Příjmení majitele účtu PayPal"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.first_name"
+msgid "Please enter the same first name as specified in your PayPal profile."
+msgstr "Zadejte prosím stejné křestní jméno, jaké je uvedeno ve vašem profilu PayPal."
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.last_name"
+msgid "Please enter the same last name as specified in your PayPal profile."
+msgstr "Zadejte prosím stejné příjmení, jaké je uvedeno ve vašem profilu PayPal."
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_title"
+msgid "Paypal Adaptive Payments"
+msgstr "Paypal adaptivní platby"
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_description"
+msgid "PayPal Adaptive Payments is a payment provider that allows you to buy products from multiple vendors while making a single payment. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal privacy statement.</a>"
+msgstr "PayPal Adaptive Payments je poskytovatel plateb, který vám umožňuje nakupovat produkty od více dodavatelů při jedné platbě. Zde je <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">prohlášení o ochraně osobních údajů PayPal.</a>"
+

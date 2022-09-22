@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "Viszonteladói csomagok"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "Hozz létre különböző korlátozásokat és árakat tartalmazó csomagokat eladóid számára"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "Jutalékok"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "A szállítási költségek beépítése az eladói jutalékokba"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "Adók beépítése az eladói jutalékokba"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "Számítsd ki az eladói jutalékokat anélkül, hogy előzetesen levonnád az adókat a rendelés végösszegéből."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "Viszonteladó megváltoztathatja az aktuális csomagját"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "Adók beszedése az eladóktól"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "Küldd a beszedett adókat a piactér számlájára."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "Viszonteladói csomagok"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "Viszonteladói csomag információ"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "Megjeleníti a kiválasztott eladói csomagra vonatkozó információkat"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "Csomag"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "Csomag"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "Jutalék"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "Korlátozások"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "Hozz létre különböző korlátozásokat és árakat tartalmazó.csomagokat az eladóid részére"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "havonta"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "évente"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "egyszeri"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "Max. termékszám"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "Állítsd be a maximális termékszámot, amellyel egy eladó az adott csomagban rendelkezhet. Hagyd üresen, ha korlátlan számú terméket engedélyezel."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "Egy eladónak lehet saját mikropiactere egy külön címen, például <i>example.com/vendor/</i>. A mikropiactér csak annak az eladónak a termékeit tartalmazza, aki a mikropiactér tulajdonosa. Továbbá a keresési eredmények az eladó mikropiacterén csak az adott eladó termékeit tartalmazzák."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "Eladói csomag hozzáadása"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "Új viszonteladói csomag"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "Eladói csomag szerkesztése"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "Nem lehet törölni a csomagot, mivel valamelyik eladó használja azt"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "Nem lehet kikapcsolni a csomagot, mivel valamelyik eladó használja azt"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "Tranzakciós díj"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "Tranzakciós díj (abs)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "Árbevétel"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "Árbevétel legfeljebb"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "Az ezt a csomagot használó eladók számára engedélyezett maximális havi árbevétel. Ha korlátlan bevételt szeretnél engedélyezni, hagyd üresen ezt a mezőt."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "Eladó mikropiactér"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "A legjobb választást kínáló ajánlat"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "Legjobb választás"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "A csomag díj kiszabása azután történik meg, hogy az admin jóváhagyja az eladói fiókot."
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "Jelenlegi csomag"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "Jelenlegi csomag kihasználása"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "Legjobb választás"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Válassz csomagot"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "Ezt választom"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "Havonta"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "Évente"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "Csomag neve"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> termék|<strong>[n]</strong> termék"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>Korlátlan</strong> termékek"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "Árbevétel legfeljebb <strong>[revenue]</strong>-ig."
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>Korlátlan</strong> árbevétel"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "Tranzakciós díj: <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "Eladói jutalék"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "Határozz meg egy kategóriát"
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "A csomagod a [plan] csomagra lett beállítva. A csomagod részleteit lásd az alábbiakban."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "Fizetés a Csomagodért"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "A [plan] csomag használatáért [price] összeg került levonásra a számládról. Kövesd a linket a <a href=\"[href]\">számlaegyenleged megtekintéséhez</a> vagy tekintsd meg a csomagod részleteit az alábbiakban."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "A Csomagod módosult"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "A csomagod [plan]-ra módosult. Az új csomagod részleteit lásd az alábbiakban."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "Nem tudsz több terméket hozzáadni: elérted a csomagodban megengedett maximális termékszámot. Csomagod módosításához kérjük, <a href=\"[href]\">kövesd ezt a linket</a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "A maximális árbevétel túllépve"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> túllépte a [plan] csomag által megengedett maximális árbevételt."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "Nem elérhető"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "Túl sok termék ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "Túl sok árbevétel ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "Sajnáljuk, ez a csomag nem elérhető a számodra. Kérjük, válassz elérhető csomagot."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "Épp egy másik eladói csomagra váltasz. A csomag teljes ára lesz kiterhelve. Biztos, hogy folytatni szeretnéd?"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "Eladói csomagok: csomagváltásról szóló értesítés"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "Eladói csomagok: fizetési értesítés"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "Eladói csomagok: árbevételi értesítés"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "Eladói csomagok"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] összeg a [sum] összegből"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "[amount] összegből"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% a [sum] összegből"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "Az eladói csomag kifizetése: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "Eladói csomag"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "Érintsék a módosítások a meglévő eladókat?"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr " Mit tegyünk a <a href=\"[search_url]\" target=\"_blank\">[n] eladóval</a>, aki most ezt a csomagot használja?|Mit tegyünk a <a href=\"[search_url]\" target=\"_blank\">[n] eladókkal</a>, akik most ezt a csomagot használják?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "Add hozzá az eladót a csomaghoz hozzáadott piacterekhez|Add hozzá az eladókat a csomaghoz hozzáadott piacterekhez"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "Az eladó eltávolítása a csomagból eltávolított kirakatokból.|Az eladók eltávolítása a csomagból eltávolított kirakatokból."
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "Az eladó átkerült egy másik csomagba"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "Mi a teendő az eladó számára elérhető piacterekkel?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "Add hozzá az eladót az új eladói csomagban elérhető piacterekhez."
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "Távolítsd el az eladót a korábbi csomagban elérhető piacterekről."
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "Speciális eladói csomag létrehozása"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "Létrejött egy új \"[plan_name]\" eladói csomag. Mostantól <a href=\"[link]\">korlátozásokat állíthatsz be az ezt a csomagot használó eladókra vonatkozóan</a>."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "[commission]% díj"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "Alapértelmezett csomag"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "Az eladói csomag módosult"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr " Eladói csomagok"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "Eladói csomagok: az eladói csomag módosult"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "\"[vendor]\" eladó átkerült \"[plan]\" csomagba."
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "A \"[vendor]\" eladó csomagja \"[old_plan]\" csomagról \"[new_plan]\" csomagra módosult."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "Régi csomag"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "Új csomag"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "Az eladói adminisztrátorok hozzáadása a csomaghoz hozzáadott felhasználói csoportokhoz"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "Az eladói adminisztrátorok hozzáadása a csomaghoz hozzáadott felhasználói csoportokhoz"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "Ezeket a felhasználói csoportokat kapják meg az eladó adminisztrátorai, amikor az eladó megkapja ezt a csomagot"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "Sajnáljuk, ez a kategória nem elérhető az eladó számára. Kérjük, ellenőrizd az eladói csomag konfigurációját."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "Összes piactér"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "Összes kategória"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "Nem sikerült letiltani a szállítói tervet. Legalább egy aktív vagy rejtett szállítói tervnek léteznie kell."
+

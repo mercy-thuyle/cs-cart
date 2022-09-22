@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_per_unit.po\n"
+"X-Crowdin-File-ID: 6732\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "Τιμή ανά μονάδα"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "Σας επιτρέπει να εμφανίζετε την τιμή ανά μονάδα σε σελίδες καταλόγου και προϊόντων."
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "Τιμή ανά μονάδα"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "Όνομα Μονάδας"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "Για παράδειγμα, \"ml\" ή \"g\" χωρίς εισαγωγικά."
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "Μονάδες στο προϊόν"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "Απαιτείται για τον αυτόματο υπολογισμό της τιμής ανά μονάδα."
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "Εμφάνιση τιμής ανά Χ μονάδες"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "Για περιπτώσεις που θέλετε να εμφανίσετε την τιμή 'ανά 250 ml' αντί για 'ανά ml'."
+

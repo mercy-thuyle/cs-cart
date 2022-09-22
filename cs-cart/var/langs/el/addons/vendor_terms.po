@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_terms.po\n"
+"X-Crowdin-File-ID: 6704\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::vendor_terms"
+msgid "Vendor's terms and conditions"
+msgstr "Όρους και τις προϋποθέσεις του πωλητή"
+
+msgctxt "Addons::description::vendor_terms"
+msgid "Allows vendors to specify terms and conditions that the customers must agree with when buying from those vendors"
+msgstr "Επιτρέπει σε πωλητές να καθορίσουν τους όρους και τις προϋποθέσεις που οι πελάτες πρέπει να συμφωνήσουν όταν αγοράζουν απο αυτούς"
+
+msgctxt "Languages::vendor_terms.terms_and_conditions"
+msgid "Terms & conditions"
+msgstr "Όροι και προϋποθέσεις"
+
+msgctxt "Languages::vendor_terms.terms_and_conditions_tooltip"
+msgid "If you want a customer to agree to your terms and conditions at checkout, fill in Terms & Conditions. If you leave Terms & Conditions empty, a customer proceeds without agreement."
+msgstr "Εάν θέλετε ο πελάτης να συμφωνήσει με τους όρους και τις προϋποθέσεις σας στο Ταμείο, συμπληρώστε τους Ορους & Προϋποθέσεις. Εάν αφήσετε κενό το Ορους & Προϋποθέσεις, ο πελάτης θα συνεχίζει χωρίς συμφωνία."
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions"
+msgid "I accept the [terms_href] of [vendor]"
+msgstr "Αποδέχομαι τους [terms_href] των [vendor]"
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions_name"
+msgid "Terms & conditions"
+msgstr "Όροι και προϋποθέσεις"
+

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 6586\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Integroi Facebook-pikselin kauppaan"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Facebookin pikselin tunniste"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "Seuraa kaikkia sivun katselukertoja"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "Seuraa tuotteen lisäämistä ostoskoriin"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "Seuraa tilauksen tekemistä"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_title"
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_description"
+msgid "Facebook Pixel is a tool that allows us to measure ad efficiency by tracking that the browser or device that received the ad also visited a product page, added product to cart, or placed an order. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "Facebook Pixel on työkalu, jonka avulla voimme mitata mainosten tehokkuutta seuraamalla, että mainoksen vastaanottanut selain tai laite on myös käynyt tuotesivulla, lisännyt tuotteen ostoskoriin tai tehnyt tilauksen. Tässä on <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebookin tietosuojakäytäntö</a>."
+

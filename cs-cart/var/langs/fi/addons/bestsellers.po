@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/bestsellers.po\n"
+"X-Crowdin-File-ID: 6556\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::bestsellers"
+msgid "Bestsellers & On-Sale Products"
+msgstr "Bestsellerit ja myynnissä olevat tuotteet"
+
+msgctxt "Addons::description::bestsellers"
+msgid "Collects best selling & on sale product data and adds block fillings to show such products"
+msgstr "Kerää myydyimpien ja myynnissä olevien tuotteiden tiedot ja lisää lohkotäyttöjä tällaisten tuotteiden näyttämiseksi"
+
+msgctxt "Languages::sort_by_bestsellers_asc"
+msgid "Sort by Bestselling: Low to High"
+msgstr "Lajittele myydyin: matalasta korkeaan"
+
+msgctxt "Languages::sort_by_bestsellers_desc"
+msgid "Sort by Bestselling"
+msgstr "Lajittele myydyin"
+
+msgctxt "Languages::sort_by_on_sale_asc"
+msgid "Sort by discount: Low to High"
+msgstr "Lajittele alennuksen mukaan: matalasta korkeaan"
+
+msgctxt "Languages::sort_by_on_sale_desc"
+msgid "Sort by discount: High to Low"
+msgstr "Lajittele alennuksen mukaan: korkeasta alhaiseen"
+
+msgctxt "Languages::sales_amount"
+msgid "Sales amount"
+msgstr "Myyntimäärä"
+
+msgctxt "Languages::bestselling"
+msgid "Bestselling"
+msgstr "Myydyin"
+
+msgctxt "Languages::on_sale"
+msgid "On sale"
+msgstr "Alennuksessa"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "Samanlaisia"
+
+msgctxt "Languages::percent_range"
+msgid "Price range (in % of the main product's price)"
+msgstr "Hintaluokka (% päätuotteen hinnasta)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "Samasta kategoriasta"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "Harkitse alaluokkia"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "Vain \"varastossa\" olevat tuotteet"
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "Lopullinen myynti"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "Uusin"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum final sale discount (%)"
+msgstr "Vähimmäismyyntialennus (%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount to define bestsellers"
+msgstr "Vähimmäismyyntimäärä määrittämään bestsellerit"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "Kausi"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "Viimeiset päivät"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "Kaikki päivät"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "Tänään"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "Viimeiset päivät"
+

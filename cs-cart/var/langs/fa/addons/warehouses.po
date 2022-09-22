@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 6702\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses"
+msgstr "انبارها"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "به شما امکان می دهد سهام محصول را به طور جداگانه برای هر فروشگاه و انبار تنظیم کنید. در دسترس بودن یک محصول را در فروشگاه ها یا در مناطق نرخ خاص به مشتریان نشان می دهد."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "تایپ کنید"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "فروشگاه"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "نقطه وانت"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "انبار"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "نام"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "شهر"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "تعداد"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "ارسال به"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "مناطق نرخی را تعیین می کند که در آن محصولات از این انبار در دسترس در نظر گرفته می شود."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "تعیین می کند که این مکان در کجا قرار دارد. به نوبه خود، این نرخ حمل و نقل و زمان تحویل به این مکان را تعیین می کند."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "نشان دادن به"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "به شما امکان می دهد این نقطه تحویل را به ساکنان سایر مناطق نرخ در هنگام پرداخت ارائه دهید."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] در منطقه انتخاب شده موجود نیست.|محصولات زیر در منطقه انتخابی موجود نیست: [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "مقادیر"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "فروشگاه ها و انبارها"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "فروشگاه / انبار"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "زمان حرکت"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "زمانی که برای انتقال محصولات از اینجا به فروشگاه یا انبار دیگری در این منطقه نرخ نیاز است."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "در مورد تاخیر هشدار دهید"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "اگر یک محصول باید از اینجا به منطقه نرخ منتقل شود، زمان جابجایی را در لیست محصول و سبد خرید نشان دهید."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "بسته به اینکه مشتری شما کجاست، ابتدا محصولات را می توان از فروشگاه ها و انبارهای مختلف تهیه کرد. <a href=\"[destinations_url]\" target=\"_blank\">اولویت فروشگاه و انبار را به صورت جداگانه برای هر منطقه نرخ پیکربندی کنید.</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "محصول در یک انبار از راه دور است. اگر آن را سفارش دهید، ما آن را [shipping_delay]ارسال می کنیم."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "محصول در یک انبار از راه دور است. اگر آن را سفارش دهید، ارسال ممکن است کمی بیشتر طول بکشد."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "در صورت سفارش: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "برخی از محصولاتی که سفارش دادید در یک انبار از راه دور هستند. حمل و نقل ممکن است کمی بیشتر از آنچه در اینجا ذکر شده طول بکشد."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "در صورت سفارش موجود است"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "در انبار"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "در [n] فروشگاه|در [n] فروشگاه"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "در دسترس بودن در فروشگاه ها"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "در دسترس بودن در فروشگاه ها"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "لیست فروشگاه هایی که محصول را می توان خریداری کرد"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "فروشگاه و آدرس"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "تلفن"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "جستجو در فروشگاه"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "فهرست کنید"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "نقشه"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "هیچ فروشگاهی مطابق با معیارهای جستجو یافت نشد"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "منطقه امتیاز دهی"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "هشدار تاخیر"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "اگر محصولات در فروشگاه‌ها و انبارهای بالا موجود نباشد، ظاهر می‌شود."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "برای جستجو تایپ کنید، یا روی دکمه سمت راست کلیک کنید تا همه مناطق نرخ را اضافه کنید"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "هر نوع فروشگاهی"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "همه را اضافه کنید"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "این ویترین فروشگاه یا انباری ندارد. لطفاً <a href=\"[create_url]\">یک</a> یا <a href=\"[list_url]\">ایجاد کنید تا موجودی</a> برای این ویترین موجود باشد"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "این روی محصولاتی که دارای مقدار مشخص شده در فایل وارد شده هستند تأثیری نخواهد داشت. این همچنین بر محصولات موجود در انبارهایی که در این پیش تنظیم به روز نشده اند تأثیر نمی گذارد."
+
+msgctxt "Languages::warehouses.destination_can_be_deleted"
+msgid "Couldn't delete the rate area because at least one product is contained in warehouses in this rate area. Please delete this rate area from warehouse or reset the number of <a href=\"[href]\">these products</a>, and try again."
+msgstr "منطقه نرخ حذف نشد زیرا حداقل یک محصول در انبارهای این منطقه نرخ موجود است. لطفاً این ناحیه نرخ را از انبار حذف کنید یا تعداد <a href=\"[href]\">این محصولات</a>را بازنشانی کنید و دوباره امتحان کنید."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "انبارها"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "انبارها"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "انبار [id]پیدا نشد"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "رده [id] ایجاد شد. شناسه محلی: [local_id]"
+

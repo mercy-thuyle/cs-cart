@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_commerce_platform.po\n"
+"X-Crowdin-File-ID: 6632\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform"
+
+msgctxt "Addons::description::paypal_commerce_platform"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal."
+msgstr "Το πρόσθετο θα σας βοηθήσει το βασικο διαχειριστή του καταστηματος να διανέμει Χρήματα αυτόματα μεταξύ των πολλαπλών πωλητών μέσω του PayPal."
+
+msgctxt "SettingsSections::paypal_commerce_platform::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::collect_payouts"
+msgid "Commission includes"
+msgstr "Η Προμήθεια  περιλαμβάνει"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::N"
+msgid "Order commission"
+msgstr "Προμήθεια παραγγελίας"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "Προμήθεια παραγγελίας και μη καταβλημένες πληρωμές"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::rma_refunded_order_status"
+msgid "Order status on refund"
+msgstr "Κατάσταση παραγγελίας επιστροφής χρημάτων"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform"
+
+msgctxt "Languages::paypal_commerce_platform.paypal"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payer_id"
+msgid "Merchant account ID"
+msgstr "Merchant account ID"
+
+msgctxt "Languages::paypal_commerce_platform.client_id"
+msgid "App Client ID"
+msgstr "App Client ID"
+
+msgctxt "Languages::paypal_commerce_platform.secret"
+msgid "App Secret"
+msgstr "App secret"
+
+msgctxt "Languages::paypal_commerce_platform.connect_with_paypal"
+msgid "Connect with PayPal"
+msgstr "Σύνδεση με PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.disconnect"
+msgid "Disconnect account"
+msgstr "Αποσυνδέστε το λογαριασμό"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account"
+msgid "PayPal account"
+msgstr "PayPal λογαριασμός"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account_short"
+msgid "PP a/c"
+msgstr "PP a/c"
+
+msgctxt "Languages::paypal_commerce_platform.connected"
+msgid "Connected"
+msgstr "Συνδέθηκε"
+
+msgctxt "Languages::paypal_commerce_platform.not_connected"
+msgid "Not connected"
+msgstr "Δεν είναι συνδεδεμένο"
+
+msgctxt "Languages::paypal_commerce_platform.account_connected"
+msgid "Your PayPal account has been successfully connected to the store"
+msgstr "Ο PayPal Λογαριασμός σας  έχει συνδεθεί με επιτυχία με το κατάστημα"
+
+msgctxt "Languages::paypal_commerce_platform.account_connection_failure"
+msgid "Unable to connect your PayPal account to the store"
+msgstr "Δεν ειναι δυνατον να συνδέσετε το λογαριασμό σας PayPal στο κατάστημα"
+
+msgctxt "Languages::paypal_commerce_platform.account_disconnected"
+msgid "Your PayPal account has been successfully disconnected from the store"
+msgstr "Ο PayPal Λογαριασμός σας  έχει αποσυνδεθεί με επιτυχία απο το κατάστημα"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Ανάληψη για την παραγγελία #[order_id]"
+
+msgctxt "Languages::paypal_commerce_platform.refund_id"
+msgid "Refund transaction ID in PayPal"
+msgstr "Refund transaction ID στο PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal"
+msgid "Withdrawal amount"
+msgstr "Ποσό αναληψης"
+
+msgctxt "Languages::paypal_commerce_platform.rma.perform_refund"
+msgid "Give a refund via PayPal Commerce Platform"
+msgstr "Δώστε μια επιστροφή χρημάτων μέσω PayPal Commerce Platform"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "Θα γίνει επιστροφή χρημάτων εφοσον ο διαχειριστής αλλάξει την κατάσταση αιτηματος επιστροφής"
+
+msgctxt "Languages::paypal_commerce_platform.rma.refund_performed"
+msgid "The refund has been made via PayPal Commerce Platform"
+msgstr "Η επιστροφή έχει γίνει μέσω PayPal Commerce Platform"
+
+msgctxt "Languages::paypal_commerce_platform.order_id"
+msgid "Order ID in PayPal"
+msgstr "Αναγνωριστικό παραγγελίας στο PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.capture_id"
+msgid "Capture ID in PayPal"
+msgstr "Capture ID στο PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payout_id"
+msgid "Payout transaction ID in PayPal"
+msgstr "Payout  transaction ID στο PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payout_failure_reason"
+msgid "Payout failure reason"
+msgstr "Αιτία αποτυχίας πληρωμής"
+
+msgctxt "Languages::paypal_commerce_platform.own_account_cant_be_used_for_vendor"
+msgid "Your own PayPal account can't be used to connect a vendor to the store"
+msgstr "Ο δικος σας λογαριασμό PayPal δεν μπορεί να χρησιμοποιηθεί για να συνδέσετε έναν πωλητή στο κατάστημα"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "Καθορίζει αν πρέπει ή όχι να αλλάξετε την κατάσταση της παραγγελίας, μετά την επιστροφή πραγματοποιήθηκε μέσω του πρόσθετου RMA."
+
+msgctxt "Languages::paypal_commerce_platform.do_not_change"
+msgid "Do not change"
+msgstr "Μην αλλάξετε"
+
+msgctxt "Languages::paypal_commerce_platform.set_status_to"
+msgid "Set to:"
+msgstr "Ορισμός σε:"
+
+msgctxt "Languages::paypal_commerce_platform.webhook_help_message"
+msgid "Specify the following URL when configuring a webhook for your REST application:"
+msgstr "Οριστε το παρακατω URL oταν ρυθμίζετε τις παραμέτρους ενός webhook για τo REST application:"
+
+msgctxt "Languages::paypal_commerce_platform.webhook"
+msgid "PayPal Commerce Platform webhook: [payload]"
+msgstr "PayPal Commerce Platform webhook [payload]"
+
+msgctxt "Languages::paypal_commerce_platform.settings.account"
+msgid "Account settings"
+msgstr "Ρυθμίσεις λογαριασμού"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_funding"
+msgid "Funding sources to show on checkout"
+msgstr "Πηγές χρηματοδότησης για εμφάνιση στο ταμείο"
+
+msgctxt "Languages::paypal_commerce_platform.funding.card"
+msgid "Credit or debit cards"
+msgstr "Πιστωτικές ή χρεωστικές κάρτες"
+
+msgctxt "Languages::paypal_commerce_platform.funding.credit"
+msgid "PayPal Credit"
+msgstr "Πίστωση PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.funding.venmo"
+msgid "Venmo"
+msgstr "Venmo"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sepa"
+msgid "SEPA-Lastschrift"
+msgstr "SEPA-Lastschrift"
+
+msgctxt "Languages::paypal_commerce_platform.funding.bancontact"
+msgid "Bancontact"
+msgstr "Bancontact"
+
+msgctxt "Languages::paypal_commerce_platform.funding.eps"
+msgid "eps"
+msgstr "eps"
+
+msgctxt "Languages::paypal_commerce_platform.funding.giropay"
+msgid "giropay"
+msgstr "giropay"
+
+msgctxt "Languages::paypal_commerce_platform.funding.ideal"
+msgid "iDEAL"
+msgstr "iDEAL"
+
+msgctxt "Languages::paypal_commerce_platform.funding.mybank"
+msgid "MyBank"
+msgstr "MyBank"
+
+msgctxt "Languages::paypal_commerce_platform.funding.p24"
+msgid "Przelewy24"
+msgstr "Przelewy24"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sofort"
+msgid "Sofort"
+msgstr "Sofort"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_cards"
+msgid "Cards to show on checkout"
+msgstr "Κάρτες για εμφάνιση στο ταμείο"
+
+msgctxt "Languages::paypal_commerce_platform.card.visa"
+msgid "Visa"
+msgstr "Visa"
+
+msgctxt "Languages::paypal_commerce_platform.card.mastercard"
+msgid "Mastercard"
+msgstr "Mastercard"
+
+msgctxt "Languages::paypal_commerce_platform.card.amex"
+msgid "American Express"
+msgstr "American Express"
+
+msgctxt "Languages::paypal_commerce_platform.card.discover"
+msgid "Discover"
+msgstr "Discover"
+
+msgctxt "Languages::paypal_commerce_platform.card.jcb"
+msgid "JCB"
+msgstr "JCB"
+
+msgctxt "Languages::paypal_commerce_platform.card.elo"
+msgid "Elo"
+msgstr "Elo"
+
+msgctxt "Languages::paypal_commerce_platform.card.hiper"
+msgid "Hiper"
+msgstr "Hiper"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.style"
+msgid "Button appearance"
+msgstr "εμφάνιση Κουμπιου"
+
+msgctxt "Languages::paypal_commerce_platform.style.shape"
+msgid "Shape"
+msgstr "Σχήμα"
+
+msgctxt "Languages::paypal_commerce_platform.shape.pill"
+msgid "Pill"
+msgstr "Pill"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "Ορθογώνια"
+
+msgctxt "Languages::paypal_commerce_platform.style.color"
+msgid "Color"
+msgstr "Χρώμα"
+
+msgctxt "Languages::paypal_commerce_platform.color.gold"
+msgid "Gold"
+msgstr "Χρυσό"
+
+msgctxt "Languages::paypal_commerce_platform.color.blue"
+msgid "Blue"
+msgstr "Μπλε"
+
+msgctxt "Languages::paypal_commerce_platform.color.silver"
+msgid "Silver"
+msgstr "Ασημί"
+
+msgctxt "Languages::paypal_commerce_platform.color.black"
+msgid "Black"
+msgstr "Μαύρο"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "Ορθογώνια"
+
+msgctxt "Languages::paypal_commerce_platform.style.height"
+msgid "Height"
+msgstr "Ύψος"
+
+msgctxt "Languages::paypal_commerce_platform.bn_code"
+msgid "Partner integration code"
+msgstr "Ενσωματωση Κωδικα συνεργάτη"
+
+msgctxt "Languages::paypal_commerce_platform.debug_id"
+msgid "PayPal Debug ID"
+msgstr "PayPal Debug ID"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts"
+msgid "Delay transfer of funds"
+msgstr "Καθυστέρηση μεταφοράς κεφαλαίων"
+
+msgctxt "Languages::paypal_commerce_platform.disburse_payouts_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "Μεταφορά κεφαλαίων σε πωλητές"
+
+msgctxt "Languages::paypal_commerce_platform.automatic_disburse"
+msgid "Automatic transfer"
+msgstr "Αυτόματη μεταφορά"
+
+msgctxt "Languages::paypal_commerce_platform.trigger_disburse_payouts.description"
+msgid "Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic disbursements to all vendors with a cron command. PayPal allows delays up to 28 days; after that, money will be disbursed to vendors automatically."
+msgstr "Σας επιτρέπει να ελέγχετε πρώτα τις παραγγελίες, αντί να στέλνετε χρήματα σε όλους τους πωληές αμέσως. Μεταφέρετε χρήματα σε κάθε πωλητή με μη αυτόματο τρόπο από τη σελίδα παραγγελίας ή προγραμματίστε αυτόματες περιοδικές εκταμιεύσεις σε όλους τους πωλητές με μια εντολή cron. Το PayPal επιτρέπει καθυστερήσεις έως και 28 ημέρες. Μετά από αυτό, τα χρήματα θα εκταμιεύονται αυτόματα στους πωλητές."
+
+msgctxt "Languages::paypal_commerce_platform.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number up to 28. PayPal will automatically disburse money to vendors after 28 days."
+msgstr "Η παρακάτω εντολή μεταφέρει αυτόματα χρήματα σε πωλητές για όλες τις παραγγελίες που είναι παλαιότερες των 14 ημερών. Προσθέστε το στο cron για να βεβαιωθείτε ότι οι πωλητές πληρώνονται τακτικά. Μπορείτε να αλλάξετε την τιμή του \"--ημέρες\" από 14 σε οποιονδήποτε αριθμό έως 28. Το PayPal θα εκταμιεύσει αυτόματα χρήματα στους πωληές μετά από 28 ημέρες."
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "Καθυστέρηση μεταφοράς κεφαλαίων στους πωλητές"
+
+msgctxt "Languages::paypal_commerce_platform.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "Τα χρήματα μεταφέρθηκαν στον πωλητή."
+
+msgctxt "Languages::paypal_commerce_platform.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "Τα χρήματα μεταφέρθηκαν με επιτυχία."
+
+msgctxt "Languages::paypal_commerce_platform.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "Δεν ήταν δυνατή η μεταφορά χρημάτων στον πωλητή. Δοκιμάστε ξανά αργότερα ή επικοινωνήστε με τον υπεύθυνο επεξεργασίας πληρωμών."
+
+msgctxt "Languages::paypal_commerce_platform.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "Λόγος (όπως παρέχεται από τον επεξεργαστή πληρωμών): [error_text]"
+

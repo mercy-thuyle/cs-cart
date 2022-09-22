@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe_connect.po\n"
+"X-Crowdin-File-ID: 6676\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::stripe_connect"
+msgid "Stripe Connect payments"
+msgstr "Plăți Stripe Connect"
+
+msgctxt "Addons::description::stripe_connect"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through Stripe."
+msgstr "Acest supliment îi va ajuta pe administratorii magazinelor root să distribuie automat fondurile între mai mulți furnizori prin Stripe."
+
+msgctxt "SettingsSections::stripe_connect::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::stripe_connect::collect_payouts"
+msgid "Commission includes"
+msgstr "Comisia include"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::N"
+msgid "Order commission"
+msgstr "Comision de comandă"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "Comision de comandă și plăți neplătite"
+
+msgctxt "Languages::stripe_connect.stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+msgctxt "Languages::stripe_connect.stripe_connect_short"
+msgid "Stripe"
+msgstr "Dunga"
+
+msgctxt "Languages::stripe_connect.redirect_uri_admin"
+msgid "Redirect URI for administrator"
+msgstr "URI de redirecționare pentru administrator"
+
+msgctxt "Languages::stripe_connect.redirect_uris.description"
+msgid "Copy and paste this address into your Stripe Connect app settings"
+msgstr "Copiați și inserați această adresă în setările aplicației Stripe Connect"
+
+msgctxt "Languages::stripe_connect.redirect_uri_vendor"
+msgid "Redirect URI for vendor"
+msgstr "URI de redirecționare pentru furnizor"
+
+msgctxt "Languages::stripe_connect.client_id"
+msgid "Client ID"
+msgstr "ID client"
+
+msgctxt "Languages::stripe_connect.publishable_key"
+msgid "Publishable key"
+msgstr "Cheie publicabilă"
+
+msgctxt "Languages::stripe_connect.secret_key"
+msgid "Secret key"
+msgstr "Cheie secreta"
+
+msgctxt "Languages::stripe_connect.connect_with_stripe_standard"
+msgid "Connect with Stripe Standard"
+msgstr "Conectați-vă cu Stripe Standard"
+
+msgctxt "Languages::stripe_connect.disconnect"
+msgid "Disconnect account"
+msgstr "Deconectați contul"
+
+msgctxt "Languages::stripe_connect.stripe_account"
+msgid "Stripe account"
+msgstr "cont Stripe"
+
+msgctxt "Languages::stripe_connect.connected"
+msgid "Connected"
+msgstr "Conectat"
+
+msgctxt "Languages::stripe_connect.not_connected"
+msgid "Not connected"
+msgstr "Nu este conectat"
+
+msgctxt "Languages::stripe_connect.account_connected"
+msgid "Your Stripe account has been successfully connected to the store"
+msgstr "Contul dvs. Stripe a fost conectat cu succes la magazin"
+
+msgctxt "Languages::stripe_connect.account_disconnected"
+msgid "Your Stripe account has been successfully disconnected from the store"
+msgstr "Contul dvs. Stripe a fost deconectat cu succes de la magazin"
+
+msgctxt "Languages::stripe_connect.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Retragere pentru comanda #[order_id]"
+
+msgctxt "Languages::stripe_connect.refund_id"
+msgid "Refund transaction ID"
+msgstr "ID tranzacție de rambursare"
+
+msgctxt "Languages::stripe_connect.rma.perform_refund"
+msgid "Give a refund via Stripe Connect"
+msgstr "Oferă o rambursare prin Stripe Connect"
+
+msgctxt "Languages::ttc_stripe_connect.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "O rambursare va fi efectuată odată ce un administrator modifică starea cererii de returnare"
+
+msgctxt "Languages::stripe_connect.rma.refund_performed"
+msgid "The refund has been made via Stripe Connect"
+msgstr "Rambursarea a fost făcută prin Stripe Connect"
+
+msgctxt "Languages::stripe_connect.token"
+msgid "Credit card token"
+msgstr "Token card de credit"
+
+msgctxt "Languages::stripe_connect.own_account_cant_be_used_for_vendor"
+msgid "Your own Stripe account can't be used to connect a vendor to the store"
+msgstr "Contul tău Stripe nu poate fi folosit pentru a conecta un furnizor la magazin"
+
+msgctxt "Languages::stripe_connect.rma.order_status_on_refund"
+msgid "Order status on refund"
+msgstr "Starea comenzii la rambursare"
+
+msgctxt "Languages::ttc_stripe_connect.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "Stabilește dacă se modifică sau nu starea comenzii după ce a fost efectuată o rambursare prin intermediul suplimentului RMA."
+
+msgctxt "Languages::stripe_connect.do_not_change"
+msgid "Do not change"
+msgstr "Nu schimba"
+
+msgctxt "Languages::stripe_connect.set_status_to"
+msgid "Set to:"
+msgstr "Setat la:"
+
+msgctxt "Languages::stripe_connect.charge_id"
+msgid "Charge ID"
+msgstr "ID de taxare"
+
+msgctxt "Languages::stripe_connect.transfer_id"
+msgid "Transfer ID"
+msgstr "Transfer ID"
+
+msgctxt "Languages::stripe_connect.payment_id"
+msgid "Payment ID"
+msgstr "ID de plată"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure"
+msgid "Enable 3-D Secure"
+msgstr "Activați 3-D Secure"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure.description"
+msgid "<p>When 3-D Secure is <b>disabled</b>, money will go straight to the connected Stripe accounts of vendors. Commissions and payouts will be taken from vendors as <a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">application fees</a>.</p><p>When 3-D Secure is <b>enabled</b>, money will first go to the marketplace owner's Stripe account. Then it will be automatically distributed between the connected Stripe accounts via transfers. Transfers require that the marketplace owner and vendors have their accounts in the same region: either all in Europe, or all in the U.S. If a vendor's account is in a different region from the marketplace owner's, the money won't be transferred to that vendor automatically.</p>"
+msgstr "<p>Când 3-D Secure este <b>dezactivat</b>, banii vor merge direct în conturile Stripe conectate ale furnizorilor. Comisioanele și plățile vor fi preluate de la furnizori ca <a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">taxe de aplicare</a>.</p><p>Când 3-D Secure este <b>activat</b>, banii vor merge mai întâi în contul Stripe al proprietarului pieței. Apoi va fi distribuit automat între conturile Stripe conectate prin transferuri. Transferurile necesită ca proprietarul pieței și vânzătorii să aibă conturile în aceeași regiune: fie toți în Europa, fie toți în SUA. Dacă contul unui furnizor se află într-o regiune diferită de cel al proprietarului pieței, banii nu vor fi transferați acelui furnizor. automat.</p>"
+
+msgctxt "Languages::stripe_connect.gift_certificate_used"
+msgid "A gift certificate was used in this order. [product] doesn't know which of the vendors should get the money, and how much. Please transfer money from this order to each vendor manually."
+msgstr "În această comandă a fost folosit un certificat cadou. [product] nu știe care dintre vânzători ar trebui să primească banii și cât de mult. Vă rugăm să transferați manual bani de la această comandă către fiecare furnizor."
+
+msgctxt "Languages::stripe_connect.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "A apărut o eroare la crearea unui PaymentIntent cu plata #[payment_id]: [error]"
+
+msgctxt "Languages::log_type_stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+msgctxt "Languages::log_action_sc_failure"
+msgid "Error"
+msgstr "Eroare"
+
+msgctxt "Languages::log_action_sc_warning"
+msgid "Warning"
+msgstr "Avertizare"
+
+msgctxt "Languages::log_action_sc_info"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "Languages::stripe_connect.log_context"
+msgid "Context"
+msgstr "Context"
+
+msgctxt "Languages::stripe_connect.unexpected_payment_intent_status"
+msgid "Unexpected status \"[status]\" of PaymentIntent"
+msgstr "Starea neașteptată „[status]” a PaymentIntent"
+
+msgctxt "Languages::stripe_connect.transfer_creating_error"
+msgid "An error occurred during the creation of a Stripe transfer: [error]"
+msgstr "A apărut o eroare în timpul creării unui transfer Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.charge_creating_error"
+msgid "An error occurred during the creation of a Stripe charge: [error]"
+msgstr "A apărut o eroare în timpul creării unei taxe Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.customer_creating_error"
+msgid "An error occurred during the creation of a Stripe customer: [error]"
+msgstr "A apărut o eroare în timpul creării unui client Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.customer_sharing_error"
+msgid "An error occurred during the share of a Stripe customer: [error]"
+msgstr "A apărut o eroare în timpul cotei unui client Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.stripe_processor_params_missing"
+msgid "Stripe processor params missing"
+msgstr "Parametrii procesorului Stripe lipsesc"
+
+msgctxt "Languages::stripe_connect.account_was_deauthorized"
+msgid "Account of company \"[company]\" (company ID = [company_id]) was deauthorized"
+msgstr "Contul companiei „[company]” (ID companie = [company_id]) a fost dezaautorizat"
+
+msgctxt "Languages::stripe_connect.on"
+msgid "On"
+msgstr "Pe"
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds"
+msgid "Delay transfer of funds"
+msgstr "Întârzierea transferului de fonduri"
+
+msgctxt "Languages::stripe_connect.transfer_funds_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "Transferați fonduri către vânzători"
+
+msgctxt "Languages::stripe_connect.automatic_transfer"
+msgid "Automatic transfer"
+msgstr "Transfer automat"
+
+msgctxt "Languages::stripe_connect.trigger_transfer_funds.description"
+msgid "Only works when 3-D Secure is enabled. Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic transfers to all vendors with a cron command."
+msgstr "Funcționează numai când 3-D Secure este activat. Vă permite să verificați mai întâi comenzile, în loc să trimiteți bani imediat tuturor vânzătorilor. Transferați bani către fiecare furnizor manual din pagina de comandă sau programați transferuri periodice automate către toți furnizorii cu o comandă cron."
+
+msgctxt "Languages::stripe_connect.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number."
+msgstr "Comanda de mai jos transferă automat fonduri către furnizori pentru toate comenzile care sunt mai vechi de 14 zile. Adăugați-l în cron pentru a vă asigura că furnizorii sunt plătiți în mod regulat. Puteți modifica valoarea „--days” de la 14 la orice număr."
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "Întârzierea transferului de fonduri către furnizori"
+
+msgctxt "Languages::stripe_connect.redirect_uris"
+msgid "Redirect URIs"
+msgstr "Redirecționați URI-uri"
+
+msgctxt "Languages::stripe_connect.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "Fondurile au fost transferate vânzătorului."
+
+msgctxt "Languages::stripe_connect.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "Fondurile au fost transferate cu succes."
+
+msgctxt "Languages::stripe_connect.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "Nu s-au putut transfera fonduri către furnizor. Vă rugăm să încercați din nou mai târziu sau să contactați procesatorul de plăți."
+
+msgctxt "Languages::stripe_connect.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "Motiv (așa cum este furnizat de procesatorul de plăți): [error_text]"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts"
+msgid "Allow Express accounts"
+msgstr "Permite conturi Express"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts.description"
+msgid "Express accounts are much easier to register, and they have a simpler Stripe dashboard. But when you use Express accounts, your marketplace bears more responsibility, and there are platform fees involved. For more information, check Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">pricing</a> and <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">documentation on Express accounts</a>."
+msgstr "Conturile Express sunt mult mai ușor de înregistrat și au un tablou de bord Stripe mai simplu. Dar atunci când utilizați conturi Express, piața dvs. poartă mai multă responsabilitate și sunt implicate taxe de platformă. Pentru mai multe informații, consultați documentația privind prețurile Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\"></a> și <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">privind conturile Express</a>."
+
+msgctxt "Languages::stripe_connect.connect_stripe_express_account"
+msgid "Connect a Stripe Express account"
+msgstr "Conectați un cont Stripe Express"
+
+msgctxt "Languages::stripe_connect.connect_stripe_standard_account"
+msgid "I already have a Stripe Standard account"
+msgstr "Am deja un cont Stripe Standard"
+
+msgctxt "Languages::stripe_connect.express_dashboard"
+msgid "Stripe Dashboard"
+msgstr "Tabloul de bord Stripe"
+
+msgctxt "Languages::stripe_connect.express_dashboard_menu_description"
+msgid "Transactions that went through your Stripe Express account."
+msgstr "Tranzacții care au trecut prin contul tău Stripe Express."
+
+msgctxt "Languages::stripe_connect.continue_express_registration"
+msgid "Continue Express registration"
+msgstr "Continuați înregistrarea rapidă"
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete"
+msgid "Stripe still requires some data from you before you can accept payments. Please continue the registration and fill in the remaining fields. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripe necesită încă unele date de la dvs. înainte de a putea accepta plăți. Vă rugăm să continuați înregistrarea și să completați câmpurile rămase. Dacă ați introdus toate informațiile (chiar și câmpurile care nu sunt obligatorii) și încă vedeți acest mesaj, verificați această pagină într-o zi sau două. Dacă acest lucru nu ajută, vă rugăm să contactați administrația pieței."
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete_linked"
+msgid "Stripe still requires some data from you before you can accept payments. Please <a href=\"[url]\">continue the registration and fill in the remaining fields</a>. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripe necesită încă unele date de la dvs. înainte de a putea accepta plăți. Vă rugăm <a href=\"[url]\">continuați înregistrarea și completați câmpurile rămase</a>. Dacă ați introdus toate informațiile (chiar și câmpurile care nu sunt obligatorii) și încă vedeți acest mesaj, verificați această pagină într-o zi sau două. Dacă acest lucru nu ajută, vă rugăm să contactați administrația pieței."
+
+msgctxt "Languages::stripe_connect.account_was_rejected_and_unlinked"
+msgid "Account <b>[account_id]</b> was rejected and unlinked from the marketplace."
+msgstr "Contul <b>[account_id]</b> a fost respins și deconectat de la piață."
+
+msgctxt "Languages::stripe_connect.check_accounts_cron"
+msgid "The command below checks the statuses of the Express accounts that your vendors create. For example, if you reject a vendor's account on the Stripe end, that's how Multi-Vendor will know about it. Add this command to cron and run it once a day for smoother checkout experience."
+msgstr "Comanda de mai jos verifică stările conturilor Express pe care le creează furnizorii dvs. De exemplu, dacă respingeți contul unui furnizor la capătul Stripe, așa va ști Multi-Vendor despre asta. Adăugați această comandă la cron și rulați-o o dată pe zi pentru o experiență de plată mai fluidă."
+
+msgctxt "Languages::stripe_connect.check_accounts"
+msgid "Check accounts"
+msgstr "Verificați conturile"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_title"
+msgid "Stripe"
+msgstr "Dunga"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe este un furnizor de plăți. Ne permite să acceptăm plăți, dacă alegeți o metodă de plată alimentată de Stripe. Iată politica de confidențialitate <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe</a>."
+

@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_rating.po\n"
+"X-Crowdin-File-ID: 6698\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_rating"
+msgid "Vendor rating"
+msgstr "공급업체 평가"
+
+msgctxt "Addons::description::vendor_rating"
+msgid "Allows you to rank vendors in the store using multi-critiera rating."
+msgstr "다중 기준 등급을 사용하여 상점의 공급업체 순위를 매길 수 있습니다."
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "공급업체 평가"
+
+msgctxt "Languages::vendor_rating.previous_rating"
+msgid "Previous rating"
+msgstr "이전 평가"
+
+msgctxt "Languages::vendor_rating.rating"
+msgid "Rating"
+msgstr "평가"
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "공급업체 평가"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_asc"
+msgid "Sort by Vendor rating: Low to High"
+msgstr "공급업체 등급별 정렬: 낮음에서 높음"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_desc"
+msgid "Sort by Vendor rating"
+msgstr "공급업체 등급별로 정렬"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating"
+msgid "Overall rating"
+msgstr "전체 평가"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating_short"
+msgid "OA rating"
+msgstr "OA 등급"
+
+msgctxt "Languages::vendor_rating.manual_vendor_rating"
+msgid "Manual vendor rating"
+msgstr "수동 공급업체 평가"
+
+msgctxt "Languages::vendor_rating.manual_vendor_plan_rating"
+msgid "Manual vendor plan rating"
+msgstr "수동 공급업체 계획 평가"
+
+msgctxt "Languages::vendor_rating.company_rating"
+msgid "[company]'s rating set to [rating]"
+msgstr "[company]의 등급이 [rating]로 설정됨"
+
+msgctxt "Languages::vendor_rating.wrong_formula"
+msgid "Unable to calculate the expression. Original error message: [error]."
+msgstr "표현식을 계산할 수 없습니다. 원래 오류 메시지: [error]."
+
+msgctxt "Languages::vendor_rating.too_many_variables"
+msgid "The formula uses too many variables. [allowed_variables_count] allowed, [passed_variables_count] passed."
+msgstr "수식에 너무 많은 변수가 사용됩니다. [allowed_variables_count] 허용, [passed_variables_count] 통과."
+
+msgctxt "Languages::vendor_rating.division_by_zero"
+msgid "Division by zero"
+msgstr "0으로 나누기"
+
+msgctxt "Languages::vendor_rating.unknown_variable"
+msgid "Unknown variable <b>[variable]</b>"
+msgstr "알 수 없는 변수 <b>[variable]</b>"
+
+msgctxt "Languages::vendor_rating.run_rating_calculation_by_cron"
+msgid "Rating recalculation is the resource-intensive process. It's recommented to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "등급 재계산은 리소스를 많이 사용하는 프로세스입니다. 특정 시간 간격으로 자동 실행하는 것이 좋습니다.<br>그렇게 하려면 <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>에 다음 명령을 추가하십시오."
+
+msgctxt "Languages::vendor_rating.rating_formula"
+msgid "Rating formula"
+msgstr "등급 공식"
+
+msgctxt "Languages::vendor_rating.variables"
+msgid "You can use the following variables in the formula:"
+msgstr "수식에 다음 변수를 사용할 수 있습니다."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.name"
+msgid "Amount of paid orders."
+msgstr "유료 주문 금액."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "<i>계산 기간 시작 날짜</i> 이후에 이루어진 다음 상태의 주문이 고려됩니다. [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.name"
+msgid "Gross total of paid orders."
+msgstr "지불된 주문의 총액입니다."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "<i>계산 기간 시작 날짜</i> 이후에 이루어진 다음 상태의 주문이 고려됩니다. [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.name"
+msgid "Amount of active products."
+msgstr "활성 제품의 양."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.description"
+msgid "Products in the Active status created after the <i>Calculation period start date</i> are taken into account."
+msgstr "<i>계산 기간 시작일</i> 이후에 생성된 활성 상태의 제품이 고려됩니다."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.name"
+msgid "Manually set vendor rating."
+msgstr "공급업체 등급을 수동으로 설정합니다."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor editing page."
+msgstr "수동 등급은 벤더 편집 페이지의 <b>등급</b> 탭에서 지정할 수 있습니다."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.name"
+msgid "Average vendor review rating."
+msgstr "평균 공급업체 리뷰 평점입니다."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.description"
+msgid "Approved vendor reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "<i>계산 기간 시작 날짜</i> 이후에 배치된 승인된 공급업체 리뷰가 고려됩니다."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.name"
+msgid "Average product reviews rating."
+msgstr "평균 제품 리뷰 평점입니다."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.description"
+msgid "Approved product reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "<i>계산 기간 시작 날짜</i> 이후에 배치된 승인된 제품 리뷰가 고려됩니다."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.name"
+msgid "Manually set vendor plan rating."
+msgstr "공급업체 계획 등급을 수동으로 설정합니다."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor plan editing page."
+msgstr "수동 평가는 벤더 계획 편집 페이지의 <b>평가</b> 탭에서 지정할 수 있습니다."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.name"
+msgid "Amount of return requests."
+msgstr "반품 요청 금액."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.description"
+msgid "Return requests created after the <i>Calculation period start date</i> are taken into account."
+msgstr "<i>계산 기간 시작 날짜</i> 이후에 생성된 반품 요청이 고려됩니다."
+
+msgctxt "Languages::vendor_rating.recalculate_rating"
+msgid "Recalculate rating"
+msgstr "등급 재계산"
+
+msgctxt "Languages::vendor_rating.run_recalculation"
+msgid "Run recalculation"
+msgstr "재계산 실행"
+
+msgctxt "Languages::vendor_rating.start_rating_period"
+msgid "Calculation period start date"
+msgstr "계산 기간 시작일"
+
+msgctxt "Languages::vendor_rating.invalid_formula"
+msgid "Invalid formula"
+msgstr "잘못된 수식"
+
+msgctxt "Languages::show_vendor_rating"
+msgid "Show vendor rating"
+msgstr "공급업체 등급 표시"
+
+msgctxt "Languages::log_type_vendor_rating"
+msgid "Vendor rating"
+msgstr "공급업체 평가"
+
+msgctxt "Languages::log_action_vr_success"
+msgid "Successful recalculation"
+msgstr "성공적인 재계산"
+
+msgctxt "Languages::log_action_vr_failure"
+msgid "Errors"
+msgstr "오류"
+
+msgctxt "Languages::vendor_rating.calculated_at"
+msgid "Calculated at [date]"
+msgstr "[date]에서 계산됨"
+
+msgctxt "Languages::vendor_rating.recalculate_now"
+msgid "Recalculate now"
+msgstr "지금 다시 계산"
+
+msgctxt "Languages::vendor_rating.rating_ranges"
+msgid "Rating ranges"
+msgstr "등급 범위"
+
+msgctxt "Languages::vendor_rating.bronze_rating_lower_limit"
+msgid "Bronze rating lower limit"
+msgstr "브론즈 등급 하한"
+
+msgctxt "Languages::vendor_rating.silver_rating_lower_limit"
+msgid "Silver rating lower limit"
+msgstr "실버 등급 하한"
+
+msgctxt "Languages::vendor_rating.gold_rating_lower_limit"
+msgid "Gold rating lower limit"
+msgstr "골드 등급 하한"
+
+msgctxt "Languages::vendor_rating.rating_above_price"
+msgid "Rating matters more than price"
+msgstr "가격보다 평가가 중요"
+
+msgctxt "Languages::vendor_rating.rating_above_price_tooltip"
+msgid "When using \"Common products for vendors\", offer products from vendors with highest rating first."
+msgstr "\"벤더를 위한 공통 제품\"을 사용할 때 가장 높은 평가를 받은 벤더의 제품을 먼저 제공하십시오."
+
+msgctxt "Languages::vendor_rating.rating_ranges_description"
+msgid "Setting all ranges to 0 will hide rating icons."
+msgstr "모든 범위를 0으로 설정하면 등급 아이콘이 숨겨집니다."
+

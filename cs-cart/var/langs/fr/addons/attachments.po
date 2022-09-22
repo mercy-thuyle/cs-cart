@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Attachements"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Permet de joindre des fichiers aux produits"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Fichiers joints"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Nouveau fichier joint"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Ajouter un fichier joint"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Edition du fichier joint"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Veuillez indiquer le répertoire des pièces jointes dans le répertoire racine du magasin. Placez les pièces jointes à importer dans ce répertoire."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Impossible d'importer les pièces jointes pour certains produits. Soit ces pièces jointes n'existent pas (ou ne sont pas accessibles), soit les chemins d'accès à ces pièces jointes dans le fichier importé sont incorrects."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Pièce jointe de produits"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Pièce jointe de délimiteur"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Délimiteur entre les pièces jointes d'un produit."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Supprimer les pièces jointes existantes"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Si vous activez ce paramètre, les pièces jointes existantes des produits importés seront remplacées par les pièces jointes spécifiées dans le fichier importé (si aucune pièce jointe n'est spécifiée, les anciennes pièces jointes seront conservées). Si ce paramètre est désactivé, les nouvelles pièces jointes seront simplement ajoutées aux pièces jointes existantes."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Répertoire des pièces jointes"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Général"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Sauvegarder les pièces jointes sur votre serveur"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Les pièces jointes répertoriées comme des URL dans le fichier importé seront téléchargées sur votre serveur."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "Impossible de charger le fichier [url] pour le produit [product]"
+

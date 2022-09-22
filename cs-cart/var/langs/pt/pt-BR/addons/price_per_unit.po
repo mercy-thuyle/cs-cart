@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_per_unit.po\n"
+"X-Crowdin-File-ID: 6732\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "Preço por unidade"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "Permite exibir o preço por unidade nas páginas do catálogo e do produto."
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "Preço por unidade"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "Nome da unidade"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "Por exemplo, 'ml' ou 'g' sem aspas."
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "Unidades no produto"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "Necessário para cálculo automático do preço por unidade."
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "Mostrar preço por X unidades"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "Para casos em que você deseja mostrar o preço 'por 250 ml' em vez de 'por ml'."
+

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.15.1/addons/pay360.po\n"
+"X-Crowdin-File-ID: 6626\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "Pay360 ödemeleri"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "Pay360 ile ödeme kabul etmenizi sağlar"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "API Kullanıcı Adı"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "API Şifresi"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "Barındırılan Kasiyer"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "Müşteriyi veya krediyi tanımlamak için kullanılan hesap numarası. Bu bir PAN ise, PAN'ın ilk altı ve son dört hanesini girin. Aksi takdirde, hesap numarasının en fazla on karakterini girin."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "Kredi alıcısının posta kodunun ilk kısmı; altı karaktere kadar. Örneğin, posta kodu “EC2A 1AE” ise bu “EC2A” olacaktır."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "Kredi alan kişinin soyadı; sayılar veya özel karakterler hariç en fazla altı karakter. Ad altı karakterden uzunsa, ilk altıyı girin. Örneğin, “Smith” için bu “Smith” olacaktır; “Williams” için bu “Willia” olacaktır."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "Lütfen sadece alfabetik karakterler kullanın."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "Lütfen sadece alfabetik karakterler ve sayılar kullanın."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "Birleşik Krallık ve Avrupa merkezli MM 6012, 6051 ve bazı 7299 satıcı için zorunludur"
+

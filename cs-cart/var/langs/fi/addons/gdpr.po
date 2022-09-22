@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 6590\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "GDPR-vaatimustenmukaisuus (EU)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Auttaa sinua noudattamaan GDPR:ää (Euroopan unionin henkilötietoja koskeva asetus) näyttämällä asiakkaille tietoja heidän henkilötiedoistaan, pyytämällä heidän suostumustaan niiden käsittelyyn ja tarjoamalla tapoja poistaa tai viedä henkilötietoja."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Evästeen suostumus"
+
+msgctxt "SettingsOptions::gdpr::privacy_policy_page"
+msgid "Privacy policy page"
+msgstr "Tietosuojakäytännön sivu"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "\"Implicit consent\" is a simple notification that the site uses cookies. \"Explicit consent\" means that visitors can select the services that can or can't set cookies."
+msgstr "\"Epäsuora suostumus\" on yksinkertainen ilmoitus siitä, että sivusto käyttää evästeitä. \"Yksityinen suostumus\" tarkoittaa, että vierailijat voivat valita palvelut, jotka voivat asettaa tai eivät voi asettaa evästeitä."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Ei mitään"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "Implisiittinen"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Selkeä"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "GDPR-käyttäjätiedot"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Käyttäjän henkilötiedot"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Henkilötiedot käyttäjäprofiileista"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Henkilötiedot tuotetilauksista"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "Henkilötiedot GDPR-sopimuksista"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "Anonymisoi"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Kun anonymisoit jonkun, kaikki hänen henkilökohtaiset tiedot korvataan satunnaisesti luoduilla tiedoilla. Tätä toimintoa ei voi kumota, ellet palauta tietokantaa varmuuskopiosta. Haluatko varmasti jatkaa?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Katso ja muokkaa"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Henkilötiedot tilauksista"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Koko sopimusteksti"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Lyhyt sopimusteksti"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Kassalle: Tee tilaus: Henkilötietojen käsittely"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Lähetämme ([company]) tiliin liittyviä sähköposteja (kuten tilauksen tilailmoituksia, salasanan palautusviestejä ja paljon muuta) annettuun sähköpostiosoitteeseen. Tästä syystä meidän on säilytettävä sähköpostiosoitteesi, kun pysyt asiakkaamme.</p> <p>Käytämme laskutus-/toimitusosoite-osiossa olevia tietoja ja voimme lähettää ne toimitus- tai maksutavan tarjoajalle osoitteeseen:</p> <ul> <li>Selvitä, mitkä toimitus- ja maksutavat ovat käytettävissä alueellasi. </li> <li>Suorita maksu- tai toimitusprosessi kassalla valitsemasi palveluntarjoajan kautta, kun lähetät tilauksen.</li> </ul> <p>Jotkut henkilökunnan jäsenet ja/tai myyjät, jotka myyvät tuotteita myymälässämme ja käyttävät sen hallintapaneelia, saattavat päästä käsiksi tietoihisi. Arvostamme yksityisyyttäsi, joten pääsy tietoihin tarjotaan tietotarpeen perusteella kaupan toiminnan kannalta. Esimerkiksi myyjä saa tietosi vain, jos olet tilannut heiltä jotain, jotta toimittaja voi täyttää tilauksen.</p> <p>Jos päätät, että et enää halua käyttää kauppaamme ja haluat, että henkilötietosi poistetaan tietokannastamme (tai jos haluat saada kaikki tiliisi liittyvät henkilötiedot, jotka meillä on), lähetä sähköpostilla numeroon [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Asiakas: rekisteröinti"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Sähköpostiosoitteet erottavat asiakkaat toisistaan. Kirjaudut myymälään syöttämällä tähän antamasi sähköpostiosoite ja salasana.</p> <p>Lähetämme ([company]) myös tiliin liittyviä sähköposteja (kuten tilauksen tilailmoituksia, salasanan palautusviestejä ja paljon muuta) annettuun sähköpostiosoitteeseen. Tästä syystä meidän on säilytettävä sähköpostiosoitteesi, kun pysyt asiakkaamme.</p> <p>Muut tällä sivulla mahdollisesti olevat profiilikentät tallennetaan sähköpostiosoitteesi viereen. Saatamme käyttää näitä tietoja ottaaksemme sinuun yhteyttä tarvittaessa.</p> <p>Jotkut henkilökuntamme jäsenet ja/tai myyjät, jotka myyvät tuotteita myymälässämme ja käyttävät sen hallintapaneelia, saattavat päästä käsiksi tietoihisi. Arvostamme yksityisyyttäsi, joten pääsy tietoihin tarjotaan tietotarpeen perusteella kaupan toiminnan kannalta. Esimerkiksi myyjä saa tietosi vain, jos olet tilannut heiltä jotain, jotta toimittaja voi täyttää tilauksen.</p> <p>Jos päätät, että et enää halua käyttää kauppaamme ja haluat, että henkilötietosi poistetaan tietokannastamme (tai jos haluat saada kaikki tiliisi liittyvät henkilötiedot, jotka meillä on), lähetä sähköposti numeroon [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Profiilit: päivitys"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>Sähköpostiosoitteet erottavat asiakkaat toisistaan. Kirjaudut myymälään syöttämällä tähän antamasi sähköpostiosoite ja salasana.</p> <p>Lähetämme ([company]) myös tiliin liittyviä sähköposteja (kuten tilauksen tilailmoituksia, salasanan palautusviestejä ja paljon muuta) annettuun sähköpostiosoitteeseen. Tästä syystä meidän on säilytettävä sähköpostiosoitteesi, kun pysyt asiakkaamme.</p> <p>Muut tällä sivulla mahdollisesti olevat profiilikentät tallennetaan sähköpostiosoitteesi viereen. Saatamme käyttää näitä tietoja ottaaksemme sinuun yhteyttä tarvittaessa.</p> <p>Käytämme laskutus-/toimitusosoite-osiossa olevia tietoja ja voimme lähettää ne toimitus- tai maksutavan tarjoajalle osoitteeseen:</p> <ul> <li>Selvitä, mitkä toimitus- ja maksutavat ovat käytettävissä alueellasi.</li> <li>Suorita maksu- tai toimitusprosessi kassalla valitsemasi palveluntarjoajan kautta, kun lähetät tilauksen.</li> </ul> <p>Jotkut henkilökunnan jäsenet ja/tai myyjät, jotka myyvät tuotteita myymälässämme ja käyttävät sen hallintapaneelia, saattavat päästä käsiksi tietoihisi. Arvostamme yksityisyyttäsi, joten pääsy tietoihin tarjotaan tietotarpeen perusteella kaupan toiminnan kannalta. Esimerkiksi myyjä saa tietosi vain, jos olet tilannut heiltä jotain, jotta toimittaja voi täyttää tilauksen.</p> <p>Jos päätät, että et enää halua käyttää kauppaamme ja haluat, että henkilötietosi poistetaan tietokannastamme (tai jos haluat saada kaikki tiliisi liittyvät henkilötiedot, jotka meillä on), lähetä sähköpostilla numeroon [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Myyjä: hae myyjää"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Koska myyjät myyvät tuotteita markkinoillamme, meidän ([company]) on pyydettävä tiettyjä tietoja heistä. Esimerkiksi yrityksen nimi ja toimittajan kuvaus näytetään asiakkaille, ja ne auttavat erottamaan toimittajat toisistaan; osoitetta käytetään toimitushinnan laskemiseen.</p> <p>Pyydämme kuitenkin myös joitain henkilötietoja, kuten etu-/sukunimi ja sähköpostiosoite. Ne ovat välttämättömiä toimittajan järjestelmänvalvojan tilin luomiseksi järjestelmäämme. Myyjät työskentelevät markkinoiden kanssa tällaisten tilien kautta. Sähköpostiosoitteet ovat välttämättömiä, koska ne erottavat järjestelmänvalvojat toisistaan. Kirjaudut sisään kauppaan kirjoittamalla tähän antamasi sähköpostiosoite. Nimet ovat välttämättömiä, koska yhdellä toimittajalla voi olla useita järjestelmänvalvojia – näin on helpompi käsitellä tilivelvollisuutta.</p> <p>Lähetämme myös tiliin liittyviä sähköposteja (kuten tilauksen tilailmoituksia, salasanan palautusviestejä ja paljon muuta) annettuun sähköpostiosoitteeseen. Tästä syystä meidän on säilytettävä sähköpostiosoitteesi, kun pysyt asiakkaamme. Jos päätät, että et enää halua työskennellä markkinapaikkamme kanssa ja haluat, että henkilötietosi poistetaan tietokannastamme (tai jos haluat saada kaikki tiliisi liittyvät henkilötiedot, jotka meillä on), lähetä sähköpostia kohtaan [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Tuotteet: tilaa"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Me ([company]) lisäämme sähköpostiosoitteesi tämän tuotteen erityiselle postituslistalle. Kun tuotetta on varastossa, saat siitä automaattisesti sähköpostin ja sähköpostiosoitteesi poistetaan tuotteen postituslistalta.</p> <p>Tiedot näkyvät joillekin henkilöstömme jäsenille. Jos haluat, että henkilötietosi poistetaan, lähetä sähköpostia osoitteeseen [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Checkout: profiilien päivitys"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Lähetämme ([company]) tiliin liittyviä sähköposteja (kuten tilauksen tilailmoituksia, salasanan palautusviestejä ja paljon muuta) annettuun sähköpostiosoitteeseen. Tästä syystä meidän on säilytettävä sähköpostiosoitteesi, kun pysyt asiakkaamme.</p> <p>Käytämme laskutus-/toimitusosoite-osiossa olevia tietoja ja voimme lähettää ne toimitus- tai maksutavan tarjoajalle osoitteeseen:</p> <ul> <li>Selvitä, mitkä toimitus- ja maksutavat ovat käytettävissä alueellasi. </li> <li>Suorita maksu- tai toimitusprosessi kassalla valitsemasi palveluntarjoajan kautta, kun lähetät tilauksen.</li> </ul> <p>Jotkut henkilökunnan jäsenet ja/tai myyjät, jotka myyvät tuotteita myymälässämme ja käyttävät sen hallintapaneelia, saattavat päästä käsiksi tietoihisi. Arvostamme yksityisyyttäsi, joten pääsy tietoihin tarjotaan tietotarpeen perusteella kaupan toiminnan kannalta. Esimerkiksi myyjä saa tietosi vain, jos olet tilannut heiltä jotain, jotta toimittaja voi täyttää tilauksen.</p> <p>Jos päätät, että et enää halua käyttää kauppaamme ja haluat, että henkilötietosi poistetaan tietokannastamme (tai jos haluat saada kaikki tiliisi liittyvät henkilötiedot, jotka meillä on), lähetä sähköpostilla numeroon [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Hyväksyn henkilötietojeni <u>käsittelyn seuraavasti</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "Vie XML-muotoon"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Jatkamiseen tarvitaan suostumuksesi."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Käyttäjä on anonymisoitu."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p>Huomaa, että anonymisointi ei vaikuta mahdollisiin varmuuskopioihin ja lokeihin. Toimi tarvittaessa seuraavasti:</p><ol><li>Tyhjennä lokit kohdasta <b>Hallinta → Lokit</b>.</li><li>Suojaa ja poista mahdolliset varmuuskopiot kohdassa <b>Hallinta → Varmuuskopiointi/Palauta</b>.</li></ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Evästeen suostumus"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p>Tämä verkkosivusto käyttää evästeitä (pieniä tietokappaleita, jotka on tallennettu tietokoneellesi). Jotkut evästeet lisäävät verkkosivusto itse: ne auttavat näyttämään sinulle ostoskorin sisällön, pitämään sinut kirjautuneena, kun annat sähköpostiosoitteesi ja salasanasi, säilyttävät asetuksesi ja tekevät paljon muuta hyödyllistä. Käytämme näitä evästeitä vain saadaksemme sivuston toimimaan oikein. Jopa suostumuksesi evästeiden käyttöön tallennetaan evästeenä.</p><p>Kolmannen osapuolen palvelut (kuten PayPal, YouTube, Google Maps, Facebook jne.) voivat käyttää muita evästeitä tallentaakseen tietoja siitä, miten käytät näitä kolmannen osapuolen palveluita verkkosivustolla. Emme voi hallita sitä, miten kolmannet osapuolet käyttävät evästeitä, mutta nämä evästeet ovat myös tärkeitä verkkosivuston asianmukaisen toiminnan kannalta. Esimerkiksi jotkin PayPal-toiminnot eivät välttämättä toimi ilman PayPal-evästeitä.</p><p>Ilman evästeitä monet asiat voivat mennä pieleen. Siksi pyydämme sinua hyväksymään evästeiden käytön ennen kuin jatkat. Jos et halua evästeitä, mutta haluat jatkaa verkkosivuston käyttöä, määritä selaimesi estämään evästeet, jolloin voit \"hyväksyä\" niiden käytön, mutta emme käsittele sitä suostumuksena .</p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "olen samaa mieltä"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "Ei, vie minut pois täältä"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site."
+msgstr "Tällä sivustolla käytetään evästeitä parhaan käyttökokemuksen tarjoamiseksi. Jos jatkat, oletamme, että hyväksyt evästeiden vastaanottamisen tältä sivustolta."
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Mahdollistaa rekisteröityjen käyttäjien pyytää henkilötietojaan tai anonymisointia"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p>Kun asiakkaat ovat vuorovaikutuksessa kaupan kanssa, he toimittavat henkilötietoja eri tarkoituksiin. Kun teet tilauksen, meidän on tiedettävä, minne se lähetetään; Kun tilaat sähköpostiuutiskirjeen, meidän on tiedettävä, mihin se lähetetään ja niin edelleen. Pidämme nämä tiedot järjestyksessä, jotta voit aina:</p> <ol> <li>Pyydä, että lähetämme sinulle kaikki henkilötietosi. Siinä tapauksessa lähetämme sinulle XML-tiedoston sähköpostitse. Tämä tiedosto sisältää kaikki henkilötietosi, jotka meillä on.</li> <li>Pyyntö tulla unohdetuksi. Tällöin tilisi poistetaan käytöstä ja kaikki henkilökohtaiset tietosi poistetaan. Tarvittaessa voit rekisteröidä uuden tilin samalla sähköpostiosoitteella tulevaisuudessa.</li> </ol> <p>Huomaa, että tarvitsemme jonkin aikaa jommankumman pyynnön käsittelemiseen. Voimme ottaa sinuun yhteyttä pyyntöösi liittyen sähköpostitse tai muilla tavoilla.</p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "Lähetä minulle tietoni"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Lähetämme sinulle XML-tiedoston, joka sisältää kaikki henkilötietosi, jotka meillä on. Huomaa, että tarvitsemme jonkin aikaa tämän pyynnön käsittelemiseen, joten XML-tiedostosi sisältävää sähköpostiviestiä ei lähetetä heti. Jos sinulla on pyyntöäsi koskevia kommentteja, jätä ne alla olevaan kenttään.</p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Henkilötietojen kopiointipyyntö: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> sähköpostiosoitteella [customer_email] on pyytänyt kopiota henkilötiedoista seuraavalla kommentilla:</p> <p>[comment]</p> <p>Napsauta tämän viestin alussa olevaa linkkiä ja käytä vastaavaa painiketta hallintapaneelin asiakasprofiilisivulla saada tiedot XML-muodossa. Sen jälkeen lähetä XML-tiedosto asiakkaalle.</p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "Poista tietoni"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Poistamme tilisi käytöstä ja poistamme siitä kaikki henkilökohtaiset tietosi. Sen jälkeen et voi kirjautua sisään. Voit kuitenkin jatkossa rekisteröidä uuden tilin samalla sähköpostiosoitteella. Huomaa, että tarvitsemme jonkin aikaa tämän pyynnön käsittelemiseen, joten tiliäsi ei poisteta heti. Jos sinulla on pyyntöäsi koskevia kommentteja, jätä ne alla olevaan kenttään.</p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Henkilötietojen poistopyyntö: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> sähköpostiosoitteella [customer_email] on pyytänyt henkilötietojen poistamista seuraavalla kommentilla:</p> <p>[comment]</p> <p>Napsauta tämän viestin alussa olevaa linkkiä ja käytä vastaavaa painiketta hallintapaneelin asiakasprofiilisivulla anonymisoida asiakas.</p> <p>Huomaa, että <b>tämä toimenpide korvaa kaikki asiakkaan henkilötiedot</b> satunnaisesti luoduilla tiedoilla. On parasta varmistaa, että kaikki kaupat asiakkaan kanssa (kuten tilaukset ja palautuspyynnöt) on tehty ennen kuin teet sen.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "Pyyntösi on lähetetty onnistuneesti."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "Pyyntöäsi lähetettäessä tapahtui virhe. Yritä uudelleen tai lähetä viesti seuraavaan sähköpostiosoitteeseen: <a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Alla lueteltujen sopimusteksteissä voi olla <b>[email]</b> tai <b>[company]</b> . Nämä ovat paikkamerkkejä, jotka korvataan automaattisesti todellisilla tiedoilla, kun asiakkaat näkevät sopimukset. Jos sinulla on vain yksi julkisivu, paikkamerkkien tiedot otetaan kohdasta <a href=\"[company_settings_url]\" target=\"_blank\">Asetukset → Yritys</a>. Jos sinulla on useita julkisivuja, tiedot otetaan sen julkisivun asetuksista, jossa asiakas vierailee:</p><ul><li><b>[company]</b> otetaan <i>Yrityksen nimi</i>.</li><li><b>[email]</b> otetaan osoitteesta <i>Käyttäjäosaston sähköpostiosoite</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Alla lueteltujen sopimusteksteissä voi olla <b>[email]</b> tai <b>[company]</b> . Nämä ovat paikkamerkkejä, jotka korvataan automaattisesti todellisilla tiedoilla, kun asiakkaat näkevät sopimukset. Paikkamerkkien tiedot otetaan kohdasta <a href=\"[company_settings_url]\" target=\"_blank\">Asetukset → Yritys</a>:</p><ul><li><b>[company]</b> otetaan kohdasta <i>Yrityksen nimi</i>.</li><li><b>[email]</b> otetaan osoitteesta <i>Käyttäjäosaston sähköpostiosoite</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_title"
+msgid "Strictly necessary cookies"
+msgstr "Ehdottomasti välttämättömät evästeet"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_description"
+msgid "These cookies are essential for the website to work properly. For example, they let you place an order, or help the site remember that you've signed into your account. That's why they can't be disabled through the site. You can configure your browser to disable even these cookies, but important parts of the site won't work without them."
+msgstr "Nämä evästeet ovat välttämättömiä verkkosivuston asianmukaiselle toiminnalle. Niiden avulla voit esimerkiksi tehdä tilauksen tai auttaa sivustoa muistamaan, että olet kirjautunut tilillesi. Siksi niitä ei voi poistaa käytöstä sivuston kautta. Voit määrittää selaimesi poistamaan nämä evästeet käytöstä, mutta tärkeät sivuston osat eivät toimi ilman niitä."
+
+msgctxt "Languages::gdpr.performance_cookies_title"
+msgid "Performance cookies"
+msgstr "Suorituskykyevästeet"
+
+msgctxt "Languages::gdpr.performance_cookies_description"
+msgid "These cookies allow us to see how the website works. The information that these cookies help to collect is anonymous; it is typically presented in numbers. For example, these cookies help us see how often errors occur, how many unique visitors we have, or how long each page is viewed on average. Thanks to these cookies, we can improve the site for you."
+msgstr "Näiden evästeiden avulla voimme nähdä kuinka verkkosivusto toimii. Tiedot, joita nämä evästeet auttavat keräämään, ovat anonyymejä; se esitetään tyypillisesti numeroina. Nämä evästeet auttavat meitä esimerkiksi näkemään, kuinka usein virheitä tapahtuu, kuinka monta yksittäistä kävijää meillä on tai kuinka kauan kutakin sivua tarkastellaan keskimäärin. Näiden evästeiden ansiosta voimme parantaa sivustoa puolestasi."
+
+msgctxt "Languages::gdpr.functional_cookies_title"
+msgid "Functional cookies"
+msgstr "Toiminnalliset evästeet"
+
+msgctxt "Languages::gdpr.functional_cookies_description"
+msgid "These cookies enable additional functionality at the website. They may be set by third-party providers whose services we've added to the website. Those services may include many things, like maps, geolocation for preliminary shipping rate calculation, or the ability to sign in with your social network account. Without functional cookies, the parts of the site associated with these services may not work properly."
+msgstr "Nämä evästeet mahdollistavat lisätoimintoja verkkosivustolla. Ne voivat olla kolmannen osapuolen palveluntarjoajien asettamia, joiden palvelut olemme lisänneet verkkosivustolle. Nämä palvelut voivat sisältää monia asioita, kuten karttoja, maantieteellisen sijainnin alustavaa toimitushinnan laskemista varten tai mahdollisuuden kirjautua sisään sosiaalisen verkoston tililläsi. Ilman toimivia evästeitä näihin palveluihin liittyvät sivuston osat eivät välttämättä toimi kunnolla."
+
+msgctxt "Languages::gdpr.marketing_cookies_title"
+msgid "Marketing cookies"
+msgstr "Markkinointievästeet"
+
+msgctxt "Languages::gdpr.marketing_cookies_description"
+msgid "These cookies are used by our advertising partners. They help them to measure promotion efficiency and serve you ads that are more relevant and less repetitive. This is usually achieved by remembering the browser and device that saw the ad. Turning these cookies off won't reduce the number of ads you see on the internet, but will make them less personalized."
+msgstr "Mainoskumppanimme käyttävät näitä evästeitä. Ne auttavat heitä mittaamaan mainostamisen tehokkuutta ja näyttämään sinulle osuvampia ja vähemmän toistuvia mainoksia. Tämä saavutetaan yleensä muistamalla selain ja laite, joka näki mainoksen. Näiden evästeiden poistaminen käytöstä ei vähennä Internetissä näkemiesi mainosten määrää, mutta tekee niistä vähemmän personoituja."
+
+msgctxt "Languages::gdpr.eway_cookies_title"
+msgid "eWAY"
+msgstr "eWAY"
+
+msgctxt "Languages::gdpr.eway_cookies_description"
+msgid "eWAY is a payment provider. It allows us to accept payments, if you choose a payment method powered by eWAY. Here is <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY privacy policy</a>."
+msgstr "eWAY on maksupalveluntarjoaja. Sen avulla voimme hyväksyä maksuja, jos valitset eWAY:n tarjoaman maksutavan. Tässä on <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY:n tietosuojakäytäntö</a>."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_title"
+msgid "You can find out more in this document: {privacyPolicy}."
+msgstr "Saat lisätietoja tästä asiakirjasta: {privacyPolicy}."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_name"
+msgid "Privacy policy"
+msgstr "Tietosuojakäytäntö"
+
+msgctxt "Languages::gdpr.klaro_service"
+msgid "service"
+msgstr "palvelua"
+
+msgctxt "Languages::gdpr.klaro_services"
+msgid "services"
+msgstr "palvelut"
+
+msgctxt "Languages::gdpr.klaro_accept_all"
+msgid "Accept all"
+msgstr "Hyväksy kaikki"
+
+msgctxt "Languages::gdpr.klaro_accept_selected"
+msgid "Accept selected"
+msgstr "Hyväksy valitut"
+
+msgctxt "Languages::gdpr.klaro_close"
+msgid "Close"
+msgstr "kiinni"
+
+msgctxt "Languages::gdpr.klaro_consent_modal_description"
+msgid "Here you can assess and customize the services (and their respective cookies) that we'd like to use on this website. You're in charge! Enable or disable services as you see fit."
+msgstr "Täällä voit arvioida ja mukauttaa palveluita (ja niitä vastaavia evästeitä), joita haluamme käyttää tällä verkkosivustolla. Olet vastuussa! Ota palvelut käyttöön tai poista ne käytöstä haluamallasi tavalla."
+
+msgctxt "Languages::gdpr.klaro_consent_modal_title"
+msgid "Cookies we would like to use"
+msgstr "Evästeet, joita haluaisimme käyttää"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_change_description"
+msgid "There were changes since your last visit, please renew your consent."
+msgstr "Viimeisimmän vierailusi jälkeen on tapahtunut muutoksia, uusi suostumuksesi."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_title"
+msgid "Cookie Consent"
+msgstr "Evästeen suostumus"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_description"
+msgid "Hi! Could we please enable some additional services that require cookies? You can always change or withdraw your consent later."
+msgstr "Hei! Voisimmeko ottaa käyttöön joitain lisäpalveluita, jotka vaativat evästeitä? Voit aina muuttaa tai peruuttaa suostumuksesi myöhemmin."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_learn_more"
+msgid "Let me choose"
+msgstr "Anna minun valita"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_testing"
+msgid "Testing mode!"
+msgstr "Testaustila!"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_always"
+msgid "Always"
+msgstr "Aina"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_once"
+msgid "'Yes'"
+msgstr "'Joo'"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_description"
+msgid "Do you want to load external content supplied by {title}?"
+msgstr "Haluatko ladata ulkoista sisältöä, jonka toimittaa {title}?"
+
+msgctxt "Languages::gdpr.klaro_decline"
+msgid "I decline"
+msgstr "kieltäydyn"
+
+msgctxt "Languages::gdpr.klaro_ok"
+msgid "That's ok"
+msgstr "Se on okei"
+
+msgctxt "Languages::gdpr.klaro_powered_by"
+msgid "Realized with Klaro!"
+msgstr "Toteutettu Klaron kanssa!"
+
+msgctxt "Languages::gdpr.klaro_service_purpose"
+msgid "purpose"
+msgstr "tarkoitus"
+
+msgctxt "Languages::gdpr.klaro_service_purposes"
+msgid "purposes"
+msgstr "tarkoituksiin"
+
+msgctxt "Languages::gdpr.klaro_service_required_description"
+msgid "This service is always required"
+msgstr "Tämä palvelu on aina tarpeen"
+
+msgctxt "Languages::gdpr.disable_all_description"
+msgid "Use this switch to enable or disable all services."
+msgstr "Tällä kytkimellä voit ottaa kaikki palvelut käyttöön tai poistaa ne käytöstä."
+
+msgctxt "Languages::gdpr.disable_all_title"
+msgid "Enable or disable all services"
+msgstr "Ota kaikki palvelut käyttöön tai poista ne käytöstä"
+
+msgctxt "Languages::gdpr.opt_out_description"
+msgid "This service is enabled by default (but you can opt out)"
+msgstr "Tämä palvelu on oletuksena käytössä (mutta voit kieltäytyä käytöstä)"
+
+msgctxt "Languages::gdpr.opt_out_title"
+msgid "(opt-out)"
+msgstr "(jättäytyä syrjään)"
+
+msgctxt "Languages::gdpr.klaro_service_required_title"
+msgid "(always required)"
+msgstr "(aina pakollinen)"
+

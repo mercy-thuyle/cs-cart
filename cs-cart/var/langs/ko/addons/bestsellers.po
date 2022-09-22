@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/bestsellers.po\n"
+"X-Crowdin-File-ID: 6556\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::bestsellers"
+msgid "Bestsellers & On-Sale Products"
+msgstr "베스트셀러 및 온세일 제품"
+
+msgctxt "Addons::description::bestsellers"
+msgid "Collects best selling & on sale product data and adds block fillings to show such products"
+msgstr "베스트 셀러 및 세일 제품 데이터를 수집하고 해당 제품을 표시하기 위해 블록 채우기를 추가합니다."
+
+msgctxt "Languages::sort_by_bestsellers_asc"
+msgid "Sort by Bestselling: Low to High"
+msgstr "베스트셀러순 정렬: 낮음에서 높음"
+
+msgctxt "Languages::sort_by_bestsellers_desc"
+msgid "Sort by Bestselling"
+msgstr "베스트 셀러로 정렬"
+
+msgctxt "Languages::sort_by_on_sale_asc"
+msgid "Sort by discount: Low to High"
+msgstr "할인순으로 정렬: 낮음에서 높음"
+
+msgctxt "Languages::sort_by_on_sale_desc"
+msgid "Sort by discount: High to Low"
+msgstr "할인순으로 정렬: 높음에서 낮음"
+
+msgctxt "Languages::sales_amount"
+msgid "Sales amount"
+msgstr "판매 금액"
+
+msgctxt "Languages::bestselling"
+msgid "Bestselling"
+msgstr "베스트셀러"
+
+msgctxt "Languages::on_sale"
+msgid "On sale"
+msgstr "판매 중"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "비슷한"
+
+msgctxt "Languages::percent_range"
+msgid "Price range (in % of the main product's price)"
+msgstr "가격대(주요 제품 가격의 %)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "같은 카테고리의"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "하위 카테고리 고려"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "\"재고\" 제품만"
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "최종 판매"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "일반"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "최신"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum final sale discount (%)"
+msgstr "최소 최종 판매 할인(%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount to define bestsellers"
+msgstr "베스트셀러를 정의하기 위한 최소 판매 금액"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "기간"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "지난 날들"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "모든 날짜"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "오늘"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "지난 날들"
+

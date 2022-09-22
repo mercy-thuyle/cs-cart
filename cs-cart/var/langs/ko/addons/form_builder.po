@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/form_builder.po\n"
+"X-Crowdin-File-ID: 6588\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr "양식 빌더"
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr "사용자 지정 양식을 만들 수 있습니다(예: 문의하기)."
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr "사용자 정의 양식"
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr "새로운 형태"
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr "편집 양식"
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr "양식 빌더"
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr "양식 제출 텍스트"
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr "받는 사람"
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr "양식 추가"
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr "베이스"
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr "여러 확인란"
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr "다중 선택 상자"
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr "헤더"
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr "분리 기호"
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr "특별한"
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr "국가 목록"
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr "상태 목록"
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr "추천인"
+
+msgctxt "Languages::email_template.form_builder_form"
+msgid "Contact form"
+msgstr "문의 양식"
+
+msgctxt "Languages::addons.form_builder.form_fields"
+msgid "Form fields"
+msgstr "양식 필드"
+
+msgctxt "Languages::addons.form_builder.form_name"
+msgid "Form name"
+msgstr "양식 이름"
+
+msgctxt "Languages::addons.form_builder.other_subject"
+msgid "Other subject (specify below)"
+msgstr "기타 주제(아래에 명시)"
+
+msgctxt "Languages::addons.form_builder.email_subject_field"
+msgid "E-mail subject field"
+msgstr "이메일 제목 필드"
+
+msgctxt "Languages::ttc_addons.form_builder.email_subject_field"
+msgid "Fields of type \"Select box\" or \"Input field\" can be used"
+msgstr "\"선택 상자\" 또는 \"입력 필드\" 유형의 필드를 사용할 수 있습니다."
+

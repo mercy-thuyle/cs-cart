@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/payment_dependencies.po\n"
+"X-Crowdin-File-ID: 6628\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::payment_dependencies"
+msgid "Payment dependencies"
+msgstr "付款依赖项"
+
+msgctxt "Addons::description::payment_dependencies"
+msgid "Assign payment methods to shipping methods"
+msgstr "将付款方式分配给运输方法"
+
+msgctxt "Languages::pd_allowed_payment_methods"
+msgid "Allowed payment methods"
+msgstr "可用付款方式"
+
+msgctxt "Languages::pd_allowed_payment_methods_text"
+msgid "Select payment methods that your customers can use with this shipping method"
+msgstr "选择您的客户可以与此运输方法一起使用的付款方式"
+
+msgctxt "Languages::pd.there_are_no_available_payment_methods"
+msgid "There are no payment methods available right now. Try to change the selected shipping method."
+msgstr "目前没有可用的付款方式。尝试更改所选的运输方式。"
+
+msgctxt "Languages::pd.no_payments_available"
+msgid "No payment methods available."
+msgstr "没有可用的付款方式。"
+

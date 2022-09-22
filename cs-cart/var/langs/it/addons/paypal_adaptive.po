@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_adaptive.po\n"
+"X-Crowdin-File-ID: 6582\n"
+"PO-Revision-Date: 2022-06-23 09:43\n"
+
+msgctxt "Addons::name::paypal_adaptive"
+msgid "PayPal Adaptive Payments [Deprecated]"
+msgstr "Pagamenti PayPal [obsoleto]"
+
+msgctxt "Addons::description::paypal_adaptive"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal. Only existing PayPal Adaptive clients can use this add-on. We recommend you to use the PayPal Commerce Platform add-on instead."
+msgstr "Questo componente aggiuntivo aiuterà gli amministratori dei negozi root a distribuire automaticamente i fondi tra più fornitori tramite PayPal. Solo i clienti PayPal Adaptive esistenti possono utilizzare questo componente aggiuntivo. Ti consigliamo di utilizzare invece il componente aggiuntivo PayPal Commerce Platform"
+
+msgctxt "Languages::paypal_api_username"
+msgid "API username"
+msgstr "Nome utente API"
+
+msgctxt "Languages::paypal_api_password"
+msgid "API password"
+msgstr "Passoword API"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal Business Account email"
+msgstr "Email account PayPal Business"
+
+msgctxt "Languages::paypal_adaptive.paypal_email"
+msgid "PayPal Business Account email"
+msgstr "Email account PayPal Business"
+
+msgctxt "Languages::paypal_adaptive.vendor.paypal_email"
+msgid "PayPal Account email"
+msgstr "E-mail dell'account PayPal"
+
+msgctxt "Languages::pp_adaptive_payments"
+msgid "PayPal Adaptive Payments"
+msgstr "Pagamenti Adattivi di Paypal"
+
+msgctxt "Languages::primary_email"
+msgid "PayPal Primary account email"
+msgstr "Conto email Basico Paypal"
+
+msgctxt "Languages::processing_payment_for_order"
+msgid "Processing Payment for order"
+msgstr "Processando Pagamento per ordine"
+
+msgctxt "Languages::paypal_adaptive_pay_orders"
+msgid "Pay order"
+msgstr "Pagare l'ordine"
+
+msgctxt "Languages::paypal_adaptive_pay_step"
+msgid "step pay"
+msgstr "pagamento di passi"
+
+msgctxt "Languages::paypal_adaptive_pay"
+msgid "Pay"
+msgstr "Pagare"
+
+msgctxt "Languages::paypal_adaptive_progress_payment_order"
+msgid "Progress pay orders"
+msgstr "Progresso di pagamento di ordini"
+
+msgctxt "Languages::paypal_adaptive_paid"
+msgid "Paid"
+msgstr "Pagato"
+
+msgctxt "Languages::paypal_adaptive_cancel"
+msgid "Return to checkout"
+msgstr "Ritornare al checkout"
+
+msgctxt "Languages::paypal_adaptive_type_payments"
+msgid "PayPal payments type"
+msgstr "Tipi di pagamento con Paypal"
+
+msgctxt "Languages::paypal_adaptive_papallel_payments"
+msgid "Parallel"
+msgstr "Insieme"
+
+msgctxt "Languages::paypal_adaptive_chained_payments"
+msgid "Chained"
+msgstr "Collegati"
+
+msgctxt "Languages::order_subtotal"
+msgid "Order subtotal"
+msgstr "Subtotale di ordini"
+
+msgctxt "Languages::paypal_adaptive_payer_fees"
+msgid "Payer fees"
+msgstr "Spensi di debitore"
+
+msgctxt "Languages::paypal_adaptive_fees_eachreceiver"
+msgid "Each receiver"
+msgstr "Ogni ricettore"
+
+msgctxt "Languages::paypal_adaptive_fees_primaryreceiver"
+msgid "Primary receiver"
+msgstr "Ricettore principale"
+
+msgctxt "Languages::paypal_adaptive_pending_payment"
+msgid "Pending payment"
+msgstr "Pagamento pendente"
+
+msgctxt "Languages::block_paypal_adaptive"
+msgid "PayPal Adaptive"
+msgstr "Paypal Adattivo"
+
+msgctxt "Languages::paypal_calc_comission_based_on"
+msgid "To calculate commission based on"
+msgstr "Per calcolare la commissione basata su"
+
+msgctxt "SettingsSections::paypal_adaptive::general"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "SettingsOptions::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "To calculate commission based on"
+msgstr "Per calcolare commission su base di"
+
+msgctxt "SettingsTooltips::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "Indicates the sum based on which commission will be calculated"
+msgstr "Indica la somma su quale e basata la commissione calcolata"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::O"
+msgid "Order total"
+msgstr "Somma totale di ordini"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::S"
+msgid "Order subtotal"
+msgstr "Sub-totale di ordini"
+
+msgctxt "SettingsOptions::paypal_adaptive::collect_payouts"
+msgid "Collect payouts on vendors"
+msgstr "Concentrare pagamenti su ventori"
+
+msgctxt "SettingsTooltips::paypal_adaptive::collect_payouts"
+msgid "When creating a withdrawal for a vendor, the amount of unpaid payouts will be held back from the withdrawal amount."
+msgstr "Creando un retiro per uno ventore, le somme non pagate saranno sostratti dalla somma retirata."
+
+msgctxt "Languages::paypal_adaptive_override_with_secondary_currency"
+msgid "Use customer's choice of currency"
+msgstr "Utilizzare la scelta di valuta del cliente"
+
+msgctxt "Languages::paypal_adaptive_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Uso in Context Checkout"
+
+msgctxt "Languages::works_in_browsers"
+msgid "It doesn't work in Safari browser and ios devices"
+msgstr "Non funziona in navigatore Safari ed apparecchii ios"
+
+msgctxt "Languages::paypal_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Commissione di Pagamenti Adattivi di Paypal"
+
+msgctxt "Languages::paypal_commission_type"
+msgid "PayPal commission type"
+msgstr "Tipo di commissione di Paypal"
+
+msgctxt "Languages::paypal_adaptive.commission_type"
+msgid "Commission type"
+msgstr "Tipo di commissione"
+
+msgctxt "Languages::paypal_adaptive.tooltips.commission_type"
+msgid "The setting allows to select the way commission is charged to the vendor when using the PayPal Adaptive payment method. If Vendors commission is selected, commission will be charged in the amount that is specified in the corresponding field of the vendor. If PayPal Adaptive commission is selected, a separate field will be used to avoid confusion with standard commissions. It will be used only for the PayPal Adaptive payment method. If the 'Vendor commission' add-on is not installed/disabled, 'PayPal Adaptive Payments commission' will be used."
+msgstr "Il parametro permette di selezionare il modo con quale la commissione sara pagata al ventore utilizzando il metodo di pagamento Paypal Adattivo. Se la commissione di ventore e selezionata, quella sara inclusa nella somma determnata nel campo del ventore. Si commissiona Adattiva di Paypal e selezionata, un campo separato sera utilizzato per evitare la confusione nei pagamenti standard. Il sara scelto soltanto per il metodo di pagamento Adattivo Paypal. Se l'add-on della ''Commissione di ventore'' non e attivata, 'la commissione di Pagamenti Adattivi di Paypal'' vi sara utilizzato."
+
+msgctxt "Languages::paypal_adaptive.ppa_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Commissione di Pagamenti Adattivi Paypal"
+
+msgctxt "Languages::paypal_adaptive.vendor_plans"
+msgid "Vendor plans"
+msgstr "Piani di ventori"
+
+msgctxt "Languages::paypal_verification"
+msgid "PayPal verification"
+msgstr "Verifica Paypal"
+
+msgctxt "Languages::paypal_verification_short"
+msgid "PP ver."
+msgstr "PP ver."
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "Non testato"
+
+msgctxt "Languages::not_verified"
+msgid "Not verified"
+msgstr "Non verificato"
+
+msgctxt "Languages::verified"
+msgid "Verified"
+msgstr "Verificato"
+
+msgctxt "Languages::paypal_adaptive_auto_info_data_verification"
+msgid "Use the following line to run the script to get E-mail verification status of your vendors according to schedule:"
+msgstr "Utilizzare la riga seguente per eseguire lo script per ottenere lo stato di verifica dell'email dei venditori in base alla pianificazione:"
+
+msgctxt "Languages::paypal_adaptive_statuses_updated_successfully"
+msgid "PayPal verification statuses have been updated successfully."
+msgstr "I status verificati di Paypal, sono stati attualizzati con successo."
+
+msgctxt "SettingsOptions::paypal_adaptive::display_verification_status_on_storefront"
+msgid "Display verification status to customers"
+msgstr "Fa vedere il status di verifica ai clienti"
+
+msgctxt "SettingsTooltips::paypal_adaptive::display_verification_status_on_storefront"
+msgid "The setting allows to display verification status at the product details page on the storefront. If the vendor E-mail is not verified, the status will not be shown to the customers."
+msgstr "Questo parametro permette di mostrare lo stato di verifica nella prima pagina di prodotti. Se l'email del ventore non e verificato, il status non sara mostrato al cliente."
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image"
+msgid "PayPal verification image"
+msgstr "Immagine di verifica Paypal"
+
+msgctxt "Languages::paypal_ver_image"
+msgid "Verification image"
+msgstr "Immagine di verifica"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_width"
+msgid "Image width"
+msgstr "Largura d'immagine"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_height"
+msgid "Image height"
+msgstr "Altezza d'immagine"
+
+msgctxt "Languages::verified_by_paypal"
+msgid "Verified by PayPal"
+msgstr "Verificato da Paypal"
+
+msgctxt "Languages::paypal_adaptive_error_wrong_cron_key"
+msgid "Error: Wrong cron key."
+msgstr "Errore: codice di cron falso."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_width"
+msgid "The width of the verified image."
+msgstr "La larghezza dell'immagine verificata."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_height"
+msgid "The height of the verified image."
+msgstr "L'altezza dell'immagine verificata."
+
+msgctxt "Languages::paypal_adaptive.tooltips.paypal_ver_image"
+msgid "The setting allows to display verification image instead of the text status at the product details page on the storefront. If an image is not uploaded, the status will be shown as text."
+msgstr "Il parametro permette di mostrare l'immagine verificata invece del status di testo nella pagina frontale di prodotti. Se non c'e immagine caricata, il status sara mostrato come testo."
+
+msgctxt "Languages::paypal_emails_must_be_unique"
+msgid "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+msgstr "Il ventore con email Paypal Adattivo che ha scelto gia esiste, prego di provare un altro."
+
+msgctxt "Languages::addons.paypal_adaptive.logo"
+msgid "PayPal Adaptive logo"
+msgstr "Logo di Paypal Adattivo"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Utilizzare una forma grafica valida, come.gif. jpg, o .png. Limitarne l'immagine a 190 pixel di larghezza e 60 pixel di altezza. Paypal seleziona immagini piu larghe. Paypal va colocare il logo della sua immagine nella parte superiore della area di controllo della carta."
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "L'email del tuo conto PayPal Business. L'email di un account personale non funzionerà."
+
+msgctxt "Languages::ttc_paypal_adaptive.paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "L'email del tuo conto PayPal Business. L'email di un account personale non funzionerà."
+
+msgctxt "Languages::ttc_paypal_adaptive.vendor.paypal_email"
+msgid "The email of your PayPal account."
+msgstr "L'email del tuo account PayPal."
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_workflow"
+msgid "PayPal workflow"
+msgstr "Flusso di lavoro su Paypal"
+
+msgctxt "Languages::addons.paypal_adaptive.store_settings"
+msgid "Store settings"
+msgstr "Paremetri di storo"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_credentials"
+msgid "PayPal credentials"
+msgstr "Verifiche Paypal"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "{amount} su {sum}"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "{amount}% di {sum}"
+
+msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Retiro per l'ordine #{order_id}"
+
+msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
+msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."
+msgstr "Pagament chiusi non possono essere utilizzati se l'add-on di <a href=''{url}'' target=''_blank> I Pagamenti di Paypal Adattivo </a> e configurato per collezionare entrambi commissione d'ordine e pagamenti pendenti."
+
+msgctxt "Languages::addons.paypal_adaptive.primary_email_notice"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "L'email del tuo conto PayPal Business. L'email di un account personale non funzionerà."
+
+msgctxt "Languages::addons.paypal_adaptive.commission_includes"
+msgid "Commission includes"
+msgstr "La commissione include"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission"
+msgid "Order commission"
+msgstr "Commissione d'ordine"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission_and_payouts"
+msgid "Order commission and unpaid payouts"
+msgstr "Commissioni su ordini e somme non pagate"
+
+msgctxt "Languages::addons.paypal_adaptive.first_name"
+msgid "PayPal account holder's first name"
+msgstr "Nome del titolare del conto PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.last_name"
+msgid "PayPal account holder's last name"
+msgstr "Cognome del titolare del conto PayPal"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.first_name"
+msgid "Please enter the same first name as specified in your PayPal profile."
+msgstr "Inserisci lo stesso nome specificato nel tuo profilo PayPal."
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.last_name"
+msgid "Please enter the same last name as specified in your PayPal profile."
+msgstr "Inserisci lo stesso cognome specificato nel tuo profilo PayPal."
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_title"
+msgid "Paypal Adaptive Payments"
+msgstr "Pagamenti adattivi PayPal"
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_description"
+msgid "PayPal Adaptive Payments is a payment provider that allows you to buy products from multiple vendors while making a single payment. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal privacy statement.</a>"
+msgstr "PayPal Adaptive Payments è un fornitore di servizi di pagamento che ti consente di acquistare prodotti da più fornitori effettuando un unico pagamento. Ecco <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">informativa sulla privacy di PayPal.</a>"
+

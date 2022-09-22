@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "Комплекти товарів"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "Дозволяє вам створювати комплекти товарів і встановлювати на них знижки."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "Комплекти товарів"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "Переглянути, додати та редагувати комплекти товарів"
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "Рекламне зображення"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "Відображати в акціях"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "Комплект товарів"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "Ціна за все "
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "Загальна знижка"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "Назва комплекту"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "Продукти в комплекті"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "Загальна вартість"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "Додати новий комплект"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "Комплект <b>[bundle_name]</b> було вимкнено, оскільки товари з цього комплекту було вилучено.|Комплект <b> [bundle_name] </b> було вимкнено, оскільки один із продуктів у цих комплектах було вилучено."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "Новий комплект"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "Активні комплекти"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "Вкажіть особливості"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "Будь-які варіації"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "Вкажіть параметри "
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "Загальний список цін"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "Замовлення зі знижкою "
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "Додати все в кошик"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "Увійдіть, щоб переглянути ціну "
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "Деталі комплекту"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "Комплекти з продуктом "
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "Ця назва відображається лише на панелі Адміністратора, щоб допомогти розрізняти кілька комплектів продуктів, які мають однакову відображувану назву."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "Показати на сторінці продуктів"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "Ви впевнені, що хочете створити комплект без продуктів? "
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "Ви впевнені, що хочете створити комплект з 1 продуктом? "
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "Варіанти товару повинні бути вказані"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "Можна переглянути"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "Можна редагувати"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "Пачки продуктів"
+

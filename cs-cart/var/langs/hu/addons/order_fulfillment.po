@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Megrendelés teljesítése piactéren"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Lehetővé teszi, hogy olyan eladói csomagokat kínálj, ahol a piactér kezeli a szállítást az eladók részére, és visszatartja a szállítási díjakat."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Szállítás típusa"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Az eladói csomag részeként kezeli a szállítást az eladók részére. Ha a piactér több eladó számára kezeli a szállítást, akkor a vásárlónak a pénztárnál csak egy szállítási módot kell kiválasztania az összes ilyen eladó számára. A szállítási költségek is a piactérre kerülnek. <ul><li>Azok az eladók, akiknek eladói csomagja tartalmazza a piactéren történő teljesítést, CSAK a piactérhez tartozó szállítási módokat használják. </li><li>Azok az eladók, akiknek nincs piactéren történő teljesítésük, CSAK a kifejezetten hozzájuk tartozó szállítási módokat használják. </li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "A piactér saját szállítási módozatai mostantól elérhetőek lesznek azon eladók számára, akiknek az eladói csomagjában szerepel a piactéren történő teljesítés."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "A piactér saját szállítási módozatai mostantól az egyes szállítók beállításaitól függően lesznek elérhetők. Ezen szállítási módoknak a díja az eladókat fogja terhelni, nem pedig a piacteret."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "[name] Eladó olyan csomagra váltott, amely piactéren történő rendelésteljesítést tartalmaz. Az eladó mostantól a piactér által biztosított szállítási módokat fogja használni a sajátjai helyett."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "A piactér általi rendelésteljesítést tartalmazó csomagra váltottál. Mostantól vásárlóidnak a piactér szállítási módozatai lesznek felajánlva."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "[name] eladó áttért a piactéren történő rendelésteljesítés nélküli csomagra. Az eladónak mostantól saját szállítási módokat kell felajánlania."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Olyan csomagra álltál át, amelyben a rendeléseket nem a piactér teljesíti. Kérjük, győződj meg arról, hogy beállítottad saját szállítási módodat."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Teljesítés a piactér által"
+

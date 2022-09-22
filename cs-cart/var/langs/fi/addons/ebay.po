@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/ebay.po\n"
+"X-Crowdin-File-ID: 6716\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::ebay"
+msgid "eBay synchronization"
+msgstr "eBay synkronointi"
+
+msgctxt "Addons::description::ebay"
+msgid "Synchronizes products and orders with an eBay account."
+msgstr "Synkronoi tuotteet ja tilaukset eBay-tilin kanssa."
+
+msgctxt "Languages::paypal_required_and_selected"
+msgid "For the selected eBay category PayPal payment method is required. It is selected automatically."
+msgstr "Valitulle eBay-kategorialle vaaditaan PayPal-maksutapa. Se valitaan automaattisesti."
+
+msgctxt "Languages::wait_for_shippings_cached"
+msgid "Wait for shippings cached. Mean time to 3 minutes"
+msgstr "Odota lähetyksiä välimuistissa. Keskimääräinen aika 3 minuuttiin"
+
+msgctxt "Languages::ebay_duration"
+msgid "Listing duration"
+msgstr "Listauksen kesto"
+
+msgctxt "Languages::list_products_on"
+msgid "List products on"
+msgstr "Listaa tuotteet"
+
+msgctxt "Languages::private_listing"
+msgid "Private listing"
+msgstr "Yksityinen listaus"
+
+msgctxt "Languages::use_as_default"
+msgid "Use as default"
+msgstr "Käytä oletuksena"
+
+msgctxt "Languages::ebay_root_category"
+msgid "eBay Root category"
+msgstr "eBay-juuriluokka"
+
+msgctxt "Languages::ebay_root_sec_category"
+msgid "eBay Secondary root category"
+msgstr "eBay Toissijainen juuriluokka"
+
+msgctxt "Languages::ebay_sec_category"
+msgid "eBay Secondary category"
+msgstr "eBayn toissijainen luokka"
+
+msgctxt "Languages::quantity_to_sell"
+msgid "Quantity to sell"
+msgstr "Myytävä määrä"
+
+msgctxt "Languages::just_one"
+msgid "Just one"
+msgstr "Vain yksi"
+
+msgctxt "Languages::more_than_one"
+msgid "More than one"
+msgstr "Enemmän kuin yksi"
+
+msgctxt "Languages::use_main_image"
+msgid "Export product images"
+msgstr "Vie tuotekuvat"
+
+msgctxt "Languages::selling_method"
+msgid "Selling method"
+msgstr "Myyntitapa"
+
+msgctxt "Languages::online_auction"
+msgid "Online auction"
+msgstr "Verkkohuutokauppa"
+
+msgctxt "Languages::buy_it_now"
+msgid "Buy it now"
+msgstr "Osta se nyt"
+
+msgctxt "Languages::ebay_requests"
+msgid "eBay requests"
+msgstr "eBay-pyynnöt"
+
+msgctxt "Languages::log_type_ebay_requests"
+msgid "eBay requests"
+msgstr "eBay-pyynnöt"
+
+msgctxt "Languages::errors"
+msgid "Errors"
+msgstr "Virheet"
+
+msgctxt "Languages::log_action_all"
+msgid "All"
+msgstr "Kaikki"
+
+msgctxt "Languages::error_code"
+msgid "Error code"
+msgstr "Virhekoodi"
+
+msgctxt "Languages::editing_ebay_template"
+msgid "Editing eBay template"
+msgstr "eBay-mallin muokkaaminen"
+
+msgctxt "Languages::new_ebay_template"
+msgid "New eBay template"
+msgstr "Uusi eBay-malli"
+
+msgctxt "Languages::ebay_templates"
+msgid "eBay templates"
+msgstr "eBay-malleja"
+
+msgctxt "Languages::ebay_registration_notice"
+msgid "In order to get this information you need first to register your Developer account <a href=\"https://developer.ebay.com/join/\">here</a>.<br /><br />After you registered, you will receive the \"DevID\", \"AppID\" and \"CertID\" keys. So you have to generate the special \"Token\" in order to use this API. In order to generate the \"Token\", please click the \"Get a User Token\" link at the bottom of \"My account\" page (tools box) or follow <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">this link</a>.<br /><br />Please complete this form with the given credentials."
+msgstr "Saadaksesi nämä tiedot, sinun on ensin rekisteröitävä kehittäjätilisi <a href=\"https://developer.ebay.com/join/\">täällä</a>.<br /><br />Rekisteröitymisen jälkeen saat avaimet \"DevID\", \"AppID\" ja \"CertID\". Joten sinun on luotava erityinen \"Token\" voidaksesi käyttää tätä API:ta. Luodaksesi \"Token\", napsauta \"Hanki käyttäjätunnus\" -linkkiä \"Oma tili\" -sivun alareunassa (työkalulaatikossa) tai seuraa <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">tätä linkkiä</a>.<br /><br />Täytä tämä lomake annetuilla tunnuksilla."
+
+msgctxt "Languages::add_ebay_template"
+msgid "Add eBay template"
+msgstr "Lisää eBay-malli"
+
+msgctxt "Languages::shipping_type"
+msgid "Shipping type"
+msgstr "Toimitustyyppi"
+
+msgctxt "Languages::flat"
+msgid "Flat"
+msgstr "Tasainen"
+
+msgctxt "Languages::calculated"
+msgid "Calculated"
+msgstr "Laskettu"
+
+msgctxt "Languages::domestic_shipping_service"
+msgid "Domestic shipping service"
+msgstr "Kotimaan kuljetuspalvelu"
+
+msgctxt "Languages::international_shipping_service"
+msgid "International shipping service"
+msgstr "Kansainvälinen kuljetuspalvelu"
+
+msgctxt "Languages::dispatch_days"
+msgid "Dispatch days"
+msgstr "Lähetyspäivät"
+
+msgctxt "Languages::ebay_payment_methods"
+msgid "eBay payment methods"
+msgstr "eBay maksutavat"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal email"
+msgstr "Paypal sähköposti"
+
+msgctxt "Languages::ebay.paypal_email"
+msgid "PayPal email"
+msgstr "Paypal sähköposti"
+
+msgctxt "Languages::ebay_category_condition"
+msgid "eBay category condition"
+msgstr "eBay-luokan kunto"
+
+msgctxt "Languages::ebay_associated_category"
+msgid "Associated eBay category"
+msgstr "Liittynyt eBay-luokka"
+
+msgctxt "Languages::ebay_category_preferences"
+msgid "eBay Category <br> Preferences"
+msgstr "eBay:n luokan <br> asetukset"
+
+msgctxt "Languages::ebay_category_preferences_tooltip"
+msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
+msgstr "Käytä mallin eBay-luokkaa tai määritä eri eBay-luokka tuotteille, jotka kuuluvat myymäläsi tähän luokkaan"
+
+msgctxt "Languages::ebay_template"
+msgid "eBay template"
+msgstr "eBay malli"
+
+msgctxt "Languages::ebay_orders"
+msgid "eBay orders"
+msgstr "eBay-tilaukset"
+
+msgctxt "Languages::get_ebay_orders"
+msgid "Get eBay orders"
+msgstr "Hanki eBay-tilauksia"
+
+msgctxt "Languages::ebay"
+msgid "eBay"
+msgstr "eBay"
+
+msgctxt "Languages::wait_for_categories_cached"
+msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "Odota, että luokat tallentuvat välimuistiin, se kestää noin 3 minuuttia. Ennen sitä Toimitukset-, Maksu- ja Palautuskäytäntö-välilehdet pysyvät tyhjinä."
+
+msgctxt "Languages::Some_parameters_is_missing"
+msgid "Some parameters is missing. Please check ebay add-on settings"
+msgstr "Jotkut parametrit puuttuvat. Tarkista ebay-lisäosien asetukset"
+
+msgctxt "Languages::ebay_success_products_notice"
+msgid "Products have been successfully exported."
+msgstr "Tuotteita on viety onnistuneesti."
+
+msgctxt "Languages::ebay_success_orders_notice"
+msgid "Orders have been successfully imported."
+msgstr "Tilaukset on tuotu onnistuneesti."
+
+msgctxt "Languages::ebay_failed_orders_notice"
+msgid "An error occurred during order import."
+msgstr "Tilauksen tuonnin aikana tapahtui virhe."
+
+msgctxt "Languages::exporting_products_to_ebay"
+msgid "Exporting products to eBay."
+msgstr "Tuotteiden vienti eBayhin."
+
+msgctxt "Languages::ebay_default_template_not_found"
+msgid "Default template for the [company_name] was not found."
+msgstr "Oletusmallia arvolle [company_name] ei löytynyt."
+
+msgctxt "Languages::delete_this_template"
+msgid "Delete this template"
+msgstr "Poista tämä malli"
+
+msgctxt "Languages::test_version"
+msgid "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
+msgstr "Käytät tämän moduulin testiversiota, jonka voimassaolo päättyi 7.12.2013. Testijakson päätyttyä moduulin toiminnot eivät ole käytettävissä. Voit ostaa täyden version <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>:n kautta"
+
+msgctxt "Languages::ttc_list_products_on"
+msgid "Choose the region of the eBay auction for which your site will work"
+msgstr "Valitse eBay-huutokaupan alue, jolla sivustosi toimii"
+
+msgctxt "Languages::ttc_use_as_default"
+msgid "Use this template for products with no template defined"
+msgstr "Käytä tätä mallia tuotteille, joille ei ole määritetty mallia"
+
+msgctxt "Languages::ttc_ebay_root_category"
+msgid "The product root category at eBay"
+msgstr "Tuotteen pääluokka eBayssa"
+
+msgctxt "Languages::ttc_ebay_root_sec_category"
+msgid "The additional product root category at eBay"
+msgstr "Lisätuotteen juuriluokka eBayssa"
+
+msgctxt "Languages::ebay_second_category_tooltip"
+msgid "The additional product subcategory at eBay"
+msgstr "Lisätuotealaluokka eBayssa"
+
+msgctxt "Languages::ttc_shipping_type"
+msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
+msgstr "Valitse, haluatko käyttää laskettua tai kiinteää toimitustapaa. Laskettu - toimituskulut lasketaan asiakkaan postinumeron, paketin painon ja tarjoamiesi toimituspalveluiden mukaan; Kiinteä toimitusmaksu on kiinteä"
+
+msgctxt "Languages::ttc_domestic_shipping_service"
+msgid "Choose the shipping service that will be used for delivering products in the domestic region"
+msgstr "Valitse toimituspalvelu, jota käytetään tuotteiden toimittamiseen kotimaassa"
+
+msgctxt "Languages::ttc_international_shipping_service"
+msgid "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "Valitse toimituspalvelu, jota käytetään tuotteiden toimittamiseen maailmanlaajuisesti"
+
+msgctxt "Languages::ttc_dispatch_days"
+msgid "The period of product delivery to a customer  (in days)"
+msgstr "Tuotteen toimitusaika asiakkaalle (päivissä)"
+
+msgctxt "Languages::ttc_ebay_payment_methods"
+msgid "Payment method(s), available for a template"
+msgstr "Maksutapa(t), saatavilla mallille"
+
+msgctxt "Languages::ttc_ebay.paypal_email"
+msgid "Define login of the PayPal account"
+msgstr "Määritä PayPal-tilin kirjautuminen"
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "Define login of the PayPal account"
+msgstr "Määritä PayPal-tilin kirjautuminen"
+
+msgctxt "Languages::eBay_category_condition_tooltip"
+msgid "Define login of the PayPal account"
+msgstr "Määritä PayPal-tilin kirjautuminen"
+
+msgctxt "Languages::ttc_free_shipping"
+msgid "Choose, if you want free shipping to be applied to products in a template"
+msgstr "Valitse, jos haluat ilmaisen toimituksen käytettävän mallin tuotteissa"
+
+msgctxt "Languages::ttc_shipping_cost"
+msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
+msgstr "Kiinteä toimitusmaksu yhdelle tuotteelle, jos toimitustyyppi on tasainen (eBayn toimitus- ja käsittelyasetus)."
+
+msgctxt "Languages::ttc_shipping_cost_additional"
+msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
+msgstr "Toimitusmaksu jokaisesta tilauksen lisätuotteesta (eBayn Jokainen lisätuote -asetus)"
+
+msgctxt "Languages::shipping_cost_additional"
+msgid "Additional shipping fee"
+msgstr "Ylimääräinen toimitusmaksu"
+
+msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
+msgid "The storefront, for which a template will be created"
+msgstr "Julkisivu, jolle luodaan malli"
+
+msgctxt "Languages::shipping_cost_cannot_be_null"
+msgid "Shipping cost must be non-zero"
+msgstr "Toimituskulujen tulee olla nollasta poikkeavat"
+
+msgctxt "Languages::ebay_title"
+msgid "eBay product title"
+msgstr "eBay-tuotteen nimi"
+
+msgctxt "Languages::ebay_title_tooltip"
+msgid "eBay title the title of the product to be used at eBay"
+msgstr "eBay-nimi eBayssa käytettävän tuotteen nimi"
+
+msgctxt "Languages::ebay_description"
+msgid "eBay product description"
+msgstr "eBay-tuotteen kuvaus"
+
+msgctxt "Languages::ebay_description_tooltip"
+msgid "eBay description the description of the product to be used at eBay"
+msgstr "eBay-kuvaus eBayssa käytettävän tuotteen kuvaus"
+
+msgctxt "Languages::override"
+msgid "Redefinition of the product name and description on eBay"
+msgstr "Tuotteen nimen ja kuvauksen uudelleenmäärittely eBayssa"
+
+msgctxt "Languages::override_tooltip"
+msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
+msgstr "Valitse, jos haluat korvata alkuperäisen tuotteen nimen ja kuvauksen eBay-tuotteen otsikossa ja eBay-tuotteen kuvauskentissä määritetyllä"
+
+msgctxt "Languages::return_policy"
+msgid "Return Policy"
+msgstr "PALAUTUSKÄYTÄNTÖ"
+
+msgctxt "Languages::ttc_return_policy"
+msgid "Choose whether returns are allowed or not for products grouped under this template"
+msgstr "Valitse, sallitaanko tämän mallin alle ryhmiteltyjen tuotteiden palautus vai ei"
+
+msgctxt "Languages::returns_accepted"
+msgid "Returns Accepted"
+msgstr "Palautukset hyväksytty"
+
+msgctxt "Languages::no_returns_accepted"
+msgid "No returns accepted"
+msgstr "Palautuksia ei hyväksytä"
+
+msgctxt "Languages::contact_time"
+msgid "After receiving the item, your buyer should contact you within"
+msgstr "Kun olet vastaanottanut tuotteen, ostajasi tulee ottaa sinuun yhteyttä"
+
+msgctxt "Languages::ttc_contact_time"
+msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
+msgstr "Valitse aika, jonka kuluessa ostajan on otettava sinuun yhteyttä varmistaakseen, että hän on vastaanottanut tuotteen"
+
+msgctxt "Languages::refund_method"
+msgid "Refund will be given as"
+msgstr "Hyvitys annetaan"
+
+msgctxt "Languages::ttc_refund_method"
+msgid "Choose the action that will replace the return, if it is not allowed"
+msgstr "Valitse toiminto, joka korvaa palautuksen, jos se ei ole sallittua"
+
+msgctxt "Languages::money_back"
+msgid "Money Back"
+msgstr "Rahat takaisin"
+
+msgctxt "Languages::money_back_or_replace"
+msgid "Money back or replacement (buyer's choice)"
+msgstr "Rahat takaisin tai vaihto (ostajan valinta)"
+
+msgctxt "Languages::money_back_or_exchange"
+msgid "Money back or exchange (buyer's choice)"
+msgstr "Rahat takaisin tai vaihto (ostajan valinta)"
+
+msgctxt "Languages::cost_paid_by"
+msgid "Return shipping will be paid by"
+msgstr "Palautuksen toimituskulut maksaa"
+
+msgctxt "Languages::ttc_cost_paid_by"
+msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
+msgstr "Valitse, kuka maksaa palautusostoksen toimituksen – myyjä vai ostaja"
+
+msgctxt "Languages::seller"
+msgid "Seller"
+msgstr "Myyjä"
+
+msgctxt "Languages::buyer"
+msgid "Buyer"
+msgstr "Ostaja"
+
+msgctxt "Languages::return_policy_descr"
+msgid "Policy description"
+msgstr "Käytännön kuvaus"
+
+msgctxt "Languages::ttc_return_policy_descr"
+msgid "Write the detailed description of your return policy here"
+msgstr "Kirjoita yksityiskohtainen kuvaus palautuskäytännöstäsi tähän"
+
+msgctxt "Languages::large_envelope"
+msgid "Large envelope"
+msgstr "Suuri kirjekuori"
+
+msgctxt "Languages::large_package"
+msgid "Large package"
+msgstr "Iso paketti"
+
+msgctxt "Languages::package_type_tooltip"
+msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
+msgstr "Jos et tiedä pakettityyppiäsi, valitse \"Suuri paketti\" -vaihtoehto. Tarkimman hinnan varmistamiseksi sinua pyydetään syöttämään tarkat paketin mitat."
+
+msgctxt "Languages::product_out_of_weight"
+msgid "Products with the [ids] id were not exported because their weight equals zero."
+msgstr "Tuotteita, joiden tunnus on [ids] , ei viety, koska niiden paino on nolla."
+
+msgctxt "Languages::exported_to_ebay"
+msgid "Exported to eBay"
+msgstr "Vietiin eBayyn"
+
+msgctxt "Languages::revised_after_the_latest_export"
+msgid "Revised after the latest export"
+msgstr "Tarkistettu viimeisimmän viennin jälkeen"
+
+msgctxt "Languages::exporting_images_to_ebay"
+msgid "Exporting product \"[product]\" images to eBay"
+msgstr "Tuotteen \"[product]\" kuvia viedään eBayhin"
+
+msgctxt "Languages::ebay_package"
+msgid "Package/thick envelope"
+msgstr "Pakkaus/paksu kirjekuori"
+
+msgctxt "Languages::ebay_cant_remove_template"
+msgid "You don't have permissions to remove some of the templates as they belong to another owner."
+msgstr "Sinulla ei ole oikeuksia poistaa joitakin malleja, koska ne kuuluvat toiselle omistajalle."
+
+msgctxt "Languages::ebay_commercial_using_title"
+msgid "Activate add-on"
+msgstr "Aktivoi lisäosa"
+
+msgctxt "Languages::ebay_templates_not_found"
+msgid "eBay templates not found"
+msgstr "eBay-malleja ei löydy"
+
+msgctxt "SettingsSections::ebay::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::ebay::notice"
+msgid "Notice"
+msgstr "Ilmoitus"
+
+msgctxt "SettingsOptions::ebay::dev_id"
+msgid "eBay DevID"
+msgstr "eBay DevID"
+
+msgctxt "SettingsOptions::ebay::app_id"
+msgid "eBay AppID"
+msgstr "eBay AppID"
+
+msgctxt "SettingsOptions::ebay::cert_id"
+msgid "eBay CertID"
+msgstr "eBay CertID"
+
+msgctxt "SettingsOptions::ebay::token"
+msgid "eBay User Token"
+msgstr "eBay-käyttäjätunnus"
+
+msgctxt "SettingsOptions::ebay::listing_mode"
+msgid "Sandbox / Production"
+msgstr "Hiekkalaatikko / Tuotanto"
+
+msgctxt "SettingsOptions::ebay::site_id"
+msgid "Default site"
+msgstr "Oletussivusto"
+
+msgctxt "SettingsOptions::ebay::ebay_timestamp"
+msgid "eBay timestamp"
+msgstr "eBayn aikaleima"
+
+msgctxt "SettingsVariants::ebay::listing_mode::S"
+msgid "Sandbox"
+msgstr "Hiekkalaatikko"
+
+msgctxt "SettingsVariants::ebay::listing_mode::P"
+msgid "Production"
+msgstr "Tuotanto"
+
+msgctxt "Languages::wait_for_shippings_cached"
+msgid "Please wait, shipping information is loaded."
+msgstr "Odota, toimitustiedot on ladattu."
+
+msgctxt "Languages::privileges.view_ebay_templates"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::privileges.manage_ebay_templates"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.ebay_templates"
+msgid "eBay templates"
+msgstr "eBay-malleja"
+
+msgctxt "Languages::ebay_price"
+msgid "eBay product price"
+msgstr "eBay tuotteen hinta"
+
+msgctxt "Languages::override_price"
+msgid "Redefine price on eBay"
+msgstr "Määritä hinta uudelleen eBayssa"
+
+msgctxt "Languages::ebay_product_status"
+msgid "eBay product status"
+msgstr "eBay-tuotteen tila"
+
+msgctxt "Languages::ebay_product_status_not_exported"
+msgid "Not exported"
+msgstr "Ei viety"
+
+msgctxt "Languages::ebay_product_status_active"
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgctxt "Languages::ebay_product_status_closed"
+msgid "Ended"
+msgstr "Päättyi"
+
+msgctxt "Languages::ebay_success_exported_product_notice"
+msgid "Product was successfully exported to eBay"
+msgstr "Tuote vietiin eBayhin onnistuneesti"
+
+msgctxt "Languages::ebay_success_close_product_notice"
+msgid "Product successfully ended on eBay"
+msgstr "Tuote päättyi onnistuneesti eBayssa"
+
+msgctxt "Languages::ebay_export_failed"
+msgid "Product export failed"
+msgstr "Tuotteen vienti epäonnistui"
+
+msgctxt "Languages::ebay_export_success"
+msgid "Product export successful"
+msgstr "Tuotteiden vienti onnistui"
+
+msgctxt "Languages::ebay_export_failed_msg"
+msgid "Some of the products have not been exported to eBay.<br> Check the logs to see what products weren't exported and the reason why it happened."
+msgstr "Osaa tuotteista ei ole viety eBayhin.<br> Tarkista lokeista, mitä tuotteita ei viety ja miksi näin tapahtui."
+
+msgctxt "Languages::ebay_export_success_msg"
+msgid "All the selected products have been exported to eBay without errors."
+msgstr "Kaikki valitut tuotteet on viety eBayhin ilman virheitä."
+
+msgctxt "Languages::ebay_end_summary_title"
+msgid "Product ending summary"
+msgstr "Tuotteen loppuyhteenveto"
+
+msgctxt "Languages::ebay_export_product"
+msgid "Exporting product \"[product]\" to eBay"
+msgstr "Viedään tuotetta \"[product]\" eBayhin"
+
+msgctxt "Languages::ebay_export_products"
+msgid "Exporting products \"[product]\" to eBay"
+msgstr "Tuotteiden \"[product]\" vienti eBayhin"
+
+msgctxt "Languages::ebay_override"
+msgid "Redefinition of the product name and description on eBay"
+msgstr "Tuotteen nimen ja kuvauksen uudelleenmäärittely eBayssa"
+
+msgctxt "Languages::ebay_end_products"
+msgid "Ending products \"[product]\" on eBay"
+msgstr "Loppuvat tuotteet \"[product]\" eBayssa"
+
+msgctxt "Languages::ebay_count_product_successfully_exported"
+msgid "Products successfully exported:"
+msgstr "Tuotteet on viety onnistuneesti:"
+
+msgctxt "Languages::ebay_count_product_fail_exported"
+msgid "Products export failed:"
+msgstr "Tuotteiden vienti epäonnistui:"
+
+msgctxt "Languages::ebay_count_product_successfully_ended"
+msgid "Successfully ended products:"
+msgstr "Onnistuneesti päättyneet tuotteet:"
+
+msgctxt "Languages::ebay_count_product_fail_ended"
+msgid "Products ending failed:"
+msgstr "Tuotteiden päättyminen epäonnistui:"
+
+msgctxt "Languages::ebay_end_products_on_ebay"
+msgid "End eBay sales"
+msgstr "Lopeta eBay-myynti"
+
+msgctxt "Languages::products_assigned"
+msgid "Products assigned"
+msgstr "Tuotteet määrätty"
+
+msgctxt "Languages::ttc_products_assigned"
+msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
+msgstr "Voit myös käyttää eBay-mallia useisiin tuotteisiin kerralla. Siirry kohtaan Tuotteet → Tuotteet, valitse niiden tuotteiden valintaruudut, joihin haluat lisätä mallin, paina sitten rataspainiketta ja valitse Muokkaa valittuja. Jätä ponnahdusikkunassa vain eBay Templates -valintaruutu rasti ja napsauta Muokkaa valittuna."
+
+msgctxt "Languages::ebay_template_category_product"
+msgid "Use eBay template's category"
+msgstr "Käytä eBay-mallin luokkaa"
+
+msgctxt "Languages::ebay_set_manualy"
+msgid "Assign a different eBay category"
+msgstr "Määritä eri eBay-luokka"
+
+msgctxt "Languages::ebay_end_template_on_ebay"
+msgid "End eBay sales"
+msgstr "Lopeta eBay-myynti"
+
+msgctxt "Languages::ebay_action_export_product"
+msgid "Export product"
+msgstr "Vie tuote"
+
+msgctxt "Languages::ebay_action_update_product"
+msgid "Update product"
+msgstr "Päivitä tuote"
+
+msgctxt "Languages::ebay_action_upload_image_product"
+msgid "Upload the product image"
+msgstr "Lataa tuotekuva"
+
+msgctxt "Languages::ebay_action_get_status_product"
+msgid "Get product status"
+msgstr "Hanki tuotteen tila"
+
+msgctxt "Languages::ebay_action_end_product"
+msgid "Ending sale on eBay"
+msgstr "Myynti päättyy eBayssa"
+
+msgctxt "Languages::ebay_show_logs"
+msgid "Show logs"
+msgstr "Näytä lokit"
+
+msgctxt "Languages::ebay_international_shipping_cost"
+msgid "International shipping fee"
+msgstr "Kansainvälinen toimitusmaksu"
+
+msgctxt "Languages::ebay_international_shipping_cost_tooltip"
+msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
+msgstr "Kiinteä toimitusmaksu yhdelle tuotteelle, jos toimitustyyppi on tasainen (eBayn toimitus- ja käsittelyasetus)."
+
+msgctxt "Languages::ebay_international_shipping_cost_additional_tooltip"
+msgid "International shipping fee for each additional item in the order (the Each additional item setting on eBay)"
+msgstr "Kansainvälinen toimitusmaksu jokaisesta tilauksen lisätuotteesta (eBayn Jokainen lisätuote -asetus)"
+
+msgctxt "Languages::ebay_international_shipping_cost_additional"
+msgid "Additional international shipping fee"
+msgstr "Ylimääräinen kansainvälinen toimitusmaksu"
+
+msgctxt "Languages::ebay_logs"
+msgid "eBay logs"
+msgstr "eBay-lokit"
+
+msgctxt "Languages::ebay_products"
+msgid "eBay products"
+msgstr "eBay tuotteet"
+
+msgctxt "Languages::ebay_sync_products_status"
+msgid "Get product status from eBay"
+msgstr "Hanki tuotteen tila eBaysta"
+
+msgctxt "Languages::ebay_get_product_status"
+msgid "Getting product \"[product]\" status from eBay"
+msgstr "Haetaan tuotteen \"[product]\" tila eBaysta"
+
+msgctxt "Languages::ebay_update_status_summary_title"
+msgid "Summary: Product status retrieval from eBay"
+msgstr "Yhteenveto: Tuotteen tilan haku eBaysta"
+
+msgctxt "Languages::ebay_count_product_successfully_status_updated"
+msgid "Products with updated statuses:"
+msgstr "Tuotteet, joiden tila on päivitetty:"
+
+msgctxt "Languages::ebay_count_product_fail_status_updated"
+msgid "Products with status update errors:"
+msgstr "Tuotteet, joissa on tilapäivitysvirheitä:"
+
+msgctxt "Languages::ebay_count_product_skip"
+msgid "Products skipped:"
+msgstr "Ohitetut tuotteet:"
+
+msgctxt "Languages::ebay_product_not_exported"
+msgid "Product \"[product]\" was not exported on eBay"
+msgstr "Tuotetta \"[product]\" ei viety eBayhin"
+
+msgctxt "Languages::ebay_product_already_sales_closed"
+msgid "Sales of product \"[product]\" were already completed on eBay"
+msgstr "Tuotteen \"[product]\" myynti oli jo saatu päätökseen eBayssa"
+
+msgctxt "Languages::ebay_failed_request"
+msgid "Failed request to [url]. Http status code: [code]"
+msgstr "Epäonnistunut pyyntö numerolle [url]. HTTP-tilakoodi: [code]"
+
+msgctxt "Languages::ebay_package_type"
+msgid "eBay package type"
+msgstr "eBay-pakettityyppi"
+
+msgctxt "Languages::ebay_category"
+msgid "eBay Category"
+msgstr "eBay luokka"
+
+msgctxt "Languages::ebay_region"
+msgid "eBay region"
+msgstr "eBay-alue"
+
+msgctxt "Languages::ebay_synchronization_title"
+msgid "Synchronizing eBay data"
+msgstr "eBay-tietojen synkronointi"
+
+msgctxt "Languages::ebay_synchronization_regions"
+msgid "Synchronizing eBay regions"
+msgstr "eBay-alueiden synkronointi"
+
+msgctxt "Languages::ebay_synchronization_categories"
+msgid "Synchronizing eBay categories (it may take around 3 minutes)"
+msgstr "eBay-luokkien synkronointi (se voi kestää noin 3 minuuttia)"
+
+msgctxt "Languages::ebay_synchronization_shipping_services"
+msgid "Synchronizing eBay shipping services"
+msgstr "Synkronoidaan eBay-lähetyspalveluita"
+
+msgctxt "Languages::ebay_synchronization_category_features"
+msgid "Synchronizing eBay category features"
+msgstr "eBay-luokan ominaisuuksien synkronointi"
+
+msgctxt "Languages::ebay_changed_region_message"
+msgid "After you change eBay region, please check other settings.<br>If your template's Shipping type is set to Calculated, change your primary currency (Administration → Currencies), company address (Settings → Company) and weight measurement units (Settings → General) accordingly.<br>If your template's Shipping type is set to Flat, change your primary currency (Administration → Currencies)."
+msgstr "Kun olet vaihtanut eBay-aluetta, tarkista muut asetukset.<br>Jos mallisi Toimitustyypiksi on asetettu Laskettu, muuta ensisijainen valuuttasi (Hallinta → Valuutat), yrityksen osoite (Asetukset → Yritys) ja painon mittayksiköt (Asetukset → Yleiset) vastaavasti.<br>Jos mallisi toimitustyypiksi on asetettu Kiinteä, vaihda ensisijainen valuutta (Hallinta → Valuutat)."
+
+msgctxt "Languages::export_products_to_ebay"
+msgid "Export/Revise products on eBay"
+msgstr "Vie/tarkista tuotteita eBayssa"
+
+msgctxt "Languages::ebay_product_identifier_upc"
+msgid "UPC"
+msgstr "UPC"
+
+msgctxt "Languages::ebay_product_identifier_ean"
+msgid "EAN"
+msgstr "EAN"
+
+msgctxt "Languages::ebay_product_identifier_isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::ebay_product_identifier_mpn"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::ebay_product_identifier_brand"
+msgid "Brand"
+msgstr "Brändi"
+
+msgctxt "Languages::ebay_product_identifiers"
+msgid "Product identifiers"
+msgstr "Tuotetunnisteet"
+
+msgctxt "Languages::ebay_product"
+msgid "Product"
+msgstr "Tuote"
+
+msgctxt "Languages::ebay_product_variation"
+msgid "Option combination"
+msgstr "Vaihtoehtojen yhdistelmä"
+
+msgctxt "Languages::ebay_none"
+msgid "None"
+msgstr "Ei mitään"
+
+msgctxt "Languages::ebay_does_not_apply"
+msgid "Does not apply"
+msgstr "Ei päde"
+
+msgctxt "Languages::ebay_product_code"
+msgid "Product code"
+msgstr "Tuotekoodi"
+
+msgctxt "Languages::ebay_product_feature"
+msgid "Product feature"
+msgstr "Tuotteen ominaisuus"
+
+msgctxt "Languages::ebay_combination_code"
+msgid "Combination code"
+msgstr "Yhdistelmäkoodi"
+
+msgctxt "Languages::ebay_synchronization_region_details"
+msgid "Synchronizing eBay region details"
+msgstr "Synkronoidaan eBay-alueen tietoja"
+
+msgctxt "Languages::ebay_feature_group_product_identifiers"
+msgid "eBay product identifiers"
+msgstr "eBay-tuotetunnisteet"
+

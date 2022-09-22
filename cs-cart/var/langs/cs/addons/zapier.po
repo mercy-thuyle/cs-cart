@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/zapier.po\n"
+"X-Crowdin-File-ID: 6660\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::zapier"
+msgid "Integration with Zapier"
+msgstr "Integrace se Zapierem"
+
+msgctxt "Addons::description::zapier"
+msgid "Allows you to integrate CS-Cart with over 4 000 other apps through Zapier."
+msgstr "Umožňuje integrovat CS-Cart s více než 4 000 dalšími aplikacemi prostřednictvím Zapier."
+
+msgctxt "Languages::privileges.manage_zapier_hooks"
+msgid "Can edit"
+msgstr "Může upravit"
+
+msgctxt "Languages::privileges.view_zapier_hooks"
+msgid "Can view"
+msgstr "Lze prohlížet"
+
+msgctxt "Languages::privilege_groups.zapier_hooks"
+msgid "Zapier hooks"
+msgstr "Háčky Zapier"
+
+msgctxt "Languages::zapier.text_settings_general"
+msgid "Learn more about setting up integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">in the documentation</a>."
+msgstr "Další informace o nastavení integrace <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">naleznete v dokumentaci</a>."
+

@@ -1,0 +1,153 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "Common Products for Vendors"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "Allows you to create a single product base: vendors choose which of the existing products they sell."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "Allow vendors to create products"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "Buy a default common product"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "Sellers of this product"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "Sellers of this product"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "Sellers of a product"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "Products that vendors can sell"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "Products being sold"
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "All products"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "Add product from catalog"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "Create new product"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "Sell this"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "For sale"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "Sell selected"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "[n] product was added to your products|[n] products were added to your products"
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "Common product"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "All vendors (common product)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "Products to export"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "From [formatted_price]"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "Vendor offer"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "See all offers"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "Vendor variation offer"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "Save up to"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "Product was found but it is not common product. Please specify common product ID."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "Product was found but it is not vendor's product. Please specify vendor's product ID."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "Common product ID must be specified for vendor's products search."

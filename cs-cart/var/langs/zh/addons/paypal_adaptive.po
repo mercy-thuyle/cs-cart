@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_adaptive.po\n"
+"X-Crowdin-File-ID: 6582\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::paypal_adaptive"
+msgid "PayPal Adaptive Payments [Deprecated]"
+msgstr "贝宝自适应支付 [Deprecated]"
+
+msgctxt "Addons::description::paypal_adaptive"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal. Only existing PayPal Adaptive clients can use this add-on. We recommend you to use the PayPal Commerce Platform add-on instead."
+msgstr "这个附加组件将帮助根商店管理员通过 PayPal 在多个供应商之间自动分配资金。只有现有的 PayPal Adaptive 客户端可以使用此插件。我们建议您改用 PayPal Commerce Platform 插件。"
+
+msgctxt "Languages::paypal_api_username"
+msgid "API username"
+msgstr "API 用户名"
+
+msgctxt "Languages::paypal_api_password"
+msgid "API password"
+msgstr "API 密码"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal Business Account email"
+msgstr "PayPal 商业帐户电子邮件"
+
+msgctxt "Languages::paypal_adaptive.paypal_email"
+msgid "PayPal Business Account email"
+msgstr "PayPal 商业帐户电子邮件"
+
+msgctxt "Languages::paypal_adaptive.vendor.paypal_email"
+msgid "PayPal Account email"
+msgstr "贝宝帐户电子邮件"
+
+msgctxt "Languages::pp_adaptive_payments"
+msgid "PayPal Adaptive Payments"
+msgstr "PayPal 自适应付款"
+
+msgctxt "Languages::primary_email"
+msgid "PayPal Primary account email"
+msgstr "PayPal 主帐户电子邮件"
+
+msgctxt "Languages::processing_payment_for_order"
+msgid "Processing Payment for order"
+msgstr "处理订单付款"
+
+msgctxt "Languages::paypal_adaptive_pay_orders"
+msgid "Pay order"
+msgstr "支付订单"
+
+msgctxt "Languages::paypal_adaptive_pay_step"
+msgid "step pay"
+msgstr "步骤支付"
+
+msgctxt "Languages::paypal_adaptive_pay"
+msgid "Pay"
+msgstr "支付"
+
+msgctxt "Languages::paypal_adaptive_progress_payment_order"
+msgid "Progress pay orders"
+msgstr "进度支付订单"
+
+msgctxt "Languages::paypal_adaptive_paid"
+msgid "Paid"
+msgstr "已支付"
+
+msgctxt "Languages::paypal_adaptive_cancel"
+msgid "Return to checkout"
+msgstr "返回结帐"
+
+msgctxt "Languages::paypal_adaptive_type_payments"
+msgid "PayPal payments type"
+msgstr "PayPal 付款类型"
+
+msgctxt "Languages::paypal_adaptive_papallel_payments"
+msgid "Parallel"
+msgstr "并行"
+
+msgctxt "Languages::paypal_adaptive_chained_payments"
+msgid "Chained"
+msgstr "链"
+
+msgctxt "Languages::order_subtotal"
+msgid "Order subtotal"
+msgstr "订单小计"
+
+msgctxt "Languages::paypal_adaptive_payer_fees"
+msgid "Payer fees"
+msgstr "付款人费用"
+
+msgctxt "Languages::paypal_adaptive_fees_eachreceiver"
+msgid "Each receiver"
+msgstr "每个接收器"
+
+msgctxt "Languages::paypal_adaptive_fees_primaryreceiver"
+msgid "Primary receiver"
+msgstr "主接收机"
+
+msgctxt "Languages::paypal_adaptive_pending_payment"
+msgid "Pending payment"
+msgstr "待付款"
+
+msgctxt "Languages::block_paypal_adaptive"
+msgid "PayPal Adaptive"
+msgstr "PayPal 自适应"
+
+msgctxt "Languages::paypal_calc_comission_based_on"
+msgid "To calculate commission based on"
+msgstr "计算佣金基于"
+
+msgctxt "SettingsSections::paypal_adaptive::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "To calculate commission based on"
+msgstr "计算佣金基于"
+
+msgctxt "SettingsTooltips::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "Indicates the sum based on which commission will be calculated"
+msgstr "代表根据佣金计算的总和"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::O"
+msgid "Order total"
+msgstr "订单总额"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::S"
+msgid "Order subtotal"
+msgstr "订单小计"
+
+msgctxt "SettingsOptions::paypal_adaptive::collect_payouts"
+msgid "Collect payouts on vendors"
+msgstr "收集供应商的支出"
+
+msgctxt "SettingsTooltips::paypal_adaptive::collect_payouts"
+msgid "When creating a withdrawal for a vendor, the amount of unpaid payouts will be held back from the withdrawal amount."
+msgstr "在为供应商创建提款时，未支付的支出将从提款金额中收回。"
+
+msgctxt "Languages::paypal_adaptive_override_with_secondary_currency"
+msgid "Use customer's choice of currency"
+msgstr "使用客户的货币选择"
+
+msgctxt "Languages::paypal_adaptive_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "使用上下文签出"
+
+msgctxt "Languages::works_in_browsers"
+msgid "It doesn't work in Safari browser and ios devices"
+msgstr "不适应于 Safari 浏览器和 ios 设备"
+
+msgctxt "Languages::paypal_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "PayPal 自适应支付佣金"
+
+msgctxt "Languages::paypal_commission_type"
+msgid "PayPal commission type"
+msgstr "PayPal 佣金类型"
+
+msgctxt "Languages::paypal_adaptive.commission_type"
+msgid "Commission type"
+msgstr "佣金类型"
+
+msgctxt "Languages::paypal_adaptive.tooltips.commission_type"
+msgid "The setting allows to select the way commission is charged to the vendor when using the PayPal Adaptive payment method. If Vendors commission is selected, commission will be charged in the amount that is specified in the corresponding field of the vendor. If PayPal Adaptive commission is selected, a separate field will be used to avoid confusion with standard commissions. It will be used only for the PayPal Adaptive payment method. If the 'Vendor commission' add-on is not installed/disabled, 'PayPal Adaptive Payments commission' will be used."
+msgstr "在使用 PayPal 自适应付款方式时，设置允许选择佣金向供应商收取的方式。如果选择了供应商佣金，佣金将按供应商相应字段中指定的金额收取。如果选择 PayPal 自适应佣金，将使用一个单独的字段来避免与标准佣金的混淆。它将只用于PayPal 自适应支付方式。如果 \"供应商佣金\" 附件未安装/禁用，将使用 \"PayPal 自适应支付佣金\"。"
+
+msgctxt "Languages::paypal_adaptive.ppa_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "PayPal 自适应支付佣金"
+
+msgctxt "Languages::paypal_adaptive.vendor_plans"
+msgid "Vendor plans"
+msgstr "供应商计划"
+
+msgctxt "Languages::paypal_verification"
+msgid "PayPal verification"
+msgstr "PayPal 验证"
+
+msgctxt "Languages::paypal_verification_short"
+msgid "PP ver."
+msgstr "PP版"
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "未选中"
+
+msgctxt "Languages::not_verified"
+msgid "Not verified"
+msgstr "未验证"
+
+msgctxt "Languages::verified"
+msgid "Verified"
+msgstr "已验证"
+
+msgctxt "Languages::paypal_adaptive_auto_info_data_verification"
+msgid "Use the following line to run the script to get E-mail verification status of your vendors according to schedule:"
+msgstr "使用以下行运行脚本以按计划获取供应商的电子邮件验证状态："
+
+msgctxt "Languages::paypal_adaptive_statuses_updated_successfully"
+msgid "PayPal verification statuses have been updated successfully."
+msgstr "PayPal 验证状态已成功更新。"
+
+msgctxt "SettingsOptions::paypal_adaptive::display_verification_status_on_storefront"
+msgid "Display verification status to customers"
+msgstr "向客户显示验证状态"
+
+msgctxt "SettingsTooltips::paypal_adaptive::display_verification_status_on_storefront"
+msgid "The setting allows to display verification status at the product details page on the storefront. If the vendor E-mail is not verified, the status will not be shown to the customers."
+msgstr "该设置允许在店面的产品详细信息页面显示验证状态。如果未验证供应商电子邮件， 则不会向客户显示状态。"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image"
+msgid "PayPal verification image"
+msgstr "PayPal 验证图像"
+
+msgctxt "Languages::paypal_ver_image"
+msgid "Verification image"
+msgstr "验证图像"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_width"
+msgid "Image width"
+msgstr "图像宽度"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_height"
+msgid "Image height"
+msgstr "图像高度"
+
+msgctxt "Languages::verified_by_paypal"
+msgid "Verified by PayPal"
+msgstr "通过 PayPal 验证"
+
+msgctxt "Languages::paypal_adaptive_error_wrong_cron_key"
+msgid "Error: Wrong cron key."
+msgstr "错误：错误的 cron 密钥。"
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_width"
+msgid "The width of the verified image."
+msgstr "已验证图像的宽度。"
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_height"
+msgid "The height of the verified image."
+msgstr "已验证图像的高度。"
+
+msgctxt "Languages::paypal_adaptive.tooltips.paypal_ver_image"
+msgid "The setting allows to display verification image instead of the text status at the product details page on the storefront. If an image is not uploaded, the status will be shown as text."
+msgstr "该设置允许在店面的产品详细信息页面上显示验证图像而不是文本状态。如果未上载图像, 则状态将显示为文本。"
+
+msgctxt "Languages::paypal_emails_must_be_unique"
+msgid "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+msgstr "您选择的供应商与 PayPal 自适应电子邮件已经存在，请尝试另一个。"
+
+msgctxt "Languages::addons.paypal_adaptive.logo"
+msgid "PayPal Adaptive logo"
+msgstr "PayPal 自适应商标"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "使用合法图形格式，如. gif、. jpg 或. png。将图像限制为190像素宽60像素高。PayPal 自动裁剪较大图像。PayPal 将您的商标图像放在购物车评论区的顶部。"
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "您的 PayPal 商业帐户的电子邮件。不能使用个人帐户电子邮件。"
+
+msgctxt "Languages::ttc_paypal_adaptive.paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "您的 PayPal 商业帐户的电子邮件。不能使用个人帐户电子邮件。"
+
+msgctxt "Languages::ttc_paypal_adaptive.vendor.paypal_email"
+msgid "The email of your PayPal account."
+msgstr "您的 PayPal 帐户的电子邮件。"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_workflow"
+msgid "PayPal workflow"
+msgstr "PayPal 工作流程"
+
+msgctxt "Languages::addons.paypal_adaptive.store_settings"
+msgid "Store settings"
+msgstr "存储设置"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_credentials"
+msgid "PayPal credentials"
+msgstr "PayPal 凭据"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[sum] 分之 [amount]"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% [sum]"
+
+msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "撤消订单 #[order_id]"
+
+msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
+msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."
+msgstr "如果将 <a href=\"[url]\" target=\"_blank\"> PayPal 自适应付款 </a> 加载项配置为同时收集订单佣金和未支付的支出，则无法使用链接付款。"
+
+msgctxt "Languages::addons.paypal_adaptive.primary_email_notice"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "您的 PayPal 企业帐户的电子邮件。个人帐户电子邮件不起作用。"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_includes"
+msgid "Commission includes"
+msgstr "委员会包括"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission"
+msgid "Order commission"
+msgstr "订单佣金"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission_and_payouts"
+msgid "Order commission and unpaid payouts"
+msgstr "订单佣金和未支付的支出"
+
+msgctxt "Languages::addons.paypal_adaptive.first_name"
+msgid "PayPal account holder's first name"
+msgstr "PayPal 帐户持有人的名字"
+
+msgctxt "Languages::addons.paypal_adaptive.last_name"
+msgid "PayPal account holder's last name"
+msgstr "PayPal 帐户持有人的姓氏"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.first_name"
+msgid "Please enter the same first name as specified in your PayPal profile."
+msgstr "请输入与您的 PayPal 配置文件中指定的名字。"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.last_name"
+msgid "Please enter the same last name as specified in your PayPal profile."
+msgstr "请输入与您的 PayPal 配置文件中指定的姓氏。"
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_title"
+msgid "Paypal Adaptive Payments"
+msgstr "贝宝自适应支付"
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_description"
+msgid "PayPal Adaptive Payments is a payment provider that allows you to buy products from multiple vendors while making a single payment. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal privacy statement.</a>"
+msgstr "PayPal Adaptive Payments 是一种支付提供商，允许您在进行单次付款时从多个供应商处购买产品。这是 <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal 隐私声明。</a>"
+

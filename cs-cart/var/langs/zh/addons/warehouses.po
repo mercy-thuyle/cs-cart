@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 6702\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses"
+msgstr "仓库"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "让您为每个商店和仓库分别设置产品库存。向客户展示产品在商店或特定价格区域的可用性。"
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "类型"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "店铺"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "接送的地点"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "仓库"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "姓名"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "城市"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "数量"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "设置"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "运送到"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "确定此仓库中的产品将被视为可用的费率区域。"
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "确定此地点的位置。反过来，这决定了到这个地方的运费和交货时间。"
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "显示给"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "允许您在结账时向其他费率区域的居民提供此取货点。"
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] 所选地区无库存。|以下产品在所选地区无库存: [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "数量"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "商店和仓库"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "商店/仓库"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "搬家时间"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "将产品从此处移动到此费率区域的另一家商店或仓库所需的时间。"
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "延迟警告"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "如果必须将产品从此处移至费率区域，请在产品列表和购物车中显示移动时间。"
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "产品可以先从不同的商店和仓库取走，具体取决于您的客户所在的位置。 <a href=\"[destinations_url]\" target=\"_blank\">为每个费率区域单独配置商店和仓库优先级。</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "产品位于远程仓库。如果您订购，我们将发送 [shipping_delay]。"
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "产品位于远程仓库。如果您订购，运输时间可能会稍长一些。"
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "如果订购： [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "您订购的某些产品位于远程仓库。运送时间可能比此处说明的时间稍长。"
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "订购时可用"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "有存货"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "在 [n] 家商店|在 [n] 家商店"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "商店中的可用性"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "商店中的可用性"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "可以购买产品的商店列表"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "商店和地址"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "电话"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "搜索商店"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "列表"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "地图"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "未找到符合搜索条件的商店"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "费率区"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "延迟警告"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "如果上面的商店和仓库中没有产品，它将出现。"
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "输入搜索，或点击右侧按钮添加所有费率区域"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "任何类型的商店"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "全部添加"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "此店面没有任何商店或仓库。请 <a href=\"[create_url]\">创建一个</a> 或 <a href=\"[list_url]\">为该店面提供现有的</a>"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "这不会影响导入文件中指定数量的产品。这也不会影响仓库中未在此预设中更新的产品。"
+
+msgctxt "Languages::warehouses.destination_can_be_deleted"
+msgid "Couldn't delete the rate area because at least one product is contained in warehouses in this rate area. Please delete this rate area from warehouse or reset the number of <a href=\"[href]\">these products</a>, and try again."
+msgstr "无法删除费率区，因为该费率区的仓库中至少包含一种产品。请从仓库中删除此费率区域或将这些产品的数量重置为 <a href=\"[href]\"></a>，然后重试。"
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "仓库"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "仓库"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "找不到仓库 [id]"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "创建类别 [id] ；本地编号： [local_id]"
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_privileges.po\n"
+"X-Crowdin-File-ID: 6694\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_privileges"
+msgid "Vendor Privileges"
+msgstr "Práva prodejce"
+
+msgctxt "Addons::description::vendor_privileges"
+msgid "Allows you to create user groups for vendors' administrators."
+msgstr "Dovoluje vám vytvořit uživatelskou skupinu pro administrátory prodejců."
+
+msgctxt "SettingsSections::vendor_privileges::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::vendor_privileges::default_vendor_usesrgroup"
+msgid "Default user group for vendors' administrators"
+msgstr "Defaultní uživatelská skupina pro administrátory prodejců"
+
+msgctxt "Languages::vendor_privileges.default_usergroup_is_assigned_to_new_vendors"
+msgid "<span class=\"muted\">This user group is assigned to all new vendors by the \"Vendor privileges\" add-on.</span> <a href=\"[settings_link]\" target=\"_blank\">Edit add-on settings</a>"
+msgstr "<span class=\"muted\">Tato uživatelská skupina je přiřazena všem novým dodavatelům doplňkem „Oprávnění dodavatele“.</span> <a href=\"[settings_link]\" target=\"_blank\">Upravit nastavení doplňku</a>"
+
+msgctxt "Languages::privileges.manage_vendor_usergroups"
+msgid "Can manage vendor user groups (only if managing customer user groups is allowed)"
+msgstr "Může spravovat skupiny uživatelů dodavatele (pouze pokud je povolena správa uživatelských skupin zákazníků)"
+

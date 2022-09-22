@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 6646\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr "Recenzii de produse"
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr "Permite clienților să lase recenzii pentru produse. Acest lucru poate genera încredere, poate oferi dovezi sociale și poate adăuga conținut generat de utilizatori pe site-ul dvs."
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Formulare de comentarii și recenzii"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Cartea de oaspeti"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Recenzii"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "Nu au fost găsite recenzii"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Rating-ul tău"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Comentarii și recenzii"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Evaluare"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr "Ați postat deja în această recenzie"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Multumesc pentru postarea ta"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Recenzia dvs. va fi verificată înainte de a fi publicată."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr "Recenzii: [n]"
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "recenzie| recenzii"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Aceasta este o notificare a unei noi postări pe produs"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Aceasta este o notificare a unui nou răspuns la recenzia produsului dvs"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Această revizuire necesită aprobare"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Ultimele recenzii"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Comentariu de"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "și"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Aproba"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Dezaproba"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "Aprobat"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "Neaprobat"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Comentarii și recenzii"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Poate vizualiza"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Pot edita"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Recenzii de produse"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Sortați după evaluare: de la mic la ridicat"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Sortați după evaluare"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Recenzii de produse"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Recenzii"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Comentariile clienților despre produse"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Scrie o recenzie"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Recenzii pe pagină"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administratorul trebuie să aprobe postările trimise de"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr "Permiteți o examinare pentru fiecare adresă IP"
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Împărțiți recenziile în funcție de vitrină"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Stabilește dacă comentariile și/sau recenziile sunt permise pentru produsele nou create. Nu afectează produsele existente."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Numai cumpărătorii pot posta"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Permiteți să lăsați recenzii pentru un produs numai celor care au cumpărat acel produs."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Câmpuri de revizuire"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Comentează cu avantaje și dezavantaje"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Comentează doar"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Orice client"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Doar clienți anonimi"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "Nu este nevoie de aprobare"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Solicitați locația clientului"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "Nici unul"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "Țară"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "Oraș"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Recenzii despre produse: notificare de recenzie nouă"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Recenzii despre produse: notificare de răspuns"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Arată evaluarea recenziei"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Afișați recenzii"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Arată recenzia"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Arată [n] recenzii|Afișează [n] recenzii"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Derulați la recenzii"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Afișați imagini de recenzie"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Derulați pentru a examina imaginile"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Date personale din recenzii"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "recenzii: recenzie nouă"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Numele tău va apărea lângă recenzia sau comentariul tău, vizibil pentru toată lumea. De asemenea, salvăm ([company]) adresa dvs. IP ca măsură de siguranță, dar poate fi vizualizată numai de personalul nostru. Acesta va rămâne în sistemul nostru până când vă retrageți consimțământul. Dacă doriți să vă eliminați datele personale, trimiteți un e-mail la [email].</p> <p>În cazul în care considerați că datele dumneavoastră cu caracter personal au fost utilizate abuziv, aveți dreptul de a depune o plângere la o autoritate de supraveghere. Suntem obligați prin Regulamentul general al UE privind protecția datelor să vă informăm despre acest drept; de fapt, nu intenționăm să folosim greșit datele dvs.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Bifați această casetă de validare pentru a accepta [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Termeni și condiții"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Vă rugăm să citiți acești Termeni și condiții („Termeni”, „Termeni și condiții”) cu atenție înainte de a utiliza site-ul web <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> și aplicația mobilă My Mobile App („Serviciul”) operată de My Companie (\"noi\", \"noi\" sau \"nostru\").</p><p><strong>Prin accesarea sau utilizarea Serviciului, sunteți de acord să respectați acești Termeni. Dacă nu sunteți de acord cu orice parte a Termenilor, atunci este posibil să nu accesați Serviciul.</strong></p><p><strong>Achiziții</strong></p><p>Dacă doriți să achiziționați orice produs sau serviciu pus la dispoziție prin intermediul Serviciului (\"Achiziție\"), vi se poate cere să furnizați anumite informații relevante pentru achiziția dvs., inclusiv, fără limitare, dvs. ...</p><p><strong>Conținut</strong></p><p>Serviciul nostru vă permite să publicați, să le faceți linkuri, să stocați, să distribuiți și să puneți la dispoziție în alt mod anumite informații, text, grafice, videoclipuri sau alte materiale („Conținut”). Sunteți responsabil pentru...</p><p><strong>Modificări</strong></p><p>Ne rezervăm dreptul, la discreția noastră, de a modifica sau înlocui acești Termeni în orice moment. Dacă o revizuire este semnificativă, vom încerca să furnizăm un preaviz cu cel puțin 30 de zile înainte de intrarea în vigoare a oricăror termeni noi. Ceea ce constituie o schimbare materială va fi stabilit la discreția noastră.</p><p><strong>Contactați-ne</strong></p><p>Dacă aveți întrebări despre acești Termeni, vă rugăm să ne contactați.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Înainte de a trimite o recenzie, asigurați-vă că aceasta nu încalcă regulile de moderare: nu conține link-uri către resurse terțe și insulte."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Sunt de acord ca datele <u>personale să fie prelucrate după cum urmează.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Vă rugăm să vă conectați pentru a scrie o recenzie"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Nu puteți scrie o recenzie pentru acest produs. Clienții pot scrie recenzii numai pentru produsele pe care le-au cumpărat. Dacă ați cumpărat acest produs de la noi, dar încă vedeți acest mesaj, vă rugăm să ne contactați."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "O nouă recenzie postată"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "Răspuns nou a fost adăugat la revizuire"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "Utilitate"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Votează în sus"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Votați în jos"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Sortați după dată: de la cel mai nou la cel mai vechi"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Sortați după dată: de la cel mai vechi la cel mai nou"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Ultimul util"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "De ajutor în primul rând"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Sortați după evaluare: de la înaltă la scăzută"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Sortați după evaluare: de la mic la ridicat"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Avantaje"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "Dezavantaje"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Comentarii"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "cometariu"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "Dezactivat"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Furnizor"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Răspunsul vânzătorului"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Scrie un mesaj..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Achiziție verificată"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "recenzii"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Revizuire"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Scrie o recenzie"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Adauga o fotografie"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Scrieți recenzia dvs. anonim"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Trimite recenzie"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Achiziție verificată"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "Cu poza"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Fara poza"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Fotografiile clientului"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Starea revizuirii"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "stea"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "stele"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr "[n] stea|[n] stele"
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "din 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Examinați acest produs"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Împărtășiți-vă gândurile cu alți clienți"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Răspuns"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "Numele și prenumele"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Vă mulțumim pentru recenzie"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "Excelent!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Foarte bine"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "In medie"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Corect"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Sărac"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Detalii produs"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Evaluare 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "O nouă recenzie postată pentru un produs"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "O nouă recenzie a fost postată pentru produsul [product]. Faceți clic pe această notificare pentru a vedea recenzia."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "cometariu"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "Aveți recenzii despre produse în vechiul add-on „Comentarii și recenzii”. În timp ce acest supliment este instalat, veți putea copia acele recenzii în noul supliment „Recenzii despre produse” <a class=\"cm-post\" href=\"[url]\">din setările sale</a>."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copiați recenziile din suplimentul „Comentarii și recenzii”<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Vor fi copiate numai recenziile care au atât un punctaj, cât și un comentariu al unui utilizator. Accesați produsele dvs. și verificați setarea „Recenzii” din fila „Suplimente”. Poate fi necesar să permiteți mai întâi comunicarea și evaluarea.</li><li>O recenzie fără punctaj sau fără comentariu nu va fi copiată. Pentru a o transfera , trebuie mai întâi să adăugați manual scorul sau comentariul lipsă prin editarea recenziei.</li><li>În timp ce vechiul program de completare „Comentarii și recenzii” este instalat, recenziile nu vor fi eliminate de acolo. În acest fel, puteți alege să mutați la „Recenzii despre produse” ori de câte ori toate recenziile dvs. sunt gata.</li><li>Dacă trebuie să copiați din nou recenziile din vechiul supliment în viitor, dezinstalați și reinstalați suplimentul „Recenzii despre produse”. Acest lucru va elimina toate recenziile sale din baza de date și veți putea importa din nou recenziile din suplimentul „Comentarii și recenzii”.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copiați recenziile despre produse</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Actualizați răspunsul"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Adăugați răspuns"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "O recenzie poate avea până la [max_image_number] imagini."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "Pune imagini aici"
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "Fotografie până la [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "Răspunsul administratorului"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "[company_name] raspuns"
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "Ascunde-mi numele în recenzie"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr "Produsul este evaluat cu [n] din 5 stele"
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr "Click pentru a vedea recenziile"
+
+msgctxt "Languages::product_reviews.split_reviews_for_variations_as_separate_products"
+msgid "Split reviews for variations as separate products"
+msgstr "Împărțiți recenziile pentru variații ca produse separate"
+
+msgctxt "Languages::privileges.create_product_reviews"
+msgid "Can create"
+msgstr "Poate crea"
+
+msgctxt "Languages::product_reviews.upgrade_notification.title_administators_add_ability_create_product_reviews"
+msgid "Administrators can now create product reviews"
+msgstr "Administratorii pot acum să creeze recenzii despre produse"
+
+msgctxt "Languages::product_reviews.upgrade_notification.message_administators_add_ability_create_product_reviews"
+msgid "Previously, administrators could edit existing product reviews in the admin panel, but couldn't post new ones. We've changed that: now the administrators who could edit reviews can add new reviews on the \"Reviews\" tab of the product editing page. Note that this change doesn't affect vendors' administrators in CS-Cart Multi-Vendor in any way. The most that they can do is leave a reply to a product review.<br><br>You can keep the old behavior if you'd like. Through user groups, you can now allow administrators to create or edit reviews (or do both of those things).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Set administrator privileges</a>"
+msgstr "Anterior, administratorii puteau edita recenzii de produse existente în panoul de administrare, dar nu puteau posta altele noi. Am schimbat asta: acum administratorii care ar putea edita recenzii pot adăuga recenzii noi în fila „Recenzii” a paginii de editare a produsului. Rețineți că această modificare nu afectează în niciun fel administratorii furnizorilor din CS-Cart Multi-Vendor. Cel mai mult ce pot face este să lase un răspuns la o recenzie a produsului.<br><br>Puteți păstra vechiul comportament dacă doriți. Prin intermediul grupurilor de utilizatori, acum puteți permite administratorilor să creeze sau să editeze recenzii (sau să facă ambele lucruri).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Setați privilegiile de administrator</a>"
+
+msgctxt "Languages::product_reviews.exim_error_incorrect_field_value"
+msgid "Specified [field] '[value]' was not found. The product review with comment '[comment]' was skipped."
+msgstr "Specificat [field] '[value]' nu a fost găsit. Evaluarea produsului cu comentariul „[comment]” a fost omisă."
+
+msgctxt "Languages::product_reviews.exim_error_empty_field"
+msgid "The value of the <b>[field]</b> field can not be empty. The product review with comment '[comment]' was skipped."
+msgstr "Valoarea câmpului <b>[field]</b> nu poate fi goală. Revizuirea produsului cu comentariul „[comment]” a fost omisă."
+
+msgctxt "Languages::product_reviews"
+msgid "Product reviews"
+msgstr "Recenzii de produse"
+
+msgctxt "Languages::images_delimiter"
+msgid "Images delimiter"
+msgstr "Delimitator de imagini"
+
+msgctxt "Languages::text_images_delimiter"
+msgid "Images path delimiter for product review images (e.g. \"Image1.png///Image2.png\")"
+msgstr "Delimitator de cale a imaginilor pentru imaginile de recenzie a produselor (de ex. „Image1.png///Image2.png”)"
+

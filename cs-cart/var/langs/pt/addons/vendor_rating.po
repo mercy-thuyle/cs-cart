@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_rating.po\n"
+"X-Crowdin-File-ID: 6698\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_rating"
+msgid "Vendor rating"
+msgstr "Classificação do vendedor"
+
+msgctxt "Addons::description::vendor_rating"
+msgid "Allows you to rank vendors in the store using multi-critiera rating."
+msgstr "Permite classificar fornecedores na loja usando classificação multicritério."
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "Classificação do vendedor"
+
+msgctxt "Languages::vendor_rating.previous_rating"
+msgid "Previous rating"
+msgstr "Classificação anterior"
+
+msgctxt "Languages::vendor_rating.rating"
+msgid "Rating"
+msgstr "Avaliação"
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "Classificação do vendedor"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_asc"
+msgid "Sort by Vendor rating: Low to High"
+msgstr "Classificar por classificação do fornecedor: baixa a alta"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_desc"
+msgid "Sort by Vendor rating"
+msgstr "Classificar por classificação do fornecedor"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating"
+msgid "Overall rating"
+msgstr "Avaliação geral"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating_short"
+msgid "OA rating"
+msgstr "Classificação OA"
+
+msgctxt "Languages::vendor_rating.manual_vendor_rating"
+msgid "Manual vendor rating"
+msgstr "Avaliação manual do fornecedor"
+
+msgctxt "Languages::vendor_rating.manual_vendor_plan_rating"
+msgid "Manual vendor plan rating"
+msgstr "Avaliação manual do plano do fornecedor"
+
+msgctxt "Languages::vendor_rating.company_rating"
+msgid "[company]'s rating set to [rating]"
+msgstr "classificação de [company]definida como [rating]"
+
+msgctxt "Languages::vendor_rating.wrong_formula"
+msgid "Unable to calculate the expression. Original error message: [error]."
+msgstr "Não foi possível calcular a expressão. Mensagem de erro original: [error]."
+
+msgctxt "Languages::vendor_rating.too_many_variables"
+msgid "The formula uses too many variables. [allowed_variables_count] allowed, [passed_variables_count] passed."
+msgstr "A fórmula usa muitas variáveis. [allowed_variables_count] permitido, [passed_variables_count] aprovado."
+
+msgctxt "Languages::vendor_rating.division_by_zero"
+msgid "Division by zero"
+msgstr "Divisão por zero"
+
+msgctxt "Languages::vendor_rating.unknown_variable"
+msgid "Unknown variable <b>[variable]</b>"
+msgstr "Variável desconhecida <b>[variable]</b>"
+
+msgctxt "Languages::vendor_rating.run_rating_calculation_by_cron"
+msgid "Rating recalculation is the resource-intensive process. It's recommented to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "O recálculo de classificação é o processo de uso intensivo de recursos. Recomenda-se executá-lo automaticamente em determinados intervalos de tempo.<br>Para fazer isso, adicione o seguinte comando a <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+
+msgctxt "Languages::vendor_rating.rating_formula"
+msgid "Rating formula"
+msgstr "Fórmula de classificação"
+
+msgctxt "Languages::vendor_rating.variables"
+msgid "You can use the following variables in the formula:"
+msgstr "Você pode usar as seguintes variáveis na fórmula:"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.name"
+msgid "Amount of paid orders."
+msgstr "Quantidade de pedidos pagos."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "São considerados os pedidos nos seguintes status feitos após <i>Data de início do período de cálculo</i> : [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.name"
+msgid "Gross total of paid orders."
+msgstr "Total bruto de pedidos pagos."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "São considerados os pedidos nos seguintes status feitos após <i>Data de início do período de cálculo</i> : [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.name"
+msgid "Amount of active products."
+msgstr "Quantidade de produtos ativos."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.description"
+msgid "Products in the Active status created after the <i>Calculation period start date</i> are taken into account."
+msgstr "Os produtos no status Ativo criados após a data de início <i>do período de cálculo</i> são considerados."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.name"
+msgid "Manually set vendor rating."
+msgstr "Defina manualmente a classificação do fornecedor."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor editing page."
+msgstr "A classificação manual pode ser especificada na guia <b>Classificação</b> da página de edição do fornecedor."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.name"
+msgid "Average vendor review rating."
+msgstr "Avaliação média de revisão do fornecedor."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.description"
+msgid "Approved vendor reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "As revisões de fornecedores aprovadas colocadas após a data de início <i>do período de cálculo</i> são levadas em consideração."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.name"
+msgid "Average product reviews rating."
+msgstr "Classificação média de comentários de produtos."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.description"
+msgid "Approved product reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "As revisões de produtos aprovadas colocadas após a data de início do período de cálculo <i></i> são levadas em consideração."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.name"
+msgid "Manually set vendor plan rating."
+msgstr "Defina manualmente a classificação do plano do fornecedor."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor plan editing page."
+msgstr "A classificação manual pode ser especificada na guia <b>Classificação</b> da página de edição do plano do fornecedor."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.name"
+msgid "Amount of return requests."
+msgstr "Quantidade de pedidos de devolução."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.description"
+msgid "Return requests created after the <i>Calculation period start date</i> are taken into account."
+msgstr "As solicitações de devolução criadas após <i>Data de início do período de cálculo</i> são consideradas."
+
+msgctxt "Languages::vendor_rating.recalculate_rating"
+msgid "Recalculate rating"
+msgstr "Recalcular classificação"
+
+msgctxt "Languages::vendor_rating.run_recalculation"
+msgid "Run recalculation"
+msgstr "Executar recálculo"
+
+msgctxt "Languages::vendor_rating.start_rating_period"
+msgid "Calculation period start date"
+msgstr "Data de início do período de cálculo"
+
+msgctxt "Languages::vendor_rating.invalid_formula"
+msgid "Invalid formula"
+msgstr "Fórmula inválida"
+
+msgctxt "Languages::show_vendor_rating"
+msgid "Show vendor rating"
+msgstr "Mostrar classificação do fornecedor"
+
+msgctxt "Languages::log_type_vendor_rating"
+msgid "Vendor rating"
+msgstr "Classificação do vendedor"
+
+msgctxt "Languages::log_action_vr_success"
+msgid "Successful recalculation"
+msgstr "Recálculo bem-sucedido"
+
+msgctxt "Languages::log_action_vr_failure"
+msgid "Errors"
+msgstr "Erros"
+
+msgctxt "Languages::vendor_rating.calculated_at"
+msgid "Calculated at [date]"
+msgstr "Calculado em [date]"
+
+msgctxt "Languages::vendor_rating.recalculate_now"
+msgid "Recalculate now"
+msgstr "Recalcular agora"
+
+msgctxt "Languages::vendor_rating.rating_ranges"
+msgid "Rating ranges"
+msgstr "Intervalos de classificação"
+
+msgctxt "Languages::vendor_rating.bronze_rating_lower_limit"
+msgid "Bronze rating lower limit"
+msgstr "Limite inferior da classificação Bronze"
+
+msgctxt "Languages::vendor_rating.silver_rating_lower_limit"
+msgid "Silver rating lower limit"
+msgstr "Limite inferior de classificação prata"
+
+msgctxt "Languages::vendor_rating.gold_rating_lower_limit"
+msgid "Gold rating lower limit"
+msgstr "Limite inferior de classificação de ouro"
+
+msgctxt "Languages::vendor_rating.rating_above_price"
+msgid "Rating matters more than price"
+msgstr "Avaliação importa mais do que preço"
+
+msgctxt "Languages::vendor_rating.rating_above_price_tooltip"
+msgid "When using \"Common products for vendors\", offer products from vendors with highest rating first."
+msgstr "Ao usar \"Produtos comuns para fornecedores\", ofereça primeiro os produtos dos fornecedores com a classificação mais alta."
+
+msgctxt "Languages::vendor_rating.rating_ranges_description"
+msgid "Setting all ranges to 0 will hide rating icons."
+msgstr "Definir todos os intervalos para 0 ocultará os ícones de classificação."
+

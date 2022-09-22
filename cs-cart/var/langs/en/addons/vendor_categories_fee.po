@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vendor_categories_fee"
+msgid "Vendor plans: Commissions by category"
+msgstr "Vendor plans: Commissions by category"
+
+msgctxt "Addons::description::vendor_categories_fee"
+msgid "Allows you to set the transaction fees that vendors must pay for selling products from specific categories."
+msgstr "Allows you to set the transaction fees that vendors must pay for selling products from specific categories."
+
+msgctxt "Languages::vendor_categories_fee.vendor_fee"
+msgid "Transaction fee (%)"
+msgstr "Transaction fee (%)"
+
+msgctxt "Languages::vendor_categories_fee.absolute_fee"
+msgid "Absolute fee"
+msgstr "Absolute fee"
+
+msgctxt "Languages::vendor_categories_fee.percent_fee"
+msgid "Percent fee"
+msgstr "Percent fee"

@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Szállítói adatok előzetes ellenőrzése"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "Eladói tevékenységek moderálását teszi lehetővé"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "A Vendor Data Premoderation bővítmény le lett tiltva. A \"Jóváhagyást igényel\" vagy \"Elutasítva\" státuszú termékek már nem rendelkeznek státusszal. Ezek a termékek nem jelennek meg a vásárlók számára, amíg Te vagy az eladóid nem állítanak be nekik más státuszt. Ha újra aktiválod a bővítményt, a státusz nélküli termékek visszakapják státuszukat. Ha eltávolítod a bővítményt, minden termék automatikusan helyes státuszt kap."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "Egyes termékek vagy termékcsoportok kezelése, melyeknek beszállítói eladók."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Eladói adatok moderálása"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "Termék jóváhagyása"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "Eladó értesítése e-mailen"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "[product] terméked a piactér adminisztrátora jóváhagyta, és megjelent a termékkatalógusban. Ezentúl a vásárlók meg tudják rendelni ezt a terméket a piactéren."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "[product] termékét az áruház adminisztrátora elutasította"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "Köszönjük, hogy új termékeket küldtél be. Az alábbi termékek az adminisztrátorok általi ellenőrzést követően kerülnek ki a piactér katalógusába"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "Mostantól a vásárlók meg tudják rendelni a piactéren."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "Köszönjük, hogy beküldött termékeket. Az alábbi termékek elutasításra kerültek az adminisztrátorok részéről"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "Kijelöltek elfogadása"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "Kijelöltek elutasítása"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "Jóváhagyás kérése új termékekhez"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "Jóváhagyás kérése frissített termékekhez"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "Jóváhagyás kérése az eladói profil módosításához"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "Vannak olyan termékeid, melyek elfogadás alatt vannak. Az <a href=\"[link]\">alábbi linken</a> tekintheted meg ezeket a termékeket."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "A termék(ek) [status] státuszban vannak"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "Elfogadás"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "Biztosan frissíteni szeretnéd a profilod? A frissített információk mindaddig nem lesznek láthatóak, amíg a piactér adminisztrátorai nem ellenőrzik azokat."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "Kezelhető"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "Termék jóváhagyása"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "Eladói fiók"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "Eladó termékei"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "Újonnan létrehozott termékek jóváhagyása"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "Termékinformációk frissítésének jóváhagyása"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "Eladói profilfrissítés jóváhagyása"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "Eladók értesítése a termékmoderáció eredményeiről"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "Jóváhagyás kérése a következők frissítéséhez"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "Nem szükséges"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Egyes eladók számára kötelező"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Minden eladó számára kötelező"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "Nem szükséges"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "Egyes eladók számára kötelező"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Minden eladó számára kötelező"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "Nem szükséges"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Egyes eladók számára kötelező"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Minden eladó számára kötelező"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "Ne küldj értesítést"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "E-mail küldése"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "Értesítés megjelenítése az Értesítési központban"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "E-mail küldése és értesítés megjelenítése az Értesítési központban"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "Eladók előzetes moderálása"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "A nem jóváhagyott termékek kizárása"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "Jóváhagyás szükséges"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "Elutasítva"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "Termékek moderálás alatt"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "Elutasított termékek"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "Elutasítva"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "Termék jóváhagyása"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "\"[product]\" jóváhagyása"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "Termék elutasítása"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "\"[product]\" termék elutasítása"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "Termékek elutasítása"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "Elutasítás oka"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "Add meg a jóváhagyás elutasításának okát, és mentsd a módosításokat."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "Van [n] olyan terméked, amely a jóváhagyásodat igényli|Van [n] olyan terméked, amely a jóváhagyásodat igényli"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "Ez a termék [since] óta vár a jóváhagyásodra. Kattints ide a termék megtekintéséhez |Ezek a termékek [since] óta várnak a jóváhagyásodra. Kattints ide, ha szeretnéd megtekinteni ezeket a termékeket."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "A termékedet jóváhagyták|A termékeidet jóváhagyták."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "A \"[product]\" terméket a piactér adminisztrációja jóváhagyta, és hozzáadta a termékkatalógushoz. Kattints ide a termék megtekintéséhez.|[n] terméket az áruház adminisztrációja jóváhagyott és hozzáadott a termékkatalógushoz. Kattints ide a termékek megtekintéséhez."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "A termékedet nem hagyták jóvá|A termékeidet nem hagyták jóvá"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "A [product] terméket a piactér adminisztrációja elutasította. Kattints ide e termék megtekintéséhez. A piactér adminisztrációja |[n] terméket elutasított. Kattints ide, ha szeretnéd megtekinteni ezeket a termékeket."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "A módosításaid el lettek mentve. Mielőtt a termék hozzáadódik a termékkatalógushoz, a  piactér adminisztrációjának jóvá kell hagynia. Kövesd  <a href=\"[product_approval_url]\">ezt a linket</a> a jóváhagyást igénylő termékek megtekintéséhez.|A módosításaid el lettek mentve. Mielőtt a termékek hozzáadásra kerülnek a termékkatalógushoz, azokat a piactér adminisztrációjának jóvá kell hagynia. Kövesd <a href=\"[product_approval_url]\">ezt a linket</a> a jóváhagyást igénylő termékek megtekintéséhez."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Eladói adatok előzetes moderálása: a termékedet jóváhagyták."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Eladói adatok előzetes moderálása: a termékedet nem hagyták jóvá."
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "Ha csak egyes eladók esetében van szükség jóváhagyásra, akkor az eladók szerkesztési oldalának Bővítmények fülén beállíthatod, hogy mely eladóknak van szükségük moderálásra."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Eladói adatok előzetes moderálása: a termékedet jóváhagyták."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Eladói adatok előzetes moderálása: a termékedet nem hagyták jóvá."
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "Moderálás"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "Újonnan létrehozott eladók jóváhagyása"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "Nem szükséges"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Minden eladó számára kötelező"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "Ha teljesen meg akarod akadályozni az eladók regisztrációját, kérjük, ellenőrizd a <a href=\"[url]\" target=\"_blank\">Beállítások → Eladók</a> lehetőséget."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "[date]előtt"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "Törölve"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "Hozzáadva"
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_privileges.po\n"
+"X-Crowdin-File-ID: 6694\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::vendor_privileges"
+msgid "Vendor Privileges"
+msgstr "Προνόμια πωλητή"
+
+msgctxt "Addons::description::vendor_privileges"
+msgid "Allows you to create user groups for vendors' administrators."
+msgstr "Σας επιτρέπει να δημιουργήσετε ομάδες χρηστών για τους διαχειριστές των λογαριασμών των προμηθευτών."
+
+msgctxt "SettingsSections::vendor_privileges::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::vendor_privileges::default_vendor_usesrgroup"
+msgid "Default user group for vendors' administrators"
+msgstr "Προεπιλεγμένη ομάδα χρήστη για τους διαχειριστές των λογαριασμών των προμηθευτών"
+
+msgctxt "Languages::vendor_privileges.default_usergroup_is_assigned_to_new_vendors"
+msgid "<span class=\"muted\">This user group is assigned to all new vendors by the \"Vendor privileges\" add-on.</span> <a href=\"[settings_link]\" target=\"_blank\">Edit add-on settings</a>"
+msgstr "<span class=\"muted\">Αυτή η ομάδα χρηστών έχει εκχωρηθεί σε όλους τους νέους πωλητές από το πρόσθετο \"Προνόμια πωλητή\".</span> <a href=\"[settings_link]\" target=\"_blank\">Επεξεργασία ρυθμίσεων πρόσθετου</a>"
+
+msgctxt "Languages::privileges.manage_vendor_usergroups"
+msgid "Can manage vendor user groups (only if managing customer user groups is allowed)"
+msgstr "Μπορεί να διαχειριστεί ομάδες χρηστών πωλητών (μόνο εάν επιτρέπεται η διαχείριση ομάδων χρηστών πελατών)"
+

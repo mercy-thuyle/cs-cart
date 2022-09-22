@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Languages::gdpr.upgrade_notification.title_cookie_consent"
+msgid "Cookie consent to help comply with EU regulations"
+msgstr "Cookie consent to help comply with EU regulations"
+
+msgctxt "Languages::gdpr.upgrade_notification.text_cookie_consent"
+msgid "Cookies are small blocks of data that a site stores on a visitor's computer. They allow the site to work properly, but also help with analytics and marketing. Laws on privacy and personal data (like the GDPR in the European Union) may require you to warn customers about cookies and/or let them choose which cookies to accept.<br><br>In CS-Cart, you can do this through the <b>GDPR Compliance (EU)</b> add-on. If it is installed, choose \"Explicit\" cookie consent in the add-on settings to let your customers choose which cookies to accept. Also make sure to select your privacy policy page.<br><br><a target=\"_blank\" href=\"[addon_settings_url]\" class=\"btn\">View cookie settings</a>"
+msgstr "Cookies are small blocks of data that a site stores on a visitor's computer. They allow the site to work properly, but also help with analytics and marketing. Laws on privacy and personal data (like the GDPR in the European Union) may require you to warn customers about cookies and/or let them choose which cookies to accept.<br><br>In CS-Cart, you can do this through the <b>GDPR Compliance (EU)</b> add-on. If it is installed, choose \"Explicit\" cookie consent in the add-on settings to let your customers choose which cookies to accept. Also make sure to select your privacy policy page.<br><br><a target=\"_blank\" href=\"[addon_settings_url]\" class=\"btn\">View cookie settings</a>"
+
+msgctxt "Languages::suppliers.upgrade_notification.title"
+msgid "\"Suppliers\" add-on is now deprecated; but you can change that"
+msgstr "\"Suppliers\" add-on is now deprecated; but you can change that"
+
+msgctxt "Languages::suppliers.upgrade_notification.message"
+msgid "<p>Development isn\'t only about adding new features. A lot of effort goes into maintaining existing ones. By discontinuing the features that aren\'t widely used, we can focus on what\'s really important and deliver updates faster. The \"Suppliers\" add-on is one such feature we have doubts about. But we wouldn\'t want that to interfere with your business or prevent you from getting the latest improvements.<br/><p> That\'s why we have marked the \"Suppliers\" add-on as [Deprecated]. Your store will keep it when you move to newer versions. But we intend to remove it from new installations and stop updating it. If you feel that we\'re wrong, <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">please let us know how you use \"Suppliers\"</a>. Depending on the feedback we get, we may reconsider. <p> <a target=\"_blank\" class=\"btn btn-large btn-primary\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">Tell us what you think<\/a>"
+msgstr "<p>Development isn\'t only about adding new features. A lot of effort goes into maintaining existing ones. By discontinuing the features that aren\'t widely used, we can focus on what\'s really important and deliver updates faster. The \"Suppliers\" add-on is one such feature we have doubts about. But we wouldn\'t want that to interfere with your business or prevent you from getting the latest improvements.<br/><p> That\'s why we have marked the \"Suppliers\" add-on as [Deprecated]. Your store will keep it when you move to newer versions. But we intend to remove it from new installations and stop updating it. If you feel that we\'re wrong, <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">please let us know how you use \"Suppliers\"</a>. Depending on the feedback we get, we may reconsider. <p> <a target=\"_blank\" class=\"btn btn-large btn-primary\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">Tell us what you think<\/a>"

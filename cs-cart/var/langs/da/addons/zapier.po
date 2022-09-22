@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/zapier.po\n"
+"X-Crowdin-File-ID: 6660\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::zapier"
+msgid "Integration with Zapier"
+msgstr "Integration med Zapier"
+
+msgctxt "Addons::description::zapier"
+msgid "Allows you to integrate CS-Cart with over 4 000 other apps through Zapier."
+msgstr "Giver dig mulighed for at integrere CS-Cart med over 4.000 andre apps gennem Zapier."
+
+msgctxt "Languages::privileges.manage_zapier_hooks"
+msgid "Can edit"
+msgstr "Kan redigere"
+
+msgctxt "Languages::privileges.view_zapier_hooks"
+msgid "Can view"
+msgstr "Kan se"
+
+msgctxt "Languages::privilege_groups.zapier_hooks"
+msgid "Zapier hooks"
+msgstr "Zapier kroge"
+
+msgctxt "Languages::zapier.text_settings_general"
+msgid "Learn more about setting up integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">in the documentation</a>."
+msgstr "Lær mere om opsætning af integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">i dokumentationen</a>."
+

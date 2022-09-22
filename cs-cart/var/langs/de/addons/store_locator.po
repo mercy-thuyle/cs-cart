@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 6728\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Geschäfte und Abholpunkte"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Ermöglicht es Ihnen, Ihre physischen Geschäfte auf der Karte zu markieren und Ihren Kunden anzubieten, Bestellungen dort abzuholen, wenn eine entsprechende Versandmethode konfiguriert ist."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Auf der Karte anzeigen"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "API-Schlüssel erwerben"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Standortsuche"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Geschäfte und Abholpunkte"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Standortsuche Block"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Adresse nicht gefunden"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Koordinaten wählen"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Einpassen"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Standort bearbeiten"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Neuer Standort"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Standort hinzufügen"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Koordinaten"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "Breitengrad"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "Längengrad"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Alle Geschäfte"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Karte in auftragsbezogenen Dokumenten anzeigen"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Drucken Sie die Karte auf dem Lieferschein und der Rechnung aus"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Städteliste statt Karte verwenden"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Betrifft den Kunden-Geolocation-Block. Die Liste wird aus Städten generiert, die Geschäfte und Abholpunkte haben."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Kann bearbeiten"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Händlersuche"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Kann ansehen"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "Die Versandart „Kundenabholung“ bietet einem Kunden die Möglichkeit, ein Geschäft auszuwählen, in dem er ein Produkt abholen möchte. Die Filialen können im Add-on „Filialstandort“ erstellt werden<br /><b>Filialerstellung:</b> <a href=\"[store_locator]\">Filialstandort</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Geschäfte auswählen"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Abholpunkte"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "Das Feld „Position“ in den Store-Einstellungen"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Bestellung in den Einstellungen der Versandart ausgewählt"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Ausgewählte Geschäfte"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Verfügbare Geschäfte"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Karte und Liste"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Karte"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Standortlistenansicht auf der Checkout-Seite"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Abholen"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Zur Abholung bereit"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Arbeitszeit"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Abholen"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Es wurde kein passendes Ziel gefunden"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Es wurden keine Geschäfte gefunden"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Abholen"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Abhol-ID"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Abholung möglich"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Abholzuschlag"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Abholadresse"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Abholtelefon"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Abholzeit"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Abholziele-IDs"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Orte ausblenden, an denen ich meine Bestellung nicht abholen kann"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Geschäfte und Abholpunkte"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "In früheren Versionen wurde der Zuschlag zu den Standardtarifen hinzugefügt, die für eine Versandart angegeben wurden. Jetzt wird dieser Zuschlag bei der Versandkostenberechnung nicht berücksichtigt. Wir haben es zu Ihrer Bequemlichkeit hier gelassen, damit Sie es sehen und die Preise auf der Bearbeitungsseite für die Versandart entsprechend anpassen können."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Im Tarifbereich gelegen"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Legt die Versandkosten für diesen Abholpunkt fest. Die Tarife werden auf der Bearbeitungsseite der Versandart angegeben. Wenn Sie keinen Tarifbereich für einen Abholort auswählen, wird der Abholort nicht an der Kasse angezeigt."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Zeigen Sie an"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Zeigen Sie an"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Ermöglicht es Ihnen, diese Abholstelle den Bewohnern anderer Tarifbereiche an der Kasse anzubieten."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "ab [price]"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Verwenden Sie zwei Finger, um die Karte zu verschieben"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Scrolle nach oben"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Kein Tarifbereich"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Abholorte"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Jeder Tarifbereich"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Abholung vom Geschäft"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Jeder Anbieter"
+
+msgctxt "Languages::store_locator.any"
+msgid "Any"
+msgstr "Irgendein"
+
+msgctxt "Languages::store_locator.shipping_price_from_to"
+msgid "from [from_price] to [to_price]"
+msgstr "von [from_price] auf [to_price]"
+

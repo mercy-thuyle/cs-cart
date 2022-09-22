@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-20 12:56\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "Местоположение продавцов [Beta]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "Позволяет продавцам указывать свои адреса, чтобы пользователи могли видеть расстояния до продавцов и фильтровать товары и продавцов по их местоположению."
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "Ключ API Google Maps"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "Получите ключ API, следуя инструкции: https://developers.google.com/maps/documentation/javascript/get-api-key"
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "Радиус по умолчанию в фильтре по расстоянию"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Вы можете вручную добавить фильтр, который позволит покупателям искать товары на определённом расстоянии, если они укажут своё местоположение. Эта настройка определяет радиус по умолчанию для этого фильтра. Если вы не создадите фильтр, то товары всегда будут показываться независимо от расстояния, и настройка ни на что не повлияет."
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "Максимальный радиус в фильтре по расстоянию"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Вы можете вручную добавить фильтр, который позволит покупателям искать товары на определённом расстоянии, если они укажут своё местоположение. Эта настройка определяет максимальный радиус для этого фильтра. Если вы не создадите фильтр, то товары всегда будут показываться независимо от расстояния, и настройка ни на что не повлияет."
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "Единица измерения расстояния"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "км"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "mi."
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "Продавцы, отображаемые по умолчанию"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "Определяет, какие продавцы по умолчанию отображаются на странице списка продавцов и на карте на этой странице."
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "Все"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "Из города покупателя"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "Из страны покупателя"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "Местоположение"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "Адрес, по которому будет определено местоположение на Google Maps."
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "Местоположение покупателя"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "Введите адрес для поиска по местоположению"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "Поиск продавцов"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "Поиск по местоположению"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "Поиск продавцов с определённым местоположением"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "Ближайшие продавцы"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "Продавцы из города покупателя"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "Карта продавцов"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "Карта со всеми продавцами в вашем магазине"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "Поиск продавцов"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "Выбор местоположения"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "Город продавца"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "Расстояние до продавца"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "Ваше местоположение"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "Выберите город"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "Выбранный город"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "Не ваш город?"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "Поиск города"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "Поиск на расстоянии"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "Рядом"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "Карта продавцов"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "Ближайшие продавцы"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "Google Карты"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google Карты — это сервис, который позволяет нам показывать карты и различные объекты на них, а также автоматически определять ваше местоположение. Вот <a href=\"https://policies.google.com/privacy\" target=\"_blank\">политика конфиденциальности Google;</a> мы также рекомендуем краткую и понятную <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">заметку от Google про персональные данные</a>."
+

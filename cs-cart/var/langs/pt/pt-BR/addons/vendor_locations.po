@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "Localização dos fornecedores [Beta]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "Permite que os fornecedores especifiquem seus endereços, assim os clientes podem ver a distância entre eles e filtrar produtos e fornecedores com base na localização."
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "Chave de API do Google Maps"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "Siga as instruções para obter a chave de API: https://developers.google.com/maps/documentation/javascript/get-api-key"
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "Área padrão no filtro de distância"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Você pode adicionar um filtro de produto que permite que os clientes busquem por produtos dentro de uma certa distância. Esta configuração determina a área padrão de busca para o filtro. Se você não criar um filtro, produtos serão exibidos seja qual for a distância, e esta configuração não terá efeito."
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "Área máxima no filtro de distância"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Você pode adicionar um filtro de produto que permite que os clientes busquem por produtos dentro de uma certa distância. Esta configuração determina a área máxima possível de busca para o filtro. Se você não criar um filtro, produtos serão exibidos seja qual for a distância, e esta configuração não terá efeito."
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "Unidade de medida de distância"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "km"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "mi"
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "Fornecedores exibidos por padrão"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "Determina quais fornecedores são exibidos na página da lista de fornecedores (e no mapa exibido na página) por padrão."
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "Todos"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "Da cidade do cliente"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "Do país do cliente"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "Localização"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "O endereço que será utilizado para determinar a posição no Google Maps."
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "Localização do cliente"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "Insira o endereço para pesquisar por localização"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "Pesquisar fornecedores"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "Fornecedores por localização"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "Pesquisar fornecedores em um local específico"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "Fornecedores mais próximos"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "Fornecedores da cidade do cliente"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "Mapa de fornecedores"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "Um mapa com todos os fornecedores"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "Pesquisar fornecedores"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "Seletor de localização"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "Cidade do fornecedor"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "Distância do fornecedor"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "Sua localização"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "Selecione uma cidade"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "Cidade selecionada"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "Essa não é a sua cidade?"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "Pesquisar uma cidade"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "Pesquisar nas proximidades"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "Próximo"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "Mapa de fornecedores"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "Fornecedores mais próximos"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "Google Maps"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "O Google Maps é um serviço que nos permite mostrar os mapas e várias localizações nesses mapas ou determinar automaticamente a sua localização. Aqui está <a href=\"https://policies.google.com/privacy\" target=\"_blank\">política de privacidade do Google;</a> também recomendamos a nota concisa e abrangente <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">do Google sobre privacidade</a>."
+

@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_rating.po\n"
+"X-Crowdin-File-ID: 6698\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::vendor_rating"
+msgid "Vendor rating"
+msgstr "αξιολόγηση πωλητή"
+
+msgctxt "Addons::description::vendor_rating"
+msgid "Allows you to rank vendors in the store using multi-critiera rating."
+msgstr "Σας επιτρέπει να κατατάξετε τους πωλητές στο κατάστημα χρησιμοποιώντας βαθμολογία πολλαπλών κριτηρίων."
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "αξιολόγηση πωλητή"
+
+msgctxt "Languages::vendor_rating.previous_rating"
+msgid "Previous rating"
+msgstr "Προηγούμενη βαθμολογία"
+
+msgctxt "Languages::vendor_rating.rating"
+msgid "Rating"
+msgstr "Βαθμολογία"
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "αξιολόγηση πωλητή"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_asc"
+msgid "Sort by Vendor rating: Low to High"
+msgstr "Ταξινόμηση Πωλητή κατά βαθμολογία: άυξουσα"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_desc"
+msgid "Sort by Vendor rating"
+msgstr "Ταξινόμηση κατά βαθμολογία Πωλητή "
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating"
+msgid "Overall rating"
+msgstr "Συνολική βαθμολογία"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating_short"
+msgid "OA rating"
+msgstr "βαθμολογία ΟΑ"
+
+msgctxt "Languages::vendor_rating.manual_vendor_rating"
+msgid "Manual vendor rating"
+msgstr "Χειροκίνητη αξιολόγηση πωλητή"
+
+msgctxt "Languages::vendor_rating.manual_vendor_plan_rating"
+msgid "Manual vendor plan rating"
+msgstr "Χειροκίνητη αξιολόγηση προγράμματος πωλητή"
+
+msgctxt "Languages::vendor_rating.company_rating"
+msgid "[company]'s rating set to [rating]"
+msgstr "Η βαθμολογία της [company] ορίστηκε σε [rating]"
+
+msgctxt "Languages::vendor_rating.wrong_formula"
+msgid "Unable to calculate the expression. Original error message: [error]."
+msgstr "Δεν είναι δυνατός ο υπολογισμός της έκφρασης. Αρχικό μήνυμα σφάλματος: [error]"
+
+msgctxt "Languages::vendor_rating.too_many_variables"
+msgid "The formula uses too many variables. [allowed_variables_count] allowed, [passed_variables_count] passed."
+msgstr "Ο τύπος χρησιμοποιεί πάρα πολλές μεταβλητές. Επιτρέπονται [allowed_variables_count], πέρασαν [passed_variables_count] ."
+
+msgctxt "Languages::vendor_rating.division_by_zero"
+msgid "Division by zero"
+msgstr "Διαίρεση με το μηδέν"
+
+msgctxt "Languages::vendor_rating.unknown_variable"
+msgid "Unknown variable <b>[variable]</b>"
+msgstr "Αγνωστη Μεταβλητη <b>[variable]</b>"
+
+msgctxt "Languages::vendor_rating.run_rating_calculation_by_cron"
+msgid "Rating recalculation is the resource-intensive process. It's recommented to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "Ο υπολογισμός βαθμολογιών απαιτεί πολλούς πόρους.Συνιστάται να τον εκτελείτε αυτόματα σε συγκεκριμένα χρονικά διαστήματα<br>. Για να το κάνετε αυτό, προσθέστε την ακόλουθη εντολή στο <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\"> Cron: </a>:"
+
+msgctxt "Languages::vendor_rating.rating_formula"
+msgid "Rating formula"
+msgstr "Τύπος αξιολόγησης"
+
+msgctxt "Languages::vendor_rating.variables"
+msgid "You can use the following variables in the formula:"
+msgstr "Μπορείτε να χρησιμοποιήσετε τις ακόλουθες μεταβλητές στον τύπο:"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.name"
+msgid "Amount of paid orders."
+msgstr "Ποσό πληρωμένων παραγγελιών"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "Λαμβάνονται υπόψη οι παραγγελίες στις ακόλουθες καταστάσεις μετά την <i> Ημερομηνία έναρξης περιόδου υπολογισμού: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.name"
+msgid "Gross total of paid orders."
+msgstr "Ακαθάριστο σύνολο πληρωμένων παραγγελιών."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "Λαμβάνονται υπόψη οι παραγγελίες στις ακόλουθες καταστάσεις μετά την <i> Ημερομηνία έναρξης περιόδου υπολογισμού:[statuses]"
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.name"
+msgid "Amount of active products."
+msgstr "Ποσό ενεργών προϊόντων."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.description"
+msgid "Products in the Active status created after the <i>Calculation period start date</i> are taken into account."
+msgstr "Τα προϊόντα σε κατάσταση Ενεργού που δημιουργήθηκαν μετά την <i> ημερομηνία έναρξης της περιόδου υπολογισμού </i> λαμβάνονται υπόψη"
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.name"
+msgid "Manually set vendor rating."
+msgstr "Χειροκίνητη αξιολόγηση πωλητή."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor editing page."
+msgstr "Η μη αυτόματη αξιολόγηση μπορεί να καθοριστεί στην καρτέλα <b> Αξιολόγηση </b> της σελίδας επεξεργασίας πωλητή"
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.name"
+msgid "Average vendor review rating."
+msgstr "Μέση βαθμολογία αξιολόγησης πωλητή"
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.description"
+msgid "Approved vendor reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "Λαμβάνονται υπόψη οι εγκεκριμένες κριτικές πωλητών που πραγματοποιήθηκαν μετά την <i> ημερομηνία έναρξης της περιόδου υπολογισμού </i>."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.name"
+msgid "Average product reviews rating."
+msgstr "Μέση βαθμολογία αξιολόγησης προϊόντος"
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.description"
+msgid "Approved product reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "Λαμβάνονται υπόψη οι εγκεκριμένες κριτικές προϊόντων που πραγματοποιήθηκαν μετά την <i> ημερομηνία έναρξης της περιόδου υπολογισμού </i>."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.name"
+msgid "Manually set vendor plan rating."
+msgstr "Χειροκίνητη αξιολόγηση προγράμματος πωλητή."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor plan editing page."
+msgstr "Η μη αυτόματη αξιολόγηση μπορεί να καθοριστεί στην καρτέλα <b> Αξιολόγηση </b> της σελίδας επεξεργασίας προγράμματος πωλητών"
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.name"
+msgid "Amount of return requests."
+msgstr "Ποσό αιτήσεων επιστροφής."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.description"
+msgid "Return requests created after the <i>Calculation period start date</i> are taken into account."
+msgstr "Λαμβάνονται υπόψη τα αιτήματα επιστροφής που δημιουργήθηκαν μετά την <i> ημερομηνία έναρξης της περιόδου υπολογισμού </i>."
+
+msgctxt "Languages::vendor_rating.recalculate_rating"
+msgid "Recalculate rating"
+msgstr "Επαναυπολογισμός Τιμών"
+
+msgctxt "Languages::vendor_rating.run_recalculation"
+msgid "Run recalculation"
+msgstr "Εκτελέστε εκ νέου υπολογισμό"
+
+msgctxt "Languages::vendor_rating.start_rating_period"
+msgid "Calculation period start date"
+msgstr "Ημερομηνία έναρξης περιόδου υπολογισμού"
+
+msgctxt "Languages::vendor_rating.invalid_formula"
+msgid "Invalid formula"
+msgstr "Μη έγκυρος τύπος"
+
+msgctxt "Languages::show_vendor_rating"
+msgid "Show vendor rating"
+msgstr "Εμφάνιση αξιολόγησης πωλητή"
+
+msgctxt "Languages::log_type_vendor_rating"
+msgid "Vendor rating"
+msgstr "αξιολόγηση πωλητή"
+
+msgctxt "Languages::log_action_vr_success"
+msgid "Successful recalculation"
+msgstr "Επιτυχής επανυπολογισμός"
+
+msgctxt "Languages::log_action_vr_failure"
+msgid "Errors"
+msgstr "Σφάλματα"
+
+msgctxt "Languages::vendor_rating.calculated_at"
+msgid "Calculated at [date]"
+msgstr "Υπολογίστηκε την  [date]"
+
+msgctxt "Languages::vendor_rating.recalculate_now"
+msgid "Recalculate now"
+msgstr "Επαναυπολογισμός τωρα"
+
+msgctxt "Languages::vendor_rating.rating_ranges"
+msgid "Rating ranges"
+msgstr "Εύρος βαθμολογίας"
+
+msgctxt "Languages::vendor_rating.bronze_rating_lower_limit"
+msgid "Bronze rating lower limit"
+msgstr "Χαμηλότερο όριο βαθμολογίας Bronze"
+
+msgctxt "Languages::vendor_rating.silver_rating_lower_limit"
+msgid "Silver rating lower limit"
+msgstr "Χαμηλότερο όριο βαθμολογίας SIlver"
+
+msgctxt "Languages::vendor_rating.gold_rating_lower_limit"
+msgid "Gold rating lower limit"
+msgstr "Χαμηλότερο όριο βαθμολογίας Gold"
+
+msgctxt "Languages::vendor_rating.rating_above_price"
+msgid "Rating matters more than price"
+msgstr "Η βαθμολογία έχει μεγαλύτερη σημασία από την τιμή"
+
+msgctxt "Languages::vendor_rating.rating_above_price_tooltip"
+msgid "When using \"Common products for vendors\", offer products from vendors with highest rating first."
+msgstr "Όταν χρησιμοποιείτε \"Κοινά προϊόντα για πωλητές\", προσφέρετε πρώτα προϊόντα από πωλητές με την υψηλότερη βαθμολογία."
+
+msgctxt "Languages::vendor_rating.rating_ranges_description"
+msgid "Setting all ranges to 0 will hide rating icons."
+msgstr "Η ρύθμιση όλων των περιοχών σε 0 θα κρύψει τα εικονίδια αξιολόγησης."
+

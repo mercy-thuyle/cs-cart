@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/form_builder.po\n"
+"X-Crowdin-File-ID: 6588\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr "Lomakkeen rakentaja"
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr "Voit luoda mukautettuja lomakkeita (esim. Ota yhteyttä)"
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr "Mukautetut lomakkeet"
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr "Uusi muoto"
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr "Muokkauslomake"
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr "Lomakkeen rakentaja"
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr "Lomakkeen lähetysteksti"
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr "Lähettää sähköposti jollekin"
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr "Lisää lomake"
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr "Pohja"
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr "Useita valintaruutuja"
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr "Useita valintaruutuja"
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr "Otsikko"
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr "Erotin"
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr "Erityinen"
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr "Maiden luettelo"
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr "valtioiden luettelo"
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr "Viittaus"
+
+msgctxt "Languages::email_template.form_builder_form"
+msgid "Contact form"
+msgstr "Yhteydenottolomake"
+
+msgctxt "Languages::addons.form_builder.form_fields"
+msgid "Form fields"
+msgstr "Lomakekentät"
+
+msgctxt "Languages::addons.form_builder.form_name"
+msgid "Form name"
+msgstr "Lomakkeen nimi"
+
+msgctxt "Languages::addons.form_builder.other_subject"
+msgid "Other subject (specify below)"
+msgstr "Muu aihe (täsmennä alla)"
+
+msgctxt "Languages::addons.form_builder.email_subject_field"
+msgid "E-mail subject field"
+msgstr "Sähköpostin aihekenttä"
+
+msgctxt "Languages::ttc_addons.form_builder.email_subject_field"
+msgid "Fields of type \"Select box\" or \"Input field\" can be used"
+msgstr "Kenttejä, joiden tyyppi on \"Valitse laatikko\" tai \"Syötekenttä\", voidaan käyttää"
+

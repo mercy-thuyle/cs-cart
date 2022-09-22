@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Satıcıdan yöneticiye ödemeler"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "Satıcıların yönetici panellerinin işlevselliğini belirli koşullar altında kısıtlar ve satıcılarınızın ücretlerini ve borçlarını yönetici paneli panolarından ödemelerini sağlar. Vitrinden bir ürün satın almak kadar kolaydır."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Bakiyeleri aşağıda kalırsa satıcıları askıya alma"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Bakiyeyi doldurmak için yetkisiz kullanım süresi"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Doldurma bakiyesi üzerindeki vergiler"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Satıcıdan yöneticiye ödemeler"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Pazaryeri ücretleri"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Pazar yeri ücretleri ( sipariş no [id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Market ücretleri için ödeme ek ücreti (sipariş #[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Ücretleri ödemek"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Satıcının borcuna ulaşırsa yönetici paneli işlevlerini kısıtla"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "Bir tedarikçinin bakiyesi negatif olduğunda ve bu sayıya ulaştığında, satıcının yönetim paneli herhangi bir işlem yapmasına izin vermez. Bir satıcının negatif bakiyesi bu sayının yarısı olduğunda, satıcı \"vendor_debt_payout.debt_near_limit_message\" dil değişkeninde belirtilen uyarıyı görecektir."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Satıcı planı ücretleri için ödemesiz dönem"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "Plan ödemeleri, satıcının hesap bakiyesinden alınır. Ücret alındıktan sonra bakiyenin olumsuz olması ve bu sürenin sona ermesi durumunda, satıcı yönetim kurulu, satıcı borcu ödeyene kadar herhangi bir işlem yapmasına izin vermeyecektir."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "gün"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Sen ücreti ödemek gerekiyor [Fee_AMOUNT] kullandığınız için [plan_name] planı. Mevcut hesap bakiyeniz [current_balance]. Ücret kadar ödenmemesi halinde [overdue_date] sen kadar, sen yönetim paneli ile çalışmak mümkün olmayacaktır <a href=\" [pay_url] \"target=\"_blank\"> tüm pazar ücretlerini ödemek </a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Esap bakiyeniz şu anda [current_balance]. O ulaşırsa [minimal_balance], size kadar Yönetim Paneli'ne kullanmak mümkün olmayacaktır <a href=\" [pay_url] \"target=\"_blank\"> ücretleri tüm pazar ödeme </a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p> Yönetim hesabına erişiminiz otomatik olarak sınırlandırıldı çünkü negatif hesap bakiyesi sınırına ulaştınız veya satıcı planınız için zamanında ücret ödemediniz. </ p> <p> Mevcut hesap bakiyeniz [current_balance]. </ p> <p> Lütfen <a href=\" [pay_url] \"> pazar ücretlerini ödeyin </a> - ödeme işleme koyulduktan sonra yönetim paneline erişiminiz otomatik olarak geri yüklenir. </ p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Satıcıları askıya alma"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Bakiyeleri aşağıda kalırsa satıcıları askıya alma"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Bakiyeyi doldurmak için yetkisiz kullanım süresi"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "[date] kadar ödenmemiş [amount] borcu."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "Askıya alınan satıcılarla çalışmayı kolaylaştırmak için lütfen <a href=\"[link]\">Satıcıdan yöneticiye ödeme</a> eklentisinin ayarlarını denetleyin."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "Borç satıcı <a href=\"[link]\">planının</a>koşullarını aşarsa satıcı askıya alabilir."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "Askıya alınan satıcıların ürünlerini gizleme"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Askıya alınan satıcıların yönetici panelini engelle"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Askıya alınan satıcıların yönetici panelini engelle"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Yaklaşan askıya alma hakkında satıcıları bilgilendirin"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Askıya alınan satıcılar hakkında yöneticiye bildirme"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target=\"_blank\" href=\"[link]\">Bildirimleri düzenleme</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Askıya alınan satıcıların haftalık özetini gönder"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Askıya alınan satıcıları bir süre sonra devre dışı bırakma"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Askıya alınan satıcının devre dışı bırakılmadan önceki gün sayısı"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Satıcıları devre dışı bırakılmış hesapları hakkında bilgilendirin"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Devre dışı bırakılmış satıcılar hakkında yöneticiye bildir"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Askıya alınan satıcılarla ilgili eylemler"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Bildirimler"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Yeniden doldurma bakiyesi"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Bir tutar girin"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "Üzgünüm, ödemeye devam edemedim. Belirtilen toplam 0'dan büyük olmalıdır."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Hesabınız askıya alındı. Süspansiyonu kaldırmak için lütfen bakiyeyi [vendor_plan_lowers_allowed_balance] kadar doldurmak için en az [amount] yatırın. <a target=\"_blank\" href=\"[link]\">Bakiyeyi yeniden doldur</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Hesabınız yakında askıya alınabilir. Askıya alınmamak için lütfen [date] kadar en az [amount] yatırın. <a target=\"_blank\" href=\"[link]\">Bakiyeyi yeniden doldur</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>Hesabınız otomatik olarak askıya alındı.</p><p>Neden: geçerli bakiyeniz izin verilen minimum [lowers_allowed_balance] bakiyesinin altında olan [balance]dir.</p><p>Lütfen en az [amount] yatırın. Ödeme işlendikten sonra askıya alma otomatik olarak kaldırılacaktır.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>Geçerli bakiyeniz izin verilen minimum [lowers_allowed_balance] bakiyesinin altında olan [balance]dir.</p><p>Lütfen [date] kadar en az [amount] yatırın. Aksi takdirde hesabınız askıya alınabilir."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "Askıya alınan satıcılar"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Hesabınız yakında askıya alınabilir"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Hesabınız askıya alındı"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Satıcı oturum açma: Borç ve yetkisiz kullanım süresi"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Askıya almamak için lütfen [date] kadar en az [amount] yatırın."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "Askıya alınmayı kaldırmak için, bakiyeyi [vendor_plan_lowers_allowed_balance]kadar doldurmak için lütfen en az [amount] yatırın."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Satıcıdan yöneticiye ödeme bildirimleri"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Satıcıdan yöneticiye ödeme bildirimleri"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Satıcıdan yöneticiye ödeme bildirimleri"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Satıcıdan yöneticiye ödeme bildirimleri"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Satıcı durumu Askıya Alındı olarak değiştirildi"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Satıcıdan yöneticiye ödeme bildirimleri"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Askıya Alındı olan satıcı durumu değiştirildi"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Satıcı oturum açma: Borç ve ödemesiz dönem"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Satıcıdan yöneticiye ödeme bildirimleri"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Satıcı durumu Devre Dışı olarak değiştirildi"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: Borçluların haftalık özeti"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "Bu, pazarınızdaki borçlular hakkında haftalık bir rapordur. Son rapordan bu yana borçlu olan veya borcunu ödeyen satıcıları içerir. Pazaryerinizde <a href=\"[href]\">askıya alınmış satıcı daha olabilir</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Borçluların haftalık özeti"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Borçluların haftalık özeti"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: Durum [status]olarak değiştirildi"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "Satıcı [vendor_name] durumu [status]olarak değiştirildi."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Hesabınız yakında askıya alınabilir"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "[marketplace] hesabınız yakında askıya alınabilir."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Yaklaşan askıya alma hakkında bilgi"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Mevcut bakiyeniz [balance], bu da izin verilen minimum bakiye olan [lowers_allowed_balance]altında. Askıya almamak için lütfen en az [amount] ile [date] arasında para yatırın. Bakiyeyi <a href=\"[link]\">satıcı panelinizden</a>doldurabilirsiniz."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "İzin verilen minimum bakiyeyi 0 olarak belirledik. Şimdi bir satıcının bakiyesi 0'ın altına indiği zaman yetkisiz kullanım süresi başlar ve satıcıdan borcu ödemesi istenir."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Askıya alınan satıcıların haftalık özetini gönder"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "Sahip olunan borç"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Hesap bakiyesi"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "Bu satıcılar son rapordan bu yana otomatik olarak borç nedeniyle askıya alındı::"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "Bu satıcılar borçlarını ödediler ve son rapordan bu yana askıya alınmaları kaldırıldı:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "Son rapordan bu yana hiçbir satıcı otomatik olarak borç nedeniyle askıya alınmadı."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "Son rapordan bu yana hiçbir satıcı borcunu ödemedi ve askıya alınmaları kaldırıldı."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "Pazarınızdaki tüm satıcıların toplam borcu (bu raporda listelenmeyenler dahil) şu anda [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Satıcılar, belirli pazaryeri ücretleri ürünü satın alarak borçlarını öderler. Burada ürünün detaylarını ve ait olduğu kategoriyi düzenleyebilirsiniz."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Ürün"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Kategori"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Düzenle</a>"
+

@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_commerce_platform.po\n"
+"X-Crowdin-File-ID: 6632\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform"
+
+msgctxt "Addons::description::paypal_commerce_platform"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal."
+msgstr "このアドオンは、ストア管理者がPayPalを使って複数の出品者間と資金を自動的に分配するのに利用できます。"
+
+msgctxt "SettingsSections::paypal_commerce_platform::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::collect_payouts"
+msgid "Commission includes"
+msgstr "手数料込み"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::N"
+msgid "Order commission"
+msgstr "注文手数料"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "注文手数料と未払い料金"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::rma_refunded_order_status"
+msgid "Order status on refund"
+msgstr "返金時の注文ステータス"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform"
+
+msgctxt "Languages::paypal_commerce_platform.paypal"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payer_id"
+msgid "Merchant account ID"
+msgstr "マーチャント・アカウントID"
+
+msgctxt "Languages::paypal_commerce_platform.client_id"
+msgid "App Client ID"
+msgstr "AppクライアントID"
+
+msgctxt "Languages::paypal_commerce_platform.secret"
+msgid "App Secret"
+msgstr "App Secret"
+
+msgctxt "Languages::paypal_commerce_platform.connect_with_paypal"
+msgid "Connect with PayPal"
+msgstr "PayPal に接続してサインアップ"
+
+msgctxt "Languages::paypal_commerce_platform.disconnect"
+msgid "Disconnect account"
+msgstr "アカウントの接続解除"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account"
+msgid "PayPal account"
+msgstr "PayPalアカウント"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account_short"
+msgid "PP a/c"
+msgstr "PPアカウント"
+
+msgctxt "Languages::paypal_commerce_platform.connected"
+msgid "Connected"
+msgstr "接続済み"
+
+msgctxt "Languages::paypal_commerce_platform.not_connected"
+msgid "Not connected"
+msgstr "未接続"
+
+msgctxt "Languages::paypal_commerce_platform.account_connected"
+msgid "Your PayPal account has been successfully connected to the store"
+msgstr "あなたのPayPalアカウントがショップに接続されました"
+
+msgctxt "Languages::paypal_commerce_platform.account_connection_failure"
+msgid "Unable to connect your PayPal account to the store"
+msgstr "PayPayアカウントがショップに接続できませんでした"
+
+msgctxt "Languages::paypal_commerce_platform.account_disconnected"
+msgid "Your PayPal account has been successfully disconnected from the store"
+msgstr "あなたのPayPalアカウントがショップから接続解除されました"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "注文番号 #[order_id]の引き出し"
+
+msgctxt "Languages::paypal_commerce_platform.refund_id"
+msgid "Refund transaction ID in PayPal"
+msgstr "PayPalでの取引IDの払い戻し"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal"
+msgid "Withdrawal amount"
+msgstr "引き出し額"
+
+msgctxt "Languages::paypal_commerce_platform.rma.perform_refund"
+msgid "Give a refund via PayPal Commerce Platform"
+msgstr "PayPal Commerce Platformで払い戻しを行う"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "管理者が返品リクエストのステータスを変更すると、払い戻しが行われます。"
+
+msgctxt "Languages::paypal_commerce_platform.rma.refund_performed"
+msgid "The refund has been made via PayPal Commerce Platform"
+msgstr "払い戻しはPayPal Commerce Platformを通して行われました"
+
+msgctxt "Languages::paypal_commerce_platform.order_id"
+msgid "Order ID in PayPal"
+msgstr "PayPalの注文ID"
+
+msgctxt "Languages::paypal_commerce_platform.capture_id"
+msgid "Capture ID in PayPal"
+msgstr "PayPalのCapture ID"
+
+msgctxt "Languages::paypal_commerce_platform.payout_id"
+msgid "Payout transaction ID in PayPal"
+msgstr "PayPalでの支払いトランザクションID"
+
+msgctxt "Languages::paypal_commerce_platform.payout_failure_reason"
+msgid "Payout failure reason"
+msgstr "支払い失敗の理由"
+
+msgctxt "Languages::paypal_commerce_platform.own_account_cant_be_used_for_vendor"
+msgid "Your own PayPal account can't be used to connect a vendor to the store"
+msgstr "あなたご自身のPayPalアカウントは出品者とショップの接続にはご利用になれません"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "返品管理アドオン経由で実行された返金後、注文ステータスを変更するかどうかを設定します。"
+
+msgctxt "Languages::paypal_commerce_platform.do_not_change"
+msgid "Do not change"
+msgstr "変更しない"
+
+msgctxt "Languages::paypal_commerce_platform.set_status_to"
+msgid "Set to:"
+msgstr "設定する："
+
+msgctxt "Languages::paypal_commerce_platform.webhook_help_message"
+msgid "Specify the following URL when configuring a webhook for your REST application:"
+msgstr "RESTアプリケーションのWebhookを構成するときは、次のURLを指定してください。"
+
+msgctxt "Languages::paypal_commerce_platform.webhook"
+msgid "PayPal Commerce Platform webhook: [payload]"
+msgstr "PayPal Commerce Platform webhook:[payload]"
+
+msgctxt "Languages::paypal_commerce_platform.settings.account"
+msgid "Account settings"
+msgstr "アカウント設定"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_funding"
+msgid "Funding sources to show on checkout"
+msgstr "注文手続きで表示する支払元"
+
+msgctxt "Languages::paypal_commerce_platform.funding.card"
+msgid "Credit or debit cards"
+msgstr "クレジットカードかデビットカード"
+
+msgctxt "Languages::paypal_commerce_platform.funding.credit"
+msgid "PayPal Credit"
+msgstr "PayPalクレジット"
+
+msgctxt "Languages::paypal_commerce_platform.funding.venmo"
+msgid "Venmo"
+msgstr "Venmo"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sepa"
+msgid "SEPA-Lastschrift"
+msgstr "SEPA自動引落し"
+
+msgctxt "Languages::paypal_commerce_platform.funding.bancontact"
+msgid "Bancontact"
+msgstr "Bancontact"
+
+msgctxt "Languages::paypal_commerce_platform.funding.eps"
+msgid "eps"
+msgstr "eps"
+
+msgctxt "Languages::paypal_commerce_platform.funding.giropay"
+msgid "giropay"
+msgstr "giropay"
+
+msgctxt "Languages::paypal_commerce_platform.funding.ideal"
+msgid "iDEAL"
+msgstr "iDEAL"
+
+msgctxt "Languages::paypal_commerce_platform.funding.mybank"
+msgid "MyBank"
+msgstr "MyBank"
+
+msgctxt "Languages::paypal_commerce_platform.funding.p24"
+msgid "Przelewy24"
+msgstr "Przelewy24"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sofort"
+msgid "Sofort"
+msgstr "Sofort"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_cards"
+msgid "Cards to show on checkout"
+msgstr "注文手続き時に表示するカード"
+
+msgctxt "Languages::paypal_commerce_platform.card.visa"
+msgid "Visa"
+msgstr "Visa"
+
+msgctxt "Languages::paypal_commerce_platform.card.mastercard"
+msgid "Mastercard"
+msgstr "マスターカード"
+
+msgctxt "Languages::paypal_commerce_platform.card.amex"
+msgid "American Express"
+msgstr "アメリカン・エキスプレス"
+
+msgctxt "Languages::paypal_commerce_platform.card.discover"
+msgid "Discover"
+msgstr "ディスカバー"
+
+msgctxt "Languages::paypal_commerce_platform.card.jcb"
+msgid "JCB"
+msgstr "JCB"
+
+msgctxt "Languages::paypal_commerce_platform.card.elo"
+msgid "Elo"
+msgstr "Elo"
+
+msgctxt "Languages::paypal_commerce_platform.card.hiper"
+msgid "Hiper"
+msgstr "Hiper"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.style"
+msgid "Button appearance"
+msgstr "ボタンの外観"
+
+msgctxt "Languages::paypal_commerce_platform.style.shape"
+msgid "Shape"
+msgstr "形状"
+
+msgctxt "Languages::paypal_commerce_platform.shape.pill"
+msgid "Pill"
+msgstr "Pill"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "長方形"
+
+msgctxt "Languages::paypal_commerce_platform.style.color"
+msgid "Color"
+msgstr "色"
+
+msgctxt "Languages::paypal_commerce_platform.color.gold"
+msgid "Gold"
+msgstr "ゴールド"
+
+msgctxt "Languages::paypal_commerce_platform.color.blue"
+msgid "Blue"
+msgstr "ブルー"
+
+msgctxt "Languages::paypal_commerce_platform.color.silver"
+msgid "Silver"
+msgstr "シルバー"
+
+msgctxt "Languages::paypal_commerce_platform.color.black"
+msgid "Black"
+msgstr "ブラック"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "長方形"
+
+msgctxt "Languages::paypal_commerce_platform.style.height"
+msgid "Height"
+msgstr "高さ"
+
+msgctxt "Languages::paypal_commerce_platform.bn_code"
+msgid "Partner integration code"
+msgstr "パートナー・インテグレーション・コード"
+
+msgctxt "Languages::paypal_commerce_platform.debug_id"
+msgid "PayPal Debug ID"
+msgstr "PayPalデバッグID"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts"
+msgid "Delay transfer of funds"
+msgstr "資金移動の遅延"
+
+msgctxt "Languages::paypal_commerce_platform.disburse_payouts_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "出品者への資金移動"
+
+msgctxt "Languages::paypal_commerce_platform.automatic_disburse"
+msgid "Automatic transfer"
+msgstr "自動振替"
+
+msgctxt "Languages::paypal_commerce_platform.trigger_disburse_payouts.description"
+msgid "Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic disbursements to all vendors with a cron command. PayPal allows delays up to 28 days; after that, money will be disbursed to vendors automatically."
+msgstr "すべての出品者にすぐに送金するのではなく、最初にオーダーをチェックすることを可能にします。各出品者への送金は、注文ページから手動で行うか、cronコマンドで全出品者への定期的な自動送金をスケジューリングします。PayPalでは28日までの遅延が認められていますが、それ以降は自動的に出品者への送金が行われます。"
+
+msgctxt "Languages::paypal_commerce_platform.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number up to 28. PayPal will automatically disburse money to vendors after 28 days."
+msgstr "以下のコマンドは、14日以上経過したすべての注文について、自動的に出品者に資金を送金します。cronに追加して、出品者に定期的に支払われるようにします。なお、「--days」の値は、14日から28日までの任意の数字に変更できます。PayPalは28日後に自動的に出品者にお金を振り込みます。"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "出品者への資金移動の遅延"
+
+msgctxt "Languages::paypal_commerce_platform.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "資金は出品者に送金されました"
+
+msgctxt "Languages::paypal_commerce_platform.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "資金の出品者への送金が成功しました"
+
+msgctxt "Languages::paypal_commerce_platform.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "出品者への送金ができませんでした。後でもう一度お試しいただくか、決済代行会社にお問い合わせください。"
+
+msgctxt "Languages::paypal_commerce_platform.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "理由（支払処理業者から提供されたもの）： [error_text]"
+

@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal.po\n"
+"X-Crowdin-File-ID: 6592\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "PayPal 付款"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "通过贝宝快速结帐、paypal pro、贝宝标准、 paypal 先进，和贝宝 Payflow pro方式来进行付款。"
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "覆盖客户信息"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "测试模式"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "保护资格"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "即时付款通知设置"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "PayPal 订单状态转换地图"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "PayPal 商标设置"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b> 注意：</b>根据 PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'> 策略 </a> (4.6), 不支持附加费。"
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "交易记录 ID"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "PayPal 商标"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "使用合法图形格式，如. gif、. jpg 或. png。将图像限制为190像素宽60像素高。PayPal将对大图自动裁剪。PayPal 将您的商标图像放在购物车评论区的顶部。"
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "IPN 错误"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "有薪项目的数量与订单中的项目数不同"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "用于付款的币种不同于订单币种。"
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "付款合计与订单合计不同。"
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "Paypal 模式"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "供应商"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "使用上下文签出"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "当存储在 Widget 模式下运行时，将不使用上下文签出"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "在该集成中使用 <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'> 上下文签出功能 </a> 时需要一个商家 ID。您可以通过登录到 <a href='https://www.paypal.com/' target='_blank'> https://www.paypal.com/</a> 来查找您的商家 ID。单击页面右上侧的配置文件图标，然后从 <b> 业务配置文件 </b> 菜单中选择 <b> 配置文件和设置 </b>。(如果您没有在页面顶部看到配置文件图标，请单击 <b> 配置文件 </b>，在选中 <b> 我的帐户选项卡 </b> 时出现在顶部菜单中。单击左侧的 <b> 我的业务信息 </b>, <b> 商家帐户 ID </b> 显示在右侧的配置文件项列表中。"
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "即时付款通知 (IPN) 是一种自动通知商户与Paypal交易相关的事件的服务。<br> 当客户下订单并选择 PayPal 作为付款方式时，订单将获取 <b> 打开 </b> 状态。然后，<br> PayPal 将发送包括交易记录状态的即时付款通知消息。此状态根据状态转换映射更改存储区中的订单状态。"
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "交易记录状态"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "交易状态： [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "已为使用 PayPal 服务的付款方式设置了附加费。请确保这符合您所在地区的 <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\"> paypal 服务用户协议 </a>。"
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "通过PayPal退款"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "一旦管理员更改返回请求状态，将进行退款"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "已经通过PayPal退款"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] 已被退还在 [date] [time]。"
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "部分退款的订单状态"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "不更改"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "确定是否在通过 PayPal 部分退款后自动更改订单状态。"
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "设置为："
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "IPN 接收时间"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "初始订单状态"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "所有采用paypal 付款方式的订单将收到这个状态，直到从 paypal (IPN 消息) 的响应到达或客户通过在 paypal 网站上的链接返回到商店。"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "默认情况下，<i> Open </i> 状态会降低库存，因此两个客户将无法购买相同的产品，而付款则由 PayPal 处理。但是，如果客户未支付即离开 paypal 网站或通过在 paypal 网站上的链接返回到商店，您将有一个废弃的 <i> Open </i> 订单与保留的产品。"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "这样可以确保您不会放弃未支付的订单，并具有 <i> 打开 </i> 状态和保留产品。但是，直到PayPal (IPN 消息) 的响应到达或客户通过在 paypal 网站上的链接返回到商店，该订单将被列为 <i> 不完整 </i>，并且产品不会被保留。"
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "技术细节"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "连接到PayPal"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "使用这些按钮完成配置向导"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "实时配置"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "配置测试"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "正在连接到 <b> PayPal 注册服务器 </b>。。。"
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "已成功配置 <b>[payment] </b> 付款方法"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "连接到 PayPal 帐户时出错"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "获取付款方法配置时出错"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "你现在有一个PayPal业务帐户，你已经成功地集成[product] 与 paypal。<br> 请确认您的电子邮件以激活您的帐户，以便您可以访问付款。要做到这一点，请按照 PayPal 发送到您的电子邮件的指示。"
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "要访问您的客户的付款，请确认PayPal 通过电子邮件发送给您的说明 。"
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "<b>PayPal 付款</b> 附加组件已禁用，因此您无法配置此付款方式。"
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "在英国，3-D 安全是强制性的。"
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "在购物车内容页面上显示“使用 PayPal 结帐”按钮"
+
+msgctxt "Languages::paypal.paypal_cookie_title"
+msgid "PayPal"
+msgstr "贝宝"
+
+msgctxt "Languages::paypal.paypal_cookie_description"
+msgid "PayPal is a payment provider. It allows us to accept payments, if you choose a payment method powered by PayPal. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPal privacy statement</a>."
+msgstr "PayPal 是支付服务提供商。如果您选择由 PayPal 提供支持的付款方式，它允许我们接受付款。这是 <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPal 隐私声明</a>。"
+

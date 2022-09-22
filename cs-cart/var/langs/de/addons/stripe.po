@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe.po\n"
+"X-Crowdin-File-ID: 6666\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "Stripe-Zahlungen"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "Lässt Sie Zahlungen über Stripe akzeptieren."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "Streifen"
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "Veröffentlichbarer Schlüssel"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "Geheimer Schlüssel"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "Zahlungsart"
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "Kreditkarte"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "ApplePay"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Die <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines von Apple</a> verlangen, dass Sie das Apple Pay-Zeichen auf der Checkout-Seite anzeigen.</p><p>Sie können das folgende Bild als Symbol für die Zahlungsmethode festlegen oder in der Beschreibung der Zahlungsmethode verwenden:</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "GooglePay"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Gemäß den <a href=\"[guidelines_url]\" target=\"_blank\">Markenrichtlinien von Google</a> müssen Sie das Google Pay-Zeichen auf der Checkout-Seite anzeigen.</p><p>Sie können das folgende Bild als Symbol für die Zahlungsmethode festlegen oder in der Beschreibung der Zahlungsmethode verwenden:</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "Onlinebezahlung"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "Testzahlung (wird nicht berechnet)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "Ihre Karte wird nicht belastet, wenn Sie Apple Pay oder Google Pay verwenden."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "Apple Pay wird auf diesem Gerät nicht unterstützt"
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "Google Pay wird auf diesem Gerät nicht unterstützt"
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "Stripe-Zahlungstoken"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "Land des Stripe-Kontos"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "Schaltfläche „[button_name]“ auf Produktseiten anzeigen"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "Kaufen Sie mit Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "Kaufen Sie mit Google Pay"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "Beim Erstellen eines PaymentIntent mit der Zahlung #[payment_id]: [error]ist ein Fehler aufgetreten"
+
+msgctxt "Languages::stripe.webhook_register_error"
+msgid "An error occurred while registering the webhook for the payment #[payment_id]: [error]"
+msgstr "Beim Registrieren des Webhook für die Zahlung #[payment_id]: [error]ist ein Fehler aufgetreten"
+
+msgctxt "Languages::stripe.webhook_handle_error"
+msgid "An error occurred while processing the webhook: [error]"
+msgstr "Beim Verarbeiten des Webhook ist ein Fehler aufgetreten: [error]"
+
+msgctxt "Languages::stripe.merchant_identifier"
+msgid "Merchant identifier"
+msgstr "Händlerkennung"
+
+msgctxt "Languages::stripe.stripe_cookie_title"
+msgid "Stripe"
+msgstr "Streifen"
+
+msgctxt "Languages::stripe.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe ist ein Zahlungsanbieter. Es ermöglicht uns, Zahlungen zu akzeptieren, wenn Sie eine von Stripe unterstützte Zahlungsmethode wählen. Hier ist die Datenschutzrichtlinie von <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe</a>."
+

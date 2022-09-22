@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Betalningar från leverantör till administratör"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "Begränsar funktionaliteten hos leverantörernas adminpaneler under vissa villkor och gör det möjligt för dina leverantörer att betala sina avgifter och skulder från deras adminpanelspaneler. Det är lika enkelt som att köpa en produkt från skyltfönstret."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Stäng av leverantörer om deras saldo förblir under"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Frist för att fylla på saldot"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Skatter på påfyllning av saldo"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Betalningar från leverantör till administratör"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Marknadsplatsavgifter"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Marknadsplatsavgifter (beställningsnummer[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Betalningstillägg för marknadsplatsavgifter (beställningsnummer[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Betala avgifterna"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Begränsa administratörspanelens funktioner om leverantörens skuld når"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "När en leverantörs saldo är negativ och når detta nummer, tillåter inte leverantörens administrationspanel att utföra några åtgärder. När en leverantörs negativa saldo är hälften av detta antal, kommer leverantören att se varningen som anges i språkvariabeln \"vendor_debt_payout.debt_near_limit_message\"."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Respitperiod för leverantörsplanavgifter"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "Betalningar för planer dras från säljarens kontosaldo. Om saldot blir negativt efter att avgiften har tagits, och denna period löper ut, kommer säljarens administrationspanel inte att tillåta att utföra några åtgärder förrän säljaren betalar skulden."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "dag(ar)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Du måste betala avgiften [fee_amount] för att använda [plan_name] -planen. Ditt kontosaldo är [current_balance]. Om avgiften inte betalas förrän [overdue_date]kommer du inte att kunna arbeta med administrationspanelen förrän du <a href=\"[pay_url]\" target=\"_blank\">betalar alla dina marknadsplatsavgifter</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Ditt kontosaldo är för närvarande [current_balance]. Om den når [minimal_balance]kommer du inte att kunna använda din administrationspanel förrän du <a href=\"[pay_url]\" target=\"_blank\">betalar alla dina marknadsplatsavgifter</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p>Din åtkomst till administrationspanelen har begränsats automatiskt eftersom du har nått gränsen för negativt kontosaldo eller inte har betalat en avgift för din leverantörsplan i tid.</p><p>Ditt kontosaldo är [current_balance].</p><p>Vänligen <a href=\"[pay_url]\">betala marknadsplatsavgifterna</a> — när betalningen har behandlats kommer din åtkomst till administrationspanelen att återställas automatiskt.</p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Stäng av leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Stäng av leverantörer om deras saldo förblir under"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Frist för att fylla på saldot"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "Skulden på [amount] som inte har betalats förrän [date]."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "För att göra det enklare att arbeta med avstängda leverantörer, kontrollera inställningarna för <a href=\"[link]\">Leverantör-till-admin-betalningar</a> -tillägget."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "En säljare kan bli avstängd om skulden överstiger villkoren i <a href=\"[link]\">-leverantörsplanen</a>."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "Dölj produkter från avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Blockera adminpanelen för avstängda leverantörer"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Blockera adminpanelen för avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Meddela leverantörer om kommande avstängning"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Meddela administratören om avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">Redigera aviseringar</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Skicka veckosammanfattning av avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Inaktivera avstängda leverantörer efter ett tag"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Tid i dagar innan en avstängd leverantör inaktiveras"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Meddela leverantörer om deras inaktiverade konto"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Meddela administratören om funktionshindrade leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Åtgärder på avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Aviseringar"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Fyll på balans"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Ange ett belopp"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "Tyvärr, det gick inte att fortsätta med betalningen. Den angivna summan måste vara större än 0."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Ditt konto är avstängt. För att häva avstängningen, vänligen sätt in minst [amount] för att fylla på saldot upp till [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Fyll på balans</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Ditt konto kan snart stängas av. Vänligen sätt in minst [amount] till [date] för att undvika avstängning. <a target=\"_blank\" href=\"[link]\">Fyll på balans</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>Ditt konto har stängts av automatiskt.</p><p>Orsak: ditt nuvarande saldo är [balance], vilket är under det lägsta tillåtna saldot på [lowers_allowed_balance].</p><p>Vänligen sätt in minst [amount]. När betalningen har behandlats kommer avstängningen att hävas automatiskt.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>Ditt nuvarande saldo är [balance], vilket är under det lägsta tillåtna saldot på [lowers_allowed_balance].</p><p>Vänligen sätt in minst [amount] till [date]. Annars kan ditt konto stängas av."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "Avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Ditt konto kan snart stängas av"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Ditt konto är avstängt"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Leverantörsinloggning: Skuld och anståndstid"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Vänligen sätt in minst [amount] till [date] för att undvika avstängning."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "För att häva avstängningen, vänligen sätt in minst [amount] för att fylla på saldot upp till [vendor_plan_lowers_allowed_balance]."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Aviseringar om betalningar från leverantör till administratör"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Aviseringar om betalningar från leverantör till administratör"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Aviseringar om betalningar från leverantör till administratör"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Aviseringar om betalningar från leverantör till administratör"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Leverantörsstatus ändrades till Avstängd"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Aviseringar om betalningar från leverantör till administratör"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Leverantörsstatus ändrad från Avstängd"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Leverantörsinloggning: Skuld och anståndstid"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Aviseringar om betalningar från leverantör till administratör"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Leverantörsstatus ändrades till Inaktiverad"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: Veckosammandrag av gäldenärer"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "Detta är en veckorapport om gäldenärer på din marknadsplats. Det inkluderar de säljare som har blivit gäldenärer eller betalat sin skuld sedan den senaste rapporten. Din marknadsplats kan ha ytterligare <a href=\"[href]\">stängda leverantörer</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Veckosammandrag av gäldenärer"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Veckosammandrag av gäldenärer"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: Status ändrad till [status]"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "Statusen för leverantör [vendor_name] ändrades till [status]."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Ditt konto kan snart stängas av"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "Ditt konto på [marketplace] kan snart stängas av."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Info om kommande avstängning"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Ditt nuvarande saldo är [balance], vilket är under det lägsta tillåtna saldot på [lowers_allowed_balance]. Vänligen sätt in minst [amount] till [date] för att undvika avstängning. Du kan fylla på saldot i din <a href=\"[link]\">leverantörspanel</a>."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "Vi har ställt in det lägsta tillåtna saldot till 0. Närhelst en leverantörs saldo går under 0 startar respitperioden och leverantören kommer att bli ombedd att betala skulden."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Skicka veckosammanfattning av avstängda leverantörer"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "Skuldägd"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Kontobalans"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "Dessa leverantörer har stängts av för skuld automatiskt sedan den senaste rapporten::"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "Dessa leverantörer betalade sin skuld och fick sin avstängning upphävd sedan den senaste rapporten:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "Inga leverantörer har stängts av för skuld automatiskt sedan den senaste rapporten."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "Inga leverantörer betalade sin skuld och fick sin avstängning hävd sedan den senaste rapporten."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "Den totala skulden för alla leverantörer på din marknadsplats (inklusive de som inte är listade i denna rapport) är för närvarande [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Säljare betalar tillbaka sina skulder genom att köpa specifika marknadsavgifter. Här kan du redigera information om produkten och kategorin den tillhör."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Produkt"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Kategori"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Redigera</a>"
+

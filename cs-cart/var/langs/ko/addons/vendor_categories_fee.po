@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_categories_fee.po\n"
+"X-Crowdin-File-ID: 6686\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_categories_fee"
+msgid "Vendor plans: Commissions by category"
+msgstr "벤더 설정: 카테고별 수수료"
+
+msgctxt "Addons::description::vendor_categories_fee"
+msgid "Allows you to set the transaction fees that vendors must pay for selling products from specific categories."
+msgstr "입점사의 특정 카테고리 판매상품에 대한 거래수수료 부과 설정하기"
+
+msgctxt "Languages::vendor_categories_fee.vendor_fee"
+msgid "Transaction fee (%)"
+msgstr "거래 수수료 (%)"
+
+msgctxt "Languages::vendor_categories_fee.absolute_fee"
+msgid "Absolute fee"
+msgstr "수수료 절대값"
+
+msgctxt "Languages::vendor_categories_fee.percent_fee"
+msgid "Percent fee"
+msgstr "수수료 백분율"
+

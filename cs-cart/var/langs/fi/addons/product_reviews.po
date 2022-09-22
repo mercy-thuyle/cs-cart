@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 6646\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr "Tuotearvostelut"
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr "Antaa asiakkaillesi mahdollisuuden jättää arvosteluja tuotteista. Tämä voi rakentaa luottamusta, tarjota sosiaalista näyttöä ja lisätä käyttäjien luomaa sisältöä sivustollesi."
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Kommentti- ja arvostelulomakkeet"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Vieraskirja"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "Arvosteluja ei löytynyt"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Arviosi"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Kommentteja ja arvosteluja"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Luokitus"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr "Olet jo kirjoittanut tähän arvosteluun"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Kiitos viestistäsi"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Arvostelusi tarkistetaan ennen kuin se julkaistaan."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr "Arvostelut: [n]"
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "arvostelu|arvostelut"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Tämä on ilmoitus uudesta postauksesta tuotteeseen"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Tämä on ilmoitus uudesta vastauksesta tuotearvosteluusi"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Tämä arvostelu vaatii hyväksynnän"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Uusimmat arvostelut"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Kommentoi"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "ja"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Hyväksyä"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Hylätä"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "Hyväksytty"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "Hylätty"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Kommentteja ja arvosteluja"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Tuotearvostelut"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Lajittele arvosanan mukaan: matalasta korkeaan"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Lajittele luokituksen mukaan"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Tuotearvostelut"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Asiakkaiden arvostelut tuotteista"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Kirjoita arvostelu"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Arvostelut per sivu"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ylläpitäjän tulee hyväksyä lähettäjän lähettämät viestit"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr "Salli yksi tarkistus IP-osoitetta kohden"
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Jaa arvostelut julkisivun mukaan"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Määrittää, ovatko kommentit ja/tai arvostelut sallittuja uusille tuotteille. Ei vaikuta olemassa oleviin tuotteisiin."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Vain ostajat voivat postittaa"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Salli tuotteen arvostelujen jättäminen vain tuotteen ostaneille."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Tarkista kentät"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Kommentoi edut ja haitat"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Vain kommentoida"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Kuka tahansa asiakas"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Vain nimettömät asiakkaat"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "Hyväksyntää ei tarvita"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Kysy asiakkaan sijaintia"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "Ei mitään"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "Maa"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "Kaupunki"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Tuotearvostelut: Uusi arvosteluilmoitus"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Tuotearvostelut: Vastausilmoitus"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Näytä arvostelun luokitus"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Näytä arvostelut"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Näytä arvostelu"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Näytä [n] arvostelua|Näytä [n] arvostelua"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Vieritä arvosteluihin"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Näytä arvostelukuvat"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Vieritä tarkastellaksesi kuvia"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Henkilötiedot arvosteluista"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "arvostelut: uusi arvostelu"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Nimesi näkyy arvostelusi tai kommenttisi vieressä, ja se näkyy kaikille. Tallennamme ([company]) myös IP-osoitteesi turvallisuussyistä, mutta vain henkilökuntamme voi nähdä sen. Se säilyy järjestelmässämme, kunnes peruutat suostumuksesi. Jos haluat, että henkilötietosi poistetaan, lähetä sähköpostia osoitteeseen [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio käyttää väärin tietojasi.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Valitse tämä valintaruutu hyväksyäksesi [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Käyttöehdot"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Lue nämä ehdot (\"Ehdot\", \"Käyttöehdot\") huolellisesti ennen kuin käytät <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> -sivustoa ja My Mobile App -mobiilisovellusta (\"Palvelu\") Yritys (\"me\", \"me\" tai \"meidän\").</p><p><strong>Käyttämällä palvelua tai palvelua sitoudut noudattamaan näitä ehtoja. Jos et hyväksy jotakin Ehtojen osaa, et voi käyttää Palvelua.</strong></p><p><strong>Ostokset</strong></p><p>Jos haluat ostaa minkä tahansa tuotteen tai palvelun, joka on saatavilla Palvelun kautta (\"Osto\"), sinua saatetaan pyytää antamaan tiettyjä ostokseesi liittyviä tietoja, mukaan lukien rajoituksetta ...</p><p><strong>Sisältö</strong></p><p>Palvelumme avulla voit lähettää, linkittää, tallentaa, jakaa ja muutoin asettaa saataville tiettyä tietoa, tekstiä, grafiikkaa, videoita tai muuta materiaalia (\"Sisältö\"). Olet vastuussa ...</p><p><strong>Muutokset</strong></p><p>Varaamme oikeuden oman harkintamme mukaan muuttaa tai korvata näitä ehtoja milloin tahansa. Jos muutos on olennainen, pyrimme ilmoittamaan siitä vähintään 30 päivää ennen uusien ehtojen voimaantuloa. Se, mikä on olennainen muutos, päätetään oman harkintamme mukaan.</p><p><strong>Ota yhteyttä</strong></p><p>Jos sinulla on kysyttävää näistä ehdoista, ota meihin yhteyttä.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Ennen kuin lähetät arvostelun, varmista, että se ei riko valvontasääntöjä: se ei sisällä linkkejä kolmannen osapuolen resursseihin tai loukkauksiin."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Kirjaudu sisään kirjoittaaksesi arvostelun"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Et voi kirjoittaa arvostelua tästä tuotteesta. Asiakkaat voivat kirjoittaa arvosteluja vain ostamistaan tuotteista. Jos ostit tämän tuotteen meiltä, mutta näet edelleen tämän viestin, ota meihin yhteyttä."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "Uusi arvostelu julkaistu"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "Uusi vastaus lisätty arvosteluun"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "Avuliaisuus"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Äänestä ylös"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Äänestä alas"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Lajittele päivämäärän mukaan: uusimmasta vanhimpaan"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Lajittele päivämäärän mukaan: Vanhimmasta uusimpaan"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Hyödyllinen viimeinen"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "Hyödyllinen ensin"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Lajittele arvosanan mukaan: Korkeasta matalaan"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Lajittele arvosanan mukaan: matalasta korkeaan"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Edut"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "Haitat"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Kommentit"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Kommentti"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "Liikuntarajoitteinen"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Myyjä"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Myyjän vastaus"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Kirjoita viesti..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Vahvistettu ostos"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "arvostelut"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Arvostelu"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Kirjoita arvostelusi"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Lisää valokuva"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Kirjoita arvostelusi nimettömänä"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Lähetä arvostelu"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Vahvistettu ostos"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "Valokuvan kanssa"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Ilman valokuvaa"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Asiakaskuvia"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Tarkista tila"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "tähti"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "tähdet"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr "[n] tähti|[n] tähteä"
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "viidestä"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Arvostele tämä tuote"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Jaa ajatuksesi muiden asiakkaiden kanssa"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Vastaa"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "Etu-ja sukunimi"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Kiitos arvostelustasi"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "Erinomainen!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Oikein hyvä"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "Keskiverto"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Reilu"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Huono"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Tuotteen yksityiskohdat"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Arvosana 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "Uusi arvostelu julkaistu tuotteesta"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "Tuotteelle [product]on julkaistu uusi arvostelu. Napsauta tätä ilmoitusta nähdäksesi arvostelun."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Kommentti"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "Sinulla on tuotearvioita vanhassa \"Kommentit ja arvostelut\" -lisäosassa. Kun lisäosa on asennettu, voit kopioida kyseiset arvostelut uuteen \"Tuotearvostelut\"-lisäosaan <a class=\"cm-post\" href=\"[url]\">sen asetuksissa</a>."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Kopioi arvostelut \"Kommentit ja arvostelut\" -lisäosasta<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Vain arvostelut, joissa on sekä pisteet että käyttäjän kommentti, kopioidaan. Siirry tuotteisiisi ja tarkista \"Lisäosat\"-välilehden \\\"Arvostelut\"-asetus. Sinun on ehkä ensin sallittava viestintä ja luokitus.</li><li>Arvosteluja, joissa ei ole pisteitä tai kommenttia, ei kopioida. Siirtääksesi sen , sinun on ensin lisättävä puuttuva pistemäärä tai kommentti manuaalisesti muokkaamalla arvostelua.</li><li>Kun vanha \"Kommentit ja arvostelut\" -lisäosa on asennettu, arvosteluja ei poisteta sieltä. Näin voit halutessasi siirtää \"Tuotearvosteluihin\" aina, kun kaikki arvostelusi ovat valmiita.</li><li>Jos joudut koskaan kopioimaan arvostelut vanhasta lisäosasta uudelleen tulevaisuudessa, poista vain tuotearvostelut-lisäosa ja asenna se uudelleen. Tämä poistaa kaikki sen arvostelut tietokannasta, ja voit tuoda arvostelut uudelleen \"Kommentit ja arvostelut\" -lisäosasta</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Kopioi tuotearvostelut</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Päivitä vastaus"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Lisää vastaus"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "Arvostelussa voi olla enintään [max_image_number] kuvaa."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "Pudota kuvat tähän"
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "Kuva jopa [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "Ylläpitäjän vastaus"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "[company_name] vastausta"
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "Piilota nimeni arvostelussa"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr "Tuotteelle on annettu [n] tähteä"
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr "Napsauta nähdäksesi arvostelut"
+
+msgctxt "Languages::product_reviews.split_reviews_for_variations_as_separate_products"
+msgid "Split reviews for variations as separate products"
+msgstr "Jaa arviot muunnelmista erillisinä tuotteina"
+
+msgctxt "Languages::privileges.create_product_reviews"
+msgid "Can create"
+msgstr "Voi luoda"
+
+msgctxt "Languages::product_reviews.upgrade_notification.title_administators_add_ability_create_product_reviews"
+msgid "Administrators can now create product reviews"
+msgstr "Järjestelmänvalvojat voivat nyt luoda tuotearvioita"
+
+msgctxt "Languages::product_reviews.upgrade_notification.message_administators_add_ability_create_product_reviews"
+msgid "Previously, administrators could edit existing product reviews in the admin panel, but couldn't post new ones. We've changed that: now the administrators who could edit reviews can add new reviews on the \"Reviews\" tab of the product editing page. Note that this change doesn't affect vendors' administrators in CS-Cart Multi-Vendor in any way. The most that they can do is leave a reply to a product review.<br><br>You can keep the old behavior if you'd like. Through user groups, you can now allow administrators to create or edit reviews (or do both of those things).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Set administrator privileges</a>"
+msgstr "Aiemmin järjestelmänvalvojat saattoivat muokata olemassa olevia tuotearvosteluja hallintapaneelissa, mutta eivät voineet lähettää uusia. Olemme muuttaneet asiaa: nyt järjestelmänvalvojat, jotka voivat muokata arvosteluja, voivat lisätä uusia arvosteluja tuotteen muokkaussivun Arvostelut-välilehdelle. Huomaa, että tämä muutos ei vaikuta toimittajien järjestelmänvalvojiin CS-Cart Multi-Vendorissa millään tavalla. Eniten he voivat tehdä vastauksen tuotearvosteluihin.<br><br>Voit säilyttää vanhan käytöksen, jos haluat. Käyttäjäryhmien kautta voit nyt sallia järjestelmänvalvojien luoda tai muokata arvosteluja (tai tehdä molempia).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Määritä järjestelmänvalvojan oikeudet</a>"
+
+msgctxt "Languages::product_reviews.exim_error_incorrect_field_value"
+msgid "Specified [field] '[value]' was not found. The product review with comment '[comment]' was skipped."
+msgstr "Määritettyä arvoa [field] '[value]' ei löytynyt. Tuotearvostelu kommentilla \"[comment]\" ohitettiin."
+
+msgctxt "Languages::product_reviews.exim_error_empty_field"
+msgid "The value of the <b>[field]</b> field can not be empty. The product review with comment '[comment]' was skipped."
+msgstr "Kentän <b>[field]</b> arvo ei voi olla tyhjä. Tuotearvostelu kommentilla \"[comment]\" ohitettiin."
+
+msgctxt "Languages::product_reviews"
+msgid "Product reviews"
+msgstr "Tuotearvostelut"
+
+msgctxt "Languages::images_delimiter"
+msgid "Images delimiter"
+msgstr "Kuvien erotin"
+
+msgctxt "Languages::text_images_delimiter"
+msgid "Images path delimiter for product review images (e.g. \"Image1.png///Image2.png\")"
+msgstr "Kuvapolun erotin tuotearvostelukuville (esim. \"Image1.png///Image2.png\")"
+

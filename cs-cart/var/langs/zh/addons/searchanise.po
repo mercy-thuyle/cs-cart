@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/searchanise.po\n"
+"X-Crowdin-File-ID: 6668\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Addons::description::searchanise"
+msgid "Turns on the <a target=\"_blank\" href=\"https://searchanise.io/\">Searchanise</a> fast search service"
+msgstr "打开 <a target=\"_blank\" href=\"https://searchanise.io/\">Searchanise</a> 快速搜索服务"
+
+msgctxt "Languages::searchanise_menu_description"
+msgid "Manage search settings, customize view and merchandise products."
+msgstr "管理搜索设置、自定义视图和商品产品。"
+
+msgctxt "Languages::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Languages::text_se_import_status_queued"
+msgid "The product catalog is queued for syncing with Searchanise."
+msgstr "产品目录排队等待与 Searchanise 同步。"
+
+msgctxt "Languages::text_se_re_indexation_required"
+msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise：需要重新指数化 (单击 <a href=\"[link]\"> Searchanise 管理面板 </a> 中的 <strong> 强制 Re-indexation </strong> 按钮)。"
+
+msgctxt "Languages::text_se_new_engine_store"
+msgid "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "Searchanise: 为[store] 创建的新搜索引擎。目录导入已启动。"
+
+msgctxt "Languages::text_se_seo_settings_notice"
+msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
+msgstr "如果您修改了任何 SEO 附加设置，请 <a href=\"[link]\"> 重新指数化 </a> 产品目录与 Searchanise 更新产品 url。"
+
+msgctxt "Languages::text_se_connect_error"
+msgid "An error occurred during Searchanise registration. Please try later."
+msgstr "Searchanise 注册期间发生错误。请稍后再试。"
+
+msgctxt "Languages::text_se_import_status_processing"
+msgid "The product catalog syncing is in progress."
+msgstr "产品目录同步正在进行中。"
+
+msgctxt "Languages::text_se_import_status_done"
+msgid "The product catalog was synced successfully with Searchanise."
+msgstr "产品目录已成功地与 Searchanise 同步。"
+
+msgctxt "Languages::text_se_import_status_none"
+msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "产品目录尚未与 Searchanise 同步。请按 \"同步\" 按钮开始。"
+
+msgctxt "Languages::text_se_data_update"
+msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
+msgstr "请注意，在您对存储进行更改后，Searchanise 服务器上的数据会以2-3 分钟的延迟进行更新。"
+
+msgctxt "Languages::text_se_signup"
+msgid "Click the button below to connect to Searchanise."
+msgstr "单击下面的按钮以连接到 Searchanise。"
+
+msgctxt "Languages::text_se_just_connected"
+msgid "Congratulations, you've just connected to Searchanise."
+msgstr "恭喜你，你刚和 Searchanise 联系过"
+
+msgctxt "Languages::text_se_connected"
+msgid "You've connected to Searchanise."
+msgstr "你已经连接至 Searchanise"
+
+msgctxt "Languages::text_se_ajax_connecting"
+msgid "Product indexation has started in your store. It may take some time. Wait just a little, we've almost finished."
+msgstr "产品索引已在您的商店中开始。这可能需要一些时间。稍等一下，我们差不多完成了。"
+
+msgctxt "Languages::text_se_database_restore_notice"
+msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "您刚刚从数据库转储文件中还原了数据。如果此转储包含产品数据，请 <a href=\"[link]\"> 重新指数化 </a> 它与 Searchanise。"
+
+msgctxt "Languages::text_se_only_root_can_register"
+msgid "Only the root admin has the permission to connect to Searchanise"
+msgstr "只有根管理员具有连接到 Searchanise 的权限"
+
+msgctxt "Languages::se_did_you_mean"
+msgid "Did you mean"
+msgstr "你的意思是"
+
+msgctxt "Languages::se_product_id"
+msgid "Product Id"
+msgstr "产品编号"
+
+msgctxt "Languages::se_title"
+msgid "Title"
+msgstr "标题"
+
+msgctxt "Languages::se_summary"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "Languages::se_link"
+msgid "Product Url"
+msgstr "产品 Url"
+
+msgctxt "Languages::se_price"
+msgid "Price"
+msgstr "价格"
+
+msgctxt "Languages::se_list_price"
+msgid "List Price"
+msgstr "价格"
+
+msgctxt "Languages::se_quantity"
+msgid "Quantity"
+msgstr "数量"
+
+msgctxt "Languages::se_product_code"
+msgid "Product Code"
+msgstr "产品代码"
+
+msgctxt "Languages::se_image_link"
+msgid "Image Url"
+msgstr "图像 Url"
+
+msgctxt "Languages::se_category_Id"
+msgid "Category Id"
+msgstr "类别 Id"
+
+msgctxt "Languages::se_category_usergroup_ids"
+msgid "Category Usergroup Ids"
+msgstr "类别用户 id"
+
+msgctxt "Languages::se_usergroup_ids"
+msgid "Usergroup Ids"
+msgstr "用户 Ids"
+
+msgctxt "Languages::se_company_id"
+msgid "Company Id"
+msgstr "公司 Id"
+
+msgctxt "Languages::se_empty_categories"
+msgid "Without Categories"
+msgstr "无类别"
+
+msgctxt "Languages::se_active_companies"
+msgid "Company is active"
+msgstr "公司已激活"
+
+msgctxt "Languages::se_price_for_usergroup_id"
+msgid "Price for usergroup Id ([id])"
+msgstr "用户 Id ([id]) 的价格"
+
+msgctxt "Languages::se_for_feature_id"
+msgid "Feature \"[id]\" Id"
+msgstr "功能 \"[id]\" Id"
+
+msgctxt "Languages::se_relevance"
+msgid "Relevance"
+msgstr "相关"
+
+msgctxt "Languages::se_products"
+msgid "Products"
+msgstr "产品"
+
+msgctxt "Languages::se_popular_suggestions"
+msgid "Popular suggestions"
+msgstr "热门建议"
+
+msgctxt "Languages::sort_by_relevance_asc"
+msgid "Sort by Relevance"
+msgstr "按相关排序"
+
+msgctxt "Languages::se_api_key"
+msgid "API key"
+msgstr "API 密钥"
+
+msgctxt "Languages::se_private_key"
+msgid "Private key"
+msgstr "私钥"
+
+msgctxt "Languages::se_options_combinations_codes"
+msgid "Options combinations codes"
+msgstr "选项组合代码"
+
+msgctxt "Languages::se_master_product_status"
+msgid "Common product status"
+msgstr "常见产品状态"
+
+msgctxt "Languages::se_is_vendor_product"
+msgid "Vendor product flag"
+msgstr "供应商产品标志"
+
+msgctxt "Languages::se_is_master_product"
+msgid "Сommon product flag"
+msgstr "Сommon 产品标志"
+
+msgctxt "Languages::se_connection_warning"
+msgid "Searchanise: There is no connection to Searchanise server! For Searchanise to work properly, the store server must be able to access searchserverapi.com. Please contact Searchanise <a href=\"mailto: [email]\">[email]</a> technical support or your system administrator."
+msgstr "Searchanise：没有连接到 Searchanise 服务器！要使 Searchanise 正常工作，商店服务器必须能够访问 searchserverapi.com。请联系 Searchanise <a href=\"mailto: [email]\">[email]</a> 技术支持或您的系统管理员。"
+
+msgctxt "Languages::se_queue_warning"
+msgid "Searchanise: We found an issue with the export of changes in your store catalog. To resolve the issue please contact the Searchanise <a href=\"mailto: [email]\">[email]</a> technical support."
+msgstr "Searchanise：我们发现导出您的商店目录中的更改存在问题。要解决此问题，请联系 Searchanise <a href=\"mailto: [email]\">[email]</a> 技术支持。"
+
+msgctxt "SettingsSections::searchanise::configuration"
+msgid "Configuration"
+msgstr "配置"
+

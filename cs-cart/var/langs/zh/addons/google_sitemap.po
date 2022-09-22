@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_sitemap.po\n"
+"X-Crowdin-File-ID: 6600\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::google_sitemap"
+msgid "Google sitemap"
+msgstr "谷歌站点地图"
+
+msgctxt "Addons::description::google_sitemap"
+msgid "Creates a sitemap.xml for Google"
+msgstr "创建一个sitemap.xml给谷歌"
+
+msgctxt "Languages::google_sitemap.text_regenerate"
+msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "如果添加或更改了产品、类别等, 请 <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\"> 重新生成站点地图 </a> <br/> <br/> [sitemap_available_in_customer]"
+
+msgctxt "Languages::google_sitemap.text_auto_regenerate"
+msgid "You can run the regeneration of the site map automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "您可以在特定时间间隔自动运行站点地图的重新生成。为此，请将以下命令添加到 CRON："
+
+msgctxt "Languages::google_sitemap.text_select_storefront"
+msgid "To generate a sitemap, please select storefront first."
+msgstr "要生成站点地图, 请先选择店面。"
+
+msgctxt "Languages::sitemap_available_in_customer"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "站点地图可查看此链接：<a href=\"[sitemap_url]\"> [sitemap_url] </a> <br/> <br/> 站点地图可以通过 URL <a href=\"[http_location]/sitemap.xml\"> [http_location]/站点地图访问。xml </a>"
+
+msgctxt "Languages::always"
+msgid "Always"
+msgstr "总是"
+
+msgctxt "Languages::hourly"
+msgid "Hourly"
+msgstr "每时"
+
+msgctxt "Languages::daily"
+msgid "Daily"
+msgstr "每天"
+
+msgctxt "Languages::weekly"
+msgid "Weekly"
+msgstr "每周"
+
+msgctxt "Languages::monthly"
+msgid "Monthly"
+msgstr "每月"
+
+msgctxt "Languages::yearly"
+msgid "Yearly"
+msgstr "每年"
+
+msgctxt "Languages::never"
+msgid "Never"
+msgstr "从不"
+
+msgctxt "Languages::google_sitemap.generate_map"
+msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "站点地图尚未生成。请转到插件设置并按 \"重新生成站点地图\" 按钮"
+
+msgctxt "Languages::google_sitemap.map_generated"
+msgid "The sitemap was generated successfully"
+msgstr "已成功生成站点地图"
+
+msgctxt "SettingsSections::google_sitemap::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::google_sitemap::information"
+msgid "Information"
+msgstr "信息"
+
+msgctxt "SettingsOptions::google_sitemap::clear_url"
+msgid "Clear cache"
+msgstr "清除缓存"
+
+msgctxt "SettingsOptions::google_sitemap::site_setting"
+msgid "Homepage settings"
+msgstr "主页设置"
+
+msgctxt "SettingsOptions::google_sitemap::site_change"
+msgid "Update frequency"
+msgstr "更新频率"
+
+msgctxt "SettingsOptions::google_sitemap::site_priority"
+msgid "Priority"
+msgstr "优先权"
+
+msgctxt "SettingsOptions::google_sitemap::products_setting"
+msgid "Products settings"
+msgstr "产品设置"
+
+msgctxt "SettingsOptions::google_sitemap::include_products"
+msgid "Include in sitemap"
+msgstr "包含在站点地图中"
+
+msgctxt "SettingsOptions::google_sitemap::products_change"
+msgid "Update frequency"
+msgstr "更新频率"
+
+msgctxt "SettingsOptions::google_sitemap::products_priority"
+msgid "Priority"
+msgstr "优先权"
+
+msgctxt "SettingsOptions::google_sitemap::categories_setting"
+msgid "Categories settings"
+msgstr "分类设置"
+
+msgctxt "SettingsOptions::google_sitemap::include_categories"
+msgid "Include in sitemap"
+msgstr "包含在站点地图中"
+
+msgctxt "SettingsOptions::google_sitemap::categories_change"
+msgid "Update frequency"
+msgstr "更新频率"
+
+msgctxt "SettingsOptions::google_sitemap::categories_priority"
+msgid "Priority"
+msgstr "优先权"
+
+msgctxt "SettingsOptions::google_sitemap::pages_setting"
+msgid "Pages settings"
+msgstr "页面设置"
+
+msgctxt "SettingsOptions::google_sitemap::include_pages"
+msgid "Include in sitemap"
+msgstr "包含在站点地图中"
+
+msgctxt "SettingsOptions::google_sitemap::pages_change"
+msgid "Update frequency"
+msgstr "更新频率"
+
+msgctxt "SettingsOptions::google_sitemap::pages_priority"
+msgid "Priority"
+msgstr "优先权"
+
+msgctxt "SettingsOptions::google_sitemap::extended_setting"
+msgid "Brand/Manufacturer feature pages settings"
+msgstr "扩展特征页面设置"
+
+msgctxt "SettingsOptions::google_sitemap::include_extended"
+msgid "Include in sitemap"
+msgstr "包含在站点地图中"
+
+msgctxt "SettingsOptions::google_sitemap::extended_change"
+msgid "Update frequency"
+msgstr "更新频率"
+
+msgctxt "SettingsOptions::google_sitemap::extended_priority"
+msgid "Priority"
+msgstr "优先权"
+
+msgctxt "SettingsOptions::google_sitemap::companies_setting"
+msgid "Companies settings"
+msgstr "公司设置"
+
+msgctxt "SettingsOptions::google_sitemap::include_companies"
+msgid "Include in sitemap"
+msgstr "包含在站点地图中"
+
+msgctxt "SettingsOptions::google_sitemap::companies_change"
+msgid "Update frequency"
+msgstr "更新频率"
+
+msgctxt "SettingsOptions::google_sitemap::companies_priority"
+msgid "Priority"
+msgstr "优先权"
+
+msgctxt "Languages::google_sitemap.export_progress_entry"
+msgid "[storefront]: [object]"
+msgstr "[storefront]: [object]"
+

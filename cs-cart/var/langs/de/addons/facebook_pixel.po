@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 6586\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Integriert ein Facebook-Pixel in den Shop"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Facebook-Pixel-Identifikator"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "Verfolgen Sie alle Seitenaufrufe"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "Verfolgen Sie das Hinzufügen von Produkten zum Warenkorb"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "Auftragserteilung verfolgen"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_title"
+msgid "Facebook Pixel"
+msgstr "Facebook-Pixel"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_description"
+msgid "Facebook Pixel is a tool that allows us to measure ad efficiency by tracking that the browser or device that received the ad also visited a product page, added product to cart, or placed an order. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "Facebook Pixel ist ein Tool, mit dem wir die Werbeeffizienz messen können, indem wir nachverfolgen, dass der Browser oder das Gerät, das die Anzeige erhalten hat, auch eine Produktseite besucht, ein Produkt in den Warenkorb gelegt oder eine Bestellung aufgegeben hat. Hier ist <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook-Datenschutzrichtlinie</a>."
+

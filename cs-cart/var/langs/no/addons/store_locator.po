@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.15.1/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 6728\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Butikker og hentepunkter"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Lar deg merke dine fysiske butikker på kartet og tilby kundene dine å hente bestillinger derfra, hvis en tilsvarende fraktmetode er konfigurert."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Vis på kart"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Skaffer en API-nøkkel"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Butikk beliggenhet"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Butikker og hentepunkter"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Butikk beliggenhet blokk"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Adresse ikke funnet"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Velg koordinater"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Sett"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Redigerer butikk beliggenhet"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Ny butikk beliggenhet"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Legg til butikk beliggenhet"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Koordinater"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "breddegrad"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "lengdegrad"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Alle butikker"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Generelt"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Vis kart i ordrerelaterte dokumenter"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Skriv ut kartet på pakkseddel og faktura"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Bruk en liste over byer i stedet for et kart"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Påvirker blokken Customer Geolocation. Listen vil bli generert fra byer som har butikker og hentepunkter."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Kan redigere"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Butikk finner"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Kan se"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "Fraktmetoden \"Kundehenting\" gir en kunde mulighet til å velge en butikk å hente et produkt fra. Butikkene kan opprettes i tillegget \"Butikksted\"<br /><b>Opprettelse av butikk:</b> <a href=\"[store_locator]\">Butikksted</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Velg butikker"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Hentepunkter"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "\"Posisjon\"-feltet i butikkinnstillingene"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Bestilling valgt i innstillingene for fraktmetode"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Utvalgte butikker"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Tilgjengelige butikker"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Kart og liste"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Kart"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Stedslistevisning på betalingssiden"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Plukke opp"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Tilgjengelig for Henting"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Arbeidstid"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Plukke opp"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Ingen passende destinasjon er funnet"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Ingen butikker er funnet"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Plukke opp"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Hente-ID"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Henting tilgjengelig"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Hentingstillegg"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Henteadresse"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Hentetelefon"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Hentetid"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "ID for hentedestinasjoner"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Skjul steder hvor jeg ikke kan hente bestillingen min"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Butikker og hentepunkter"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "I tidligere versjoner ble tillegget lagt til standardprisene som var spesifisert for en fraktmetode. Nå er ikke dette tillegget tatt med i beregningen av fraktpris. Vi la det her for enkelhets skyld, slik at du kunne se det og justere prisene på redigeringssiden for fraktmetoder tilsvarende."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Ligger i prisområdet"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Bestemmer fraktprisene for dette hentestedet. Prisene er spesifisert på redigeringssiden for fraktmetode. Hvis du ikke velger et prisområde for et hentepunkt, vil ikke hentepunktet vises i kassen."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Vis til"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Vis til"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Lar deg tilby dette hentepunktet til innbyggerne i andre prisområder ved kassen."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "fra [price]"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Bruk to fingre for å flytte kartet"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Rull til toppen"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Ingen takstområde"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Hentesteder"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Ethvert prisområde"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Henting fra butikk"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Enhver leverandør"
+
+msgctxt "Languages::store_locator.any"
+msgid "Any"
+msgstr "Noen"
+
+msgctxt "Languages::store_locator.shipping_price_from_to"
+msgid "from [from_price] to [to_price]"
+msgstr "fra [from_price] til [to_price]"
+

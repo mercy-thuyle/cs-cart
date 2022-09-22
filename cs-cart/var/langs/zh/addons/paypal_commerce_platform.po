@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_commerce_platform.po\n"
+"X-Crowdin-File-ID: 6632\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "贝宝商务平台"
+
+msgctxt "Addons::description::paypal_commerce_platform"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal."
+msgstr "这个附加组件将帮助根商店管理员通过 PayPal 在多个供应商之间自动分配资金。"
+
+msgctxt "SettingsSections::paypal_commerce_platform::general"
+msgid "General"
+msgstr "一般的"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::collect_payouts"
+msgid "Commission includes"
+msgstr "佣金包括"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::N"
+msgid "Order commission"
+msgstr "订单佣金"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "订单佣金和未付款项"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::rma_refunded_order_status"
+msgid "Order status on refund"
+msgstr "退款订单状态"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "贝宝商务平台"
+
+msgctxt "Languages::paypal_commerce_platform.paypal"
+msgid "PayPal"
+msgstr "贝宝"
+
+msgctxt "Languages::paypal_commerce_platform.payer_id"
+msgid "Merchant account ID"
+msgstr "商户账号"
+
+msgctxt "Languages::paypal_commerce_platform.client_id"
+msgid "App Client ID"
+msgstr "应用客户端 ID"
+
+msgctxt "Languages::paypal_commerce_platform.secret"
+msgid "App Secret"
+msgstr "应用秘密"
+
+msgctxt "Languages::paypal_commerce_platform.connect_with_paypal"
+msgid "Connect with PayPal"
+msgstr "与贝宝连接"
+
+msgctxt "Languages::paypal_commerce_platform.disconnect"
+msgid "Disconnect account"
+msgstr "断开帐户"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account"
+msgid "PayPal account"
+msgstr "贝宝账户"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account_short"
+msgid "PP a/c"
+msgstr "PP空调"
+
+msgctxt "Languages::paypal_commerce_platform.connected"
+msgid "Connected"
+msgstr "连接的"
+
+msgctxt "Languages::paypal_commerce_platform.not_connected"
+msgid "Not connected"
+msgstr "未连接"
+
+msgctxt "Languages::paypal_commerce_platform.account_connected"
+msgid "Your PayPal account has been successfully connected to the store"
+msgstr "您的 PayPal 账户已成功连接到商店"
+
+msgctxt "Languages::paypal_commerce_platform.account_connection_failure"
+msgid "Unable to connect your PayPal account to the store"
+msgstr "无法将您的 PayPal 帐户连接到商店"
+
+msgctxt "Languages::paypal_commerce_platform.account_disconnected"
+msgid "Your PayPal account has been successfully disconnected from the store"
+msgstr "您的 PayPal 帐户已成功与商店断开连接"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "订单 #[order_id]的提款"
+
+msgctxt "Languages::paypal_commerce_platform.refund_id"
+msgid "Refund transaction ID in PayPal"
+msgstr "PayPal 中的退款交易 ID"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal"
+msgid "Withdrawal amount"
+msgstr "提款金额"
+
+msgctxt "Languages::paypal_commerce_platform.rma.perform_refund"
+msgid "Give a refund via PayPal Commerce Platform"
+msgstr "通过 PayPal Commerce 平台退款"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "管理员更改退货请求状态后将进行退款"
+
+msgctxt "Languages::paypal_commerce_platform.rma.refund_performed"
+msgid "The refund has been made via PayPal Commerce Platform"
+msgstr "退款已通过 PayPal Commerce 平台进行"
+
+msgctxt "Languages::paypal_commerce_platform.order_id"
+msgid "Order ID in PayPal"
+msgstr "PayPal 中的订单 ID"
+
+msgctxt "Languages::paypal_commerce_platform.capture_id"
+msgid "Capture ID in PayPal"
+msgstr "在 PayPal 中获取 ID"
+
+msgctxt "Languages::paypal_commerce_platform.payout_id"
+msgid "Payout transaction ID in PayPal"
+msgstr "PayPal 中的付款交易 ID"
+
+msgctxt "Languages::paypal_commerce_platform.payout_failure_reason"
+msgid "Payout failure reason"
+msgstr "支付失败原因"
+
+msgctxt "Languages::paypal_commerce_platform.own_account_cant_be_used_for_vendor"
+msgid "Your own PayPal account can't be used to connect a vendor to the store"
+msgstr "您自己的 PayPal 帐户不能用于将供应商连接到商店"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "确定在通过 RMA 插件执行退款后是否更改订单状态。"
+
+msgctxt "Languages::paypal_commerce_platform.do_not_change"
+msgid "Do not change"
+msgstr "不要换"
+
+msgctxt "Languages::paypal_commerce_platform.set_status_to"
+msgid "Set to:"
+msgstr "设置："
+
+msgctxt "Languages::paypal_commerce_platform.webhook_help_message"
+msgid "Specify the following URL when configuring a webhook for your REST application:"
+msgstr "为 REST 应用程序配置 webhook 时指定以下 URL："
+
+msgctxt "Languages::paypal_commerce_platform.webhook"
+msgid "PayPal Commerce Platform webhook: [payload]"
+msgstr "PayPal Commerce Platform 网络挂钩： [payload]"
+
+msgctxt "Languages::paypal_commerce_platform.settings.account"
+msgid "Account settings"
+msgstr "帐号设定"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_funding"
+msgid "Funding sources to show on checkout"
+msgstr "结帐时显示的资金来源"
+
+msgctxt "Languages::paypal_commerce_platform.funding.card"
+msgid "Credit or debit cards"
+msgstr "信用卡或借记卡"
+
+msgctxt "Languages::paypal_commerce_platform.funding.credit"
+msgid "PayPal Credit"
+msgstr "贝宝信用"
+
+msgctxt "Languages::paypal_commerce_platform.funding.venmo"
+msgid "Venmo"
+msgstr "文莫"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sepa"
+msgid "SEPA-Lastschrift"
+msgstr "SEPA-Lastschrift"
+
+msgctxt "Languages::paypal_commerce_platform.funding.bancontact"
+msgid "Bancontact"
+msgstr "班接触"
+
+msgctxt "Languages::paypal_commerce_platform.funding.eps"
+msgid "eps"
+msgstr "每股收益"
+
+msgctxt "Languages::paypal_commerce_platform.funding.giropay"
+msgid "giropay"
+msgstr "转帐"
+
+msgctxt "Languages::paypal_commerce_platform.funding.ideal"
+msgid "iDEAL"
+msgstr "理想的"
+
+msgctxt "Languages::paypal_commerce_platform.funding.mybank"
+msgid "MyBank"
+msgstr "我的银行"
+
+msgctxt "Languages::paypal_commerce_platform.funding.p24"
+msgid "Przelewy24"
+msgstr "Przelewy24"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sofort"
+msgid "Sofort"
+msgstr "软软"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_cards"
+msgid "Cards to show on checkout"
+msgstr "结帐时显示的卡片"
+
+msgctxt "Languages::paypal_commerce_platform.card.visa"
+msgid "Visa"
+msgstr "签证"
+
+msgctxt "Languages::paypal_commerce_platform.card.mastercard"
+msgid "Mastercard"
+msgstr "万事达"
+
+msgctxt "Languages::paypal_commerce_platform.card.amex"
+msgid "American Express"
+msgstr "美国运通"
+
+msgctxt "Languages::paypal_commerce_platform.card.discover"
+msgid "Discover"
+msgstr "发现"
+
+msgctxt "Languages::paypal_commerce_platform.card.jcb"
+msgid "JCB"
+msgstr "JCB"
+
+msgctxt "Languages::paypal_commerce_platform.card.elo"
+msgid "Elo"
+msgstr "埃洛"
+
+msgctxt "Languages::paypal_commerce_platform.card.hiper"
+msgid "Hiper"
+msgstr "希佩尔"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.style"
+msgid "Button appearance"
+msgstr "按钮外观"
+
+msgctxt "Languages::paypal_commerce_platform.style.shape"
+msgid "Shape"
+msgstr "形状"
+
+msgctxt "Languages::paypal_commerce_platform.shape.pill"
+msgid "Pill"
+msgstr "丸"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "长方形"
+
+msgctxt "Languages::paypal_commerce_platform.style.color"
+msgid "Color"
+msgstr "颜色"
+
+msgctxt "Languages::paypal_commerce_platform.color.gold"
+msgid "Gold"
+msgstr "金子"
+
+msgctxt "Languages::paypal_commerce_platform.color.blue"
+msgid "Blue"
+msgstr "蓝色的"
+
+msgctxt "Languages::paypal_commerce_platform.color.silver"
+msgid "Silver"
+msgstr "银"
+
+msgctxt "Languages::paypal_commerce_platform.color.black"
+msgid "Black"
+msgstr "黑色的"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "长方形"
+
+msgctxt "Languages::paypal_commerce_platform.style.height"
+msgid "Height"
+msgstr "高度"
+
+msgctxt "Languages::paypal_commerce_platform.bn_code"
+msgid "Partner integration code"
+msgstr "合作伙伴集成代码"
+
+msgctxt "Languages::paypal_commerce_platform.debug_id"
+msgid "PayPal Debug ID"
+msgstr "贝宝调试 ID"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts"
+msgid "Delay transfer of funds"
+msgstr "延迟转账"
+
+msgctxt "Languages::paypal_commerce_platform.disburse_payouts_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "将资金转移给供应商"
+
+msgctxt "Languages::paypal_commerce_platform.automatic_disburse"
+msgid "Automatic transfer"
+msgstr "自动传输"
+
+msgctxt "Languages::paypal_commerce_platform.trigger_disburse_payouts.description"
+msgid "Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic disbursements to all vendors with a cron command. PayPal allows delays up to 28 days; after that, money will be disbursed to vendors automatically."
+msgstr "允许您先检查订单，而不是立即向所有供应商汇款。从订单页面手动向每个供应商转账，或使用 cron 命令安排自动定期向所有供应商付款。 PayPal 最多允许延迟 28 天；之后，资金将自动支付给供应商。"
+
+msgctxt "Languages::paypal_commerce_platform.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number up to 28. PayPal will automatically disburse money to vendors after 28 days."
+msgstr "下面的命令会自动将所有超过 14 天的订单的资金转移给供应商。将其添加到 cron 以确保供应商定期获得报酬。您可以将“--days”的值从 14 更改为最多 28 的任何数字。PayPal 将在 28 天后自动向供应商付款。"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "延迟向供应商转移资金"
+
+msgctxt "Languages::paypal_commerce_platform.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "资金已转给供应商。"
+
+msgctxt "Languages::paypal_commerce_platform.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "资金已成功转移。"
+
+msgctxt "Languages::paypal_commerce_platform.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "无法将资金转给供应商。请稍后再试或联系支付处理商。"
+
+msgctxt "Languages::paypal_commerce_platform.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "原因（由支付处理器提供）： [error_text]"
+

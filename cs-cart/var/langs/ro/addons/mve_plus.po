@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/mve_plus.po\n"
+"X-Crowdin-File-ID: 6612\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::mve_plus"
+msgid "Multi-Vendor Plus Functionality"
+msgstr "Funcționalitate Multi-Vendor Plus"
+
+msgctxt "Addons::description::mve_plus"
+msgid "Enables the functionality available only in the Multi-Vendor Plus edition."
+msgstr "Activează funcționalitatea disponibilă numai în ediția Multi-Vendor Plus."
+

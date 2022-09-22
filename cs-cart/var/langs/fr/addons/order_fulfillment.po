@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Exécution des commandes par place de marché"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Vous permet d'offrir des plans de fournisseur où le marché gère l'expédition pour les fournisseurs et conserve les frais d'expédition."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Type d'expédition"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Gérer l'expédition pour les fournisseurs dans le cadre de ce plan fournisseur. Si la place de marché gère l'expédition pour plusieurs fournisseurs, le client n'aura qu'à sélectionner une méthode d'expédition pour tous ces fournisseurs lors du paiement. Les frais d'expédition iront également au marché. <ul><li>Les fournisseurs qui ont l'exécution par place de marché dans le cadre de leur plan de fournisseur utilisent UNIQUEMENT les méthodes d'expédition qui appartiennent à la place de marché.</li><li>Les vendeurs qui n'ont pas d'exécution par place de marché utilisent UNIQUEMENT les méthodes d'expédition qui leur appartiennent spécifiquement.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "Les méthodes d'expédition appartenant au marché seront désormais disponibles pour les fournisseurs dont les plans de fournisseur incluent l'exécution par le marché."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "Les méthodes d'expédition appartenant au marché seront désormais disponibles en fonction des paramètres de chaque fournisseur. Les frais pour ces méthodes d'expédition iront aux fournisseurs, et non au marché."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Le fournisseur [name] est passé à un plan avec traitement des commandes par place de marché. Le vendeur utilisera désormais les méthodes d'expédition fournies par le marché au lieu des siennes."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Vous êtes passé à un plan avec traitement des commandes par place de marché. Désormais, les modes d'expédition marketplace seront proposés à vos clients."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Le fournisseur [name] est passé à un plan sans traitement des commandes par place de marché. Le vendeur doit maintenant proposer ses propres méthodes d'expédition."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Vous êtes passé à un plan sans traitement des commandes par place de marché. Assurez-vous de configurer vos propres méthodes d'expédition."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Réalisation par marché"
+

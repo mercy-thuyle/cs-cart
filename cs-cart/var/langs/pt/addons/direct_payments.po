@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "Pagamentos diretos de cliente a fornecedor"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "Altera o processo de checkout: os clientes pagam a cada fornecedor separadamente e o dinheiro dos pedidos vai direto para os fornecedores. Os fornecedores também podem configurar seus próprios métodos de pagamento e promoções."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "Resumo dos carrinhos"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "Pagando agora"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "Existem produtos no seu carrinho que ainda não encomendou. Por favor, <a href=\"[cart_url]\">veja seu carrinho</a> para continuar o checkout."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "Pagamento de comissão para o pedido #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "Você não tem nenhum método de pagamento ativo próprio. É por isso que os métodos de pagamento do proprietário do mercado serão usados no checkout. Para evitar atrasos no recebimento de dinheiro, configure sua própria forma de pagamento."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "Esses métodos de pagamento serão oferecidos aos clientes somente quando um fornecedor não tiver nenhum método de pagamento ativo. O dinheiro dos pedidos irá primeiro para o dono do mercado, que será informado sobre isso e terá que transferir esse dinheiro para o vendedor."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "Suas formas de pagamento"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "Formas de pagamento do proprietário do mercado"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "Crie uma forma de pagamento"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "Carrinho por fornecedores"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "Carrinho do cliente dividido por fornecedores no checkout"
+

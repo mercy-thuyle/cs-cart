@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/tilda_pages.po\n"
+"X-Crowdin-File-ID: 6678\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::tilda_pages"
+msgid "Landing pages from Tilda"
+msgstr "Tilda의 방문 페이지"
+
+msgctxt "Addons::description::tilda_pages"
+msgid "Allows you to link landing pages from Tilda to your site in a few clicks."
+msgstr "몇 번의 클릭으로 Tilda의 방문 페이지를 귀하의 사이트로 연결할 수 있습니다."
+
+msgctxt "SettingsOptions::tilda_pages::tilda_public_api_key"
+msgid "Public API key"
+msgstr "공개 API 키"
+
+msgctxt "SettingsOptions::tilda_pages::tilda_private_api_key"
+msgid "Secret API key"
+msgstr "비밀 API 키"
+
+msgctxt "Languages::tilda_pages.tilda_project"
+msgid "Project"
+msgstr "프로젝트"
+
+msgctxt "Languages::tilda_pages.tilda_page"
+msgid "Tilda page"
+msgstr "틸다 페이지"
+
+msgctxt "Languages::tilda_pages.tilda_pages"
+msgid "Tilda pages"
+msgstr "틸다 페이지"
+
+msgctxt "Languages::tilda_pages.add_tilda_page"
+msgid "Add Tilda page"
+msgstr "틸다 페이지 추가"
+
+msgctxt "Languages::tilda_pages.editing_tilda_page"
+msgid "Editing Tilda page"
+msgstr "Tilda 페이지 편집"
+
+msgctxt "Languages::tilda_pages.new_tilda_page"
+msgid "New Tilda page"
+msgstr "새로운 틸다 페이지"
+
+msgctxt "Languages::tilda_pages.use_top_panel"
+msgid "Use Top Panel, Header, and Footer of this store"
+msgstr "이 상점의 상단 패널, 머리글 및 바닥글 사용"
+
+msgctxt "Languages::tilda_pages.use_tilda_page"
+msgid "Use Tilda page"
+msgstr "Tilda 페이지 사용"
+
+msgctxt "Languages::tilda_pages.tilda_override_block"
+msgid "Tilda content is used instead of this block"
+msgstr "이 블록 대신 Tilda 콘텐츠가 사용됩니다."
+
+msgctxt "Languages::tilda_pages.tilda_override_location"
+msgid "Tilda page is used instead of this location"
+msgstr "이 위치 대신 Tilda 페이지가 사용됩니다."
+
+msgctxt "Languages::tilda_pages.additional_settings_info"
+msgid "After entering the api keys, additional settings will become available."
+msgstr "API 키를 입력하면 추가 설정을 사용할 수 있습니다."
+
+msgctxt "Languages::tilda_pages.auto_sync_title"
+msgid "Link for auto synchronization"
+msgstr "자동 동기화 링크"
+
+msgctxt "Languages::tilda_pages.go_to_tilda"
+msgid "Go to Tilda page"
+msgstr "틸다 페이지로 이동"
+
+msgctxt "Languages::tilda_pages.published"
+msgid "Published"
+msgstr "게시됨"
+
+msgctxt "Languages::tilda_pages.generate_block"
+msgid "Embed storefront block into Tilda page"
+msgstr "Tilda 페이지에 상점 블록 포함"
+
+msgctxt "Languages::tilda_pages.generate_block_help"
+msgid "<ol><li>Use the <b>Block manager [bm_icon]</b> button in the WYSIWYG editor to select the [product] blocks you want to show on a Tilda page.</li><li>Switch the editor to the <b>HTML mode [html_icon]</b> and copy the generated code.</li><li>In Tilda, add an \"HTML Code\" block to your page and paste the generated code there. This will make the [product] blocks appear on the Tilda page after you publish it to the site.</li></ol>"
+msgstr "<ol><li>WYSIWYG 편집기의 <b>블록 관리자 [bm_icon]</b> 버튼을 사용하여 Tilda 페이지에 표시할 [product] 블록을 선택합니다.</li><li>편집기를 <b>HTML 모드 [html_icon]</b> 으로 전환하고 생성된 코드를 복사합니다.</li><li>Tilda에서 \"HTML Code\" 블록을 페이지에 추가하고 생성된 코드를 거기에 붙여넣습니다. 이렇게 하면 사이트에 게시한 후 Tilda 페이지에 [product] 블록이 표시됩니다.</li></ol>"
+
+msgctxt "Languages::tilda_pages.settings_error"
+msgid "Not enough data for the correct operation of the add-on. Please make sure you specified everything in the settings of the <a href=\"[url]\">\"Landing pages from Tilda\"</a> add-on."
+msgstr "애드온의 올바른 작동을 위한 데이터가 충분하지 않습니다. <a href=\"[url]\">\"Tilda의 방문 페이지\"</a> 추가 기능의 설정에서 모든 것을 지정했는지 확인하십시오."
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_title"
+msgid "Tilda Pages"
+msgstr "틸다 페이지스"
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_description"
+msgid "Tilda is a service that allows us to create landings and other pages. Some of the site's pages may work incorrectly without them. Here is <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishing privacy policy</a>."
+msgstr "Tilda는 방문 및 기타 페이지를 만들 수 있는 서비스입니다. 사이트의 일부 페이지가 없으면 제대로 작동하지 않을 수 있습니다. 여기 <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishing 개인 정보 보호 정책</a>입니다."
+

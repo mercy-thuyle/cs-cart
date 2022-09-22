@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "Πακέτα προϊόντων"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "Σας επιτρέπει να δημιουργείτε πακέτα προϊόντων και να ορίζετε εκπτώσεις για αυτά."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "Πακέτα προϊόντων"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "Δείτε, προσθέστε και επεξεργαστείτε πακέτα προϊόντων."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "Εικόνα προώθησης"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "Εμφάνιση σε προσφορές"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "Πακέτα προϊόντων"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "Τιμή για όλα"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "Μοιραστε την έκπτωση"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "Όνομα πακετου"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "Προϊόντα στο πακέτο"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "Συνολικό κόστος"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "Προσθήκη νέου πακέτου"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "Το πακέτο <b>[bundle_name]</b> απενεργοποιήθηκε, επειδή διαγράφηκαν τα προϊόντα από αυτό το πακέτο.|Το πακέτο <b>[bundle_name]</b> απενεργοποιήθηκε, επειδή ένα από τα προϊόντα του διαγράφηκε."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "Νέο πακετο"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "Ενεργά πακέτα"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "Προσδιορίστε χαρακτηριστικά"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "Οποιαδήποτε παραλλαγή"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "Καθορίστε επιλογές"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "Συνολική τιμή καταλόγου"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "Έκπτωση παραγγελίας"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "Προσθήκη όλων στο καλάθι"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "Συνδεθείτε για να δείτε την τιμή"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "Λεπτομέρειες Πακετου"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "Πακέτα με προϊόν"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "Αυτό το όνομα εμφανίζεται μόνο στον πίνακα \"Διαχειριστή\" για να σας βοηθήσει να διακρίνετε πολλά πακέτα προϊόντων που έχουν το ίδιο εμφανιζόμενο όνομα."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "Εμφάνιση στη σελίδα προϊόντων"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "Είστε βέβαιοι ότι θέλετε να δημιουργήσετε ένα πακέτο χωρίς προϊόντα;"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "Είστε βέβαιοι ότι θέλετε να δημιουργήσετε ένα πακέτο με 1 προϊόν;"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "Οι επιλογές προϊόντων Θα πρέπει να προσδιορίζονται"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "Μπορεί να δει"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "Μπορεί να επεξεργαστεί"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "Πακέτα προϊόντων"
+

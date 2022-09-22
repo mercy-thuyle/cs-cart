@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "بيانات البائعين قبل الاعتدال"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "يتيح لك الإشراف المسبق على نشاط البائعين"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "تم تعطيل الوظيفة الإضافية للإنشاء المسبق لبيانات البائع. المنتجات ذات الحالة \"مطلوب الموافقة\" أو \"مرفوض\" لم تعد تتمتع بأي حالة. لن تظهر هذه المنتجات للعملاء حتى تقوم أنت أو البائعين بتعيين حالة أخرى لهم. إذا قمت بتنشيط الوظيفة الإضافية مرة أخرى ، فستستعيد المنتجات التي ليس لها حالة حالة حالتها. إذا قمت بإلغاء تثبيت الوظيفة الإضافية ، فستحصل جميع المنتجات على الحالة الصحيحة تلقائيًا."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "إدارة المنتجات الفردية أو المجموعة المعتمدة من تجار المتجر."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "بيانات البائعين قبل الاعتدال"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "الموافقة على المنتج"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "إشعار التاجر بالبريد الاكتروني"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "تمت الموافقة على منتجك [product] من قبل إدارة المتجر وإضافته إلى كتالوج المنتج. يمكن للمتسوقين الآن طلب هذا المنتج في المتجر."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "تم رفض المنتج [product] بواسطة إدارة المتجر"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "شكرا لك لإضافتك منتجات جديدة ، المنتجات التالية تم اعتمادها من قبل ادارة المتجر وتمت إضافتها الى قائمة المنتجات"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "الآن يمكن للمتسوقين طلب هذه المنتجات في المتجر."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "شكرا لك لإضافتك منتجات جديدة ، المنتجات التالية تم رفضها من قبل ادارة المتجر"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "اعتمد المحدد"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "رفض المحدد"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "تتطلب الموافقة على المنتجات الجديدة"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "تتطلب الموافقة على المنتجات المحدثة"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "تتطلب الموافقة على تغييرات ملف تعريف البائع"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "لديك منتجات تتطلب موافقتك. الرجاء <a href=\"[link]\"> اتباع هذا الرابط </a> لمراجعة هذه المنتجات."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "كان منتجك (منتجاتك) [status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "الموافقة"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "هل أنت متأكد من أنك تريد تحديث الملف الشخصي؟ لن تكون المعلومات الخاصة بشركتك متاحة في منطقة العميل حتى يوافق عليها المسؤول."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "يمكن إدارة"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "الموافقة على المنتج"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "حساب البائع"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "منتجات البائعين"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "الموافقة على المنتجات الجديدة"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "الموافقة على تحديثات معلومات المنتج"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "الموافقة على تحديثات ملف البائع"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "إعلام البائعين بنتائج الإشراف على المنتج"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "تتطلب الموافقة على تحديثات"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "غير مطلوب"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "مطلوب لبعض البائعين"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "مطلوب لجميع البائعين"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "غير مطلوب"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "مطلوب لبعض البائعين"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "مطلوب لجميع البائعين"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "غير مطلوب"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "مطلوب لبعض البائعين"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "مطلوب لجميع البائعين"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "لا تخطر"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "ارسل بريد الكتروني"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "عرض إشعار في مركز الإخطارات"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "أرسل بريدًا إلكترونيًا واعرض إشعارًا في مركز الإخطارات"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "الإشراف المسبق للبائع"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "استبعاد المنتجات المرفوضة"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "يتطلب الموافقة"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "مرفوض"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "المنتجات على الاشراف"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "المنتجات المرفوضة"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "مرفوض"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "الموافقة على المنتج"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "الموافقة على \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "منتج مرفوض"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "رفض \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "منتجات مرفوضة"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "سبب الرفض"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "أدخل سبب الرفض واحفظ التغييرات."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "لديك [n] منتج يتطلب موافقتك | لديك [n] من المنتجات التي تتطلب موافقتك"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "هذا المنتج في انتظار موافقتك منذ [since]. انقر هنا لعرض هذا المنتج. | هذه المنتجات معلقة لموافقتك منذ [since]. انقر هنا لعرض هذه المنتجات."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "تمت الموافقة على منتجك | تمت الموافقة على منتجاتك"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "تمت الموافقة على \"[product]\" من قبل إدارة المتجر وإضافته إلى كتالوج المنتج. انقر هنا لعرض هذا المنتج. تم اعتماد | [n] من المنتجات من قبل إدارة المتجر وإضافتها إلى كتالوج المنتجات. انقر هنا لعرض هذه المنتجات."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "تم رفض منتجك | تم رفض منتجاتك"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "تم رفض \"[product]\" من قبل إدارة المتجر. انقر هنا لعرض هذا المنتج. | [n] من المنتجات تم رفضها من قبل إدارة المتجر. انقر هنا لعرض هذه المنتجات."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "تم حفظ التغييرات. قبل إضافة منتجك إلى كتالوج المنتج ، يجب أن تتم الموافقة عليه من قبل إدارة المتجر. اتبع <a href=\"[product_approval_url]\"> هذا الرابط </a> لعرض المنتجات التي تتطلب الموافقة. | تم حفظ التغييرات التي أجريتها. قبل إضافة منتجاتك إلى كتالوج المنتجات ، يجب اعتمادها من قبل إدارة المتجر. اتبع <a href=\"[product_approval_url]\"> هذا الرابط </a> لعرض المنتجات التي تتطلب الموافقة."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "الإشراف المسبق على بيانات البائع: تمت الموافقة على منتجك"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "الإشراف المسبق على بيانات البائع: تم رفض منتجك"
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "إذا كانت الموافقة مطلوبة فقط لبعض الموردين ، فستتمكن من تعيين البائعين الذين يحتاجون إلى الإشراف في علامة التبويب الوظائف الإضافية في صفحة تحرير المورد."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "الإشراف المسبق على بيانات البائع: تمت الموافقة على منتجك"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "الإشراف المسبق على بيانات البائع: تم رفض منتجك"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "الإشراف"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "الموافقة على البائعين الجدد"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "غير مطلوب"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "مطلوب لجميع البائعين"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "إذا كنت ترغب في منع تسجيل البائع تمامًا ، فيرجى تحديد <a href=\"[url]\" target=\"_blank\">إعدادات → بائعون</a>."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "قبل [date]"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "تم الحذف"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "مضاف"
+

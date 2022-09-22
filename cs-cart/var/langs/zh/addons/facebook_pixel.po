@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 6586\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "脸书像素"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "将 Facebook Pixel 与商店集成"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "一般的"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Facebook 像素标识符"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "跟踪所有页面浏览量"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "跟踪将产品添加到购物车"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "追踪下单"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_title"
+msgid "Facebook Pixel"
+msgstr "脸书像素"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_description"
+msgid "Facebook Pixel is a tool that allows us to measure ad efficiency by tracking that the browser or device that received the ad also visited a product page, added product to cart, or placed an order. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "Facebook Pixel 是一种工具，它允许我们通过跟踪接收广告的浏览器或设备是否还访问过产品页面、将产品添加到购物车或下订单来衡量广告效率。这是 <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook 隐私政策</a>。"
+

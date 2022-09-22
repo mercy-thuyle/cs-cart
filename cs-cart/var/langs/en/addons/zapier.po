@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::zapier"
+msgid "Integration with Zapier"
+msgstr "Integration with Zapier"
+
+msgctxt "Addons::description::zapier"
+msgid "Allows you to integrate CS-Cart with over 4 000 other apps through Zapier."
+msgstr "Allows you to integrate CS-Cart with over 4 000 other apps through Zapier."
+
+msgctxt "Languages::privileges.manage_zapier_hooks"
+msgid "Can edit"
+msgstr "Can edit"
+
+msgctxt "Languages::privileges.view_zapier_hooks"
+msgid "Can view"
+msgstr "Can view"
+
+msgctxt "Languages::privilege_groups.zapier_hooks"
+msgid "Zapier hooks"
+msgstr "Zapier hooks"
+
+msgctxt "Languages::zapier.text_settings_general"
+msgid "Learn more about setting up integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">in the documentation</a>."
+msgstr "Learn more about setting up integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">in the documentation</a>."

@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/access_restrictions.po\n"
+"X-Crowdin-File-ID: 6540\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::access_restrictions"
+msgid "Access restrictions"
+msgstr "Åtkomstbegränsningar"
+
+msgctxt "Addons::description::access_restrictions"
+msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
+msgstr "Låter dig begränsa åtkomst till butik och kontrollpanel från utvalda IP-adresser med olika alternativ"
+
+msgctxt "Languages::access_restrictions"
+msgid "Access restrictions"
+msgstr "Åtkomstbegränsningar"
+
+msgctxt "Languages::add_ips"
+msgid "Add IPs"
+msgstr "Lägg till IP-adresser"
+
+msgctxt "Languages::new_ips"
+msgid "New IPs"
+msgstr "Nya IP-adresser"
+
+msgctxt "Languages::add_domains"
+msgid "Add domains"
+msgstr "Lägg till domäner"
+
+msgctxt "Languages::new_domains"
+msgid "New domains"
+msgstr "Nya domäner"
+
+msgctxt "Languages::add_emails"
+msgid "Add e-mail addresses"
+msgstr "Lägg till e-postadress"
+
+msgctxt "Languages::new_emails"
+msgid "New e-mail addresses"
+msgstr "Nya e-postadresser"
+
+msgctxt "Languages::new_credit_card"
+msgid "New credit card"
+msgstr "Nytt betalkort"
+
+msgctxt "Languages::add_credit_card"
+msgid "Add credit card"
+msgstr "Lägg till betalkort"
+
+msgctxt "Languages::privileges.manage_access_restrictions"
+msgid "Can edit"
+msgstr "Kan redigera"
+
+msgctxt "Languages::privilege_groups.access_restrictions"
+msgid "Access restrictions"
+msgstr "Åtkomstbegränsningar"
+
+msgctxt "Languages::domain"
+msgid "Domain"
+msgstr "Domän"
+
+msgctxt "Languages::warning_of_ip_adding"
+msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
+msgstr "Den angivna IP-adressen <b>[entered_ip]</b> nekas åtkomst till kontrollpanelen från din dator (ditt IP är <b>[your_ip]</b>)."
+
+msgctxt "Languages::text_cc_number_is_blocked"
+msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "Betalkortnummer <b>[cc_number]</b> är blockerat av kundtjänst. Kontakta kundtjänst eller prova ett annat kort."
+
+msgctxt "Languages::text_not_valid_ip"
+msgid "<b>[ip]</b> is not a valid ip address."
+msgstr "<b>[ip]</b> är ingen giltig IP-adress."
+
+msgctxt "Languages::text_not_valid_domain"
+msgid "<b>[domain]</b> is not a valid domain name."
+msgstr "<b>[domain]</b> är inte ett giltigt domännamn."
+
+msgctxt "Languages::text_not_valid_cc_number"
+msgid "<b>[cc_number]</b> is not a valid credit card number."
+msgstr "<b>[cc_number]</b> är ingen giltigt betalkortnummer."
+
+msgctxt "Languages::text_email_is_blocked"
+msgid "The e-mail address <b>[email]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "E-postadressen <b>[email]</b> är blockerad av administratör. Kontakta kundtjänst eller prova en annan e-postadress."
+
+msgctxt "Languages::text_ips_denied"
+msgid "You are not allowed to access this area"
+msgstr "Du har ingen behörighet för denna avdelning"
+
+msgctxt "Languages::text_ip_blocked_failed_login"
+msgid "The IP was blocked after [number] unsuccessful logins"
+msgstr "IP-adressen blev blockerad efter [number] misslyckade inloggningar"
+
+msgctxt "Languages::text_ip_is_blocked"
+msgid "Your IP address is blocked."
+msgstr "Din IP-adress är blockerad."
+
+msgctxt "Languages::store_admin"
+msgid "Store administrator"
+msgstr "Butiksadministratör"
+
+msgctxt "Languages::your_ip_added"
+msgid "Your IP address <b>[ip]</b> has been added to the access restrictions table."
+msgstr "Din IP-adress <b>[ip]</b> har lagts till i listan med åtkomstbegränsningar."
+
+msgctxt "Languages::your_ip_enabled"
+msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
+msgstr "Din IP-adress <b>[ip]</b> har aktiverats i listan med åtkomstbegränsningar."
+
+msgctxt "Languages::your_ip_removed"
+msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
+msgstr "Din IP-adress <b>[ip]</b> har tagits bort från listan med åtkomstbegränsningar."
+
+msgctxt "Languages::ip_from"
+msgid "IP from"
+msgstr "IP från"
+
+msgctxt "Languages::ip_to"
+msgid "IP to"
+msgstr "IP till"
+
+msgctxt "Languages::text_access_notice"
+msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
+msgstr "Tillåtna jokertecken för sökning i \"Domän\", \"E-postadress\" och \"Betalkort\":<br><b>?</b> - Enskilda tecken.<br><b>*</b> - Alla tecken."
+
+msgctxt "Languages::ips"
+msgid "IPs"
+msgstr "IP-adresser"
+
+msgctxt "Languages::make_permanent"
+msgid "Make permanent"
+msgstr "Gör permanent"
+
+msgctxt "Languages::credit_card_number"
+msgid "Credit card number"
+msgstr "Betalkortnummer"
+
+msgctxt "SettingsSections::access_restrictions::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::access_restrictions::elm_administrator_area_settings"
+msgid "Administrator area settings"
+msgstr "Kontrollpanelen"
+
+msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
+msgid "Allow login to the admin area from specified IPs only"
+msgstr "Tillåt inloggning endast från specificerade IP"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Blockera IP efter flera misslyckade försök"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
+msgid "Number of unsuccessful attempts"
+msgstr "Antal misslyckade försök"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Tid mellan misslyckade försök (sek)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Tid som IP skall blockeras (tim)"
+
+msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
+msgid "Customer area settings"
+msgstr "Butiksavdelningen"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Blockera IP efter flera misslyckade försök"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
+msgid "Number of unsuccessful attempts"
+msgstr "Antal misslyckade försök"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Tid mellan misslyckade försök (sek)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block_customer"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Tid som IP skall blockeras (tim)"
+

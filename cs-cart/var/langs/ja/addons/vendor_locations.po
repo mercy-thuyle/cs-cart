@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "出品者所在地 [ベータ]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "出品者の所在地を設定できます。お客様は出品者からの距離を知ることができ、所在地から商品や出品者をフィルタすることができます。"
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "Google Map APIキー"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "APIキーを次のサイトの内容に従い取得してください：https://developers.google.com/maps/documentation/javascript/get-api-key"
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "距離フィルタのデフォルト値"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "距離フィルタを追加すると、現在地を入力して指定した距離の商品を検索することができます。この設定は距離フィルタのデフォルト値です。フィルタを追加していない場合は距離に関係なく商品が表示されます。"
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "距離フィルタの最大値"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "距離フィルタを追加すると、現在地を入力して指定した距離の商品を検索することができます。この設定は距離フィルタの最大値です。フィルタを追加していない場合は距離に関係なく商品が表示されます。"
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "距離測定単位"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "キロ"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "マイル"
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "出品者のデフォルト表示"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "どの出品者が出品者リスト（と地図上）にデフォルトで表示されるかを指定します。"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "すべて"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "お客様の市区町村"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "お客様の国"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "所在地"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "Googleマップ上の住所"
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "お客様の所在地"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "住所を入力して検索"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "出品者を検索"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "出品者（所在地フィルタ）"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "特定所在地の出品者を検索"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "近所の出品者"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "お客様市区町村に所在する出品者"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "出品者マップ"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "すべての出品者マップ"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "出品者を検索"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "現在地セレクター"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "出品者の市区町村"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "出品者までの距離"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "お客様の現在地"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "市区町村を選択"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "選択した市区町村"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "お客様の市区町村ではありませんか？"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "市区町村を検索"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "周辺を検索"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "周辺"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "出品者マップ"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "周辺の出品者"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "グーグルマップ"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Googleマップは、地図とそれらの地図上のさまざまな場所を表示したり、現在地を自動的に特定したりできるサービスです。これが <a href=\"https://policies.google.com/privacy\" target=\"_blank\">のGoogleプライバシーポリシーです。</a> プライバシーに関するGoogleの簡潔で包括的な <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">メモもお勧めします</a>。"
+

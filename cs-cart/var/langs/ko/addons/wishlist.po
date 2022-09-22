@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/wishlist.po\n"
+"X-Crowdin-File-ID: 6708\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::wishlist"
+msgid "Wish List"
+msgstr "위시리스트"
+
+msgctxt "Addons::description::wishlist"
+msgid "Lets customers store items in personal wish lists"
+msgstr "고객이 개인 위시리스트에 항목을 저장할 수 있습니다."
+
+msgctxt "Languages::add_to_wishlist"
+msgid "Add to wish list"
+msgstr "위시리스트에 추가"
+
+msgctxt "Languages::clear_wishlist"
+msgid "Clear wish list"
+msgstr "위시리스트 지우기"
+
+msgctxt "Languages::view_wishlist"
+msgid "View wish list"
+msgstr "위시리스트 보기"
+
+msgctxt "Languages::wishlist_content"
+msgid "Wish list content"
+msgstr "위시리스트 콘텐츠"
+
+msgctxt "Languages::wishlist"
+msgid "Wish list"
+msgstr "위시리스트"
+
+msgctxt "Languages::wishlist_short"
+msgid "Wish list"
+msgstr "위시리스트"
+
+msgctxt "Languages::wishlist_note"
+msgid "Go to your wishlist"
+msgstr "위시리스트로 이동"
+
+msgctxt "Languages::text_failed_gift_certificate_addition"
+msgid "Failed to add the certificate. Make sure the summary amount is not zero."
+msgstr "인증서를 추가하지 못했습니다. 요약 금액이 0이 아닌지 확인하십시오."
+
+msgctxt "Languages::text_gift_cert_added_to_wishlist"
+msgid "The gift certificate has been added to the wish list"
+msgstr "상품권이 위시리스트에 추가되었습니다."
+
+msgctxt "Languages::product_added_to_wl"
+msgid "The product was added to your Wish list"
+msgstr "제품이 위시리스트에 추가되었습니다"
+
+msgctxt "Languages::product_in_wishlist"
+msgid "This product is already in the wish list"
+msgstr "이 제품은 이미 위시리스트에 있습니다."
+
+msgctxt "Languages::wishlist_products"
+msgid "Wish list products"
+msgstr "위시리스트 제품"
+

@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-20 12:56\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "Комплекты товаров"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "Позволяет создавать комплекты товаров (бандлы) со скидками за их покупку вместе."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "Комплекты товаров"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "Просмотр, добавление и редактирование комплектов товаров."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "Промо-изображение"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "Показывать в промо-акциях"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "Добавить товары в комплект"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "Цена за все"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "Общая скидка"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "Название комплекта"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "Товары в комплекте"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "Итоговая стоимость"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "Добавить комплект"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "Комплект <b>[bundle_name]</b> был выключен, потому что один из товаров в комплекте был удалён.|Комплекты <b>[bundle_name]</b> были выключены, потому что один из товаров в комплекте был удалён."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "Новый комплект"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "Доступные комплекты"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "Выбрать характеристики"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "Любая вариация"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "Выбрать опции"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "Итоговая рекомендованная цена"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "Скидка на заказ"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "Добавить все в корзину"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "Авторизуйтесь, чтобы увидеть цену"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "Информация о комплекте"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "Комплекты с товаром"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "Это имя отображается только в панели администратора. Оно помогает отличать друг от друга те комплекты, у которых на витрине одинаковое имя."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "Показывать на странице товара"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "Вы уверены, что хотите создать комплект без товаров?"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "Вы уверены, что хотите создать комплект из одного товара?"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "Должны быть указаны опции товара"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "Просмотр"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "Редактирование"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "Комплекты товаров"
+

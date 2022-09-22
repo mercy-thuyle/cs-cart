@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/rma.po\n"
+"X-Crowdin-File-ID: 6656\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::rma"
+msgid "RMA"
+msgstr "RMA"
+
+msgctxt "Addons::description::rma"
+msgid "Adds a return management system"
+msgstr "添加一个退货管理系统"
+
+msgctxt "Languages::returned_products"
+msgid "Returned products"
+msgstr "退回的产品"
+
+msgctxt "Languages::rma_return"
+msgid "Return"
+msgstr "退货"
+
+msgctxt "Languages::no_return_requests_found"
+msgid "No return requests found"
+msgstr "没有找到退货请求"
+
+msgctxt "Languages::returned_product"
+msgid "Returned product"
+msgstr "退回产品"
+
+msgctxt "Languages::returns"
+msgid "Returns"
+msgstr "退货"
+
+msgctxt "Languages::returns_info"
+msgid "Returns info"
+msgstr "退货信息"
+
+msgctxt "Languages::return_info"
+msgid "Return information"
+msgstr "退货信息"
+
+msgctxt "Languages::order_returns"
+msgid "Order returns"
+msgstr "退回订单"
+
+msgctxt "Languages::return_registration"
+msgid "Request a replacement or a refund"
+msgstr "要求更换或退款"
+
+msgctxt "Languages::return_requests"
+msgid "Return requests"
+msgstr "退货请求"
+
+msgctxt "Languages::return_requests_menu_description"
+msgid "View and process return requests from orders placed on your web site."
+msgstr "查看和处理从您的网站上下单的退货要求."
+
+msgctxt "Languages::return_status"
+msgid "Return status"
+msgstr "退货状态"
+
+msgctxt "Languages::return_period"
+msgid "Return period"
+msgstr "退货期"
+
+msgctxt "Languages::what_you_would_like_to_do"
+msgid "What would you like to do"
+msgstr "您想做什么"
+
+msgctxt "Languages::rma_notify_supplier"
+msgid "Notify supplier"
+msgstr "通知供应商"
+
+msgctxt "Languages::add_reason"
+msgid "Add reason"
+msgstr "添加原因"
+
+msgctxt "Languages::new_reason"
+msgid "New reason"
+msgstr "新的原因"
+
+msgctxt "Languages::type_comment"
+msgid "Type comments here"
+msgstr "在这里键入注释"
+
+msgctxt "Languages::return_requests_note"
+msgid "Go to the list of your return requests"
+msgstr "去你返回请求的列表"
+
+msgctxt "Languages::privileges.manage_rma"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.rma"
+msgid "Return merchandise authorization (RMA)"
+msgstr "退货授权 (RMA)"
+
+msgctxt "Languages::rma.text_return_change_warning"
+msgid "The status of return request will change from [old_status] to [new_status]."
+msgstr "退货请求的状态将从 [old_status] 变为 [new_status]。"
+
+msgctxt "Languages::returnable"
+msgid "Returnable"
+msgstr "可退回的"
+
+msgctxt "Languages::returnable_product"
+msgid "Returnable product"
+msgstr "可退回的产品"
+
+msgctxt "Languages::rma_request_statuses"
+msgid "RMA request statuses"
+msgstr "RMA请求状态"
+
+msgctxt "Languages::return_products_information"
+msgid "Return products information"
+msgstr "退货产品信息"
+
+msgctxt "Languages::declined_products_information"
+msgid "Declined products information"
+msgstr "降价产品信息"
+
+msgctxt "Languages::rma_reasons"
+msgid "RMA reasons"
+msgstr "RMA原因"
+
+msgctxt "Languages::rma_actions"
+msgid "RMA actions"
+msgstr "RMA 操作"
+
+msgctxt "Languages::rma"
+msgid "RMA"
+msgstr "RMA"
+
+msgctxt "Languages::return_period_days"
+msgid "Return period (days)"
+msgstr "退货期 (天)"
+
+msgctxt "Languages::all_actions"
+msgid "All actions"
+msgstr "所有操作"
+
+msgctxt "Languages::decline_products"
+msgid "Decline products"
+msgstr "降价产品"
+
+msgctxt "Languages::create_gift_certificate"
+msgid "Create gift certificate"
+msgstr "创建礼卷"
+
+msgctxt "Languages::accept_products"
+msgid "Accept products"
+msgstr "接受产品"
+
+msgctxt "Languages::rma.recalculate_order"
+msgid "Recalculate order"
+msgstr "重新计算订单"
+
+msgctxt "Languages::rma.manually_recalculate_order"
+msgid "Set the new order total manually"
+msgstr "手动设置新订单总额"
+
+msgctxt "Languages::rma.dont_recalculate_order"
+msgid "Don't recalculate order"
+msgstr "不要重新计算订单"
+
+msgctxt "Languages::delete_this_return"
+msgid "Delete this return"
+msgstr "删除这个退货"
+
+msgctxt "Languages::update_totals_and_inventory"
+msgid "Update totals and inventory"
+msgstr "更新汇总和库存"
+
+msgctxt "Languages::request_statuses"
+msgid "request statuses"
+msgstr "请求状态"
+
+msgctxt "SettingsSections::rma::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::rma::display_product_return_period"
+msgid "Display product return period"
+msgstr "显示产品退货周期"
+
+msgctxt "SettingsOptions::rma::dont_take_weekends_into_account"
+msgid "Do not take weekends into account when calculating product return period"
+msgstr "当计算产品退货期时不考虑周末"
+
+msgctxt "Languages::email_template.rma_slip_notification"
+msgid "RMA slip"
+msgstr "RMA 单"
+
+msgctxt "Languages::template_document_rma_packing_slip_default"
+msgid "Return request: packing slip"
+msgstr "返回请求： 装箱单"
+
+msgctxt "Languages::document_preview_return_request_not_found"
+msgid "Couldn't find a return request. Preview only works with existing data. Please create a return request and use Preview again."
+msgstr "找不到返回的请求。预览只适用于现有的数据。请创建一个返回的请求，并再次使用预览。"
+
+msgctxt "Languages::event.rma.status_changed.name"
+msgid "Return request status changed to [status]"
+msgstr "返回请求状态更改为 [status]"
+
+msgctxt "Languages::rma.choose_change_return_status"
+msgid "What to do with the order"
+msgstr "如何处理订单"
+
+msgctxt "Languages::rma.please_confirm_decision"
+msgid "Please confirm your decision."
+msgstr "请确认您的决定。"
+
+msgctxt "Languages::rma.order_total_will_changed"
+msgid "The order total will be set to"
+msgstr "订单总额将设置为"
+
+msgctxt "Languages::rma.shipping_costs_will_changed"
+msgid "Shipping costs will be set to"
+msgstr "运费将设置为"
+

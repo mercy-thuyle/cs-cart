@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/tilda_pages.po\n"
+"X-Crowdin-File-ID: 6678\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::tilda_pages"
+msgid "Landing pages from Tilda"
+msgstr "Landingssider fra Tilda"
+
+msgctxt "Addons::description::tilda_pages"
+msgid "Allows you to link landing pages from Tilda to your site in a few clicks."
+msgstr "Giver dig mulighed for at linke landingssider fra Tilda til dit websted med få klik."
+
+msgctxt "SettingsOptions::tilda_pages::tilda_public_api_key"
+msgid "Public API key"
+msgstr "Offentlig API-nøgle"
+
+msgctxt "SettingsOptions::tilda_pages::tilda_private_api_key"
+msgid "Secret API key"
+msgstr "Hemmelig API-nøgle"
+
+msgctxt "Languages::tilda_pages.tilda_project"
+msgid "Project"
+msgstr "Projekt"
+
+msgctxt "Languages::tilda_pages.tilda_page"
+msgid "Tilda page"
+msgstr "Tilda side"
+
+msgctxt "Languages::tilda_pages.tilda_pages"
+msgid "Tilda pages"
+msgstr "Tilda sider"
+
+msgctxt "Languages::tilda_pages.add_tilda_page"
+msgid "Add Tilda page"
+msgstr "Tilføj Tilda-side"
+
+msgctxt "Languages::tilda_pages.editing_tilda_page"
+msgid "Editing Tilda page"
+msgstr "Redigering af Tilda-siden"
+
+msgctxt "Languages::tilda_pages.new_tilda_page"
+msgid "New Tilda page"
+msgstr "Ny Tilda side"
+
+msgctxt "Languages::tilda_pages.use_top_panel"
+msgid "Use Top Panel, Header, and Footer of this store"
+msgstr "Brug toppanel, sidehoved og sidefod i denne butik"
+
+msgctxt "Languages::tilda_pages.use_tilda_page"
+msgid "Use Tilda page"
+msgstr "Brug Tilda-siden"
+
+msgctxt "Languages::tilda_pages.tilda_override_block"
+msgid "Tilda content is used instead of this block"
+msgstr "Tilda-indhold bruges i stedet for denne blok"
+
+msgctxt "Languages::tilda_pages.tilda_override_location"
+msgid "Tilda page is used instead of this location"
+msgstr "Tilda-siden bruges i stedet for denne placering"
+
+msgctxt "Languages::tilda_pages.additional_settings_info"
+msgid "After entering the api keys, additional settings will become available."
+msgstr "Efter indtastning af api-nøglerne vil yderligere indstillinger blive tilgængelige."
+
+msgctxt "Languages::tilda_pages.auto_sync_title"
+msgid "Link for auto synchronization"
+msgstr "Link til automatisk synkronisering"
+
+msgctxt "Languages::tilda_pages.go_to_tilda"
+msgid "Go to Tilda page"
+msgstr "Gå til Tilda-siden"
+
+msgctxt "Languages::tilda_pages.published"
+msgid "Published"
+msgstr "Udgivet"
+
+msgctxt "Languages::tilda_pages.generate_block"
+msgid "Embed storefront block into Tilda page"
+msgstr "Integrer butiksfacadeblok på Tilda-siden"
+
+msgctxt "Languages::tilda_pages.generate_block_help"
+msgid "<ol><li>Use the <b>Block manager [bm_icon]</b> button in the WYSIWYG editor to select the [product] blocks you want to show on a Tilda page.</li><li>Switch the editor to the <b>HTML mode [html_icon]</b> and copy the generated code.</li><li>In Tilda, add an \"HTML Code\" block to your page and paste the generated code there. This will make the [product] blocks appear on the Tilda page after you publish it to the site.</li></ol>"
+msgstr "<ol><li>Brug <b>Block manager [bm_icon]</b> knappen i WYSIWYG editoren til at vælge de [product] blokke, du vil vise på en Tilda side.</li><li>Skift editoren til <b>HTML-tilstand [html_icon]</b> og kopier den genererede kode.</li><li>I Tilda skal du tilføje en \"HTML Code\"-blok til din side og indsætte den genererede kode der. Dette vil få de [product] blokke til at blive vist på Tilda-siden, efter du har udgivet det til webstedet.</li></ol>"
+
+msgctxt "Languages::tilda_pages.settings_error"
+msgid "Not enough data for the correct operation of the add-on. Please make sure you specified everything in the settings of the <a href=\"[url]\">\"Landing pages from Tilda\"</a> add-on."
+msgstr "Ikke nok data til den korrekte drift af tilføjelsen. Sørg for, at du har angivet alt i indstillingerne for <a href=\"[url]\">\"Landingssider fra Tilda\"</a> -tilføjelsen."
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_title"
+msgid "Tilda Pages"
+msgstr "Tilda Pages"
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_description"
+msgid "Tilda is a service that allows us to create landings and other pages. Some of the site's pages may work incorrectly without them. Here is <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishing privacy policy</a>."
+msgstr "Tilda er en tjeneste, der giver os mulighed for at oprette landinger og andre sider. Nogle af webstedets sider fungerer muligvis forkert uden dem. Her er <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishings privatlivspolitik</a>."
+

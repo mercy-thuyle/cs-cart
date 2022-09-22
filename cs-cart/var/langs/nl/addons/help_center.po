@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/help_center.po\n"
+"X-Crowdin-File-ID: 6604\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "Helpcentrum"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "Voegt een help-knop met links naar relevante documentatie en/of video's toe aan verschillende pagina's in het admin-paneel."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "Helpen"
+
+msgctxt "Languages::help_center.help_center"
+msgid "Help Center"
+msgstr "Helpcentrum"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "Bekijk alle [n] resultaten..."
+
+msgctxt "Languages::help_center.customer_care"
+msgid "Customer Care"
+msgstr "Klantenservice"
+
+msgctxt "Languages::help_center.customer_care.view_all_tickets"
+msgid "View all tickets"
+msgstr "Bekijk alle tickets"
+
+msgctxt "Languages::help_center.customer_care.all_tickets"
+msgid "All tickets"
+msgstr "Alle tickets"
+
+msgctxt "Languages::help_center.customer_care.no_support_tickets"
+msgid "No support tickets found."
+msgstr "Geen supporttickets gevonden."
+
+msgctxt "Languages::help_center.customer_care.submit_ticket"
+msgid "Submit a ticket"
+msgstr "Dien een ticket in"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable"
+msgid "Your Customer Care subscription is not active"
+msgstr "Uw Customer Care-abonnement is niet actief"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable_description"
+msgid "Prolong the subscription to keep receiving support."
+msgstr "Verleng het abonnement om ondersteuning te blijven ontvangen."
+
+msgctxt "Languages::help_center.customer_care.prolong_subscription"
+msgid "Prolong subscription"
+msgstr "Abonnement verlengen"
+
+msgctxt "Languages::help_center.customer_care.sign_in_text"
+msgid "Sign in with your Help Desk account <br>to contact Customer Care and see your latest tickets."
+msgstr "Meld u aan met uw Help Desk-account <br>om contact op te nemen met de klantenservice en uw laatste tickets te bekijken."
+
+msgctxt "Languages::help_center.customer_care.status.resolved"
+msgid "Resolved"
+msgstr "Opgelost"
+
+msgctxt "Languages::help_center.customer_care.status.open"
+msgid "Open"
+msgstr "Open"
+
+msgctxt "Languages::help_center.customer_care.few_tickets_require_your_attention"
+msgid "A few tickets from Customer Care team require your attention. <a href=\"[url]\" target=\"[target]\">Click here to view tickets</a>"
+msgstr "Een paar tickets van het Customer Care-team vragen uw aandacht. <a href=\"[url]\" target=\"[target]\">Klik hier om tickets te bekijken</a>"
+

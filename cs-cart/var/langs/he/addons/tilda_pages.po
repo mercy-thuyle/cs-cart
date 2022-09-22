@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/tilda_pages.po\n"
+"X-Crowdin-File-ID: 6678\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::tilda_pages"
+msgid "Landing pages from Tilda"
+msgstr "דפי נחיתה של טילדה"
+
+msgctxt "Addons::description::tilda_pages"
+msgid "Allows you to link landing pages from Tilda to your site in a few clicks."
+msgstr "מאפשר לך לקשר דפי נחיתה מטילדה לאתר שלך בכמה קליקים."
+
+msgctxt "SettingsOptions::tilda_pages::tilda_public_api_key"
+msgid "Public API key"
+msgstr "מפתח API ציבורי"
+
+msgctxt "SettingsOptions::tilda_pages::tilda_private_api_key"
+msgid "Secret API key"
+msgstr "מפתח API סודי"
+
+msgctxt "Languages::tilda_pages.tilda_project"
+msgid "Project"
+msgstr "פּרוֹיֶקט"
+
+msgctxt "Languages::tilda_pages.tilda_page"
+msgid "Tilda page"
+msgstr "עמוד טילדה"
+
+msgctxt "Languages::tilda_pages.tilda_pages"
+msgid "Tilda pages"
+msgstr "דפי טילדה"
+
+msgctxt "Languages::tilda_pages.add_tilda_page"
+msgid "Add Tilda page"
+msgstr "הוסף את דף טילדה"
+
+msgctxt "Languages::tilda_pages.editing_tilda_page"
+msgid "Editing Tilda page"
+msgstr "עריכת דף טילדה"
+
+msgctxt "Languages::tilda_pages.new_tilda_page"
+msgid "New Tilda page"
+msgstr "עמוד חדש של טילדה"
+
+msgctxt "Languages::tilda_pages.use_top_panel"
+msgid "Use Top Panel, Header, and Footer of this store"
+msgstr "השתמש בלוח העליון, בכותרת העליונה ובכותרת התחתונה של חנות זו"
+
+msgctxt "Languages::tilda_pages.use_tilda_page"
+msgid "Use Tilda page"
+msgstr "השתמש בדף טילדה"
+
+msgctxt "Languages::tilda_pages.tilda_override_block"
+msgid "Tilda content is used instead of this block"
+msgstr "נעשה שימוש בתוכן של טילדה במקום בלוק זה"
+
+msgctxt "Languages::tilda_pages.tilda_override_location"
+msgid "Tilda page is used instead of this location"
+msgstr "דף טילדה משמש במקום מיקום זה"
+
+msgctxt "Languages::tilda_pages.additional_settings_info"
+msgid "After entering the api keys, additional settings will become available."
+msgstr "לאחר הזנת מפתחות ה-API, הגדרות נוספות יהפכו לזמינות."
+
+msgctxt "Languages::tilda_pages.auto_sync_title"
+msgid "Link for auto synchronization"
+msgstr "קישור לסנכרון אוטומטי"
+
+msgctxt "Languages::tilda_pages.go_to_tilda"
+msgid "Go to Tilda page"
+msgstr "עבור לדף טילדה"
+
+msgctxt "Languages::tilda_pages.published"
+msgid "Published"
+msgstr "יצא לאור"
+
+msgctxt "Languages::tilda_pages.generate_block"
+msgid "Embed storefront block into Tilda page"
+msgstr "הטמע בלוק חלון ראווה בדף טילדה"
+
+msgctxt "Languages::tilda_pages.generate_block_help"
+msgid "<ol><li>Use the <b>Block manager [bm_icon]</b> button in the WYSIWYG editor to select the [product] blocks you want to show on a Tilda page.</li><li>Switch the editor to the <b>HTML mode [html_icon]</b> and copy the generated code.</li><li>In Tilda, add an \"HTML Code\" block to your page and paste the generated code there. This will make the [product] blocks appear on the Tilda page after you publish it to the site.</li></ol>"
+msgstr "<ol><li>השתמש בלחצן <b>Block manager [bm_icon]</b> בעורך WYSIWYG כדי לבחור את [product] הבלוקים שברצונך להציג בדף טילדה.</li><li>העבר את העורך למצב <b>HTML [html_icon]</b> והעתק את הקוד שנוצר.</li><li>בטילדה, הוסף בלוק \"קוד HTML\" לדף שלך והדבק שם את הקוד שנוצר. זה יגרום ל [product] הבלוקים להופיע בדף טילדה לאחר שתפרסמו אותו באתר.</li></ol>"
+
+msgctxt "Languages::tilda_pages.settings_error"
+msgid "Not enough data for the correct operation of the add-on. Please make sure you specified everything in the settings of the <a href=\"[url]\">\"Landing pages from Tilda\"</a> add-on."
+msgstr "אין מספיק נתונים לפעולה נכונה של התוסף. אנא ודא שציינת הכל בהגדרות של התוסף <a href=\"[url]\">\"דפי נחיתה מטילדה\"</a>."
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_title"
+msgid "Tilda Pages"
+msgstr "טילדה דפי"
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_description"
+msgid "Tilda is a service that allows us to create landings and other pages. Some of the site's pages may work incorrectly without them. Here is <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishing privacy policy</a>."
+msgstr "Tilda הוא שירות המאפשר לנו ליצור נחיתות ודפים אחרים. חלק מדפי האתר עלולים לעבוד בצורה לא נכונה בלעדיהם. הנה <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">מדיניות הפרטיות של Tilda Publishing</a>."
+

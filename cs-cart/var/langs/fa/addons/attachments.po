@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "فایل پیوست"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "امکان پیوست فایل به محصولات"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "فایل پیوست"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "فایل پیوست جدید"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "قادر به افزودن پیوست"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "ویرایش فایل پیوست"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "لطفاً دایرکتوری پیوست‌ها را در فهرست اصلی فروشگاه مشخص کنید. پیوست ها را برای وارد کردن در این دایرکتوری قرار دهید."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "نمی‌توان پیوست‌ها را برای برخی از محصولات وارد کرد. یا آن پیوست‌ها وجود ندارند (یا قابل دسترسی نیستند)، یا مسیرهای آن پیوست‌ها در فایل وارد شده نادرست است."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "پیوست های محصول"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "جداکننده پیوست ها"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "جداکننده بین پیوست های یک محصول."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "پیوست های موجود را حذف کنید"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "اگر این تنظیم را فعال کنید، پیوست‌های موجود محصولات وارداتی با پیوست‌های مشخص‌شده در فایل وارداتی جایگزین می‌شوند (اگر هیچ پیوستی مشخص نشده باشد، پیوست‌های قدیمی باقی خواهند ماند). اگر تنظیم غیرفعال باشد، پیوست های جدید به سادگی به پیوست های موجود اضافه می شوند."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "فهرست پیوست ها"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "پیوست ها را در سرور خود ذخیره کنید"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "پیوست هایی که به عنوان URL در فایل وارد شده فهرست شده اند در سرور شما دانلود می شوند."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "فایل [url] برای محصول [product]بارگیری نشد"
+

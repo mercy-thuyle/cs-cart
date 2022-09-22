@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe.po\n"
+"X-Crowdin-File-ID: 6666\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "Stripe betalinger"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "Giver dig mulighed for at acceptere betalinger via Stripe."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "Stribe"
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "Udgivelig nøgle"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "Hemmelig nøgle"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "Betalings type"
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "Kreditkort"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Apples <a href=\"[guidelines_url]\" target=\"_blank\">retningslinjer for menneskelig grænseflade</a> kræver, at du viser Apple Pay-mærket på betalingssiden.</p><p>Du kan indstille følgende billede som betalingsmetodeikon eller bruge det i betalingsmetodebeskrivelsen:</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Googles <a href=\"[guidelines_url]\" target=\"_blank\">Brandretningslinjer</a> kræver, at du viser Google Pay-mærket på betalingssiden.</p><p>Du kan indstille følgende billede som betalingsmetodeikon eller bruge det i betalingsmetodebeskrivelsen:</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "Online betaling"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "Testbetaling (debiteres ikke)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "Dit kort debiteres ikke, når du bruger Apple Pay eller Google Pay."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "Apple Pay understøttes ikke på denne enhed"
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "Google Pay understøttes ikke på denne enhed"
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "Stripe betalingsmærke"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "Stripe konto land"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "Vis knappen \"[button_name]\" på produktsiderne"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "Køb med Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "Køb med Google Pay"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "Der opstod en fejl under oprettelse af en betalingshensigt med betalingen #[payment_id]: [error]"
+
+msgctxt "Languages::stripe.webhook_register_error"
+msgid "An error occurred while registering the webhook for the payment #[payment_id]: [error]"
+msgstr "Der opstod en fejl under registrering af webhook for betaling #[payment_id]: [error]"
+
+msgctxt "Languages::stripe.webhook_handle_error"
+msgid "An error occurred while processing the webhook: [error]"
+msgstr "Der opstod en fejl under behandling af webhook: [error]"
+
+msgctxt "Languages::stripe.merchant_identifier"
+msgid "Merchant identifier"
+msgstr "Sælger-id"
+
+msgctxt "Languages::stripe.stripe_cookie_title"
+msgid "Stripe"
+msgstr "Stribe"
+
+msgctxt "Languages::stripe.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe er en betalingsudbyder. Det giver os mulighed for at acceptere betalinger, hvis du vælger en betalingsmetode drevet af Stripe. Her er <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripes privatlivspolitik</a>."
+

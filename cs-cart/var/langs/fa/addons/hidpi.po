@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "HiDPI پشتیبانی را نمایش می دهد."
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "پشتیبانی از نمایش شبکیه چشم(Retina)"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "تمام تصاویر آپلود شده HiDPI را در نظر بگیرید"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "تمام تصاویر آپلود شده HiDPI را در نظر بگیرید"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "چک باکس های \"I'm uploading a HiDPI image\" را در هر جایی که تصاویر آپلود می شوند به صورت پیش فرض علامت بزنید. در صورت لزوم می‌توانید تیک آن کادرها را بردارید."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "پشتیبانی HiDPI فعال است"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "من یک تصویر HiDPI را آپلود می کنم."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "اگر این چک باکس تیک خورده باشد، تصویر منبع دو بار کوچک‌تر نمایش داده می‌شود. این تنظیم فقط بر نمایش تصویر منبع و نه تصویر کوچک آن تأثیر می گذارد. اگر می خواهید یک تصویر در اندازه اصلی نمایش داده شود، تیک این کادر را بردارید."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "بازیابی تصویر"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "نسخه قبلی افزونه پشتیبانی از نمایشگر HiDPI، تصاویر آپلود شده را کوچک کرد. الان نیازی به اون نیست اما برای اینکه تصاویرتان زیبا و واضح به نظر برسند، باید روی Restore کلیک کنید."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "بازگرداندن"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>توجه!</strong> این روش غیر قابل برگشت است: وقتی ارتقا را برگردانید، دستکاری های بازیابی تصویر برگردانده نمی شوند. بنابراین، لطفا مطمئن شوید که یک نسخه پشتیبان تهیه کنید. این روش ممکن است کمی طول بکشد - به تعداد تصاویر موجود در فروشگاه شما بستگی دارد."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "برخی از تصاویر قدیمی در فروشگاه شما هنوز کیفیت پایینی دارند. برای استفاده از بالاترین کیفیت ممکن، لطفا <a href=\"[convert_url]\">تصاویر با کیفیت بالا را بازیابی کنید</a>. فرآیند به صورت خودکار است."
+

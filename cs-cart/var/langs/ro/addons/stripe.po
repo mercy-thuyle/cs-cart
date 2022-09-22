@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe.po\n"
+"X-Crowdin-File-ID: 6666\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "Plăți Stripe"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "Vă permite să acceptați plăți prin Stripe."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "Dunga"
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "Cheie publicabilă"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "Cheie secreta"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "Tipul de plată"
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "Card de credit"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Ghidurile Apple <a href=\"[guidelines_url]\" target=\"_blank\">privind interfața umană</a> vă solicită să afișați marcajul Apple Pay pe pagina de finalizare a comenzii.</p><p>Puteți seta următoarea imagine ca pictogramă metodei de plată sau o puteți utiliza în descrierea metodei de plată:</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Ghidul Google <a href=\"[guidelines_url]\" target=\"_blank\">privind mărcile</a> vă solicită să afișați marca Google Pay pe pagina de finalizare a comenzii.</p><p>Puteți seta următoarea imagine ca pictogramă metodei de plată sau o puteți utiliza în descrierea metodei de plată:</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "Plata online"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "Plata de testare (nu va fi taxată)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "Cardul dvs. nu va fi debitat când utilizați Apple Pay sau Google Pay."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "Apple Pay nu este acceptat pe acest dispozitiv"
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "Google Pay nu este acceptat pe acest dispozitiv"
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "Jeton de plată Stripe"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "Țara contului Stripe"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "Afișați butonul „[button_name]” pe paginile produselor"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "Cumpărați cu Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "Cumpărați cu Google Pay"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "A apărut o eroare la crearea unui PaymentIntent cu plata #[payment_id]: [error]"
+
+msgctxt "Languages::stripe.webhook_register_error"
+msgid "An error occurred while registering the webhook for the payment #[payment_id]: [error]"
+msgstr "A apărut o eroare la înregistrarea webhook-ului pentru plata #[payment_id]: [error]"
+
+msgctxt "Languages::stripe.webhook_handle_error"
+msgid "An error occurred while processing the webhook: [error]"
+msgstr "A apărut o eroare la procesarea webhook-ului: [error]"
+
+msgctxt "Languages::stripe.merchant_identifier"
+msgid "Merchant identifier"
+msgstr "Identificatorul comerciantului"
+
+msgctxt "Languages::stripe.stripe_cookie_title"
+msgid "Stripe"
+msgstr "Dunga"
+
+msgctxt "Languages::stripe.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe este un furnizor de plăți. Ne permite să acceptăm plăți, dacă alegeți o metodă de plată alimentată de Stripe. Iată politica de confidențialitate <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe</a>."
+

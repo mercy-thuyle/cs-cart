@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/sms_notifications.po\n"
+"X-Crowdin-File-ID: 6670\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::sms_notifications"
+msgid "SMS notifications"
+msgstr "SMS-meddelanden"
+
+msgctxt "Addons::description::sms_notifications"
+msgid "Allows you to set up administrator SMS order notifications"
+msgstr "Låter dig sätta upp SMS ordermeddelanden"
+
+msgctxt "Languages::unicode_not_enabled"
+msgid "Unicode support can not be enabled: 'mbstring' PHP extension is not installed."
+msgstr "Unicode kunde inte aktiveras, extensionen PHP mbstring är inte installerad på servern."
+
+msgctxt "SettingsSections::sms_notifications::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number"
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number_from"
+msgid "Send from number"
+msgstr "Skicka från nummer"
+
+msgctxt "SettingsOptions::sms_notifications::elm_clickatell_settings"
+msgid "Clickatell settings"
+msgstr "Clickatell inställningar"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_user"
+msgid "Username"
+msgstr "Användarnamn"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_api_id"
+msgid "API ID"
+msgstr "API-ID"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_password"
+msgid "Password"
+msgstr "Lösenord"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_unicode"
+msgid "Use Unicode"
+msgstr "Använd Unicode"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_concat"
+msgid "Split long sms into several parts"
+msgstr "Dela upp långa sms i flera delar"
+
+msgctxt "SettingsOptions::sms_notifications::elm_send_sms_if"
+msgid "Send SMS if"
+msgstr "Skicka SMS om"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_order_placed"
+msgid "New order has been placed"
+msgstr "Ny order har lagts"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_cusomer_registered"
+msgid "New customer has been registered"
+msgstr "Ny kund har registrerats"
+
+msgctxt "SettingsOptions::sms_notifications::sms_product_negative_amount"
+msgid "Product quantity is less than zero"
+msgstr "Produktantalet är mindre än noll"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_min_amout"
+msgid "Only send when order total amount is more than"
+msgstr "Skicka endast om totalsumman är högre än"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_shipping"
+msgid "Only send for these shipping methods"
+msgstr "Skicka endast för dessa leveranssätt"
+
+msgctxt "SettingsOptions::sms_notifications::elm_sms_content"
+msgid "SMS content"
+msgstr "SMS innehåll"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_payment_info"
+msgid "Add payment info"
+msgstr "Lägg till betalinformation"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_customer_email"
+msgid "Add customers e-mail"
+msgstr "Lägg till kundernas e-postadress"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_1"
+msgid "Do not split"
+msgstr "Dela inte upp"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_2"
+msgid "2 sms"
+msgstr "2 sms"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_3"
+msgid "3 sms"
+msgstr "3 sms"
+

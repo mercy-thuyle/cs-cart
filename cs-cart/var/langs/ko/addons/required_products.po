@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/required_products.po\n"
+"X-Crowdin-File-ID: 6652\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::required_products"
+msgid "Required products"
+msgstr "필수 제품"
+
+msgctxt "Addons::description::required_products"
+msgid "Makes it possible to specify products required for purchase"
+msgstr "구매에 필요한 제품 지정 가능"
+
+msgctxt "Languages::required_products"
+msgid "Required products"
+msgstr "필수 제품"
+
+msgctxt "Languages::required_products_added"
+msgid "The following required product(s) were added to your cart"
+msgstr "다음 필수 제품이 장바구니에 추가되었습니다"
+
+msgctxt "Languages::required_products_out_of_stock"
+msgid "This product cannot be added to your cart, because following required product(s) are out of stock:"
+msgstr "다음 필수 제품의 재고가 없기 때문에 이 제품을 장바구니에 추가할 수 없습니다."
+

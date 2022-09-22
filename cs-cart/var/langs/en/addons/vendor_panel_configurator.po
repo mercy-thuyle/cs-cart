@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "Vendor panel configurator"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "Product page settings"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "Vendor panel style"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "This tab has no configurable fields and is displayed as is"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "Product page settings"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "Logos and styles"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "Page layouts"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "Manage layouts of the microstore and product pages"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "Manage how you receive payments from customers"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "Sidebar color"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "Element color"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "Sidebar background image"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "Seller info"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."

@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe_connect.po\n"
+"X-Crowdin-File-ID: 6676\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::stripe_connect"
+msgid "Stripe Connect payments"
+msgstr "Stripe Connect 決済"
+
+msgctxt "Addons::description::stripe_connect"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through Stripe."
+msgstr "Stripe 経由で複数の出品者への自動支払いを可能にします"
+
+msgctxt "SettingsSections::stripe_connect::general"
+msgid "General"
+msgstr "一般設定"
+
+msgctxt "SettingsOptions::stripe_connect::collect_payouts"
+msgid "Commission includes"
+msgstr "手数料"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::N"
+msgid "Order commission"
+msgstr "注文手数料"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "注文手数料と未払い料金"
+
+msgctxt "Languages::stripe_connect.stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripeへ接続"
+
+msgctxt "Languages::stripe_connect.stripe_connect_short"
+msgid "Stripe"
+msgstr "Stripe"
+
+msgctxt "Languages::stripe_connect.redirect_uri_admin"
+msgid "Redirect URI for administrator"
+msgstr "管理者用のリダイレクト URI"
+
+msgctxt "Languages::stripe_connect.redirect_uris.description"
+msgid "Copy and paste this address into your Stripe Connect app settings"
+msgstr "このアドレスをStripe Connectの設定にコピーして貼り付けてください。"
+
+msgctxt "Languages::stripe_connect.redirect_uri_vendor"
+msgid "Redirect URI for vendor"
+msgstr "出品者用のリダイレクト URI"
+
+msgctxt "Languages::stripe_connect.client_id"
+msgid "Client ID"
+msgstr "クライアント ID"
+
+msgctxt "Languages::stripe_connect.publishable_key"
+msgid "Publishable key"
+msgstr "公開可能キー"
+
+msgctxt "Languages::stripe_connect.secret_key"
+msgid "Secret key"
+msgstr "シークレットキー"
+
+msgctxt "Languages::stripe_connect.connect_with_stripe_standard"
+msgid "Connect with Stripe Standard"
+msgstr "Stripe Standardと接続"
+
+msgctxt "Languages::stripe_connect.disconnect"
+msgid "Disconnect account"
+msgstr "アカウントの接続解除"
+
+msgctxt "Languages::stripe_connect.stripe_account"
+msgid "Stripe account"
+msgstr "Stripe アカウント"
+
+msgctxt "Languages::stripe_connect.connected"
+msgid "Connected"
+msgstr "接続"
+
+msgctxt "Languages::stripe_connect.not_connected"
+msgid "Not connected"
+msgstr "未接続"
+
+msgctxt "Languages::stripe_connect.account_connected"
+msgid "Your Stripe account has been successfully connected to the store"
+msgstr "Stripe アカウントがショップに接続されました"
+
+msgctxt "Languages::stripe_connect.account_disconnected"
+msgid "Your Stripe account has been successfully disconnected from the store"
+msgstr "Stripe アカウントがショップから接続解除されました"
+
+msgctxt "Languages::stripe_connect.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "注文 #[order_id] のお引き出し"
+
+msgctxt "Languages::stripe_connect.refund_id"
+msgid "Refund transaction ID"
+msgstr "返金取引 ID"
+
+msgctxt "Languages::stripe_connect.rma.perform_refund"
+msgid "Give a refund via Stripe Connect"
+msgstr "Stripe Connect 経由で返金する"
+
+msgctxt "Languages::ttc_stripe_connect.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "管理者が返品要求ステータスを変更すると返金されます"
+
+msgctxt "Languages::stripe_connect.rma.refund_performed"
+msgid "The refund has been made via Stripe Connect"
+msgstr "Stripe Connect 経由で返金されました"
+
+msgctxt "Languages::stripe_connect.token"
+msgid "Credit card token"
+msgstr "クレジットカードトークン"
+
+msgctxt "Languages::stripe_connect.own_account_cant_be_used_for_vendor"
+msgid "Your own Stripe account can't be used to connect a vendor to the store"
+msgstr "あなたご自身の Stripe アカウントは出品者とショップの接続にはご利用になれません"
+
+msgctxt "Languages::stripe_connect.rma.order_status_on_refund"
+msgid "Order status on refund"
+msgstr "返金時の注文ステータス"
+
+msgctxt "Languages::ttc_stripe_connect.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "返品管理アドオン経由で実行された返金後、注文ステータスを変更するかどうかを設定します。"
+
+msgctxt "Languages::stripe_connect.do_not_change"
+msgid "Do not change"
+msgstr "変更なし"
+
+msgctxt "Languages::stripe_connect.set_status_to"
+msgid "Set to:"
+msgstr "次に設定する："
+
+msgctxt "Languages::stripe_connect.charge_id"
+msgid "Charge ID"
+msgstr "チャージID"
+
+msgctxt "Languages::stripe_connect.transfer_id"
+msgid "Transfer ID"
+msgstr "トランスファーID"
+
+msgctxt "Languages::stripe_connect.payment_id"
+msgid "Payment ID"
+msgstr "ペイメントID"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure"
+msgid "Enable 3-D Secure"
+msgstr "3Dセキュアを使用する"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure.description"
+msgid "<p>When 3-D Secure is <b>disabled</b>, money will go straight to the connected Stripe accounts of vendors. Commissions and payouts will be taken from vendors as <a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">application fees</a>.</p><p>When 3-D Secure is <b>enabled</b>, money will first go to the marketplace owner's Stripe account. Then it will be automatically distributed between the connected Stripe accounts via transfers. Transfers require that the marketplace owner and vendors have their accounts in the same region: either all in Europe, or all in the U.S. If a vendor's account is in a different region from the marketplace owner's, the money won't be transferred to that vendor automatically.</p>"
+msgstr "<p>3Dセキュアを<b>使用しない</b>場合、注文金額は直接出品者のStripeアカウントに入金されます。コミッションと手数料等は<a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">手数料</a>として出品者から差し引かれます。</p><p>3Dセキュアを<b>使用する</b>場合、注文金額は最初にマーケットプレイス運営者のStripeアカウントに入金されます。その後自動的に出品者のStripeアカウントに送金されます。送金にはマーケットプレイスの運営者と出品者が同じリージョンにある必要があります。出品者のアカウントがマーケットプレイス運営者とは別のリージョンにある場合は、自動的に送金されません。</p>"
+
+msgctxt "Languages::stripe_connect.gift_certificate_used"
+msgid "A gift certificate was used in this order. [product] doesn't know which of the vendors should get the money, and how much. Please transfer money from this order to each vendor manually."
+msgstr "ギフト券が注文で使用されました。[product] からはどの出品者にいくら送金すべきか判断ができません。各出品者に手動で送金してください。"
+
+msgctxt "Languages::stripe_connect.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "支払い番号[payment_id]： [error]でPaymentIntentを作成するときにエラーが発生しました"
+
+msgctxt "Languages::log_type_stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+msgctxt "Languages::log_action_sc_failure"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "Languages::log_action_sc_warning"
+msgid "Warning"
+msgstr "警告"
+
+msgctxt "Languages::log_action_sc_info"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "Languages::stripe_connect.log_context"
+msgid "Context"
+msgstr "環境"
+
+msgctxt "Languages::stripe_connect.unexpected_payment_intent_status"
+msgid "Unexpected status \"[status]\" of PaymentIntent"
+msgstr "PaymentIntentの予期しないステータス　[status]"
+
+msgctxt "Languages::stripe_connect.transfer_creating_error"
+msgid "An error occurred during the creation of a Stripe transfer: [error]"
+msgstr " Stripe tranferの作成中にエラーが発生しました：[error]"
+
+msgctxt "Languages::stripe_connect.charge_creating_error"
+msgid "An error occurred during the creation of a Stripe charge: [error]"
+msgstr "Stripe chargeの作成中にエラーが発生しました：[error]"
+
+msgctxt "Languages::stripe_connect.customer_creating_error"
+msgid "An error occurred during the creation of a Stripe customer: [error]"
+msgstr "Stripe customerの作成中にエラーが発生しました：[error]"
+
+msgctxt "Languages::stripe_connect.customer_sharing_error"
+msgid "An error occurred during the share of a Stripe customer: [error]"
+msgstr "Stripe customerの顧客の共有中にエラーが発生しました：[error]"
+
+msgctxt "Languages::stripe_connect.stripe_processor_params_missing"
+msgid "Stripe processor params missing"
+msgstr "Stripe processor パラメータがありません"
+
+msgctxt "Languages::stripe_connect.account_was_deauthorized"
+msgid "Account of company \"[company]\" (company ID = [company_id]) was deauthorized"
+msgstr "会社「[company]」（会社ID = [company_id]）のアカウントが認証解除されました"
+
+msgctxt "Languages::stripe_connect.on"
+msgid "On"
+msgstr "オン"
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds"
+msgid "Delay transfer of funds"
+msgstr "資金移動の遅延"
+
+msgctxt "Languages::stripe_connect.transfer_funds_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "出品者への資金移動"
+
+msgctxt "Languages::stripe_connect.automatic_transfer"
+msgid "Automatic transfer"
+msgstr "自動振替"
+
+msgctxt "Languages::stripe_connect.trigger_transfer_funds.description"
+msgid "Only works when 3-D Secure is enabled. Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic transfers to all vendors with a cron command."
+msgstr "3-Dセキュアが有効な場合のみ動作します。すべての出品者にすぐに送金するのではなく、まず注文を確認することができます。注文ページから各出品者に手動で送金するか、cronコマンドですべての出品者への定期的な自動送金をスケジュールします。"
+
+msgctxt "Languages::stripe_connect.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number."
+msgstr "以下のコマンドは、14日以上経過したすべての注文に対して、自動的に出品者に資金を送金します。cronに追加して、出品者に定期的に支払われるようにします。なお、「--days」の値は、14から任意の数字に変更ができます。"
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "出品者への資金移動の遅延"
+
+msgctxt "Languages::stripe_connect.redirect_uris"
+msgid "Redirect URIs"
+msgstr "リダイレクトURI"
+
+msgctxt "Languages::stripe_connect.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "資金は出品者に送金されました"
+
+msgctxt "Languages::stripe_connect.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "資金の出品者への送金が成功しました"
+
+msgctxt "Languages::stripe_connect.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "出品者への送金ができませんでした。後でもう一度お試しいただくか、決済代行会社にお問い合わせください。"
+
+msgctxt "Languages::stripe_connect.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "理由（支払処理業者から提供されたもの）： [error_text]"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts"
+msgid "Allow Express accounts"
+msgstr "Express アカウントの許可"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts.description"
+msgid "Express accounts are much easier to register, and they have a simpler Stripe dashboard. But when you use Express accounts, your marketplace bears more responsibility, and there are platform fees involved. For more information, check Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">pricing</a> and <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">documentation on Express accounts</a>."
+msgstr "Expressアカウントは登録がはるかに簡単で、Stripeダッシュボードもシンプルです。 しかし、Expressアカウントを使用する場合は、マーケットプレイスがより多くの責任を負い、プラットフォーム料金が発生します。 詳細については、Stripe Connectの<a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">価格</a>と<a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">Expressアカウントのドキュメント</a>を確認してください。"
+
+msgctxt "Languages::stripe_connect.connect_stripe_express_account"
+msgid "Connect a Stripe Express account"
+msgstr "Stripe Expressアカウントの接続"
+
+msgctxt "Languages::stripe_connect.connect_stripe_standard_account"
+msgid "I already have a Stripe Standard account"
+msgstr "すでにStripe Standardのアカウントを持っている"
+
+msgctxt "Languages::stripe_connect.express_dashboard"
+msgid "Stripe Dashboard"
+msgstr "Stripe ダッシュボード"
+
+msgctxt "Languages::stripe_connect.express_dashboard_menu_description"
+msgid "Transactions that went through your Stripe Express account."
+msgstr "お客様のStripe Expressアカウントを経由したトランザクション"
+
+msgctxt "Languages::stripe_connect.continue_express_registration"
+msgid "Continue Express registration"
+msgstr "Express登録を続ける"
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete"
+msgid "Stripe still requires some data from you before you can accept payments. Please continue the registration and fill in the remaining fields. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripeは、支払の承認をする前に、まだいくつかのデータを必要とします。 登録を続行し、残りの項目に入力をしてください。 すべての情報（必須ではない項目も含む）を入力してもこのメッセージが表示される場合は、このページを1、2日してから確認をしてください。 それでも問題が解決しない場合は、マーケットプレイスの管理者にお問合せください。"
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete_linked"
+msgid "Stripe still requires some data from you before you can accept payments. Please <a href=\"[url]\">continue the registration and fill in the remaining fields</a>. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripeは、支払の承認をする前に、まだいくつかのデータを必要とします。 <a href=\\\"[url]\\\">登録を続行し、残りの項目に入力をしてください</a>。すべての情報（必須ではない項目も含む）を入力してもこのメッセージが表示される場合は、このページを1、2日してから確認してください。 それでも問題が解決しない場合は、マーケットプレイスの管理者にお問合せください。"
+
+msgctxt "Languages::stripe_connect.account_was_rejected_and_unlinked"
+msgid "Account <b>[account_id]</b> was rejected and unlinked from the marketplace."
+msgstr "アカウント<b>[account_id]</b>が拒否され、マーケットプレイスからリンクされていませんでした。"
+
+msgctxt "Languages::stripe_connect.check_accounts_cron"
+msgid "The command below checks the statuses of the Express accounts that your vendors create. For example, if you reject a vendor's account on the Stripe end, that's how Multi-Vendor will know about it. Add this command to cron and run it once a day for smoother checkout experience."
+msgstr "以下のコマンドは、出品者が作成するExpressアカウントのステータスを確認します。たとえば、Stripe側で出品者のアカウントを拒否した場合、Multi-Vendorはそれを認識します。 このコマンドをcronに追加し、1日1回実行して、よりスムーズな注文手続き体験を実現します。"
+
+msgctxt "Languages::stripe_connect.check_accounts"
+msgid "Check accounts"
+msgstr "アカウントの確認"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_title"
+msgid "Stripe"
+msgstr "縞"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripeは支払いプロバイダーです。 Stripeを利用した支払い方法を選択した場合、支払いを受け入れることができます。これが <a href=\"https://stripe.com/privacy\" target=\"_blank\">プライバシーポリシー</a>です。"
+

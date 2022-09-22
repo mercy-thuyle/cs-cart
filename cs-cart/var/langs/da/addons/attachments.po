@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Bilag"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Gør det muligt at vedhæfte filer til produkter"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Bilag"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Nye bilag"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Tilføj bilag"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Redigere bilag"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Angiv venligst mappen med vedhæftede filer i butikkens rodmapp. Læg de vedhæftede filer, der skal importeres, i denne mappe."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Kunne ikke importere vedhæftede filer for nogle af produkterne. Enten findes disse vedhæftede filer ikke (eller kan ikke tilgås), eller stierne til disse vedhæftede filer i den importerede fil er forkerte."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Produktvedhæftede filer"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Afgrænsning af vedhæftede filer"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Afgrænsning mellem vedhæftede filer til et produkt."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Slet eksisterende vedhæftede filer"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Hvis du aktiverer denne indstilling, vil de eksisterende vedhæftede filer fra de importerede produkter blive erstattet med de vedhæftede filer, der er angivet i den importerede fil (hvis der ikke er angivet nogen vedhæftede filer, forbliver de gamle vedhæftede filer). Hvis indstillingen er deaktiveret, vil de nye vedhæftede filer blot blive tilføjet til de eksisterende vedhæftede filer."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Bilagskatalog"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Generel"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Gem vedhæftede filer på din server"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Vedhæftede filer, der er angivet som URL'er i den importerede fil, vil blive downloadet til din server."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "Kunne ikke indlæse fil [url] for produkt [product]"
+

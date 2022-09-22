@@ -1,0 +1,57 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "Direct Customer-to-Vendor Payments"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "Carts summary"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "Paying now"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "Commission payout for the order #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "Your payment methods"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "Marketplace owner's payment methods"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "Create a payment method"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "Cart by vendors"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "Customer's cart split by vendors at checkout"

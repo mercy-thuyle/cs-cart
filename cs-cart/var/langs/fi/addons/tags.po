@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/tags.po\n"
+"X-Crowdin-File-ID: 6680\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr "Tunnisteet"
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr "Ottaa käyttöön tuotetunnisteet"
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr "Hallitse tuote- ja sisältösivutunnisteita."
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr "Kirjaudu sisään syöttääksesi tunnisteet"
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr "Tag-pilvi"
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr "Tunnisteet"
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr "Tunnisteet"
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr "Tuotetunnisteet"
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr "lisää tunniste"
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "\"[tag]\" -tunnisteella merkityt kohteet:"
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr "Tag"
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr "Lisää merkintä"
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr "Tunnisteet tuotteille"
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr "Tunnisteet sivuille"
+
+msgctxt "Languages::n_tags"
+msgid "[n] tag|[n] tags"
+msgstr "[n] tag|[n] tunnistetta"
+

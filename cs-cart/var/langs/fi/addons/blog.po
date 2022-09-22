@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/blog.po\n"
+"X-Crowdin-File-ID: 6558\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::blog"
+msgid "Blog"
+msgstr "Blogi"
+
+msgctxt "Addons::description::blog"
+msgid "Lets you start your blog easily"
+msgstr "Voit aloittaa blogin helposti"
+
+msgctxt "Languages::blog_menu_description"
+msgid "Manage your blog posts."
+msgstr "Hallitse blogitekstejäsi."
+
+msgctxt "Languages::blog.new_post"
+msgid "New blog post"
+msgstr "Uusi blogikirjoitus"
+
+msgctxt "Languages::blog.editing_post"
+msgid "Editing blog post"
+msgstr "Blogikirjoituksen muokkaaminen"
+
+msgctxt "Languages::blog"
+msgid "Blog"
+msgstr "Blogi"
+
+msgctxt "Languages::blog.add_post"
+msgid "Add blog post"
+msgstr "Lisää blogikirjoitus"
+
+msgctxt "Languages::blog.recent_posts"
+msgid "Blog: recent posts"
+msgstr "Blogi: Uusimmat kirjoitukset"
+
+msgctxt "Languages::blog.recent_posts_scroller"
+msgid "Blog: recent posts scroller"
+msgstr "Blogi: viimeisimpien kirjoitusten selailu"
+
+msgctxt "Languages::blog.view_post"
+msgid "View post"
+msgstr "Näytä kirjoitus"
+
+msgctxt "Languages::recent_blog_posts"
+msgid "Recent blog posts"
+msgstr "Uusimmat blogikirjoitukset"
+
+msgctxt "Languages::blog.posts"
+msgid "Posts"
+msgstr "Kirjoitukset"
+
+msgctxt "Languages::blog.post"
+msgid "Post"
+msgstr "Kirjoitus"
+
+msgctxt "Languages::block_blog"
+msgid "Recent posts"
+msgstr "Viimeisimmät kirjoitukset"
+
+msgctxt "Languages::block_vendor_blog"
+msgid "Vendor recent posts"
+msgstr "Myyjän viimeisimmät viestit"
+
+msgctxt "Languages::blog.text_links"
+msgid "Blog: text links"
+msgstr "Blogi: tekstilinkit"
+
+msgctxt "Languages::blog.read_more"
+msgid "Read more"
+msgstr "Lue lisää"
+
+msgctxt "Languages::post_description"
+msgid "Post description"
+msgstr "Kuvaus"
+
+msgctxt "Languages::ttc_post_description"
+msgid "Use the &lt;!--CUT--&gt; tag (switch to source code to insert it) to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the &lt;!--CUT--&gt; tag!"
+msgstr "Käytä &lt;!--CUT--&gt; tagia (vaihda koodi-näkymään lisätäksesi tagin) piilottaaksesi osan kirjoituksesta. Vain tagin yläpuolella oleva osa kirjoituksesta näkyy blogin pääsivulla. < br / > < br / > <strong>Varmista, että olet sulkenut kaikki HTML-tagit &lt;!--CUT--&gt; tagin yläpuolella!</strong>"
+
+msgctxt "Languages::blog_functionality_notes"
+msgid "<p>Use this page to manage your blog. This is how you should organize your blog posts:</p><ul><li>Blog is a usual post that has the <b>Root level page</b> as the Parent page.</li><li>Choose <b>Blog</b> as the Parent page for your blog posts.</li></ul>"
+msgstr "<p>Käytä tätä sivua blogisi hallintaan. Järjestä blogitekstisi näin:</p><ul><li>Blogi on tavallinen viesti, jonka ylätason sivuna on <b>juuritason sivu</b> .</li><li>Valitse <b>Blogi</b> blogiviestiesi yläsivuksi.</li></ul>"
+
+msgctxt "Languages::n_posts"
+msgid "[n] post|[n] posts"
+msgstr "[n] viestiä|[n] viestiä"
+

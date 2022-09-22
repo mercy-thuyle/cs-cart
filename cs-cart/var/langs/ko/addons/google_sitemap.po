@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_sitemap.po\n"
+"X-Crowdin-File-ID: 6600\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::google_sitemap"
+msgid "Google sitemap"
+msgstr "구글 사이트맵"
+
+msgctxt "Addons::description::google_sitemap"
+msgid "Creates a sitemap.xml for Google"
+msgstr "Google용 sitemap.xml 생성"
+
+msgctxt "Languages::google_sitemap.text_regenerate"
+msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "제품, 카테고리 등이 추가되거나 변경된 경우 <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">사이트맵 재생성</a><br /><br /> [sitemap_available_in_customer]"
+
+msgctxt "Languages::google_sitemap.text_auto_regenerate"
+msgid "You can run the regeneration of the site map automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "특정 시간 간격으로 사이트 맵 재생성을 자동으로 실행할 수 있습니다. 이를 수행하려면 CRON에 다음 명령을 추가하십시오."
+
+msgctxt "Languages::google_sitemap.text_select_storefront"
+msgid "To generate a sitemap, please select storefront first."
+msgstr "사이트맵을 생성하려면 먼저 상점을 선택하십시오."
+
+msgctxt "Languages::sitemap_available_in_customer"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Sitemap은 다음 링크에서 사용할 수 있습니다. <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap은 URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>로 접근할 수 있습니다."
+
+msgctxt "Languages::always"
+msgid "Always"
+msgstr "언제나"
+
+msgctxt "Languages::hourly"
+msgid "Hourly"
+msgstr "매시간"
+
+msgctxt "Languages::daily"
+msgid "Daily"
+msgstr "일일"
+
+msgctxt "Languages::weekly"
+msgid "Weekly"
+msgstr "주간"
+
+msgctxt "Languages::monthly"
+msgid "Monthly"
+msgstr "월간 간행물"
+
+msgctxt "Languages::yearly"
+msgid "Yearly"
+msgstr "매년"
+
+msgctxt "Languages::never"
+msgid "Never"
+msgstr "절대"
+
+msgctxt "Languages::google_sitemap.generate_map"
+msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "사이트맵이 아직 생성되지 않았습니다. 애드온 설정으로 이동하여 \"사이트맵 재생성\" 버튼을 누르십시오."
+
+msgctxt "Languages::google_sitemap.map_generated"
+msgid "The sitemap was generated successfully"
+msgstr "사이트맵이 성공적으로 생성되었습니다."
+
+msgctxt "SettingsSections::google_sitemap::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::google_sitemap::information"
+msgid "Information"
+msgstr "정보"
+
+msgctxt "SettingsOptions::google_sitemap::clear_url"
+msgid "Clear cache"
+msgstr "캐시 지우기"
+
+msgctxt "SettingsOptions::google_sitemap::site_setting"
+msgid "Homepage settings"
+msgstr "홈페이지 설정"
+
+msgctxt "SettingsOptions::google_sitemap::site_change"
+msgid "Update frequency"
+msgstr "업데이트 빈도"
+
+msgctxt "SettingsOptions::google_sitemap::site_priority"
+msgid "Priority"
+msgstr "우선 사항"
+
+msgctxt "SettingsOptions::google_sitemap::products_setting"
+msgid "Products settings"
+msgstr "제품 설정"
+
+msgctxt "SettingsOptions::google_sitemap::include_products"
+msgid "Include in sitemap"
+msgstr "사이트맵에 포함"
+
+msgctxt "SettingsOptions::google_sitemap::products_change"
+msgid "Update frequency"
+msgstr "업데이트 빈도"
+
+msgctxt "SettingsOptions::google_sitemap::products_priority"
+msgid "Priority"
+msgstr "우선 사항"
+
+msgctxt "SettingsOptions::google_sitemap::categories_setting"
+msgid "Categories settings"
+msgstr "카테고리 설정"
+
+msgctxt "SettingsOptions::google_sitemap::include_categories"
+msgid "Include in sitemap"
+msgstr "사이트맵에 포함"
+
+msgctxt "SettingsOptions::google_sitemap::categories_change"
+msgid "Update frequency"
+msgstr "업데이트 빈도"
+
+msgctxt "SettingsOptions::google_sitemap::categories_priority"
+msgid "Priority"
+msgstr "우선 사항"
+
+msgctxt "SettingsOptions::google_sitemap::pages_setting"
+msgid "Pages settings"
+msgstr "페이지 설정"
+
+msgctxt "SettingsOptions::google_sitemap::include_pages"
+msgid "Include in sitemap"
+msgstr "사이트맵에 포함"
+
+msgctxt "SettingsOptions::google_sitemap::pages_change"
+msgid "Update frequency"
+msgstr "업데이트 빈도"
+
+msgctxt "SettingsOptions::google_sitemap::pages_priority"
+msgid "Priority"
+msgstr "우선 사항"
+
+msgctxt "SettingsOptions::google_sitemap::extended_setting"
+msgid "Brand/Manufacturer feature pages settings"
+msgstr "브랜드/제조업체 기능 페이지 설정"
+
+msgctxt "SettingsOptions::google_sitemap::include_extended"
+msgid "Include in sitemap"
+msgstr "사이트맵에 포함"
+
+msgctxt "SettingsOptions::google_sitemap::extended_change"
+msgid "Update frequency"
+msgstr "업데이트 빈도"
+
+msgctxt "SettingsOptions::google_sitemap::extended_priority"
+msgid "Priority"
+msgstr "우선 사항"
+
+msgctxt "SettingsOptions::google_sitemap::companies_setting"
+msgid "Companies settings"
+msgstr "회사 설정"
+
+msgctxt "SettingsOptions::google_sitemap::include_companies"
+msgid "Include in sitemap"
+msgstr "사이트맵에 포함"
+
+msgctxt "SettingsOptions::google_sitemap::companies_change"
+msgid "Update frequency"
+msgstr "업데이트 빈도"
+
+msgctxt "SettingsOptions::google_sitemap::companies_priority"
+msgid "Priority"
+msgstr "우선 사항"
+
+msgctxt "Languages::google_sitemap.export_progress_entry"
+msgid "[storefront]: [object]"
+msgstr "[storefront]: [object]"
+

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_list.po\n"
+"X-Crowdin-File-ID: 6642\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::price_list"
+msgid "Price list"
+msgstr "Prislistor"
+
+msgctxt "Addons::description::price_list"
+msgid "Generates configurable price list in PDF or XLS"
+msgstr "Skapar konfigurerbara prislistor i PDF eller XLS"
+
+msgctxt "Languages::price_list"
+msgid "Price list"
+msgstr "Prislista"
+
+msgctxt "Languages::generating_pdf"
+msgid "Generating PDF. Please, be patient..."
+msgstr "Skapar PDF. Vänta..."
+
+msgctxt "Languages::generating_xls"
+msgid "Generating XLS. Please, be patient..."
+msgstr "Skapar XLS. Vänta..."
+
+msgctxt "Languages::price_list_ziparchive_not_installed"
+msgid "Impossible to create XML price list. Please add zip support in PHP on your server. Follow <a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
+msgstr "Kunde inte skapa XML prislista. Lägg till stöd för zip i PHP på din server. Läs mer: <a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
+
+msgctxt "Languages::price_list.text_select_storefront"
+msgid "To generate a price list, please select storefront first."
+msgstr "För att generera en prislistaa måste du först välja butik."
+
+msgctxt "Languages::price_list.text_regenerate"
+msgid "<p>If products, categories or selected fields were added or changed, please regenerate a price list:<br />[buttons]</p><p>Generated price lists are available by these links<br/>[links]</p>"
+msgstr "<p>Om produkter, kategorier eller valda fält lagts till eller ändrats behöver du återskapa prislistan:<br>[buttons]</p><p>Prislistorna finns tillgängliga via dessa länkar<br>[links]</p>"
+
+msgctxt "SettingsSections::price_list::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::price_list::price_list_fields"
+msgid "Fields"
+msgstr "Fält"
+
+msgctxt "SettingsOptions::price_list::price_list_sorting"
+msgid "Sort by"
+msgstr "Sortera efter"
+
+msgctxt "SettingsOptions::price_list::group_by_category"
+msgid "Group by category"
+msgstr "Gruppera efter kategori"
+
+msgctxt "SettingsOptions::price_list::include_options"
+msgid "Include product options"
+msgstr "Inkludera produktalternativ"
+

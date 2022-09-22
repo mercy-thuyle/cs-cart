@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/shopify_import.po\n"
+"X-Crowdin-File-ID: 6800\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::shopify_import"
+msgid "Import from Shopify"
+msgstr "Εισαγωγή από το Shopify"
+
+msgctxt "Addons::description::shopify_import"
+msgid "Allows you to import products from Shopify."
+msgstr "Σας επιτρέπει να εισάγετε προϊόντα από το Shopify."
+
+msgctxt "Languages::shopify_import.shopify_products_import"
+msgid "Shopify products"
+msgstr "Προϊόντα Shopify"
+
+msgctxt "Languages::shopify_import.sync_data_name"
+msgid "Import products from Shopify"
+msgstr "Εισαγάγετε προϊόντα από το Shopify"
+
+msgctxt "Languages::shopify_import.choose_import_mode"
+msgid "Choose import mode"
+msgstr "Επιλέξτε λειτουργία εισαγωγής"
+
+msgctxt "Languages::shopify_import.import_for_all_vendors"
+msgid "I'm launching my marketplace and setting up products for all vendors to use"
+msgstr "Ξεκινάω το marketplace μου και στήνω προϊόντα για χρήση από όλους τους προμηθευτές"
+
+msgctxt "Languages::shopify_import.import_for_specific_vendor"
+msgid "I'm importing these products for a specific vendor"
+msgstr "Εισάγω αυτά τα προϊόντα για συγκεκριμένο προμηθευτή"
+
+msgctxt "Languages::shopify_import.depends_on_common_products_addon"
+msgid "This option needs <a href=\"[link]\">Common products for vendors</a> add-on to be installed"
+msgstr "Αυτή η επιλογή χρειάζεται το πρόσθετο <a href=\"[link]\">κοινά προϊόντα για προμηθευτές</a> εγκατεστημένο"
+
+msgctxt "Languages::shopify_import.invalid_csv_file_format"
+msgid "Uploaded CSV-file has invalid format or empty. Only files exported from Shopify supported."
+msgstr "Το μεταφορτωμένο αρχείο CSV έχει μη έγκυρη μορφή ή είναι κενό. Υποστηρίζονται μόνο αρχεία που εξάγονται από το Shopify."
+
+msgctxt "Languages::shopify_import.products_without_sku"
+msgid "The SKU value is missing for some products. These products are always imported as new objects."
+msgstr "Η τιμή SKU λείπει για ορισμένα προϊόντα. Αυτά τα προϊόντα εισάγονται πάντα ως νέα αντικείμενα."
+
+msgctxt "Languages::shopify_import.last_status.S"
+msgid "Success"
+msgstr "Επιτυχία"
+
+msgctxt "Languages::shopify_import.last_status.F"
+msgid "Failure"
+msgstr "Αποτυχία"
+

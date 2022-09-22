@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_adaptive.po\n"
+"X-Crowdin-File-ID: 6582\n"
+"PO-Revision-Date: 2022-06-20 12:57\n"
+
+msgctxt "Addons::name::paypal_adaptive"
+msgid "PayPal Adaptive Payments [Deprecated]"
+msgstr ""
+
+msgctxt "Addons::description::paypal_adaptive"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal. Only existing PayPal Adaptive clients can use this add-on. We recommend you to use the PayPal Commerce Platform add-on instead."
+msgstr ""
+
+msgctxt "Languages::paypal_api_username"
+msgid "API username"
+msgstr "Nama pengguna API"
+
+msgctxt "Languages::paypal_api_password"
+msgid "API password"
+msgstr "Kata sandi API"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal Business Account email"
+msgstr "Email akun bisnis PayPal"
+
+msgctxt "Languages::paypal_adaptive.paypal_email"
+msgid "PayPal Business Account email"
+msgstr "Email akun bisnis PayPal"
+
+msgctxt "Languages::paypal_adaptive.vendor.paypal_email"
+msgid "PayPal Account email"
+msgstr ""
+
+msgctxt "Languages::pp_adaptive_payments"
+msgid "PayPal Adaptive Payments"
+msgstr "Pembayaran Adaptif PayPal"
+
+msgctxt "Languages::primary_email"
+msgid "PayPal Primary account email"
+msgstr "Email akun utama PayPal"
+
+msgctxt "Languages::processing_payment_for_order"
+msgid "Processing Payment for order"
+msgstr "Memproses Pembayaran untuk pemesanan"
+
+msgctxt "Languages::paypal_adaptive_pay_orders"
+msgid "Pay order"
+msgstr "Bayar pesanan"
+
+msgctxt "Languages::paypal_adaptive_pay_step"
+msgid "step pay"
+msgstr "langkah membayar"
+
+msgctxt "Languages::paypal_adaptive_pay"
+msgid "Pay"
+msgstr "Membayar"
+
+msgctxt "Languages::paypal_adaptive_progress_payment_order"
+msgid "Progress pay orders"
+msgstr "Kemajuan membayar pesanan"
+
+msgctxt "Languages::paypal_adaptive_paid"
+msgid "Paid"
+msgstr "Dibayar"
+
+msgctxt "Languages::paypal_adaptive_cancel"
+msgid "Return to checkout"
+msgstr "Kembali ke checkout"
+
+msgctxt "Languages::paypal_adaptive_type_payments"
+msgid "PayPal payments type"
+msgstr "Jenis pembayaran PayPal"
+
+msgctxt "Languages::paypal_adaptive_papallel_payments"
+msgid "Parallel"
+msgstr "Paralel"
+
+msgctxt "Languages::paypal_adaptive_chained_payments"
+msgid "Chained"
+msgstr "Dirantai"
+
+msgctxt "Languages::order_subtotal"
+msgid "Order subtotal"
+msgstr "Order subtotal"
+
+msgctxt "Languages::paypal_adaptive_payer_fees"
+msgid "Payer fees"
+msgstr "Biaya pembayar"
+
+msgctxt "Languages::paypal_adaptive_fees_eachreceiver"
+msgid "Each receiver"
+msgstr "Setiap penerima"
+
+msgctxt "Languages::paypal_adaptive_fees_primaryreceiver"
+msgid "Primary receiver"
+msgstr "Penerima utama"
+
+msgctxt "Languages::paypal_adaptive_pending_payment"
+msgid "Pending payment"
+msgstr "Pembayaran tertunda"
+
+msgctxt "Languages::block_paypal_adaptive"
+msgid "PayPal Adaptive"
+msgstr "PayPal Adaptif"
+
+msgctxt "Languages::paypal_calc_comission_based_on"
+msgid "To calculate commission based on"
+msgstr "Menghitung komisi berdasarkan"
+
+msgctxt "SettingsSections::paypal_adaptive::general"
+msgid "General"
+msgstr "Umum"
+
+msgctxt "SettingsOptions::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "To calculate commission based on"
+msgstr "Menghitung komisi berdasarkan"
+
+msgctxt "SettingsTooltips::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "Indicates the sum based on which commission will be calculated"
+msgstr "Menunjukkan jumlah berdasarkan komisi mana yang akan dihitung"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::O"
+msgid "Order total"
+msgstr "Total pemesanan"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::S"
+msgid "Order subtotal"
+msgstr "Order subtotal"
+
+msgctxt "SettingsOptions::paypal_adaptive::collect_payouts"
+msgid "Collect payouts on vendors"
+msgstr "Kumpulkan pembayaran di vendor"
+
+msgctxt "SettingsTooltips::paypal_adaptive::collect_payouts"
+msgid "When creating a withdrawal for a vendor, the amount of unpaid payouts will be held back from the withdrawal amount."
+msgstr "Saat membuat penarikan untuk vendor, jumlah pembayaran yang belum dibayar akan ditahan kembali dari jumlah penarikan."
+
+msgctxt "Languages::paypal_adaptive_override_with_secondary_currency"
+msgid "Use customer's choice of currency"
+msgstr "Gunakan pilihan mata uang pilihan pelanggan"
+
+msgctxt "Languages::paypal_adaptive_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Gunakan Checkout dalam konteks"
+
+msgctxt "Languages::works_in_browsers"
+msgid "It doesn't work in Safari browser and ios devices"
+msgstr "Ini tidak bekerja di browser Safari dan perangkat iOS"
+
+msgctxt "Languages::paypal_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Komisi pembayaran adaptif PayPal"
+
+msgctxt "Languages::paypal_commission_type"
+msgid "PayPal commission type"
+msgstr "Jenis komisi PayPal"
+
+msgctxt "Languages::paypal_adaptive.commission_type"
+msgid "Commission type"
+msgstr "Tipe komisi"
+
+msgctxt "Languages::paypal_adaptive.tooltips.commission_type"
+msgid "The setting allows to select the way commission is charged to the vendor when using the PayPal Adaptive payment method. If Vendors commission is selected, commission will be charged in the amount that is specified in the corresponding field of the vendor. If PayPal Adaptive commission is selected, a separate field will be used to avoid confusion with standard commissions. It will be used only for the PayPal Adaptive payment method. If the 'Vendor commission' add-on is not installed/disabled, 'PayPal Adaptive Payments commission' will be used."
+msgstr "Pengaturan ini memungkinkan untuk memilih cara komisi dibebankan ke vendor saat menggunakan metode pembayaran Adaptif PayPal. Jika komisi Vendor dipilih, komisi akan dikenakan biaya dalam jumlah yang ditentukan di bidang vendor yang sesuai. Jika komisi Adaptif PayPal dipilih, bidang yang terpisah akan digunakan untuk menghindari kebingungan dengan komisi standar. Ini hanya akan digunakan untuk metode pembayaran Adaptif PayPal. Jika add-on 'Vendor commission' tidak dipasang / dinonaktifkan, 'komisi Adaptive Payments PayPal' akan digunakan."
+
+msgctxt "Languages::paypal_adaptive.ppa_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Komisi pembayaran adaptif PayPal"
+
+msgctxt "Languages::paypal_adaptive.vendor_plans"
+msgid "Vendor plans"
+msgstr "Rencana vendor"
+
+msgctxt "Languages::paypal_verification"
+msgid "PayPal verification"
+msgstr "Verifikasi PayPal"
+
+msgctxt "Languages::paypal_verification_short"
+msgid "PP ver."
+msgstr ""
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "Tidak diperiksa"
+
+msgctxt "Languages::not_verified"
+msgid "Not verified"
+msgstr "Tidak diverifikasi"
+
+msgctxt "Languages::verified"
+msgid "Verified"
+msgstr "Diverifikasi"
+
+msgctxt "Languages::paypal_adaptive_auto_info_data_verification"
+msgid "Use the following line to run the script to get E-mail verification status of your vendors according to schedule:"
+msgstr ""
+
+msgctxt "Languages::paypal_adaptive_statuses_updated_successfully"
+msgid "PayPal verification statuses have been updated successfully."
+msgstr "Status verifikasi PayPal telah berhasil diupdate."
+
+msgctxt "SettingsOptions::paypal_adaptive::display_verification_status_on_storefront"
+msgid "Display verification status to customers"
+msgstr "Display verification status to customers"
+
+msgctxt "SettingsTooltips::paypal_adaptive::display_verification_status_on_storefront"
+msgid "The setting allows to display verification status at the product details page on the storefront. If the vendor E-mail is not verified, the status will not be shown to the customers."
+msgstr "Pengaturan ini memungkinkan untuk menampilkan status verifikasi di halaman rincian produk di etalase. Jika E-mail vendor tidak diverifikasi, status tidak akan ditunjukkan kepada pelanggan."
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image"
+msgid "PayPal verification image"
+msgstr "Gambar verifikasi PayPal"
+
+msgctxt "Languages::paypal_ver_image"
+msgid "Verification image"
+msgstr "Gambar verifikasi"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_width"
+msgid "Image width"
+msgstr "Lebar gambar"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_height"
+msgid "Image height"
+msgstr "Tinggi gambar"
+
+msgctxt "Languages::verified_by_paypal"
+msgid "Verified by PayPal"
+msgstr "Diverifikasi oleh PayPal"
+
+msgctxt "Languages::paypal_adaptive_error_wrong_cron_key"
+msgid "Error: Wrong cron key."
+msgstr "Kesalahan: Salah cron key."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_width"
+msgid "The width of the verified image."
+msgstr "Lebar gambar yang diverifikasi."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_height"
+msgid "The height of the verified image."
+msgstr "Tinggi gambar yang diverifikasi."
+
+msgctxt "Languages::paypal_adaptive.tooltips.paypal_ver_image"
+msgid "The setting allows to display verification image instead of the text status at the product details page on the storefront. If an image is not uploaded, the status will be shown as text."
+msgstr "Setelan ini memungkinkan untuk menampilkan gambar verifikasi alih-alih status teks di halaman rincian produk di etalase. Jika gambar tidak diunggah, statusnya akan ditampilkan sebagai teks."
+
+msgctxt "Languages::paypal_emails_must_be_unique"
+msgid "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+msgstr "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+
+msgctxt "Languages::addons.paypal_adaptive.logo"
+msgid "PayPal Adaptive logo"
+msgstr "Logo Adaptive PayPal"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Gunakan format grafis yang valid, seperti .gif, .jpg, atau .png. Batasi gambar hingga 190 piksel dengan lebar 60 piksel. Citra tanaman PayPal yang lebih besar. PayPal menempatkan gambar logo Anda di bagian atas area ulasan keranjang."
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "Email Akun Bisnis PayPal Anda. Email Akun Pribadi tidak akan berfungsi."
+
+msgctxt "Languages::ttc_paypal_adaptive.paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "Email Akun Bisnis PayPal Anda. Email Akun Pribadi tidak akan berfungsi."
+
+msgctxt "Languages::ttc_paypal_adaptive.vendor.paypal_email"
+msgid "The email of your PayPal account."
+msgstr ""
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_workflow"
+msgid "PayPal workflow"
+msgstr "Alur kerja PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.store_settings"
+msgid "Store settings"
+msgstr "Pengaturan toko"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_credentials"
+msgid "PayPal credentials"
+msgstr "Kredensial PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[jumlah] dari [jumlah]"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[jumlah]% dari [jumlah]"
+
+msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Penarikan untuk pesanan #[order_id]"
+
+msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
+msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."
+msgstr "Pembayaran yang dirantai tidak dapat digunakan jika add-on <a href=\"[url]\" target=\"_blank\">PayPal Adaptif Pembayaran</a>dikonfigurasi untuk mengumpulkan komisi pesanan dan pembayaran yang belum dibayar."
+
+msgctxt "Languages::addons.paypal_adaptive.primary_email_notice"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr ""
+
+msgctxt "Languages::addons.paypal_adaptive.commission_includes"
+msgid "Commission includes"
+msgstr "Komisi termasuk"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission"
+msgid "Order commission"
+msgstr "Komisi pesanan"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission_and_payouts"
+msgid "Order commission and unpaid payouts"
+msgstr "Order komisi dan pembayaran yang belum dibayar"
+
+msgctxt "Languages::addons.paypal_adaptive.first_name"
+msgid "PayPal account holder's first name"
+msgstr "Nama depan pemegang rekening PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.last_name"
+msgid "PayPal account holder's last name"
+msgstr "Nama depan pemegang rekening PayPal"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.first_name"
+msgid "Please enter the same first name as specified in your PayPal profile."
+msgstr "Harap masukkan nama depan yang sama seperti yang ditentukan dalam profil PayPal Anda."
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.last_name"
+msgid "Please enter the same last name as specified in your PayPal profile."
+msgstr "Harap masukkan nama belakang yang sama seperti yang ditentukan dalam profil PayPal Anda."
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_title"
+msgid "Paypal Adaptive Payments"
+msgstr ""
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_description"
+msgid "PayPal Adaptive Payments is a payment provider that allows you to buy products from multiple vendors while making a single payment. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal privacy statement.</a>"
+msgstr ""
+

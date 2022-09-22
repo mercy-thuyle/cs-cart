@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/myob.po\n"
+"X-Crowdin-File-ID: 6616\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::myob"
+msgid "MYOB"
+msgstr "MYOB"
+
+msgctxt "Addons::description::myob"
+msgid "Adds the MYOB integration"
+msgstr "Lisää MYOB-integraation"
+
+msgctxt "Languages::export_to_myob"
+msgid "Export to MYOB"
+msgstr "Vie MYOBiin"
+
+msgctxt "SettingsSections::myob::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::myob::sales_account"
+msgid "Default Sales Account"
+msgstr "Oletusmyyntitili"
+
+msgctxt "SettingsOptions::myob::currency"
+msgid "Currency"
+msgstr "Valuutta"
+
+msgctxt "SettingsOptions::myob::tax_gst_code"
+msgid "Tax Code / GST Code"
+msgstr "Verokoodi / GST-koodi"
+
+msgctxt "SettingsOptions::myob::freight_tax_gst_code"
+msgid "Freight Tax Code / Freight GST Code"
+msgstr "Rahtiverokoodi / rahdin GST-koodi"
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_categories_fee.po\n"
+"X-Crowdin-File-ID: 6686\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_categories_fee"
+msgid "Vendor plans: Commissions by category"
+msgstr "خطط البائعين: العموله حسب الفئة"
+
+msgctxt "Addons::description::vendor_categories_fee"
+msgid "Allows you to set the transaction fees that vendors must pay for selling products from specific categories."
+msgstr "يسمح لك تعيين رسوم المعاملات التي يجب أن تدفع الموردين لبيع المنتجات من فئات محددة."
+
+msgctxt "Languages::vendor_categories_fee.vendor_fee"
+msgid "Transaction fee (%)"
+msgstr "رسوم المعاملات (%)"
+
+msgctxt "Languages::vendor_categories_fee.absolute_fee"
+msgid "Absolute fee"
+msgstr "رسوم مطلقة"
+
+msgctxt "Languages::vendor_categories_fee.percent_fee"
+msgid "Percent fee"
+msgstr "نسبة الرسوم"
+

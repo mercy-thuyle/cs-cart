@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_export.po\n"
+"X-Crowdin-File-ID: 6598\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "Google export"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "Utökar tillägget \"Dataflöden\" för att fungera med \"Google Base\" och skapar ett exempel på ett sådant dataflöde"
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>Aktivera för flerspråkiga Googlekategorier. Stöder Franska, Tyska, Italienska, Spanska och Brittisk Engelska. Observera att detta kan ta lång tid.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "Starta import"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "Allmän information"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "Installera flera språk för Googlekategorier"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr "Exportera inga objekt med ett pris på 0.00"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr "Du kan inte ange produktpriset 0.00 för Googles produktflöde. Objekt utan priser visas inte i sökeresultaten."
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr "Innan du exporterar produkter till Googles produktflöde, se till att koden på butikens <a href=\"[currency_url]\">grundvaluta</a> överensstämmer med <a href = \"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> och att <a href=\"[settings_url]\">Vikt symbolen</a> är en av följande: lb, oz, g, kg"
+
+msgctxt "Languages::addons.google_export.google_export"
+msgid "Google export"
+msgstr "Google export"
+
+msgctxt "Languages::google_name_option"
+msgid "Equivalent in Google:"
+msgstr "Motsvarande i Google:"
+
+msgctxt "Languages::addons.google_export.tax_notice"
+msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
+msgstr "För USA, inkludera inte skatt i priset. För Kanada och Indien, inkludera ingen mervärdesskatt i priset. För alla andra länder måste mervärdesskatt (moms) inkluderas i priset."
+
+msgctxt "Languages::addons.google_export.info_google_features"
+msgid "<p>Before you export a data feed file for Google Merchant, make sure to edit your products and specify the values of product features that belong to the Google Export group. You can do this via product import and export, or mass editing.</p><p> GTIN is a key identifier of a product. If you didn't specify GTIN as a feature, product's SKU from the CODE field will be used. GTINs for option combinations are always taken from the CODE fields of combinations.</p>"
+msgstr "<p>Innan du exporterar en dataflödesfil för Google Merchant, se till att redigera dina produkter och ange värdena för produktfunktioner som tillhör gruppen Google Export. Du kan göra detta via produktimport och -export, eller massredigering.</p><p> GTIN är en nyckelidentifierare för en produkt. Om du inte angav GTIN som en funktion kommer produktens SKU från fältet KOD att användas. GTIN för alternativkombinationer hämtas alltid från KODE-fälten för kombinationer.</p>"
+
+msgctxt "Languages::tt_addons_google_export_hooks_product_options_properties_post_google_name_option"
+msgid "When you export a data feed file, this option will provide data for the selected Google field type."
+msgstr "När du exporterar en dataflödesfil kommer detta alternativ att tillhandahålla data för den valda Google-fälttypen."
+
+msgctxt "Languages::addons.google_export.text_info_setting_options"
+msgid "Please make sure that you selected this option as \"Equivalent in Google\" for one of the options in your store. Otherwise the data feed file may not be exported properly."
+msgstr "Se till att du valde det här alternativet som \"Ekvivalent i Google\" för ett av alternativen i din butik. Annars kanske dataflödesfilen inte exporteras korrekt."
+

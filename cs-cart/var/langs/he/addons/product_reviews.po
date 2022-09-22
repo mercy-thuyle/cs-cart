@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 6646\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr "ביקורות מוצרים"
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr "מאפשר ללקוחות שלך להשאיר ביקורות על מוצרים. זה יכול לבנות אמון, לספק הוכחה חברתית ולהוסיף תוכן שנוצר על ידי משתמשים לאתר שלך."
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "טפסי הערות וסקירות"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "ספר אורחים"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "ביקורות"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "לא נמצאו ביקורות"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "הדירוג שלך"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "הערות וסקירות"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "דֵרוּג"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr "כבר פרסמת בביקורת הזו"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "תודה על הפוסט שלך"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "הביקורת שלך תיבדק לפני שהיא תתפרסם."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr "ביקורות: [n]"
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "סקירה|ביקורות"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "זוהי הודעה על פוסט חדש למוצר"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "זוהי הודעה על תשובה חדשה לסקירת המוצר שלך"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "סקירה זו דורשת אישור"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "ביקורות אחרונות"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "תגובה מאת"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "ו"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "לְאַשֵׁר"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "לא לאשר"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "אושר"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "לא מאושר"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "הערות וסקירות"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "יכול לצפות"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "ביקורות מוצרים"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "מיין לפי דירוג: נמוך עד גבוה"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "מיין לפי דירוג"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "ביקורות מוצרים"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "ביקורות"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "ביקורות לקוחות על מוצרים"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "כתוב ביקורת"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "ביקורות לכל עמוד"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "המנהל חייב לאשר פוסטים שנשלחו על ידי"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr "אפשר סקירה אחת לכל כתובת IP"
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "פיצול ביקורות לפי חזית חנות"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "קובע אם הערות ו/או ביקורות מותרות עבור מוצרים חדשים שנוצרו. לא משפיע על מוצרים קיימים."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "רק קונים יכולים לפרסם"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "אפשר להשאיר ביקורות על מוצר רק למי שקנה את המוצר הזה."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "סקור שדות"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "הערה עם יתרונות וחסרונות"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "רק הערה"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "כל לקוח"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "רק לקוחות אנונימיים"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "אין צורך באישור"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "שאל את מיקום הלקוח"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "אף אחד"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "מדינה"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "עִיר"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "סקירות מוצר: הודעת ביקורת חדשה"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "סקירות מוצר: הודעת תשובה"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "הצג דירוג ביקורת"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "הצג ביקורות"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "הצג ביקורת"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "הצג [n] ביקורות|הצג [n] ביקורות"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "גלול לביקורות"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "הצג תמונות ביקורת"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "גלול לסקור תמונות"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "נתונים אישיים מסקירות"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "ביקורות: סקירה חדשה"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>שמך יופיע ליד הביקורת או ההערה שלך, גלוי לכולם. אנו ([company]) שומרים גם את כתובת ה-IP שלך כאמצעי זהירות, אך רק הצוות שלנו יכול לראות אותה. זה יישאר במערכת שלנו עד שתבטל את הסכמתך. אם תרצה להסיר את הנתונים האישיים שלך, שלח אימייל אל [email].</p> <p>אם אתה סבור שנעשה שימוש לרעה בנתונים האישיים שלך, יש לך את הזכות להגיש תלונה לרשות מפקחת. אנו מחויבים על פי תקנת הגנת המידע הכללית של האיחוד האירופי ליידע אותך על זכות זו; אנחנו לא מתכוונים לעשות שימוש לרעה בנתונים שלך.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "בחר בתיבת סימון זו כדי לקבל את ה [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "תנאים"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>אנא קרא את התנאים וההגבלות הללו (\"תנאים\", \"תנאים והגבלות\") בעיון לפני השימוש באתר <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> ובאפליקציה לנייד של My Mobile App (\"השירות\") המופעלת על ידי My חברה (\"אנחנו\", \"אנחנו\" או \"שלנו\").</p><p><strong>על ידי גישה או שימוש בשירות אתה מסכים להיות מחויב לתנאים אלה. אם אינך מסכים עם חלק כלשהו מהתנאים, אינך רשאי לגשת לשירות.</strong></p><p><strong>רכישות</strong></p><p>אם ברצונך לרכוש כל מוצר או שירות שזמינים באמצעות השירות (\"רכישה\"), ייתכן שתתבקש לספק מידע מסוים הרלוונטי לרכישתך, לרבות, ללא הגבלה, שלך ...</p><p><strong>תוכן</strong></p><p>השירות שלנו מאפשר לך לפרסם, לקשר, לאחסן, לשתף ולהפוך מידע מסוים, טקסט, גרפיקה, סרטונים או חומר אחר (\"תוכן\") לזמין. אתה אחראי על ...</p><p><strong>שינויים</strong></p><p>אנו שומרים לעצמנו את הזכות, לפי שיקול דעתנו הבלעדי, לשנות או להחליף תנאים אלה בכל עת. אם תיקון הוא מהותי, ננסה לספק הודעה של 30 יום לפחות לפני כניסת תנאים חדשים לתוקף. מהו שינוי מהותי ייקבע על פי שיקול דעתנו הבלעדי.</p><p><strong>צור קשר</strong></p><p>אם יש לך שאלות כלשהן לגבי תנאים אלה, אנא צור איתנו קשר.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "לפני שליחת ביקורת, ודא שהיא אינה מפרה את כללי הניהול: היא אינה מכילה קישורים למשאבים והעלבות של צד שלישי."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "אני מסכים <u>הנתונים האישיים שלי כדלקמן.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "נא להיכנס כדי לכתוב ביקורת"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "אתה לא יכול לכתוב ביקורת על מוצר זה. לקוחות יכולים לכתוב ביקורות רק על המוצרים שהם קנו. אם רכשת מאיתנו את המוצר הזה, אבל אתה עדיין רואה את ההודעה הזו, אנא צור איתנו קשר."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "סקירה חדשה פורסמה"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "תגובה חדשה נוספה לסקירה"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "נְכוֹנוּת לַעֲזוֹר"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "הצבע"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "הצביעו למטה"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "מיין לפי תאריך: מהחדש לישן ביותר"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "מיין לפי תאריך: הישן ביותר לחדש ביותר"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "מועיל אחרון"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "מועיל קודם כל"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "מיין לפי דירוג: גבוה עד נמוך"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "מיין לפי דירוג: נמוך עד גבוה"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "יתרונות"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "חסרונות"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "הערות"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "תגובה"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "נָכֶה"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "מוֹכֵר"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "תשובת הספק"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "הקלד הודעה..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "רכישה מאומתת"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "ביקורות"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "סקירה"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "כתוב את הביקורת שלך"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "הוסף תמונה"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "כתוב את הביקורת שלך בעילום שם"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "שלח ביקורת"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "רכישה מאומתת"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "עם תמונה"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "בלי תמונה"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "תמונות של לקוחות"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "בדיקת סטטוס"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "כוכב"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "כוכבים"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr "[n] כוכב|[n] כוכבים"
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "מתוך 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "סקור מוצר זה"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "שתף את מחשבותיך עם לקוחות אחרים"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "תשובה"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "שם פרטי ושם משפחה"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "תודה על סקירתך"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "מְעוּלֶה!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "טוב מאוד"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "מְמוּצָע"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "יריד"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "עני"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "פרטי מוצר"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "דירוג 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "סקירה חדשה פורסמה עבור מוצר"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "סקירה חדשה פורסמה עבור מוצר [product]. לחץ על הודעה זו כדי לראות את הביקורת."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "תגובה"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "יש לך ביקורות על מוצרים בתוסף הישן \"הערות וסקירות\". בזמן שהתוסף מותקן, תוכל להעתיק את הביקורות הללו לתוסף החדש \"ביקורות מוצר\" <a class=\"cm-post\" href=\"[url]\">בהגדרות שלו</a>."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">העתק ביקורות מהתוסף \"תגובות וסקירות\"<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>יועתקו רק ביקורות שיש להן ניקוד וגם הערה של משתמש. עבור למוצרים שלך ובדוק את ההגדרה \\“ביקורות\" בלשונית \"תוספות\". ייתכן שיהיה עליך לאפשר תקשורת ודירוג תחילה.</li><li>ביקורת ללא ניקוד או ללא הערה לא תועתק. כדי להעביר אותה , תחילה עליך להוסיף באופן ידני את הציון או ההערה החסרים על ידי עריכת הביקורת.</li><li>בעוד התוסף הישן \"הערות וסקירות\" מותקן, הביקורות לא יוסרו משם. כך, תוכל לבחור להעביר ל\"ביקורות מוצר\" בכל פעם שכל הביקורות שלך מוכנות.</li><li>אם אי פעם תצטרך להעתיק את הביקורות מהתוסף הישן שוב בעתיד, פשוט הסר והתקן מחדש את התוסף \"ביקורות מוצר\". פעולה זו תסיר את כל הביקורות שלו ממסד הנתונים, ותוכלו לייבא את הביקורות מהתוסף \"תגובות וסקירות\" שוב.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">העתק ביקורות מוצר</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "עדכן את התשובה"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "הוסף תגובה"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "ביקורת יכולה לכלול עד [max_image_number] תמונות."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "שחרר תמונות כאן"
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "תמונה עד [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "תשובת מנהל"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "[company_name] תשובה"
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "הסתר את שמי בביקורת"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr "המוצר מדורג [n] מתוך 5 כוכבים"
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr "לחץ כדי לראות את הביקורות"
+
+msgctxt "Languages::product_reviews.split_reviews_for_variations_as_separate_products"
+msgid "Split reviews for variations as separate products"
+msgstr "פיצול ביקורות עבור וריאציות כמוצרים נפרדים"
+
+msgctxt "Languages::privileges.create_product_reviews"
+msgid "Can create"
+msgstr "יכול ליצור"
+
+msgctxt "Languages::product_reviews.upgrade_notification.title_administators_add_ability_create_product_reviews"
+msgid "Administrators can now create product reviews"
+msgstr "מנהלי מערכת יכולים כעת ליצור ביקורות על מוצרים"
+
+msgctxt "Languages::product_reviews.upgrade_notification.message_administators_add_ability_create_product_reviews"
+msgid "Previously, administrators could edit existing product reviews in the admin panel, but couldn't post new ones. We've changed that: now the administrators who could edit reviews can add new reviews on the \"Reviews\" tab of the product editing page. Note that this change doesn't affect vendors' administrators in CS-Cart Multi-Vendor in any way. The most that they can do is leave a reply to a product review.<br><br>You can keep the old behavior if you'd like. Through user groups, you can now allow administrators to create or edit reviews (or do both of those things).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Set administrator privileges</a>"
+msgstr "בעבר, מנהלי מערכת יכלו לערוך ביקורות מוצר קיימות בפאנל הניהול, אך לא יכלו לפרסם ביקורות חדשות. שינינו את זה: כעת המנהלים שיכולים לערוך ביקורות יכולים להוסיף ביקורות חדשות בכרטיסייה \"ביקורות\" בדף עריכת המוצר. שים לב ששינוי זה אינו משפיע על מנהלי ספקים ב-CS-Cart Multi-Vendor בשום צורה. הכי הרבה שהם יכולים לעשות זה להשאיר תשובה לסקירת מוצר.<br><br>אתה יכול לשמור את ההתנהגות הישנה אם תרצה. באמצעות קבוצות משתמשים, אתה יכול כעת לאפשר למנהלי מערכת ליצור או לערוך ביקורות (או לעשות את שני הדברים האלה).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">הגדר הרשאות מנהל</a>"
+
+msgctxt "Languages::product_reviews.exim_error_incorrect_field_value"
+msgid "Specified [field] '[value]' was not found. The product review with comment '[comment]' was skipped."
+msgstr "[field] שצוין '[value]' לא נמצא. סקירת המוצר עם הערה '[comment]' נדחתה."
+
+msgctxt "Languages::product_reviews.exim_error_empty_field"
+msgid "The value of the <b>[field]</b> field can not be empty. The product review with comment '[comment]' was skipped."
+msgstr "הערך של השדה <b>[field]</b> לא יכול להיות ריק. סקירת המוצר עם הערה '[comment]' נדחתה."
+
+msgctxt "Languages::product_reviews"
+msgid "Product reviews"
+msgstr "ביקורות מוצרים"
+
+msgctxt "Languages::images_delimiter"
+msgid "Images delimiter"
+msgstr "תוחם תמונות"
+
+msgctxt "Languages::text_images_delimiter"
+msgid "Images path delimiter for product review images (e.g. \"Image1.png///Image2.png\")"
+msgstr "מפריד נתיב תמונות עבור תמונות סקירת מוצרים (למשל \"Image1.png///Image2.png\")"
+

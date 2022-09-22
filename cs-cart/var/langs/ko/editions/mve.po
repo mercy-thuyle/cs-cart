@@ -1,0 +1,1142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/editions/mve.po\n"
+"X-Crowdin-File-ID: 6734\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Languages::add_companies"
+msgid "Add vendors"
+msgstr "공급업체 추가"
+
+msgctxt "Languages::add_companies_and_close"
+msgid "Add vendors and close"
+msgstr "공급업체 추가 및 닫기"
+
+msgctxt "Languages::add_vendor"
+msgid "Add vendor"
+msgstr "공급업체 추가"
+
+msgctxt "Languages::add_vendor_administrator"
+msgid "Add vendor's administrator"
+msgstr "공급업체 관리자 추가"
+
+msgctxt "Languages::vendor_administrator"
+msgid "Vendor's administrator"
+msgstr "공급업체 관리자"
+
+msgctxt "Languages::vendor_administrators"
+msgid "Vendor's administrators"
+msgstr "공급업체 관리자"
+
+msgctxt "Languages::vendor_administrators_menu_description"
+msgid "List of vendor's administrators, registered users with a vendor account."
+msgstr "공급업체 관리자, 공급업체 계정에 등록된 사용자 목록입니다."
+
+msgctxt "Languages::vendor_candidate_notification"
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "안녕하세요,<br/><br/>귀하의 상점에 새로운 공급업체 후보가 있습니다. 이 공급업체 계정은 승인할 때까지 보류 중입니다. 계정 세부 정보를 보려면 <a href=\"[href]\">이 URL</a> 을 따르십시오.</a>."
+
+msgctxt "Languages::new_vendor_notification"
+msgid "Hello,<br/><br/>A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor's account details.</a>"
+msgstr "안녕하세요,<br/><br/>새로운 공급업체가 등록되어 상점 및 관리자 패널에 대한 액세스 권한을 받았습니다. <a href=\"[link]\">이 링크를 사용하여 공급업체의 계정 세부 정보를 봅니다.</a>"
+
+msgctxt "Languages::demo_panel.go_vendor_panel"
+msgid "Go to Vendor panel"
+msgstr "공급업체 패널로 이동"
+
+msgctxt "Languages::vendor_account_balance_menu_description"
+msgid "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "수입 및 지출 통계(총, 공급업체별, 기간별)."
+
+msgctxt "Languages::merge_vendor"
+msgid "Merge vendor"
+msgstr "공급업체 병합"
+
+msgctxt "Languages::select_new_owner_company"
+msgid "Select a new owner of this company's profile data:"
+msgstr "이 회사 프로필 데이터의 새 소유자 선택:"
+
+msgctxt "Languages::warning_merging_companies"
+msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "두 회사 계정을 병합하면 데이터베이스에서 [company_name] 이 제거되고 모든 프로필 데이터(제품, 주문, 배송 방법, 사용자, 프로모션 등)가 이 회사 계정으로 이전됩니다."
+
+msgctxt "Languages::all_vendors"
+msgid "All vendors"
+msgstr "모든 공급업체"
+
+msgctxt "Languages::apply_for_vendor_account"
+msgid "Apply for a vendor account"
+msgstr "벤더 계정 신청"
+
+msgctxt "Languages::available_for_vendor"
+msgid "Available for vendor"
+msgstr "공급업체에 사용 가능"
+
+msgctxt "Languages::balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "이월 잔액"
+
+msgctxt "Languages::block_vendors"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "Languages::charge_to_vendor_account"
+msgid "Charge to vendor account"
+msgstr "공급업체 계정으로 청구"
+
+msgctxt "Languages::companies"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "Languages::create_administrator_account"
+msgid "Create administrator account"
+msgstr "관리자 계정 생성"
+
+msgctxt "Languages::displayed_vendors"
+msgid "Displayed vendors"
+msgstr "표시된 공급업체"
+
+msgctxt "Languages::editing_vendor"
+msgid "Editing vendor"
+msgstr "공급업체 편집"
+
+msgctxt "Languages::error_admin_not_created_email_already_used"
+msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
+msgstr "관리자 계정이 생성되지 않았습니다. 이메일 주소가 다른 사용자에게 속해 있습니다. 이 공급업체의 관리자를 수동으로 추가할 수 있습니다."
+
+msgctxt "Languages::error_admin_not_created_name_already_used"
+msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
+msgstr "관리자 계정이 생성되지 않았습니다. 사용자 이름이 다른 사용자에게 속해 있습니다. 관리자 계정의 이름을 변경해야 합니다."
+
+msgctxt "Languages::error_vendor_exists"
+msgid "The vendor with e-mail you have chosen already exists, please try another."
+msgstr "귀하가 선택한 이메일을 가진 공급업체가 이미 존재합니다. 다른 이메일을 시도하십시오."
+
+msgctxt "Languages::expenditure"
+msgid "Expenditure"
+msgstr "지출"
+
+msgctxt "Languages::income"
+msgid "Income"
+msgstr "소득"
+
+msgctxt "Languages::manage_vendors"
+msgid "Manage vendors"
+msgstr "공급업체 관리"
+
+msgctxt "Languages::new_administrator_account_created"
+msgid "New administrator account has been successfully created."
+msgstr "새 관리자 계정이 성공적으로 생성되었습니다."
+
+msgctxt "Languages::new_vendor"
+msgid "New vendor"
+msgstr "신규 공급업체"
+
+msgctxt "Languages::notify_vendor"
+msgid "Notify vendor"
+msgstr "공급업체에 알리기"
+
+msgctxt "Languages::notify_vendors_by_email"
+msgid "Notify vendors by e-mail"
+msgstr "전자 메일로 공급업체에 알림"
+
+msgctxt "Languages::privileges.manage_payouts"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privileges.manage_vendors"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.vendor_payouts"
+msgid "Accounting"
+msgstr "회계"
+
+msgctxt "Languages::privileges.view_payouts"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::privileges.view_vendors"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::privilege_sections.vendors"
+msgid "Vendors privileges"
+msgstr "공급업체 권한"
+
+msgctxt "Languages::privilege_groups.vendors"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "Languages::sales_period"
+msgid "Sales period"
+msgstr "판매 기간"
+
+msgctxt "Languages::sales_period_total"
+msgid "Sales period total"
+msgstr "판매 기간 총계"
+
+msgctxt "Languages::search_by_vendor"
+msgid "Search by vendor"
+msgstr "공급업체로 검색"
+
+msgctxt "Languages::sort_by_company_asc"
+msgid "Sort by alphabetical: A to Z"
+msgstr "알파벳순으로 정렬: A ~ Z"
+
+msgctxt "Languages::sort_by_company_desc"
+msgid "Sort by alphabetical: Z to A"
+msgstr "알파벳순으로 정렬: Z에서 A"
+
+msgctxt "Languages::text_company_status_active_to_pending"
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "공급업체 상태가 활성에서 보류로 변경되었습니다."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "공급업체 상태가 비활성화에서 보류로 변경되었습니다."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "보류 상태를 사용하면 관리자 패널에 로그인하고 회사 정보를 변경하고 상점을 제품으로 채울 수 있습니다."
+
+msgctxt "Languages::text_company_status_new_to_active"
+msgid "Your request for vendor [company] was approved."
+msgstr "공급업체 [company] 에 대한 귀하의 요청이 승인되었습니다."
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_created"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "새 관리자가 생성되었습니다. 다음 자격 증명을 사용하여 관리자 영역에 액세스할 수 있습니다. <a href=\"[link]\">[link_text]</a> :<br />로그인: [login]<br />암호: [password]"
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "계정 유형 [login] 이 관리자로 변경되었습니다. 관리자 영역에 로그인할 수 있습니다. <a href=\"[link]\">[link_text]</a>"
+
+msgctxt "Languages::text_company_status_new_to_active_subj"
+msgid "Your request for vendor was approved."
+msgstr "공급업체에 대한 귀하의 요청이 승인되었습니다."
+
+msgctxt "Languages::text_company_status_new_to_disable"
+msgid "Your request for vendor [company] was rejected."
+msgstr "공급업체 [company] 에 대한 요청이 거부되었습니다."
+
+msgctxt "Languages::text_company_status_new_to_disable_subj"
+msgid "Your request for vendor was rejected."
+msgstr "공급업체에 대한 요청이 거부되었습니다."
+
+msgctxt "Languages::text_company_status_new_to_pending"
+msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "축하합니다. 공급업체 계정 신청이 승인되었습니다. 계정 정보를 검토한 후 웹 사이트에 게시합니다."
+
+msgctxt "Languages::text_company_status_pending_subj"
+msgid "Your company is waiting for approval."
+msgstr "회사에서 승인을 기다리고 있습니다."
+
+msgctxt "Languages::text_company_status_pending_to_active"
+msgid "Your profile changes for vendor [company] were approved."
+msgstr "공급업체 [company] 에 대한 프로필 변경이 승인되었습니다."
+
+msgctxt "Languages::text_error_adding_request"
+msgid "Error while adding the request."
+msgstr "요청을 추가하는 동안 오류가 발생했습니다."
+
+msgctxt "Languages::text_new_payment_was_created"
+msgid "New payment was created"
+msgstr "새 결제가 생성되었습니다."
+
+msgctxt "Languages::text_not_approved_vendors"
+msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "승인이 필요한 공급업체가 있습니다. 이 공급업체를 검토하려면 <a href=\"[link]\">이 링크를</a> 따르십시오."
+
+msgctxt "Languages::text_created_new_vendors"
+msgid "A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor.</a> "
+msgstr "새 공급업체가 등록되어 상점 첫화면 및 관리자 패널에 대한 액세스 권한을 받았습니다. <a href=\"[link]\">이 링크를 사용하여 공급업체를 봅니다.</a> "
+
+msgctxt "Languages::text_successful_request"
+msgid "Your request was successfully added. You will receive the email with the answer later."
+msgstr "귀하의 요청이 성공적으로 추가되었습니다. 나중에 답변이 포함된 이메일을 받게 됩니다."
+
+msgctxt "Languages::total_amount_due"
+msgid "Total amount due"
+msgstr "총액"
+
+msgctxt "Languages::total_period_payout"
+msgid "Total sales period payout"
+msgstr "총 판매 기간 지불금"
+
+msgctxt "Languages::total_unpaid_balance"
+msgid "Total unpaid balance"
+msgstr "총 미납 잔액"
+
+msgctxt "Languages::tt_views_payments_update_taxes"
+msgid "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "판매처에서 과징금을 징수하는 경우 세금이 계산되지 않습니다."
+
+msgctxt "Languages::unable_delete_vendor_orders_exists"
+msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "상점 데이터베이스에 이 공급업체의 제품이 포함된 주문이 있기 때문에 이 공급업체 계정을 삭제할 수 없습니다. 계정을 삭제하려면 먼저 해당 주문을 모두 삭제하십시오."
+
+msgctxt "Languages::vendor"
+msgid "Vendor"
+msgstr "공급업체"
+
+msgctxt "Languages::vendors"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "Languages::vendors_menu_title"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "Languages::vendors_menu_description"
+msgid "Sorted list of vendor accounts registered in the store."
+msgstr "스토어에 등록된 벤더 계정의 정렬된 목록입니다."
+
+msgctxt "Languages::vendor_account_balance"
+msgid "Account balance"
+msgstr "계정 잔액"
+
+msgctxt "Languages::vendor_approval_pending"
+msgid "New vendor account application"
+msgstr "신규 벤더 계정 신청"
+
+msgctxt "Languages::vendor_id"
+msgid "Vendor ID"
+msgstr "공급업체 ID"
+
+msgctxt "Languages::vendor_name"
+msgid "Vendor name"
+msgstr "공급업체 이름"
+
+msgctxt "Languages::vendor_pages"
+msgid "Vendor pages"
+msgstr "공급업체 페이지"
+
+msgctxt "Languages::vendor_panel"
+msgid "Vendor panel"
+msgstr "공급업체 패널"
+
+msgctxt "Languages::view_vendor_orders"
+msgid "View vendor orders"
+msgstr "공급업체 주문 보기"
+
+msgctxt "Languages::view_vendor_products"
+msgid "View vendor products"
+msgstr "공급업체 제품 보기"
+
+msgctxt "Languages::view_vendor_users"
+msgid "View vendor users"
+msgstr "공급업체 사용자 보기"
+
+msgctxt "Languages::view_vendor_admins"
+msgid "View vendor admins"
+msgstr "공급업체 관리자 보기"
+
+msgctxt "Languages::you_can_edit_account_details"
+msgid "You can edit the account details now."
+msgstr "지금 계정 세부 정보를 편집할 수 있습니다."
+
+msgctxt "SettingsSections::Vendors"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "SettingsOptions::vendors_per_page"
+msgid "Vendors per page"
+msgstr "페이지당 공급업체"
+
+msgctxt "SettingsOptions::apply_for_vendor"
+msgid "Allow users to apply for vendor account"
+msgstr "사용자가 공급업체 계정을 신청할 수 있도록 허용"
+
+msgctxt "SettingsOptions::create_vendor_administrator_account"
+msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "승인된 새 공급업체의 관리자 계정을 자동으로 생성합니다. (\"사용자가 벤더 계정을 신청하도록 허용\" 설정이 활성화된 경우)"
+
+msgctxt "SettingsOptions::display_vendor"
+msgid "Display product vendor"
+msgstr "디스플레이 제품 공급업체"
+
+msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
+msgid "Applying vendors must agree to the terms & conditions"
+msgstr "신청하는 공급업체는 이용 약관에 동의해야 합니다."
+
+msgctxt "SettingsOptions::mailer_send_from_admin"
+msgid "Send vendor emails from marketplace email addresses"
+msgstr "마켓플레이스 이메일 주소에서 공급업체 이메일 보내기"
+
+msgctxt "SettingsOptions::allow_vendor_manage_features"
+msgid "Allow vendors to manage product features"
+msgstr "공급업체가 제품 기능을 관리하도록 허용"
+
+msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
+msgstr "이용 약관의 텍스트는 \"vendor_terms_n_conditions_content\" 언어 변수에서 검색됩니다."
+
+msgctxt "SettingsOptions::allow_approve_vendors_in_two_steps"
+msgid "Review new vendors before granting access to the admin panel"
+msgstr "관리자 패널에 대한 액세스 권한을 부여하기 전에 새 공급업체를 검토하세요."
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "공급업체 계정 양식 신청"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "공급업체 카테고리"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "특정 공급업체에서 사용할 수 있는 제품 범주"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "공급업체 정보"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "공급업체 로고"
+
+msgctxt "Languages::show_location"
+msgid "Show location"
+msgstr "위치 표시"
+
+msgctxt "Languages::show_products_count"
+msgid "Show products count"
+msgstr "제품 수 표시"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "공급업체 제품으로 검색"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "공급업체 제품 필터"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "공급업체 제품"
+
+msgctxt "Languages::apply_shipping_for_all_vendors"
+msgid "Allow shipping for all vendors"
+msgstr "모든 공급업체에 대한 배송 허용"
+
+msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
+msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
+msgstr "배송 방법은 모든 공급업체에 적용됩니다. 계속하시겠습니까?"
+
+msgctxt "Languages::shipping_applied_to_vendors"
+msgid "The shipping method was applied to [vendors] vendors"
+msgstr "배송 방법은 [vendors] 개의 공급업체에 적용되었습니다."
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "공급업체 필터"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr "벤더 신청"
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr "회사 상태 변경"
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr "회사 지불"
+
+msgctxt "Languages::email_template.vendor_invitation"
+msgid "Vendor invitation"
+msgstr "공급업체 초대"
+
+msgctxt "Languages::vendor_invitation_email_subject"
+msgid "Come Sell With [default_company_name]"
+msgstr "[default_company_name]으로 판매하세요"
+
+msgctxt "Languages::vendor_invitation_email_body"
+msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name].  You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
+msgstr "<p>안녕하세요,</p><br/><p> <a href=\"[create_account_url]\">에 [default_company_name]으로 계정</a> 를 만드시도록 초대합니다. 귀하의 제품을 당사 플랫폼에 등록하고 방문자에게 판매하여 고객 기반을 확장할 수 있습니다.</p><br/><p>안부 인사,</p><p>[default_company_name] 팀</p>"
+
+msgctxt "Languages::vendor_terms_n_conditions"
+msgid "I accept the [terms_href]"
+msgstr "나는 [terms_href]을 받아들인다"
+
+msgctxt "Languages::vendor_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "이용약관"
+
+msgctxt "Languages::vendor_terms_n_conditions_alert"
+msgid "In order to proceed, you need to accept our Terms and Conditions."
+msgstr "계속하려면 이용 약관에 동의해야 합니다."
+
+msgctxt "Languages::vendor_terms_n_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>My에서 운영하는 <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> 웹사이트 및 My Mobile App 모바일 애플리케이션(이하 \"서비스\")을 이용하기 전에 본 이용약관(이하 \"약관\", \"이용약관\")을 주의 깊게 읽으십시오. 회사(\"당사\", \"당사\" 또는 \"당사\").</p><p><strong>서비스에 액세스하거나 사용함으로써 귀하는 본 약관에 동의하는 것입니다. 약관의 일부에 동의하지 않는 경우 서비스에 액세스할 수 없습니다.</strong></p><p><strong>구매</strong></p><p>서비스를 통해 제공되는 제품 또는 서비스를 구매하려는 경우(\"구매\"),</p>와 관련된 특정 정보를 제공해야 할 수 있습니다.<p><strong>콘텐츠</strong></p><p>당사 서비스를 통해 특정 정보, 텍스트, 그래픽, 비디오 또는 기타 자료(\"콘텐츠\")를 게시, 링크, 저장, 공유 및 기타 방식으로 사용할 수 있습니다. ...</p><p><strong>변경 사항</strong></p><p>당사는 단독 재량으로 언제든지 본 약관을 수정하거나 대체할 수 있는 권리를 보유합니다. 수정 사항이 중요한 경우 새로운 조건이 적용되기 최소 30일 전에 통지하도록 노력할 것입니다. 중대한 변경을 구성하는 것은 당사의 단독 재량에 따라 결정됩니다.</p><p><strong>문의하기</strong></p><p>본 약관에 대해 질문이 있으시면 저희에게 연락해 주십시오.</p>"
+
+msgctxt "Languages::mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus"
+msgstr "이 작업에는 [product] Ultimate 또는 [product] Plus가 필요합니다."
+
+msgctxt "Languages::mve_ultimate_license_required"
+msgid "[product] Ultimate is required for this"
+msgstr "[product] Ultimate가 필요합니다."
+
+msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
+msgstr "이 작업에는 Ultimate [product] 개 또는 Plus [product] 개가 필요합니다. <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> 또는 <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>로 전환하면 모든 기능에 액세스할 수 있습니다."
+
+msgctxt "Languages::max_storefronts_reached"
+msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
+msgstr "<p>라이센스에 사용할 수 있는 상점 한도에 도달했습니다. 다른 매장을 추가하려면 매장 수에 제한이 없는 에디션인 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>를 구입해야 합니다.</p>"
+
+msgctxt "Languages::mve_plus_license"
+msgid "[product] Plus"
+msgstr "[product] 플러스"
+
+msgctxt "Languages::mve_ultimate_license"
+msgid "[product] Ultimate"
+msgstr "[product] 궁극기"
+
+msgctxt "Languages::text_mve_plus_license_required"
+msgid "<p>Let your vendors receive money from customers directly via your marketplace.</p><p>Manage vendors' abilities via user groups, and allow your vendors to change the looks of their stores.</p><p>Create a unified catalog, where vendors can start selling any product in a matter of minutes.</p>"
+msgstr "<p>공급업체가 시장을 통해 고객으로부터 직접 돈을 받도록 하십시오.</p><p>사용자 그룹을 통해 공급업체의 능력을 관리하고 공급업체가 매장의 모양을 변경할 수 있도록 합니다.</p><p>공급업체가 몇 분 만에 제품 판매를 시작할 수 있는 통합 카탈로그를 만드십시오.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license_required"
+msgid "<p>Branch out: get an unlimited number of storefronts for your marketplace.</p><p>A storefront is another domain created either for a specific country or city, or for a specific part of your product catalog.</p><p>Get all the other functionality of [product] Plus.</p>"
+msgstr "<p>분기: 시장을 위한 무제한의 상점을 확보하십시오.</p><p>매장은 특정 국가나 도시 또는 제품 카탈로그의 특정 부분에 대해 생성된 또 다른 도메인입니다.</p><p> [product] Plus의 다른 모든 기능을 활용하십시오.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license"
+msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
+msgstr "[product] Plus의 모든 기능과 무제한 매장 수를 제공하는 [product] 의 특별판. <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>로 전환하면 상점 첫 화면 제한에 대한 메시지가 다시 표시되지 않습니다."
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::product_state_description.mve"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p> [product]을 활성화했습니다. 이제 시간 제한 없이 사용할 수 있습니다. 고급 기능(예: 각 공급업체에 대한 별도의 체크아웃 및 공급업체 생성 프로모션)을 사용하려면 <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus 라이선스를 받으십시오.</a> 마켓플레이스에 여러 도메인을 사용하려면 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate 라이선스를 받으십시오.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>여러 상점을 제외한 모든 기능에 대한 액세스. 특정 대상을 위한 도메인을 보유하려면 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate 라이선스를 받으십시오.</a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.enterprise"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p> <br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p> <br />"
+
+msgctxt "Languages::product_state_description.mve.ru"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p> [product]을 활성화했습니다. 이제 시간 제한 없이 사용할 수 있습니다. 고급 기능(예: 각 공급업체에 대한 별도의 체크아웃 및 공급업체 생성 프로모션)을 사용하려면 <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus 라이선스를 받으십시오.</a> 마켓플레이스에 여러 도메인을 사용하려면 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate 라이선스를 받으십시오.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.ru.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>여러 상점을 제외한 모든 기능에 대한 액세스. 특정 대상을 위한 도메인을 보유하려면 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate 라이선스를 받으십시오.</a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.enterprise"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "귀하의 상점은 이제 활성 라이센스를 사용합니다. [product] 에디션을 사용하면 우리가 제공하는 거의 모든 기능을 이용할 수 있습니다. 추가 기능(예: 각 공급업체에 대한 별도의 체크아웃 및 공급업체 생성 프로모션)은 <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus 에디션</a>에서 사용할 수 있습니다. 훨씬 더 고급 버전인 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>이 있습니다. 이 버전을 사용하면 다양한 청중을 위해 여러 상점을 사용할 수 있습니다."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>플러스 모드</strong> 이 활성화되었습니다. 이 모드는 여러 상점을 제외한 모든 고급 전자 상거래 기능을 제공합니다. 마켓플레이스에서 다양한 대상을 위한 별도의 도메인이 필요한 경우 라이선스를 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>로 업그레이드하십시오."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Ultimate 모드</strong> 이 활성화되었습니다. 이 모드에서는 모든 고급 전자 상거래 기능을 사용할 수 있습니다."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.enterprise"
+msgid "<strong>Enterprise mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>엔터프라이즈 모드</strong> 이 활성화되었습니다. 이 모드에서는 모든 고급 전자 상거래 기능을 사용할 수 있습니다."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "귀하의 상점은 이제 활성 라이선스를 사용합니다. [product] 에디션을 사용하면 우리가 제공하는 거의 모든 기능을 이용할 수 있습니다. 추가 기능(예: 각 공급업체에 대한 별도의 체크아웃 및 공급업체 생성 프로모션)은 <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus 에디션</a>에서 사용할 수 있습니다. 훨씬 더 고급 버전인 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>이 있습니다. 이 버전을 사용하면 다양한 청중을 위해 여러 상점을 사용할 수 있습니다."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>플러스 모드</strong> 이 활성화되었습니다. 이 모드는 여러 상점을 제외한 모든 고급 전자 상거래 기능을 제공합니다. 마켓플레이스에서 다양한 대상을 위한 별도의 도메인이 필요한 경우 라이선스를 <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>로 업그레이드하십시오."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Ultimate 모드</strong> 이 활성화되었습니다. 이 모드에서는 모든 고급 전자 상거래 기능을 사용할 수 있습니다."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.enterprise"
+msgid "<strong>Enterprise mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>엔터프라이즈 모드</strong> 이 활성화되었습니다. 이 모드에서는 모든 고급 전자 상거래 기능을 사용할 수 있습니다."
+
+msgctxt "Languages::store_mode.plus"
+msgid "Plus"
+msgstr "을 더한"
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr "유형"
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr "다른"
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr "다른"
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr "주문 완료"
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr "<a href=\"[order_url]\">#[order_id]</a> 주문"
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr "주문 변경됨"
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr "주문 <a href=\"[order_url]\">#[order_id]</a> 변경됨"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr "환불된 주문"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr "주문 <a href=\"[order_url]\">#[order_id]</a> 환불됨"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr "철수"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr "철수"
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr "지불금"
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr "지불금"
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr "업무"
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr "잔액 인출"
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr "거래 가치"
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr "소득"
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr "이월 소득"
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr "균형"
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "이월 잔액"
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr "철회 요청"
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr "신규 출금"
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr "회계"
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr "수입 및 지출 통계(총 수입, 공급업체 잔액, 공급업체 인출)."
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr "현재 잔액: [balance]"
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr "현재의 균형"
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr "승인 상태"
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr "보류 중"
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr "완전한"
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr "거부됨"
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr "회계: 대금이 지급되었습니다."
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr "새로운 판매 대금이 발행되었습니다"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr "[amount] 의 새로운 지불금이 [issuer]에 의해 발행되었습니다."
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr "여기에서 세부정보를 볼 수 있습니다."
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr "지불 코멘트"
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr "회계: 출금이 요청되었습니다."
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr "새로운 인출이 요청되었습니다"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr "[requester]이(가) [amount] 의 새로운 출금을 요청했습니다."
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr "철회 코멘트"
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr "회계: 지불이 완료되었습니다."
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr "지불이 완료되었습니다"
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr "[date] 에 발행된 [amount] 의 지불금이 <b>로 표시되었습니다. 완료</b>"
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr "회계: 지불이 완료되지 않았습니다."
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr "지불이 완료되지 않았습니다"
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr "[date] 에 발행된 [amount] 의 지불금이 <b>로 표시되었습니다. 완료되지 않음</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr "회계 : 출금 완료"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr "출금이 완료되었습니다"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr "[date] 에 요청된 [amount] 의 출금이 <b>로 표시되었습니다. 완료</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr "회계: 출금이 거부되었습니다."
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr "출금이 거부되었습니다"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr "[date] 에 요청된 [amount] 의 인출은 <b>로 표시되었습니다. 거부됨</b>"
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr "제일 잘 팔리는 물품들"
+
+msgctxt "SettingsOptions::can_edit_blocks"
+msgid "Allow vendors to edit layouts"
+msgstr "공급업체가 레이아웃을 편집할 수 있도록 허용"
+
+msgctxt "Languages::mve.container_not_used"
+msgid "This container currently has default configuration. It looks exactly like the store owner configured it. Vendors can use custom configuration to change the blocks in this container."
+msgstr "이 컨테이너에는 현재 기본 구성이 있습니다. 상점 소유자가 구성한 것과 정확히 같습니다. 공급업체는 사용자 지정 구성을 사용하여 이 컨테이너의 블록을 변경할 수 있습니다."
+
+msgctxt "SettingsOptions::can_edit_styles"
+msgid "Allow vendors to manage styles of the theme"
+msgstr "공급업체가 테마 스타일을 관리하도록 허용"
+
+msgctxt "Languages::theme_editor.page_cant_be_configured"
+msgid "The appearance of this page can't be configured with the Theme editor."
+msgstr "이 페이지의 모양은 테마 편집기로 구성할 수 없습니다."
+
+msgctxt "Languages::error_admin_registers_as_vendor"
+msgid "You can't become a vendor because you are currently signed in as an administrator. Please sign out and resubmit the form. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Sign out</a></p>"
+msgstr "현재 관리자로 로그인되어 있으므로 공급업체가 될 수 없습니다. 로그아웃한 후 양식을 다시 제출하세요. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">로그아웃</a></p>"
+
+msgctxt "Languages::logo_for_the_customer_area"
+msgid "Logo for the customer area"
+msgstr "고객 영역 로고"
+
+msgctxt "Languages::logo_for_invoices"
+msgid "Logo for invoices"
+msgstr "인보이스 로고"
+
+msgctxt "Languages::vendor_language"
+msgid "Vendor language"
+msgstr "공급업체 언어"
+
+msgctxt "Languages::zipcode"
+msgid "Zipcode"
+msgstr "우편 번호"
+
+msgctxt "Languages::vendors_statistics"
+msgid "Vendor's statistics"
+msgstr "공급업체 통계"
+
+msgctxt "Languages::vendors_activity"
+msgid "Vendor activity in the selected period"
+msgstr "선택한 기간의 공급업체 활동"
+
+msgctxt "Languages::vendors_activity.vendors_with_sales"
+msgid "Vendors with sales"
+msgstr "판매 중인 공급업체"
+
+msgctxt "Languages::vendors_activity.new_vendors"
+msgid "New vendors"
+msgstr "신규 공급업체"
+
+msgctxt "Languages::vendors_activity.vendors_with_new_products"
+msgid "Vendors with new products"
+msgstr "신제품을 판매하는 업체"
+
+msgctxt "Languages::vendors_activity.not_logged_in_vendors"
+msgid "Vendors who haven't signed in"
+msgstr "로그인하지 않은 공급업체"
+
+msgctxt "Languages::vendors_activity.new_products"
+msgid "New products"
+msgstr "신제품"
+
+msgctxt "Languages::vendors_activity.orders_created"
+msgid "Orders created"
+msgstr "생성된 주문"
+
+msgctxt "Languages::vendor_names"
+msgid "Vendor names"
+msgstr "공급업체 이름"
+
+msgctxt "Languages::vendor_logos_and_product_count"
+msgid "Vendor logos and product count"
+msgstr "공급업체 로고 및 제품 수"
+
+msgctxt "Languages::invite_vendors"
+msgid "Invite vendors"
+msgstr "공급업체 초대"
+
+msgctxt "Languages::invite_vendors_title"
+msgid "Invite people to register as vendors in your marketplace"
+msgstr "마켓플레이스에서 공급업체로 등록하도록 사람들을 초대합니다."
+
+msgctxt "Languages::invite_vendors_enter_emails"
+msgid "Emails where to send invitations"
+msgstr "초대장을 보낼 이메일"
+
+msgctxt "Languages::separate_multiple_email_addresses"
+msgid "If you enter multiple emails, write each of them in a new line."
+msgstr "여러 이메일을 입력하는 경우 각 이메일을 새 줄에 작성하십시오."
+
+msgctxt "Languages::send_invitations"
+msgid "Invite"
+msgstr "초대"
+
+msgctxt "Languages::pending_vendor_invitations"
+msgid "Pending vendor invitations"
+msgstr "대기 중인 공급업체 초대"
+
+msgctxt "Languages::pending_vendor_invitations_menu_description"
+msgid "Manage invitations to your marketplace for potential vendors."
+msgstr "잠재적 공급업체를 위한 시장 초대를 관리합니다."
+
+msgctxt "Languages::vendor_invited_at"
+msgid "Date sent"
+msgstr "보낸 날짜"
+
+msgctxt "Languages::vendor_invitations_sent_notification"
+msgid "Invitations sent: [sent_quantity]"
+msgstr "보낸 초대장: [sent_quantity]"
+
+msgctxt "Languages::vendor_invitations_fail_notification"
+msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
+msgstr "초대장이 전송되지 않음: [failed_quantity]<br/><b>[emails_list]</b><br/>이전에 해당 이메일 주소로 초대장을 보낸 적이 있는 경우 초대장이 전송되지 않습니다. 그러나 초대장이 전송되지 않고 이전에 해당 주소로 초대장을 보낸 적이 없다면 [product] 이 이메일을 전혀 보낼 수 있는지 확인하십시오. 그렇게 할 수 없다면 문제는 [product] 또는 서버 구성과 관련된 것입니다. 이 경우 서버 관리자, 호스팅 제공업체 또는 <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">기술 지원</a> 에 문의하여 조사하십시오."
+
+msgctxt "Languages::vendor_edit_invitation_email_template"
+msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
+msgstr "<a href=\"[url]\">공급업체 초대 이메일 템플릿 편집</a>"
+
+msgctxt "Languages::all_companies"
+msgid "All vendors"
+msgstr "모든 공급업체"
+
+msgctxt "Languages::is_default_storefront"
+msgid "Default storefront"
+msgstr "기본 상점"
+
+msgctxt "Languages::default_storefront_must_exist"
+msgid "Default storefront must exist in the store"
+msgstr "기본 상점은 상점에 존재해야 합니다."
+
+msgctxt "Languages::cant_remove_default_storefront"
+msgid "Default storefront <b>[url]</b> can't be removed"
+msgstr "기본 상점 <b>[url]</b> 는 제거할 수 없습니다."
+
+msgctxt "Languages::copy_theme_from_another_storefront"
+msgid "Copy theme and its layouts from another storefront"
+msgstr "다른 상점 첫 화면에서 테마 및 레이아웃 복사"
+
+msgctxt "Languages::n_vendors"
+msgid "[n] vendor|[n] vendors"
+msgstr "[n] 공급업체| 공급업체[n]"
+
+msgctxt "Languages::event.vendors_require_approval.name"
+msgid "Vendors require approval"
+msgstr "공급업체는 승인이 필요합니다."
+
+msgctxt "Languages::event.vendors_require_approval.title"
+msgid "Some vendors are pending approval"
+msgstr "일부 공급업체는 승인 대기 중입니다."
+
+msgctxt "Languages::event.vendor_status_changed.name"
+msgid "Vendor status changed to [status]"
+msgstr "공급업체 상태가 [status]으로 변경됨"
+
+msgctxt "Languages::event.vendor_status_changed_from.name"
+msgid "Vendor status changed from [status]"
+msgstr "공급업체 상태가 [status]에서 변경됨"
+
+msgctxt "Languages::email_template.company_status_suspended_notification"
+msgid "Company status change to Suspended"
+msgstr "회사 상태가 Suspended로 변경됨"
+
+msgctxt "Languages::event.vendor_status_changed.title"
+msgid "Your status has been changed to [status]"
+msgstr "상태가 [status]으로 변경되었습니다."
+
+msgctxt "Languages::event.vendor_status_changed.active.message"
+msgid "All your active products will now appear in the store"
+msgstr "모든 활성 제품이 이제 상점에 나타납니다."
+
+msgctxt "Languages::event.vendor_status_changed.pending.message"
+msgid "You can work with the admin panel and manage your products, but they won't appear to customers until your status changes to Active."
+msgstr "관리자 패널에서 작업하고 제품을 관리할 수 있지만 상태가 활성으로 변경될 때까지 제품이 고객에게 표시되지 않습니다."
+
+msgctxt "Languages::vendor_notifications"
+msgid "Vendor notifications"
+msgstr "공급업체 알림"
+
+msgctxt "Languages::log_in_as_vendor"
+msgid "Log in as vendor"
+msgstr "공급업체로 로그인"
+
+msgctxt "Languages::vendor_owner"
+msgid "Vendor's main administrator"
+msgstr "공급업체의 주요 관리자"
+
+msgctxt "Languages::owner_company"
+msgid "Vendor"
+msgstr "공급업체"
+
+msgctxt "Languages::block_manager.dynamic_entity_companies"
+msgid "vendor"
+msgstr "공급업체"
+
+msgctxt "Languages::vendor_features_only"
+msgid "Features created by vendors"
+msgstr "공급업체에서 만든 기능"
+
+msgctxt "Languages::any_vendor"
+msgid "Any vendor"
+msgstr "모든 공급업체"
+
+msgctxt "Languages::event.apply_for_vendor_notification.name"
+msgid "New vendor account application"
+msgstr "신규 벤더 계정 신청"
+
+msgctxt "Languages::event.new_vendor_notification.name"
+msgid "New vendor account created"
+msgstr "새 공급업체 계정이 생성됨"
+
+msgctxt "Languages::event.new_vendor_notification.title"
+msgid "New vendor registration"
+msgstr "신규 벤더 등록"
+
+msgctxt "Languages::email_template.new_vendor_notification"
+msgid "New vendor account approved automatically"
+msgstr "새 공급업체 계정이 자동으로 승인됨"
+
+msgctxt "Languages::suspend_alert"
+msgid "<p>Your account is suspended. To lift the suspension, please contact us.</p>"
+msgstr "<p>귀하의 계정이 정지되었습니다. 서스펜션을 해제하려면 당사에 문의하십시오.</p>"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.title"
+msgid "Your account is suspended"
+msgstr "당신의 계정은 정지되었습니다"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.message"
+msgid "To lift the suspension, please contact us."
+msgstr "서스펜션을 해제하려면 당사에 문의하십시오."
+
+msgctxt "Languages::text_company_status_suspended_subj"
+msgid "Your account is suspended"
+msgstr "당신의 계정은 정지되었습니다"
+
+msgctxt "Languages::logo_section.vendor"
+msgid "Default logo for new vendors"
+msgstr "신규 공급업체의 기본 로고"
+
+msgctxt "ProfileFields::tax_number"
+msgid "Tax number"
+msgstr "세금 번호"
+
+msgctxt "Languages::tax_number"
+msgid "Tax number"
+msgstr "세금 번호"
+
+msgctxt "Languages::text_send_an_email_access_information"
+msgid "We'll send you an email with access information."
+msgstr "액세스 정보가 포함된 이메일을 보내드립니다."
+
+msgctxt "Languages::storefront_all_common_categories"
+msgid "Storefront: All (Common categories)"
+msgstr "상점: 모두(공통 카테고리)"
+
+msgctxt "Languages::sw.vendor_registration_flow"
+msgid "Vendor registration flow"
+msgstr "공급업체 등록 흐름"
+
+msgctxt "Languages::sw.vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "공급업체 데이터 사전 조정"
+
+msgctxt "Languages::sw.access_to_admin_panel_and_storefront"
+msgid "Immediate access to admin panel and storefront"
+msgstr "관리자 패널 및 상점에 즉시 액세스"
+
+msgctxt "Languages::sw.access_to_admin_panel_and_storefront.description"
+msgid "Applying vendors get the \"Active\" status. They immediately appear on the storefront and gain access to their admin panel. At the same time, their first vendor plan fee also becomes due for payment."
+msgstr "공급업체를 신청하면 \"활성\" 상태가 됩니다. 그들은 즉시 상점에 나타나며 관리자 패널에 액세스할 수 있습니다. 동시에 첫 번째 공급업체 요금도 지불해야 합니다."
+
+msgctxt "Languages::sw.access_to_admin_panel_approval_storefront"
+msgid "Immediate access to admin panel; approval for storefront"
+msgstr "관리자 패널에 즉시 액세스 점포 승인"
+
+msgctxt "Languages::sw.access_to_admin_panel_approval_storefront.description"
+msgid "Applying vendors get the \"Pending\" status. They don't appear on the storefront yet, but gain access to their admin panel and can start working on their products. Once you change their status to \"Active\", their first vendor plan fee becomes due for payment."
+msgstr "공급업체를 신청하면 \"보류 중\" 상태가 됩니다. 아직 상점에 나타나지 않지만 관리자 패널에 액세스하여 제품 작업을 시작할 수 있습니다. 상태를 \"활성\"으로 변경하면 첫 번째 공급업체 계획 요금을 지불해야 합니다."
+
+msgctxt "Languages::sw.approval_access_to_admin_panel_and_storefront"
+msgid "Approval for access to admin panel and storefront"
+msgstr "관리자 패널 및 상점에 대한 액세스 승인"
+
+msgctxt "Languages::sw.approval_access_to_admin_panel_and_storefront.description"
+msgid "Applying vendors get the \"New\" status. After you verify them, they'll get the \"Active\" status and gain access to their admin panel and the storefront. Their first vendor plan fee will also become due for payment."
+msgstr "공급업체를 신청하면 \"신규\" 상태가 됩니다. 확인하면 \"활성\" 상태가 되고 관리자 패널과 상점에 액세스할 수 있습니다. 그들의 첫 번째 공급업체 계획 수수료도 지불해야 합니다."
+
+msgctxt "Languages::thank_you_for_registering_as_a_seller"
+msgid "Thank you for registering as a seller at [url]. We'll review your application and then grant you access to your admin panel in a separate email."
+msgstr "[url]에서 판매자로 등록해 주셔서 감사합니다. 귀하의 신청서를 검토한 후 별도의 이메일로 관리자 패널에 대한 액세스 권한을 부여해 드리겠습니다."
+
+msgctxt "Languages::sw.check_newly_registered_vendors"
+msgid "Check newly-registered vendors manually before they appear on the storefront"
+msgstr "새로 등록한 공급업체가 매장에 표시되기 전에 수동으로 확인"
+
+msgctxt "Languages::vendor_emails"
+msgid "Vendor emails"
+msgstr "공급업체 이메일"
+
+msgctxt "Languages::product_state_description.mve.booking.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.booking.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.booking.ultimate"
+msgid "Your store now uses active license. All the advanced eCommerce features are available."
+msgstr "귀하의 상점은 이제 활성 라이센스를 사용합니다. 모든 고급 전자 상거래 기능을 사용할 수 있습니다."
+
+msgctxt "Languages::product_state_description.mve.booking_ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.booking_ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>모든 기능에 대한 완전한 무제한 액세스. 활성화하려면 유효한 라이센스 번호를 입력하십시오.</p><p>이 모드는 언제든지 활성화할 수 있습니다.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.booking_ru.ultimate"
+msgid "Your store now uses active license. All the advanced eCommerce features are available."
+msgstr "귀하의 상점은 이제 활성 라이센스를 사용합니다. 모든 고급 전자 상거래 기능을 사용할 수 있습니다."
+
+msgctxt "Languages::error_vendor_name_exists"
+msgid "A vendor with this company name already exists. Please use another name."
+msgstr "이 회사 이름을 가진 공급업체가 이미 있습니다. 다른 이름을 사용하세요."
+
+msgctxt "Languages::privileges.merge_vendors"
+msgid "Can merge vendors (only if editing vendors is allowed)"
+msgstr "공급업체를 병합할 수 있음(공급업체 편집이 허용된 경우에만)"
+
+msgctxt "Languages::product_features_of_marketplace_are_not_selectable"
+msgid "This product feature belongs to the marketplace and couldn't be selected. You can only select or edit the features that belong to you."
+msgstr "이 제품 기능은 마켓플레이스에 속해 있으며 선택할 수 없습니다. 자신에게 속한 기능만 선택하거나 편집할 수 있습니다."
+
+msgctxt "Languages::product_features_groups_of_marketplace_are_not_selectable"
+msgid "This product feature group belongs to the marketplace and couldn't be selected. You can only select or edit the features that belong to you."
+msgstr "이 제품 기능 그룹은 마켓플레이스에 속해 있으며 선택할 수 없습니다. 자신에게 속한 기능만 선택하거나 편집할 수 있습니다."
+

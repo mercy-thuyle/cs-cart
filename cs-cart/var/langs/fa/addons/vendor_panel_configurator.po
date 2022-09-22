@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_panel_configurator.po\n"
+"X-Crowdin-File-ID: 6696\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "پیکربندی پنل فروشنده"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "پانل فروشنده را با نشان دادن تنها فیلدها و منوهایی که فروشندگان باید ببینند، ساده می کند."
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "تنظیمات صفحه محصول"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "سبک پانل فروشنده"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "این برگه هیچ فیلد قابل تنظیمی ندارد و همانطور که هست نمایش داده می شود"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "تنظیمات صفحه محصول"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "لوگوها و سبک ها"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "مدیریت لوگوهای استفاده شده در سایت و ایمیل ها و پیکربندی ظاهر میکرواستور و صفحات محصول"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "طرح بندی صفحه"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "طرح‌بندی‌های microstore و صفحات محصول را مدیریت کنید"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "نحوه دریافت پرداخت از مشتریان را مدیریت کنید"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "برای آسان‌تر کردن ورود، فروشندگان برخی از موارد منو و برخی فیلدها را در صفحه ویرایش محصول نمی‌بینند. می‌توانید آنچه را که فروشندگان می‌بینند و نمی‌بینند <a href=\"[config_url]\" target=\"_blank\">را در تنظیمات افزونه «پیکربندی‌کننده پانل فروشنده»</a>پیکربندی کنید. اگر افزونه را غیرفعال کنید، منوها و خود پنل فروشنده تغییر می‌کند تا شبیه پنل مدیریت بازار باشد."
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "رنگ نوار کناری"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "رنگ عنصر"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "تصویر پس زمینه نوار کناری"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "اگر تصویر پس زمینه را آپلود کنید، به جای رنگ نوار کناری نمایش داده می شود. اگر آن را آپلود می کنید، توصیه می کنیم رنگ نوار کناری را انتخاب کنید که با تصویر پس زمینه مطابقت داشته باشد."
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "اطلاعات فروشنده"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "این تنظیم در حال حاضر در صفحه ویرایش محصول ظاهر نمی شود، زیرا به صورت جهانی برای همه محصولات تنظیم شده است. <a href=\"[settings_url]\" target=\"_blank\">منوی \"تنظیمات\"</a> را برای پیدا کردن آن بررسی کنید."
+

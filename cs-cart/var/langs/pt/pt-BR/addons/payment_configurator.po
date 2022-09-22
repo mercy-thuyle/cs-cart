@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/payment_configurator.po\n"
+"X-Crowdin-File-ID: 6730\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::payment_configurator"
+msgid "Payment configurator"
+msgstr "Configurador de pagamento"
+
+msgctxt "Languages::payment_configurator.recipient_type"
+msgid "Recipient"
+msgstr "Destinatário"
+
+msgctxt "Languages::payment_configurator.recipient_type.description"
+msgid "Determines who initially gets the money. Choose \"Vendor\" for payment methods where customers pay on arrival."
+msgstr "Determina quem inicialmente recebe o dinheiro. Escolha \"Fornecedor\" para métodos de pagamento em que os clientes pagam na chegada."
+
+msgctxt "Languages::payment_configurator.recipient_type.M"
+msgid "Marketplace"
+msgstr "Mercado"
+
+msgctxt "Languages::payment_configurator.recipient_type.V"
+msgid "Vendor"
+msgstr "Fornecedor"
+
+msgctxt "SettingsOptions::payment_configurator::disallow_vendors_manage_payments"
+msgid "Disallow vendors to manage payments"
+msgstr "Não permitir que fornecedores gerenciem pagamentos"
+
+msgctxt "SettingsOptions::payment_configurator::display_marketplace_and_vendor_payments_together_at_checkout"
+msgid "Display payments of the marketplace and vendors together at the checkout"
+msgstr "Exibir pagamentos do mercado e fornecedores juntos no checkout"
+

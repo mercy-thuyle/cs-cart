@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/shopify_import.po\n"
+"X-Crowdin-File-ID: 6800\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::shopify_import"
+msgid "Import from Shopify"
+msgstr "Importer fra Shopify"
+
+msgctxt "Addons::description::shopify_import"
+msgid "Allows you to import products from Shopify."
+msgstr "Giver dig mulighed for at importere produkter fra Shopify."
+
+msgctxt "Languages::shopify_import.shopify_products_import"
+msgid "Shopify products"
+msgstr "Shopify produkter"
+
+msgctxt "Languages::shopify_import.sync_data_name"
+msgid "Import products from Shopify"
+msgstr "Importer produkter fra Shopify"
+
+msgctxt "Languages::shopify_import.choose_import_mode"
+msgid "Choose import mode"
+msgstr "Vælg importtilstand"
+
+msgctxt "Languages::shopify_import.import_for_all_vendors"
+msgid "I'm launching my marketplace and setting up products for all vendors to use"
+msgstr "Jeg lancerer min markedsplads og opsætter produkter, som alle leverandører kan bruge"
+
+msgctxt "Languages::shopify_import.import_for_specific_vendor"
+msgid "I'm importing these products for a specific vendor"
+msgstr "Jeg importerer disse produkter til en bestemt leverandør"
+
+msgctxt "Languages::shopify_import.depends_on_common_products_addon"
+msgid "This option needs <a href=\"[link]\">Common products for vendors</a> add-on to be installed"
+msgstr "Denne mulighed kræver, at <a href=\"[link]\">almindelige produkter for leverandører skal installeres</a> tilføjelse"
+
+msgctxt "Languages::shopify_import.invalid_csv_file_format"
+msgid "Uploaded CSV-file has invalid format or empty. Only files exported from Shopify supported."
+msgstr "Uploadet CSV-fil har ugyldigt format eller tom. Kun filer eksporteret fra Shopify understøttes."
+
+msgctxt "Languages::shopify_import.products_without_sku"
+msgid "The SKU value is missing for some products. These products are always imported as new objects."
+msgstr "SKU-værdien mangler for nogle produkter. Disse produkter importeres altid som nye genstande."
+
+msgctxt "Languages::shopify_import.last_status.S"
+msgid "Success"
+msgstr "Succes"
+
+msgctxt "Languages::shopify_import.last_status.F"
+msgid "Failure"
+msgstr "Fiasko"
+

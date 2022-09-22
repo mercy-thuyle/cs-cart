@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Platby prodejce-administrátor"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "Za určitých podmínek omezuje funkčnost administračních panelů prodejců a umožňuje vašim prodejcům zaplatit jejich dlužné poplatky z jejich části administračního panelu. Je to stejně lehké jako zakoupit produkt přímo na eshopu. "
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Pozastavit prodejce, jejichž zůstatek je nižší než"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Bezúhonné období k dobití zůstatku"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Daně z doplnění zůstatku"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Platby prodejce-administrátor"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Poplatky obchodu"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Poplatky obchodu (objednávky #[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Platební přirážka za poplatky tržiště (objednávka č.[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Zaplatit poplatky"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Zablokovat administrační panel prodejce, pokud jeho dluh dosáhne"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "Pokud je zůstatek prodejce v mínusu a dosáhne tohoto čísla, administrační panel prodejce bude zablokován k další práci. Pokud je záporný zůstatek polovina tohoto čísla, prodejce uvidí upozornění, které je specifikováno v jazykových proměnných coby  \"vendor_debt_payout.debt_near_limit_message\"."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Lhůta na zaplacení poplatků dodavatele"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "Platby za plány jsou čerpány ze zůstatku na účtu prodejce. Pokud se zůstatek na účtu dostane do mínusu po stržení poplatku, tak nebude možné používat administrační panel prodejce, dokud nebude prodejcem dluh splacen. "
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "den (dny)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Musíte zaplatit poplatek [fee_amount] za používání [plan_name] plánu. Váš  aktuální zůstatek je [current_balance]. Dokud poplatek nebude zaplacen do [overdue_date], nebudete schopni pracovat v administračním panelu, dokud <a href=\"[pay_url]\" target=\"_blank\">nezaplatíte všechny poplatky obchodu</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Váš zůstatek na účtu je aktuálně [current_balance]. Pokud dosáhne [minimal_balance], nebudete moci používat váš administrační panel, dokud <a href=\"[pay_url]\" target=\"_blank\">nezaplatíte poplatky obchodu</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p>Vašemu přístupu do administračního panelu byl zamezeno, jelikož jste dosáhli limitu vašeho záporného zůstatku, případně nebyl nějaký čas zaplacen váš plán prodejce. </p><p> Váš aktuální zůstatek je [current_balance].</p><p>Prosím<a href=\"[pay_url]\">zaplaťte poplatky obchodu</a> - jakmile jsou poplatky zaplaceny, váš přístup do administračního panelu bude obnoven."
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Pozastavit prodejce"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Pozastavit prodejce, jejichž zůstatek je nižší než"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Bezúhonné období k dobití zůstatku"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "Dluh [amount], který nebyl zaplacen do [date]."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "Pro snadnější práci s odstavenými prodejci prosím zkontrolujte tato nastavení doplňku <a href=\"[link]\">Prodejce-administrátor platby</a>"
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "Prodejce může být pozastaven, pokud dluh překročí podmínky <a href=\"[link]\">prodejcova plánu</a>"
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "Skrýt produkty pozastavených prodejců"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Zablokovat administrační panel pozastaveného prodejce"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Zablokovat administrační panel pozastaveného prodejce"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Informovat prodejce o nadcházejícím pozastavení"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Dát vědět administrátorovi o pozastavených prodejcích "
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">Upravit oznámení</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Každý týden zasílat přehled o pozastavených prodejcích"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Zakázat pozastavené prodejce po určité době"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Počet dnů, než bude prodejce zakázán"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Informovat prodejce o jejich zakázaném účtu"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Dát vědět administrátorovi o zakázaných prodejcích "
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Akce na pozastaveném účtu prodejce"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Oznámení"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Zaplatit zůstatek"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Vložte částu"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "Omlouváme se, platba neproběhla. Specifikovaná částka musí být větší než 0."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Váš účet je pozastaven. K obnovení prosím dobijte alespoň [amount] k dosažení minimálního zůstatku [vendor_plan_lowers_allowed_balance].<a target=\"_blank\" href=\"[link]\">Zaplatit zůstatek</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Váš účet může být brzy pozastaven. Dobijte si prosím alespoň [amount] do [date], abyste se vyhnuli pozastavení. <a target=\"_blank\" href=\"[link]\">Dobít zůstatek</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>Váš účet byl automaticky pozastaven.</p><p> Důvod: váš aktuální zůstatek činí [balance], což je pod přípustným minimem zůstatku [lowers_allowed_balance]. </p><p> Dobijte prosím alespoň [amount]. Jakmile bude platba započtena, pozastavení bude zrušeno automaticky.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>Váš aktuální zůstatek je [balance], což je pod povoleným minimem, které je [lowers_allowed_balance]. </p><p> Dobijte prosím alespoň částku [amount] do data [date]. Jinak může být váš účet pozastaven."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "Pozastavení prodejci"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Váš účet může být brzy odstaven"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Váš účet byl odstaven"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Přihlášení pro prodejce: Dluh a lhůta"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Dobijte prosím alespoň [amount] do [date], abyste se vyhnuli pozastavení účtu."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "Pro uvolnění odstavení, dobijte si prosím alespoň [amount] pro doplnění zůstatku dle [vendor_plan_lowers_allowed_balance]."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Prodejce-administrátor oznámení o platbě"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Prodejce-administrátor oznámení o platbě"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Prodejce-administrátor oznámení o platbě"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Prodejce-administrátor oznámení o platbě"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Status prodejce byl změněn na \"Pozastaven\""
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Prodejce-administrátor oznámení o platbě"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Status prodejce se změnil z \"Pozastavený/Odstavený\""
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Přihlášení pro prodejce: Dluh a lhůta"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Prodejce-administrátor oznámení o platbě"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Status prodejce byl změněn na \"Zakázán\""
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: Týdenní přehled dlužníků"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "toto je týdenní report ohledně dlužníků ve vašem obchodě. Obsahuje prodejce kteří se stali dlužníky nebo zaplatili dluh po posledním reportu. Váš obchod může mít <a href=\"[href]\">více pozastavených prodejců</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Týdenní přehled dlužníků"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Týdenní přehled dlužníků"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: Status se změnil na [status]"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "Status prodejce [vendor_name] byl změněn na [status]."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Váš účet může být brzy odstaven"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "Váš účet na [marketplace] může být brzy pozastaven"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Informace o nadcházejícím odstavení"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Váš aktuální zůstatek je [balance], což je pod minimální přípustnou částkou zůstatku [lowers_allowed_balance]. Dobijte prosím alespoň [amount] do [date], abyste se vyhnuli pozastavení účtu. Váš zůstatek můžete spravovat ve vašem <a href=\"[link]\">panelu prodejce</a>."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "Minimální povolený zůstatek jsme nastavili na 0. Nyní, kdykoliv zůstatek dodavatele klesne pod 0, započne lhůta k zaplacení dluhu, k němuž bude prodejce zároveň vyzván. "
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Každý týden zasílat přehled o pozastavených prodejcích"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "Výše dluhu"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Zůstatek na účtu"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "Tito prodejci od posledního reportu nebyli automaticky pozastavení kvůli dluhům:"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "Tito prodejci zaplatili své dluhy a jejich pozastavení bylo zrušeno od posledního reportu:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "Od posledního reportu nebyl žádný prodejce automaticky pozastaven kvůli dluhu."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "Žádný prodejce nezaplatil svůj dluh a pozastavení nebylo zrušeno od posledního reportu."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "Celkový dluh všech prodejců ve vašem obchodě (včetně těch, kteří nejsou zahrnuti v tomto reportu), je aktuálně: [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Prodejci splácejí svůj dluh zakoupením konkrétního produktu s poplatky na tržišti. Zde můžete upravit podrobnosti o produktu a kategorii, do které patří."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Produkt"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Kategorie"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Upravit</a>"
+

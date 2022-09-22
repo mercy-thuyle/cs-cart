@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Premoderarea conturilor furnizorilor"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "Vă permite moderarea activității furnizorilor"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "Suplimentul pentru premoderarea datelor furnizorului a fost dezactivat. Produse cu optiunile \"Requires approval\" sau \"Disapproved\" nu mai au niciun statut. Aceste produse nu vor apărea clienților până când dvs. sau furnizorii dvs. nu stabiliți o altă stare pentru ei. Dacă activați din nou programul de completare, produsele fără stare își vor recupera stările. Dacă dezinstalați suplimentul, toate produsele vor primi automat o stare corectă."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "Gestionați produse individuale sau grup de produse furnizate de vânzătorii magazinului."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Premoderarea datelor furnizorilor"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "Aprobare produs"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "Notificați furnizorul prin e-mail"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "Produsul dvs. [product] a fost aprobat de administrația magazinului și adăugat la catalogul de produse. Acum cumpărătorii pot comanda acest produs în magazin."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "Produsul dvs. [product] a fost respins de administrația magazinului"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "Vă mulțumim că ați trimis noi produse. Următoarele produse au fost aprobate de administrația magazinului și adăugate la catalogul de produse"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "Acum cumpărătorii pot comanda aceste produse în magazin."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "Vă mulțumim că ați trimis noi produse. Următoarele produse au fost respinse de administrația magazinului"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "Aprobă selecția"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "Dezaprobă selecția"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "Necesită aprobare pentru produse noi"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "Necesită aprobarea pentru produsele actualizate"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "Necesită aprobarea pentru modificările profilului furnizorului"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "Aveți produse care necesită aprobarea dvs. Vă rugăm să <a href=\"[link]\"> urmați acest link </a> pentru a examina aceste produse."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "Produsul(ele) au primit statusul de [status] "
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "Aprobare"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "Sigur doriți să actualizați profilul? Informațiile despre compania dvs. nu vor fi disponibile în zona clienților până când administratorul nu o aprobă."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "Se Poate gestiona"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "Produs aprobat"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "Contul de furnizor"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "Produse vânzători"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "Aprobarea produselor nou create"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "Aprobarea actualizărilor de informații despre produs"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "Aprobarea actualizărilor profilului furnizorului"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "Anunțați furnizorii despre rezultatele moderării produsului"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "Solicitați aprobare pentru actualizări de"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "Nu este necesar"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Obligatoriu pentru unii furnizori"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Obligatoriu pentru toți furnizorii"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "Nu este necesar"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "Obligatoriu pentru unii furnizori"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Obligatoriu pentru toți furnizorii"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "Nu este necesar"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Obligatoriu pentru unii furnizori"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Obligatoriu pentru toți furnizorii"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "Nu anunțați"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "Trimite email"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "Afișați o notificare în centrul de notificări"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "Trimiteți e-mail și afișați o notificare în Centrul de notificări"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "Premoderarea furnizorului"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "Exclude produsele respinse"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "Necesită aprobare"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "Respins"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "Produse in asteptare"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "Produse respinse"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "Respins"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "Aprobă produsul"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "Approba\"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "Respinge produsul"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "Respingeți\"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "Produse respinse"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "Motivul respingerii"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "Introduceți motivul respingerii și salvați modificările."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "Aveți un produs care necesită aprobarea dvs. | Aveți [n] produse care necesită aprobarea dvs."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "Acest produs este în așteptare pentru aprobarea dvs. din [since]. Faceți clic aici pentru a vizualiza acest produs. | Aceste produse sunt în așteptare pentru aprobarea dvs. din [since]. Faceți clic aici pentru a vizualiza aceste produse."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "Produsul dvs. a fost aprobat | Produsele dvs. au fost aprobate"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "\"[product]\" a fost aprobat de administrația magazinului și adăugat la catalogul de produse. Faceți clic aici pentru a vizualiza acest produs."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "Produsul dvs. a fost respins | Produsele dvs. au fost respinse"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "\"[product]\"a fost respins de administrația magazinului. Faceți clic aici pentru a vizualiza acest produs. | [n] produsele au fost respinse de administrația magazinului. Faceți clic aici pentru a vizualiza aceste produse. "
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "Schimbarile tale au fost salvate. Înainte ca produsul dvs. să fie adăugat la catalogul de produse, acesta trebuie aprobat de administrația magazinului.  Urmăriți<a href=\"[product_approval_url]\">acest link</a> pentru a vizualiza produsele care necesită aprobare. | Modificările dvs. au fost salvate. Înainte ca produsele dvs. să fie adăugate la catalogul de produse, acestea trebuie aprobate de administrația magazinului. Urmăriți<a href=\"[product_approval_url]\">acest link</a> pentru a vizualiza produsele care necesită aprobare."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Premoderarea datelor furnizorului: produsul dvs. a fost aprobat"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Premoderarea datelor furnizorului: produsul dvs. a fost respins si nu a fost aprobat."
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "Dacă aprobarea este necesară numai pentru unii furnizori, veți putea seta ce furnizori au nevoie de moderare în fila Suplimente(Add-ons) din pagina de editare a furnizorului."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Premoderarea datelor furnizorului: produsul dvs. a fost aprobat"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Premoderarea datelor furnizorului: produsul dvs. a fost respins!"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "Moderare"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "Aprobarea furnizorilor nou creați"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "Nu este necesar"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Necesar pentru toți vânzătorii"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "Dacă doriți să împiedicați total înregistrarea furnizorului, vă rugăm să verificați <a href=\"[url]\" target=\"_blank\">Setări → Furnizori</a>."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "Înainte de [date]"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "Șters"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "Adăugat"
+

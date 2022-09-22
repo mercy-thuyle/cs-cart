@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_panel_configurator.po\n"
+"X-Crowdin-File-ID: 6696\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "Configurateur de panel vendeur"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "Simplifie le panneau des fournisseurs en montrant aux fournisseurs uniquement les champs et les menus qu'ils doivent voir."
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "Paramètres de la page produit"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "Style de panneau de fournisseur"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "Cet onglet n'a pas de champs configurables et s'affiche tel quel"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "Paramètres de la page produit"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "Logos et styles"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "Gérer les logos utilisés sur le site et dans les e-mails et configurer l'apparence du microstore et des pages produits"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "Mises en page"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "Gérer les mises en page du microstore et des pages produits"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "Gérer la façon dont vous recevez les paiements des clients"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "Pour faciliter l'intégration, les fournisseurs ne voient pas certains éléments de menu et certains champs sur la page d'édition du produit. Vous pouvez configurer ce que les vendeurs voient et ne voient pas <a href=\"[config_url]\" target=\"_blank\">dans les paramètres de l'add-on \"Configurateur de panneau vendeur\"</a>. Si vous désactivez le module complémentaire, les menus et le panneau du vendeur lui-même changeront pour ressembler au panneau d'administration du marché."
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "Couleur de la barre latérale"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "Couleur de l'élément"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "Image d'arrière-plan de la barre latérale"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "Si vous téléchargez l'image d'arrière-plan, elle s'affichera à la place de la couleur de la barre latérale. Si vous le téléchargez, nous vous recommandons de choisir une couleur de barre latérale qui correspond à l'image d'arrière-plan."
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "Informations sur le vendeur"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "Ce paramètre n'apparaît pas sur la page d'édition du produit pour le moment, car il est défini globalement pour tous les produits. Vérifiez le menu <a href=\"[settings_url]\" target=\"_blank\">\"Paramètres\"</a> pour le trouver."
+

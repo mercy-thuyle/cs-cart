@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "Direkt fizetés vásárlótól eladónak"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "A pénztár folyamat megváltozatása: a vásárlók minden eladónak külön fizetnek és a pénz a rendelésekből közvetlenül az eladókhoz megy. Az eladók be tudják állítani a saját fizetési módjukat és promócióiukat."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "Kosarak összegzése"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "Fizetés most"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "Vannak termékek a kosaradban, amit még nem rendeltél meg. Kérjük <a href=\"[cart_url]\">nézd meg a kosaradat</a> a vásárlás folytatásához."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "Jutalék fizetés a #[order_id] számú rendelésért."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "Jelenleg nincs saját aktív fizetési mód beállítva. Ezért a pénztárban ehelyett a piactér automatikusan beállított fizetési módja kerül használatra. A késedelmes pénzbeérkezések elkerülése érdekében kérjük, állíts be saját fizetési módot."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "Ezeket a fizetési módokat csak akkor ajánljuk fel a vevőnek, ha az eladónak nincs aktív fizetési módja. A megrendelésekből származó pénz először a piactér tulajdonosához kerül, aki erről tájékoztatást kap és utána tovább kell utalnia a pénzt az eladónak."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "A fizetési módjaid"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "A piactér tulajdonos fizetési módjai"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "Fizetési mód létrehozása"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "Eladói kosarak"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "A vásárló kosara eladók szerint lesz szétbontva a pénztárnál"
+

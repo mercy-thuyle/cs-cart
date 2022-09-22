@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/alpha_bank.po\n"
+"X-Crowdin-File-ID: 6580\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::alpha_bank"
+msgid "Alpha bank payments"
+msgstr "阿尔法银行付款"
+
+msgctxt "Addons::description::alpha_bank"
+msgid "Allows you to accept payments via Alpha bank"
+msgstr "允许您通过 Alpha 银行接受付款"
+
+msgctxt "Languages::alpha_bank.merchant_id"
+msgid "Merchant ID"
+msgstr "商户编号"
+
+msgctxt "Languages::alpha_bank.shared_secret"
+msgid "Shared Secret"
+msgstr "共享秘密"
+

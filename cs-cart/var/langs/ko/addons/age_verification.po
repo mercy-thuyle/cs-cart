@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/age_verification.po\n"
+"X-Crowdin-File-ID: 6544\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::age_verification"
+msgid "Age verification"
+msgstr "성인 인증"
+
+msgctxt "Addons::description::age_verification"
+msgid "Toggles age restriction rules for products and categories"
+msgstr "제품 및 카테고리를 위한 나이 제한 규칙"
+
+msgctxt "Languages::age_verification"
+msgid "Age verification"
+msgstr "성인 인증"
+
+msgctxt "Languages::product_need_age_verification"
+msgid "You should verify your age to view this product."
+msgstr "이 제품을 보기 위해서는 성인 인증을 해야 합니다."
+
+msgctxt "Languages::your_age"
+msgid "Your age"
+msgstr "나이"
+
+msgctxt "Languages::verify"
+msgid "Verify"
+msgstr "인증"
+
+msgctxt "Languages::birthday"
+msgid "Birthday"
+msgstr "생일"
+
+msgctxt "Languages::age_limit"
+msgid "Age limit"
+msgstr "나이 제한"
+
+msgctxt "Languages::years"
+msgid "years"
+msgstr "년"
+
+msgctxt "Languages::age_warning_message"
+msgid "Warning message"
+msgstr "경고 메시지"
+
+msgctxt "Languages::promotion_cond_birthday"
+msgid "Birthday"
+msgstr "생일"
+

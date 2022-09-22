@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-20 12:56\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Фулфилмент от маркетплейса"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Позволяет вам предлагать тарифные планы, при которых маркетплейс доставляет товары продавцов и берёт стоимость доставки себе."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Тип доставки"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Включенная настройка означает, что маркетплейс занимается доставкой товаров от продавцов с этим планом. Если маркетплейс доставляет товары от нескольких продавцов, то покупатель будет выбирать единый способ доставки для этих продавцов на странице оформления заказа. Стоимость доставки отойдёт маркетплейсу.<ul><li>Продавцы, у которых в плане есть фулфилмент от маркетплейса, будут использовать ТОЛЬКО способы доставки, которые принадлежат маркетплейсу.</li><li>Продавцы, у которых в плане нет фулфилмента от маркетплейса, будут использовать ТОЛЬКО те способы доставки, которые принадлежат именно им.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "Теперь способы доставки, которыми владеет маркетплейс, будут доступны тем продавцам, в чьих тарифных планах включен фулфилмент от маркетплейса."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "Теперь способы доставки, которыми владеет маркетплейс, будут доступны в зависимости от настроек каждого отдельного продавца. Оплата за эти способы доставки пойдёт продавцам, а не маркетплейсу."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Продавец [name] перешёл на тарифный план с фулфилментом от маркетплейса. Теперь продавец будет использовать способы доставки маркетплейса, а не не свои собственные."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Вы перешли на тарифный план с фулфилментом от маркетплейса. Теперь вашим покупателям будут предлагаться способы доставки от маркетплейса."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Продавец [name] перешёл на тарифный план без фулфилмента от маркетплейса. Теперь продавец должен предлагать свои способы доставки."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Вы перешли на тарифный план без фулфилмента от маркетплейса. Убедитесь, что у вас настроены собственные способы доставки."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Фулфилмент от маркетплейса"
+

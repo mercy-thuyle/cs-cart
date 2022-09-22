@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/janrain.po\n"
+"X-Crowdin-File-ID: 6608\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::janrain"
+msgid "Janrain"
+msgstr "Janrain"
+
+msgctxt "Addons::description::janrain"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Közösségi bejelentkezési funkcióval látja el a piacteret (pl Facebook, Twitter, LinkedIn)"
+
+msgctxt "Languages::janrain_general_info"
+msgid "<p>Get these values and configure social login at <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+msgstr "<p>Az alábbi értékekkel állítsd be a közösségi bejelentkezést a <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a> weboldalon</p>"
+
+msgctxt "Languages::janrain_social_login"
+msgid "Social login"
+msgstr "Közösségi bejelentkezés"
+
+msgctxt "Languages::janrain_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "A \"Jelszó\" mező és néhány kötelezően kitöltendő mező jelenleg üres. Kérjük, frissítsd a profilodat."
+
+msgctxt "Languages::janrain_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "Sajnos nem sikerült a bejelentkezés feltehetően az alábbi okok miatt:<br/>\n"
+"- Korábban már bejelentkeztél az oldalra egy másik szolgáltatás segítségével, ahol megegyezik az elsődleges e-mail címed<br/>\n"
+"- Már regisztráltál piacterünkre ezzel az e-mail címmel<br/>\n"
+"Kérjük, vedd fel a kapcsolatot ügyfélszolgálatunkkal, hogy megoldjuk a problémát."
+
+msgctxt "SettingsSections::janrain::general"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "SettingsOptions::janrain::general_info"
+msgid "General info"
+msgstr "Általános info"
+
+msgctxt "SettingsOptions::janrain::apikey"
+msgid "API Key"
+msgstr "API kulcs"
+
+msgctxt "SettingsOptions::janrain::appdomain"
+msgid "Application Domain"
+msgstr "Alkalmazás Domain"
+
+msgctxt "Languages::janrain.janrain_cookies_title"
+msgid "Janrain"
+msgstr "Janrain"
+
+msgctxt "Languages::janrain.janrain_cookies_description"
+msgid "Janrain is a service that allows you to sign into the website with your accounts from various social networks. It was acquired by Akamai in 2019; here is <a href=\"https://www.akamai.com/site/en/documents/akamai/akamai-privacy-statement.pdf\" target=\"_blank\">Akamai privacy statement</a>."
+msgstr "A Janrain egy olyan szolgáltatás, amely lehetővé teszi, hogy bejelentkezzen a webhelyre fiókjaival különböző közösségi hálózatokról. Az Akamai 2019-ben vásárolta meg; itt van <a href=\"https://www.akamai.com/site/en/documents/akamai/akamai-privacy-statement.pdf\" target=\"_blank\">Akamai adatvédelmi nyilatkozat</a>."
+

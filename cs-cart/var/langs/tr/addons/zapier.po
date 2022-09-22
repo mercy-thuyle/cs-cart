@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.15.1/addons/zapier.po\n"
+"X-Crowdin-File-ID: 6660\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::zapier"
+msgid "Integration with Zapier"
+msgstr "Zapier ile entegrasyon"
+
+msgctxt "Addons::description::zapier"
+msgid "Allows you to integrate CS-Cart with over 4 000 other apps through Zapier."
+msgstr "Zapier aracılığıyla CS-Cart'ı 4.000'den fazla başka uygulamayla entegre etmenize olanak tanır."
+
+msgctxt "Languages::privileges.manage_zapier_hooks"
+msgid "Can edit"
+msgstr "Düzenleyebilir"
+
+msgctxt "Languages::privileges.view_zapier_hooks"
+msgid "Can view"
+msgstr "Görüntüleyebilir"
+
+msgctxt "Languages::privilege_groups.zapier_hooks"
+msgid "Zapier hooks"
+msgstr "Zapier kancaları"
+
+msgctxt "Languages::zapier.text_settings_general"
+msgid "Learn more about setting up integration <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">in the documentation</a>."
+msgstr "Belgelerde</a>tümleştirme <a target=\"_blank\" href=\"[docs_url]user_guide/addons/zapier/index.html\">ayarlama hakkında daha fazla bilgi edinin."
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/payment_dependencies.po\n"
+"X-Crowdin-File-ID: 6628\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::payment_dependencies"
+msgid "Payment dependencies"
+msgstr "Maksuriippuvuudet"
+
+msgctxt "Addons::description::payment_dependencies"
+msgid "Assign payment methods to shipping methods"
+msgstr "Määritä maksutavat toimitustapoille"
+
+msgctxt "Languages::pd_allowed_payment_methods"
+msgid "Allowed payment methods"
+msgstr "Sallitut maksutavat"
+
+msgctxt "Languages::pd_allowed_payment_methods_text"
+msgid "Select payment methods that your customers can use with this shipping method"
+msgstr "Valitse maksutavat, joita asiakkaasi voivat käyttää tällä toimitustavalla"
+
+msgctxt "Languages::pd.there_are_no_available_payment_methods"
+msgid "There are no payment methods available right now. Try to change the selected shipping method."
+msgstr "Maksutapoja ei ole tällä hetkellä saatavilla. Yritä muuttaa valittua toimitustapaa."
+
+msgctxt "Languages::pd.no_payments_available"
+msgid "No payment methods available."
+msgstr "Maksutapoja ei ole saatavilla."
+

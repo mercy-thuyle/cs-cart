@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/banners.po\n"
+"X-Crowdin-File-ID: 6552\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::banners"
+msgid "Banners management"
+msgstr "Bannerien hallinta"
+
+msgctxt "Addons::description::banners"
+msgid "Allows you to create text and visual banners"
+msgstr "Voit luoda tekstiä ja visuaalisia bannereita"
+
+msgctxt "Languages::banners.new_banner"
+msgid "New banner"
+msgstr "Uusi banneri"
+
+msgctxt "Languages::banners.editing_banner"
+msgid "Editing banner"
+msgstr "Muokataan banneria"
+
+msgctxt "Languages::add_banner"
+msgid "Add banner"
+msgstr "Lisää banneri"
+
+msgctxt "Languages::banner"
+msgid "Banner"
+msgstr "Banneri"
+
+msgctxt "Languages::banners"
+msgid "Banners"
+msgstr "Bannerit"
+
+msgctxt "Languages::banners_menu_description"
+msgid "Create graphic and text banners that can then be placed on the storefront."
+msgstr "Luo grafiikka- ja tekstibannereita, jotka voidaan sitten sijoittaa myymälään."
+
+msgctxt "Languages::banner_code"
+msgid "Banner code"
+msgstr "Bannerin koodi"
+
+msgctxt "Languages::banner_code_for_some_products"
+msgid "Banner code for some products"
+msgstr "Joidenkin tuotteiden bannerikoodi"
+
+msgctxt "Languages::manage_banners"
+msgid "Manage banners"
+msgstr "Hallitse bannereita"
+
+msgctxt "Languages::block_banners"
+msgid "Banners"
+msgstr "Bannerit"
+
+msgctxt "Languages::block_banners_description"
+msgid "Visual and text banners"
+msgstr "Visuaaliset ja teksti bannerit"
+
+msgctxt "Languages::privileges.view_banners"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::privileges.manage_banners"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.banners"
+msgid "Banners"
+msgstr "Bannerit"
+
+msgctxt "Languages::add_banners"
+msgid "Add banners"
+msgstr "Lisää bannereita"
+
+msgctxt "Languages::add_banners_and_close"
+msgid "Add banners and close"
+msgstr "Lisää bannereita ja sulje"
+
+msgctxt "Languages::graphic_banner"
+msgid "Graphic banner"
+msgstr "Graafinen banneri"
+
+msgctxt "Languages::text_banner"
+msgid "Text banner"
+msgstr "Tekstibanneri"
+
+msgctxt "Languages::views"
+msgid "Views"
+msgstr "Näkymät"
+
+msgctxt "Languages::conversion"
+msgid "Conversion"
+msgstr "Muuntaminen"
+
+msgctxt "Languages::banner_details_notes"
+msgid "After you create a banner here, you should use the <strong>Layout editor</strong> to add it to the storefront.<br /><br />Go to <a href=\"[layouts_href]\" target=\"_blank\">Design → Layouts</a>, switch to the location where you want the banner to appear, and add a new block with type <strong>Banners</strong>.<br /><br />In this block settings, go to the <strong>Content</strong> tab, pick the <strong>Manual</strong> filling, and click on the <strong>Add banners</strong> button.<br /><br />You will see the list of all the banners in your store. Pick the one(s) you need and click on the <strong>Add banners and close</strong> button.<br /><br />Finally, click on the <strong>Create</strong> button to save your changes."
+msgstr "Kun olet luonut bannerin täällä, lisää se julkisivuun käyttämällä <strong>Layout -editoria</strong> .<br /><br />Siirry kohtaan <a href=\"[layouts_href]\" target=\"_blank\">Suunnittelu → Layouts</a>, vaihda paikkaan, jossa haluat bannerin näkyvän, ja lisää uusi lohko, jonka tyyppi on <strong>Bannerit</strong>.<br /><br />Siirry tämän lohkon asetuksissa <strong>Sisältö</strong> -välilehdelle, valitse <strong>Manuaalinen</strong> -täyttö ja napsauta <strong>Lisää bannereita</strong> -painiketta.<br /><br />Näet luettelon kaikista myymäläsi bannereista. Valitse tarvitsemasi ja napsauta <strong>Lisää bannereita ja sulje</strong> -painiketta.<br /><br />Napsauta lopuksi <strong>Luo</strong> -painiketta tallentaaksesi muutokset."
+
+msgctxt "SettingsSections::banners::general"
+msgid "General"
+msgstr "Yleinen"
+
+msgctxt "SettingsOptions::banners::banner_multilang"
+msgid "Enable multi-language Images/URLs"
+msgstr "Ota käyttöön monikieliset kuvat/URL-osoitteet"
+
+msgctxt "Languages::n_banners"
+msgid "[n] banner|[n] banners"
+msgstr "[n] banneria|[n] bannerit"
+

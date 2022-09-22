@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 6646\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr "Produktanmeldelser"
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr "Giver dine kunder mulighed for at skrive anmeldelser af produkter. Det kan opbygge tillid, give socialt bevis og tilføje brugergenereret indhold til dit websted."
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Kommentarer og anmeldelser formularer"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Gæstebog"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "Ingen anmeldelser fundet"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Din vurdering"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Kommentarer og anmeldelser"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Bedømmelse"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Dato"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr "Du har allerede skrevet i denne anmeldelse"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Tak for dit indlæg"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Din anmeldelse vil blive tjekket, før den bliver offentliggjort."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr "Anmeldelser: [n]"
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "anmeldelse|anmeldelser"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Dette er en meddelelse om et nyt indlæg til produktet"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Dette er en meddelelse om et nyt svar på din produktanmeldelse"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Denne anmeldelse skal godkendes"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Seneste anmeldelser"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Kommentar af"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "og"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Godkende"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Misbillige"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "godkendt"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "Ikke godkendt"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Kommentarer og anmeldelser"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Kan se"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Kan redigere"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Produktanmeldelser"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Sorter efter vurdering: Lav til Høj"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Sorter efter vurdering"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Produktanmeldelser"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Kundeanmeldelser af produkter"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Skrive en anmeldelse"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Anmeldelser pr. side"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Administrator skal godkende indlæg indsendt af"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr "Tillad én anmeldelse pr. IP-adresse"
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Opdel anmeldelser efter butiksfacade"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Bestemmer, om kommentarer og/eller anmeldelser er tilladt for nyoprettede produkter. Påvirker ikke eksisterende produkter."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Kun købere kan sende"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Tillad kun at efterlade anmeldelser af et produkt til dem, der har købt det pågældende produkt."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Gennemgå felter"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Kommenter med fordele og ulemper"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Kun kommentar"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Enhver kunde"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Kun anonyme kunder"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "Ingen godkendelse nødvendig"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Spørg efter kundens placering"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "Ingen"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "Land"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "By"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Produktanmeldelser: Ny anmeldelsesmeddelelse"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Produktanmeldelser: Svarmeddelelse"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Vis anmeldelsesbedømmelse"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Vis anmeldelser"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Vis anmeldelse"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Vis [n] anmeldelse|Vis [n] anmeldelser"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Rul til anmeldelser"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Vis anmeldelsesbilleder"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Rul for at gennemgå billeder"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Personlige data fra anmeldelser"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "anmeldelser: ny anmeldelse"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Dit navn vises ved siden af din anmeldelse eller kommentar, synligt for alle. Vi ([company]) gemmer også din IP-adresse som en sikkerhedsforanstaltning, men kan kun ses af vores personale. Det forbliver i vores system, indtil du trækker dit samtykke tilbage. Hvis du gerne vil have dine personlige data fjernet, skal du sende en e-mail til [email].</p> <p>Hvis du mener, at dine personoplysninger er blevet misbrugt, har du ret til at indgive en klage til en tilsynsmyndighed. Vi er i henhold til EU's generelle databeskyttelsesforordning forpligtet til at informere dig om denne ret; vi har faktisk ikke til hensigt at misbruge dine data.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Marker dette afkrydsningsfelt for at acceptere [terms_href]"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Vilkår og betingelser"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Læs venligst disse vilkår og betingelser (\"Vilkår\", \"Vilkår og betingelser\") omhyggeligt, før du bruger <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> webstedet og My Mobile App-mobilapplikationen (\"Tjenesten\"), der drives af My Virksomhed (\"os\", \"vi\" eller \"vores\").</p><p><strong>Ved at tilgå eller bruge tjenesten accepterer du at være bundet af disse vilkår. Hvis du er uenig i nogen del af vilkårene, kan du ikke få adgang til tjenesten.</strong></p><p><strong>Køb</strong></p><p>Hvis du ønsker at købe et produkt eller en tjeneste, der er gjort tilgængelig via tjenesten (\"Køb\"), kan du blive bedt om at give visse oplysninger, der er relevante for dit køb, herunder, uden begrænsning, din ...</p><p><strong>Indhold</strong></p><p>Vores service giver dig mulighed for at poste, linke, gemme, dele og på anden måde gøre visse oplysninger, tekst, grafik, videoer eller andet materiale (\"Indhold\") tilgængelig. Du er ansvarlig for ...</p><p><strong>Ændringer</strong></p><p>Vi forbeholder os retten til efter eget skøn at ændre eller erstatte disse vilkår til enhver tid. Hvis en revision er væsentlig, vil vi forsøge at give mindst 30 dages varsel, før eventuelle nye vilkår træder i kraft. Hvad der udgør en væsentlig ændring afgøres efter vores eget skøn.</p><p><strong>Kontakt os</strong></p><p>Hvis du har spørgsmål til disse vilkår, bedes du kontakte os.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Før du indsender en anmeldelse, skal du sørge for, at den ikke overtræder modereringsreglerne: den indeholder ikke links til tredjepartsressourcer og fornærmelser."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Jeg accepterer at få mine personlige data <u>behandlet som følger.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Log venligst ind for at skrive en anmeldelse"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Du kan ikke skrive en anmeldelse af dette produkt. Kunder kan kun skrive anmeldelser for de produkter, de har købt. Hvis du faktisk har købt dette produkt hos os, men stadig ser denne besked, bedes du kontakte os."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "Ny anmeldelse indsendt"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "Nyt svar blev tilføjet til anmeldelse"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "Hjælpsomhed"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Stem op"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Stem ned"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Sorter efter dato: Nyeste til Ældste"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Sorter efter dato: Ældste til Nyeste"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Hjælpsom sidst"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "Hjælpsom først"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Sorter efter vurdering: Høj til Lav"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Sorter efter vurdering: Lav til Høj"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Fordele"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "Ulemper"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Kommentar"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "handicappet"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Sælger"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Leverandørens svar"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Skriv en besked..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Verificeret køb"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "anmeldelser"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Anmeldelse"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Skriv din anmeldelse"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Tilføj et billede"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Skriv din anmeldelse anonymt"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Send anmeldelse"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Verificeret køb"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "Med foto"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Uden foto"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Kundebilleder"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Gennemgå status"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "stjerne"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "stjerner"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr "[n] stjerne|[n] stjerner"
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "ud af 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Gennemgå dette produkt"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Del dine tanker med andre kunder"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Svar"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "For-og efternavn"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Tak for din anmeldelse"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "Fremragende!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Meget godt"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "Gennemsnit"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Retfærdig"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Fattige"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Produktdetaljer"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Bedømmelse 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "Ny anmeldelse af et produkt"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "En ny anmeldelse er blevet udgivet for produkt [product]. Klik på denne notifikation for at se anmeldelsen."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Kommentar"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "Du har produktanmeldelser i den gamle tilføjelse \"Kommentarer og anmeldelser\". Mens tilføjelsen er installeret, kan du kopiere disse anmeldelser til den nye tilføjelse \"Produktanmeldelser\" <a class=\"cm-post\" href=\"[url]\">i dens indstillinger</a>."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Kopier anmeldelser fra tilføjelsen \"Kommentarer og anmeldelser\"<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Kun anmeldelser, der har både en score og en brugers kommentar, vil blive kopieret. Gå til dine produkter og tjek indstillingen \\“Anmeldelser\" på fanen \"Tilføjelser\". Du skal muligvis tillade kommunikation og vurdering først.</li><li>En anmeldelse uden score eller uden en kommentar vil ikke blive kopieret. For at overføre den , skal du først manuelt tilføje den manglende score eller kommentar ved at redigere anmeldelsen.</li><li>Mens den gamle tilføjelse \"Kommentarer og anmeldelser\" er installeret, bliver anmeldelserne ikke fjernet derfra. På den måde kan du vælge at flytte til \"Produktanmeldelser\", når alle dine anmeldelser er klar.</li><li>Hvis du nogensinde har brug for at kopiere anmeldelserne fra den gamle tilføjelse igen i fremtiden, skal du bare afinstallere og geninstallere tilføjelsen \"Produktanmeldelser\". Dette vil fjerne alle dens anmeldelser fra databasen, og du vil være i stand til at importere anmeldelserne fra tilføjelsen \"Kommentarer og anmeldelser\" igen</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Kopier produktanmeldelser</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Opdater svar"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Tilføj svar"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "En anmeldelse kan have op til [max_image_number] billeder."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "Drop billeder her"
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "Foto op til [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "Administrator svar"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "[company_name] svar"
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "Skjul mit navn i anmeldelsen"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr "Produktet er vurderet til [n] ud af 5 stjerner"
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr "Klik for at se anmeldelserne"
+
+msgctxt "Languages::product_reviews.split_reviews_for_variations_as_separate_products"
+msgid "Split reviews for variations as separate products"
+msgstr "Opdel anmeldelser for variationer som separate produkter"
+
+msgctxt "Languages::privileges.create_product_reviews"
+msgid "Can create"
+msgstr "Kan skabe"
+
+msgctxt "Languages::product_reviews.upgrade_notification.title_administators_add_ability_create_product_reviews"
+msgid "Administrators can now create product reviews"
+msgstr "Administratorer kan nu oprette produktanmeldelser"
+
+msgctxt "Languages::product_reviews.upgrade_notification.message_administators_add_ability_create_product_reviews"
+msgid "Previously, administrators could edit existing product reviews in the admin panel, but couldn't post new ones. We've changed that: now the administrators who could edit reviews can add new reviews on the \"Reviews\" tab of the product editing page. Note that this change doesn't affect vendors' administrators in CS-Cart Multi-Vendor in any way. The most that they can do is leave a reply to a product review.<br><br>You can keep the old behavior if you'd like. Through user groups, you can now allow administrators to create or edit reviews (or do both of those things).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Set administrator privileges</a>"
+msgstr "Tidligere kunne administratorer redigere eksisterende produktanmeldelser i administrationspanelet, men kunne ikke poste nye. Vi har ændret det: nu kan administratorer, der kunne redigere anmeldelser, tilføje nye anmeldelser på fanen \"Anmeldelser\" på produktredigeringssiden. Bemærk, at denne ændring ikke påvirker leverandørers administratorer i CS-Cart Multi-Vendor på nogen måde. Det mest, de kan gøre, er at efterlade et svar på en produktanmeldelse.<br><br>Du kan beholde den gamle adfærd, hvis du vil. Gennem brugergrupper kan du nu tillade administratorer at oprette eller redigere anmeldelser (eller gøre begge disse ting).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Indstil administratorrettigheder</a>"
+
+msgctxt "Languages::product_reviews.exim_error_incorrect_field_value"
+msgid "Specified [field] '[value]' was not found. The product review with comment '[comment]' was skipped."
+msgstr "Specificeret [field] '[value]' blev ikke fundet. Produktanmeldelsen med kommentar '[comment]' blev sprunget over."
+
+msgctxt "Languages::product_reviews.exim_error_empty_field"
+msgid "The value of the <b>[field]</b> field can not be empty. The product review with comment '[comment]' was skipped."
+msgstr "Værdien af feltet <b>[field]</b> må ikke være tom. Produktanmeldelsen med kommentar '[comment]' blev sprunget over."
+
+msgctxt "Languages::product_reviews"
+msgid "Product reviews"
+msgstr "Produktanmeldelser"
+
+msgctxt "Languages::images_delimiter"
+msgid "Images delimiter"
+msgstr "Billedafgrænser"
+
+msgctxt "Languages::text_images_delimiter"
+msgid "Images path delimiter for product review images (e.g. \"Image1.png///Image2.png\")"
+msgstr "Billedstiafgrænser for produktanmeldelsesbilleder (f.eks. \"Image1.png///Image2.png\")"
+

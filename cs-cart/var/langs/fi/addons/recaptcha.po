@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/recaptcha.po\n"
+"X-Crowdin-File-ID: 6560\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::recaptcha"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Addons::description::recaptcha"
+msgid "Adds the support of Google reCAPTCHA to protect your store against bots"
+msgstr "Lisää Googlen reCAPTCHA-tuen suojaamaan kauppaasi botteja vastaan"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_theme"
+msgid "Theme"
+msgstr "Teema"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::light"
+msgid "Light"
+msgstr "Kevyt"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::dark"
+msgid "Dark"
+msgstr "Tumma"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_size"
+msgid "Size"
+msgstr "Koko"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::normal"
+msgid "Normal"
+msgstr "Normaali"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::compact"
+msgid "Compact"
+msgstr "Kompakti"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_type"
+msgid "Type"
+msgstr "Tyyppi"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::image"
+msgid "Image"
+msgstr "Kuva"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::audio"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_site_key"
+msgid "Site key"
+msgstr "Sivuston avain"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_secret"
+msgid "Secret"
+msgstr "Salaisuus"
+
+msgctxt "SettingsSections::recaptcha::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsSections::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "Poissuljetut maat"
+
+msgctxt "SettingsOptions::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "Poissuljetut maat"
+
+msgctxt "Languages::error_validator_recaptcha"
+msgid "Please confirm you are not a robot."
+msgstr "Vahvista, että et ole robotti."
+
+msgctxt "Languages::recaptcha_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+msgstr "<p>Ohjeet <b>sivustoavaimen</b> ja <b>salaisuuden</b> hankkimiseen ovat saatavilla <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">täältä</a></b>.</p>"
+
+msgctxt "Languages::recaptcha.text_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>Google reCAPTCHA v2: Checkbox</b> and <b>Google reCAPTCHA v3</b></p>"
+msgstr "<p>Ohjeet <b>sivustoavaimen</b> ja <b>salaisuuden</b> hankkimiseen ovat saatavilla <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">täältä</a></b>.<br>Huomaa, että lisäosa tukee tällä hetkellä vain <b>Google reCAPTCHA v2:a: valintaruudut</b> ja <b>Google reCAPTCHA v3</b></p>"
+
+msgctxt "Languages::recaptcha.text_forbidden_countries_notice"
+msgid "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+msgstr "<p>Googlen reCAPTACHA poistetaan käytöstä valituissa maissa. Sen sijaan vierailijoita näistä maista pyydetään kirjoittamaan muutama symboli, jonka he näkevät näytöllä.</p>"
+
+msgctxt "SettingsOptions::recaptcha::information"
+msgid "Information"
+msgstr "Tiedot"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v2_settings"
+msgid "reCAPTCHA v2 settings"
+msgstr "reCAPTCHA v2 -asetukset"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_settings"
+msgid "reCAPTCHA v3 settings"
+msgstr "reCAPTCHA v3 -asetukset"
+
+msgctxt "SettingsOptions::recaptcha::use_for_settings"
+msgid "Antibot settings"
+msgstr "Antibotin asetukset"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_site_key"
+msgid "Site key"
+msgstr "Sivuston avain"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_secret"
+msgid "Secret"
+msgstr "Salaisuus"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_success_score"
+msgid "Required rating to pass the check"
+msgstr "Vaadittava luokitus kokeen läpäisemiseksi"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.9"
+msgid "0.9 (even some humans can't pass)"
+msgstr "0,9 (jopa jotkut ihmiset eivät voi kulkea)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.8"
+msgid "0.8"
+msgstr "0.8"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.7"
+msgid "0.7"
+msgstr "0.7"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.6"
+msgid "0.6"
+msgstr "0.6"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.5"
+msgid "0.5 (recommended value)"
+msgstr "0,5 (suositeltu arvo)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.4"
+msgid "0.4"
+msgstr "0.4"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.3"
+msgid "0.3"
+msgstr "0.3"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.2"
+msgid "0.2"
+msgstr "0.2"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.1"
+msgid "0.1 (bots are welcome)"
+msgstr "0.1 (botit ovat tervetulleita)"
+
+msgctxt "Languages::recaptcha.error_recaptcha_v3_failed"
+msgid "Sorry, the anti-bot validation has failed. If you're seeing this message, please contact us and let us know about it."
+msgstr "Anteeksi, anti-bot-vahvistus epäonnistui. Jos näet tämän viestin, ota meihin yhteyttä ja kerro siitä meille."
+
+msgctxt "Languages::recaptcha.recaptcha_v2"
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+msgctxt "Languages::recaptcha.recaptcha_v3"
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+msgctxt "Languages::recaptcha.none"
+msgid "none"
+msgstr "ei mitään"
+
+msgctxt "Languages::recaptcha.recaptcha_cookie_title"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Languages::recaptcha.recaptcha_cookie_description"
+msgid "Google reCAPTCHA is a service that provides anti-bot protection and verifies that site visitors are humans. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy</a>; we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google reCAPTCHA on palvelu, joka tarjoaa bot-suojauksen ja varmistaa, että sivuston vierailijat ovat ihmisiä. Tässä on <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Googlen tietosuojakäytäntö</a>; Suosittelemme myös Googlen tiivistä ja kattavaa <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">huomautusta tietosuojasta</a>."
+

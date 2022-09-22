@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_panel_configurator.po\n"
+"X-Crowdin-File-ID: 6696\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "供应商面板配置器"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "通过仅向供应商显示他们需要查看的字段和菜单来简化供应商面板。"
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "产品页面设置"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "供应商面板样式"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "此选项卡没有可配置的字段，并按原样显示"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "产品页面设置"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "标志和样式"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "管理网站和电子邮件中使用的徽标，并配置微商店和产品页面的外观"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "页面布局"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "管理微店和产品页面的布局"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "管理您接收客户付款的方式"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "为了使入职更容易，供应商在产品编辑页面上看不到某些菜单项和某些字段。您可以在“供应商面板配置器”附加组件</a>的设置中配置供应商看到和看不到的 <a href=\"[config_url]\" target=\"_blank\">。如果您禁用插件，菜单和供应商面板本身将更改为类似于市场的管理面板。"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "侧边栏颜色"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "元素颜色"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "侧边栏背景图片"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "如果您上传背景图片，它将显示而不是侧边栏颜色。如果您上传它，我们建议选择与背景图像匹配的侧边栏颜色。"
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "卖家信息"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "此设置现在不会出现在产品编辑页面上，因为它是为所有产品全局设置的。检查 <a href=\"[settings_url]\" target=\"_blank\">“设置”菜单</a> 以找到它。"
+

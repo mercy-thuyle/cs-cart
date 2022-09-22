@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/form_builder.po\n"
+"X-Crowdin-File-ID: 6588\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr "Formulärbyggare"
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr "Låter dig skapa anpassade formulär (t.ex. Kontakta oss)"
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr "Egna formulär"
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr "Nytt formulär"
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr "Redigerar formulär"
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr "Formulär"
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr "Meddelande vid skicka"
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr "E-post till"
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr "Lägg till formulär"
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr "Bas"
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr "Kryssruta (flera val)"
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr "Rullgardinslista (flera val)"
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr "Sidhuvud"
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr "Avskiljare"
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr "Special"
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr "Lista över länder"
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr "Lista över län"
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr "Referent"
+
+msgctxt "Languages::email_template.form_builder_form"
+msgid "Contact form"
+msgstr "Kontaktformulär"
+
+msgctxt "Languages::addons.form_builder.form_fields"
+msgid "Form fields"
+msgstr "Formulärfält"
+
+msgctxt "Languages::addons.form_builder.form_name"
+msgid "Form name"
+msgstr "Formulärnamn"
+
+msgctxt "Languages::addons.form_builder.other_subject"
+msgid "Other subject (specify below)"
+msgstr "Andra ämnen (ange nedan)"
+
+msgctxt "Languages::addons.form_builder.email_subject_field"
+msgid "E-mail subject field"
+msgstr "E-post ämne"
+
+msgctxt "Languages::ttc_addons.form_builder.email_subject_field"
+msgid "Fields of type \"Select box\" or \"Input field\" can be used"
+msgstr "Fält av typen \"Lista\" eller \"Inmatningsfält\" kan användas"
+

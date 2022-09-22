@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/help_center.po\n"
+"X-Crowdin-File-ID: 6604\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::help_center"
+msgid "Help center"
+msgstr "지원 센터"
+
+msgctxt "Addons::description::help_center"
+msgid "Adds a help button with links to relevant documentation and/or videos to various pages in the admin panel."
+msgstr "관리자 패널의 다양한 페이지에 대한 관련 문서 및/또는 비디오에 대한 링크가 있는 도움말 버튼을 추가합니다."
+
+msgctxt "Languages::help_center.help"
+msgid "Help"
+msgstr "돕다"
+
+msgctxt "Languages::help_center.help_center"
+msgid "Help Center"
+msgstr "지원 센터"
+
+msgctxt "Languages::help_center.see_all_n_results"
+msgid "See all [n] results..."
+msgstr "[n] 개의 결과 모두 보기..."
+
+msgctxt "Languages::help_center.customer_care"
+msgid "Customer Care"
+msgstr "고객 지원"
+
+msgctxt "Languages::help_center.customer_care.view_all_tickets"
+msgid "View all tickets"
+msgstr "모든 티켓 보기"
+
+msgctxt "Languages::help_center.customer_care.all_tickets"
+msgid "All tickets"
+msgstr "모든 티켓"
+
+msgctxt "Languages::help_center.customer_care.no_support_tickets"
+msgid "No support tickets found."
+msgstr "지원 티켓을 찾을 수 없습니다."
+
+msgctxt "Languages::help_center.customer_care.submit_ticket"
+msgid "Submit a ticket"
+msgstr "티켓을 제출"
+
+msgctxt "Languages::help_center.customer_care.service_unavailable"
+msgid "Your Customer Care subscription is not active"
+msgstr "고객 관리 구독이 활성화되지 않았습니다."
+
+msgctxt "Languages::help_center.customer_care.service_unavailable_description"
+msgid "Prolong the subscription to keep receiving support."
+msgstr "지원을 계속 받으려면 구독을 연장하세요."
+
+msgctxt "Languages::help_center.customer_care.prolong_subscription"
+msgid "Prolong subscription"
+msgstr "구독 연장"
+
+msgctxt "Languages::help_center.customer_care.sign_in_text"
+msgid "Sign in with your Help Desk account <br>to contact Customer Care and see your latest tickets."
+msgstr "헬프 데스크 계정 <br>으로 로그인하여 고객 지원에 연락하고 최신 티켓을 확인하십시오."
+
+msgctxt "Languages::help_center.customer_care.status.resolved"
+msgid "Resolved"
+msgstr "해결됨"
+
+msgctxt "Languages::help_center.customer_care.status.open"
+msgid "Open"
+msgstr "열려 있는"
+
+msgctxt "Languages::help_center.customer_care.few_tickets_require_your_attention"
+msgid "A few tickets from Customer Care team require your attention. <a href=\"[url]\" target=\"[target]\">Click here to view tickets</a>"
+msgstr "고객 지원 팀의 몇 가지 티켓에 주의가 필요합니다. <a href=\"[url]\" target=\"[target]\">티켓을 보려면 여기를 클릭하세요</a>"
+

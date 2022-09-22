@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal.po\n"
+"X-Crowdin-File-ID: 6592\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "Pagamentos do PayPal"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "Permite aceitar pagamentos via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced e PayPal Payflow Pro."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "Substituir informações do cliente"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "Modo de teste"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "Em geral"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "Elegibilidade de proteção"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "Configurações de notificação de pagamento instantâneo"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "Mapa de conversão do status do pedido do PayPal"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "Configurações do logotipo do PayPal"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>Nota:</b> De acordo com a política do PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'></a> (4.6), as sobretaxas não são suportadas."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "ID da transação"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "Logo do PayPal"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Use um formato gráfico válido, como .gif, .jpg ou .png. Limite a imagem a 190 pixels de largura por 60 pixels de altura. O PayPal corta imagens maiores. O PayPal coloca a imagem do seu logotipo na parte superior da área de revisão do carrinho."
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "Erros de IPN"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "O número de itens pagos é diferente do número de itens no pedido"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "A moeda usada para o pagamento é diferente da moeda do pedido."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "O total do pagamento é diferente do total do pedido."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "Modo Paypal"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "Fornecedor"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Usar a finalização de compra no contexto"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "O In-Context Checkout não será usado quando a loja estiver sendo executada no modo Widget"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "Um ID de comerciante é necessário para usar o recurso <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout</a> nesta integração. Você pode procurar seu ID de comerciante fazendo login em <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Clique no ícone de perfil no canto superior direito da página e selecione <b>Perfil e configurações</b> no menu <b>Perfil comercial</b> . (Se você não vir o ícone do perfil na parte superior da página, clique em <b>Perfil</b>, que aparece no menu superior quando a guia <b>Minha conta</b> é selecionada.) Clique <b>Minhas informações comerciais</b> à esquerda e o botão <b>O ID da conta do comerciante</b> é exibido na lista de itens do perfil à direita."
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "A Notificação instantânea de pagamento (IPN) é um serviço que notifica automaticamente os comerciantes sobre eventos relacionados a transações do PayPal.<br>Quando um cliente faz um pedido e escolhe o PayPal como método de pagamento, o pedido recebe o status <b>Aberto</b> .<br>O PayPal envia mensagens de Notificação de Pagamento Instantâneo que incluem o status da transação. Esse status altera o status do pedido em sua loja de acordo com o mapa de conversão de status."
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "Status da transação"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "Status da transação: [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "A sobretaxa foi definida para a forma de pagamento que usa os Serviços do PayPal. Verifique se isso está em conformidade com o Contrato de usuário <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">para serviços do PayPal</a> para sua região."
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "Dê um reembolso via PayPal"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "Um reembolso será feito assim que um administrador alterar o status da solicitação de devolução"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "O reembolso foi feito via PayPal"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] foram reembolsados em [date] a [time]."
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "Status do pedido no reembolso parcial"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "Não mude"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "Determina se o status do pedido deve ou não ser alterado automaticamente após um reembolso parcial via PayPal."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "Definido como:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "Tempo de recebimento do IPN"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "Status inicial do pedido"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "Todos os pedidos com um método de pagamento PayPal obtêm esse status até que a resposta do PayPal (uma mensagem IPN) chegue ou um cliente retorne à loja por meio de um link no site do PayPal."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "Por padrão, o status <i>Aberto</i> diminui o estoque, portanto, dois clientes não poderão comprar o mesmo produto enquanto o pagamento estiver sendo processado pelo PayPal. Mas se um cliente sair do site do PayPal sem pagar ou retornar à loja por meio de um link no site do PayPal, você terá um pedido <i>Open</i> abandonado com produtos reservados."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "Isso garante que você não abandonou pedidos não pagos com o status <i>Aberto</i> e produtos reservados. Mas até que a resposta do PayPal (uma mensagem IPN) chegue ou o cliente retorne à loja através de um link no site do PayPal, o pedido será listado como <i>Incompleto</i>, e os produtos não serão reservados."
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "Detalhes técnicos"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "Conecte-se ao PayPal"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "Use estes botões para concluir o assistente de configuração"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "Configurar ao vivo"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "Configurar teste"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "Conectando a <b>Servidor de inscrição do PayPal</b>..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "O método de pagamento <b>[payment]</b> foi configurado com sucesso"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "Ocorreu um erro ao se conectar a uma conta do PayPal"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "Ocorreu um erro ao obter a configuração da forma de pagamento"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "Agora você tem uma conta comercial do PayPal e integrou [product] com o PayPal com sucesso.<br>Não se esqueça de confirmar seu e-mail para ativar sua conta e acessar os pagamentos. Para fazer isso, siga as instruções que o PayPal enviou para seu e-mail."
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "Para acessar os pagamentos de seus clientes, confirme seu endereço de e-mail seguindo as instruções que o PayPal lhe enviou por e-mail."
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "O complemento <b>pagamentos do PayPal</b> está desabilitado, então você não pode configurar este método de pagamento."
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "O seguro 3-D é obrigatório no Reino Unido."
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "Mostrar o botão \"Checkout with PayPal\" na página de conteúdo do carrinho"
+
+msgctxt "Languages::paypal.paypal_cookie_title"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "Languages::paypal.paypal_cookie_description"
+msgid "PayPal is a payment provider. It allows us to accept payments, if you choose a payment method powered by PayPal. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPal privacy statement</a>."
+msgstr "O PayPal é um provedor de pagamento. Ele nos permite aceitar pagamentos, se você escolher um método de pagamento alimentado por PayPal. Aqui está <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">declaração de privacidade do PayPal</a>."
+

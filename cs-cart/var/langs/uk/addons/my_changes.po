@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/my_changes.po\n"
+"X-Crowdin-File-ID: 6614\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::my_changes"
+msgid "My Changes (example add-on)"
+msgstr "Мої зміни (приклад доповнення)"
+
+msgctxt "Addons::description::my_changes"
+msgid "A dummy add-on to let devs see how add-ons work. You can also use it to introduce small changes not worthy of a separate add-on"
+msgstr "Фіктивне доповнення, щоб розробники могли побачити, як працюють надбудови. Ви також можете використовувати його для внесення невеликих змін, які не варті окремого доповнення"
+

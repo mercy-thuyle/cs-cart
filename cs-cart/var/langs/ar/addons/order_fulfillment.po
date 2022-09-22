@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "تلبية الطلبات من خلال السوق"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "يسمح لك بتقديم خطط البائعين حيث يتعامل السوق مع الشحن للبائعين ويحتفظ برسوم الشحن."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "نوع الشحن"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "تعامل مع الشحن للموردين كجزء من خطة البائع هذه. إذا كان السوق يتعامل مع الشحن لعدة بائعين ، فسيتعين على العميل فقط تحديد طريقة شحن واحدة لجميع هؤلاء البائعين عند الخروج. ستذهب تكاليف الشحن أيضًا إلى السوق. <ul><li> البائعون الذين يتم الوفاء بهم حسب السوق كجزء من خطة البائع الخاصة بهم يستخدمون فقط طرق الشحن التي تنتمي إلى السوق. </li><li>البائعون الذين ليس لديهم وفاء عن طريق السوق يستخدمون فقط طرق الشحن التي تخصهم على وجه التحديد.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "ستكون طرق الشحن المملوكة للسوق متاحة الآن للبائعين الذين تتضمن خطط البائعين الخاصة بهم الوفاء من قبل السوق."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "ستكون طرق الشحن المملوكة للسوق متاحة الآن اعتمادًا على إعدادات كل بائع. ستذهب رسوم طرق الشحن هذه إلى البائعين وليس إلى السوق."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "تم نقل البائع [name] إلى خطة مع تنفيذ الطلبات من خلال السوق. سيستخدم البائع الآن طرق الشحن التي يوفرها السوق بدلاً من طرق الشحن الخاصة به."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "لقد انتقلت إلى خطة مع تنفيذ الطلبات عن طريق السوق. من الآن فصاعدًا ، سيتم تقديم طرق الشحن في السوق لعملائك."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "تم نقل البائع [name] إلى خطة دون تنفيذ الطلب من قبل السوق. يتعين على البائع الآن تقديم طرق الشحن الخاصة به."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "لقد انتقلت إلى خطة بدون تنفيذ الطلب من خلال السوق. يرجى التأكد من إعداد طرق الشحن الخاصة بك."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "تنفيذ عن طريق السوق"
+

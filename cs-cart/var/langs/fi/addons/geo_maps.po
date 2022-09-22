@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/geo_maps.po\n"
+"X-Crowdin-File-ID: 6542\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::geo_maps"
+msgid "Maps and geolocation"
+msgstr "Kartat ja maantieteellinen sijainti"
+
+msgctxt "Addons::description::geo_maps"
+msgid "Enables Google or Yandex maps and geolocation functionality in your store."
+msgstr "Ottaa käyttöön Google- tai Yandex-kartat ja maantieteellisen sijainnin toiminnot kaupassasi."
+
+msgctxt "SettingsSections::geo_maps::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsSections::geo_maps::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::geo_maps::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::provider"
+msgid "Provider"
+msgstr "Palveluntarjoaja"
+
+msgctxt "SettingsVariants::geo_maps::provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsVariants::geo_maps::provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::show_shippings_on_product"
+msgid "Show shipping cost and time on product pages"
+msgstr "Näytä toimituskulut ja -aika tuotesivuilla"
+
+msgctxt "SettingsOptions::geo_maps::yandex_api_key"
+msgid "API key"
+msgstr "API-avain"
+
+msgctxt "SettingsTooltips::geo_maps::yandex_api_key"
+msgid "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+msgstr "Hanki API-avain täältä: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+
+msgctxt "SettingsOptions::geo_maps::yandex_commercial"
+msgid "I use the paid version of the API"
+msgstr "Käytän API:n maksullista versiota"
+
+msgctxt "SettingsOptions::geo_maps::google_api_key"
+msgid "API key"
+msgstr "API-avain"
+
+msgctxt "SettingsTooltips::geo_maps::google_api_key"
+msgid "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+msgstr "Hanki API-avain täältä: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+
+msgctxt "Languages::geo_maps.select_your_city"
+msgid "Select your city"
+msgstr "Valitse kaupunkisi"
+
+msgctxt "Languages::geo_maps.your_city"
+msgid "Your city"
+msgstr "Kaupunkisi"
+
+msgctxt "Languages::geo_maps.location_detection_disabled"
+msgid "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+msgstr "Sijaintiasi ei voitu määrittää. Kokeile ottaa sijaintipalvelut käyttöön laitteessasi tai poistaa seurantasuojaus käytöstä."
+
+msgctxt "Languages::block_geo_maps_customer_location"
+msgid "Customer location"
+msgstr "Asiakkaan sijainti"
+
+msgctxt "Languages::block_geo_maps_customer_location_description"
+msgid "Customer city and city selection form"
+msgstr "Asiakkaan kaupunki ja kaupungin valintalomake"
+
+msgctxt "Languages::geo_maps.shipping_address_on_map"
+msgid "Shipping address on map"
+msgstr "Toimitusosoite kartalla"
+
+msgctxt "Languages::geo_maps.cannot_select_location"
+msgid "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+msgstr "Tätä paikkaa ei voitu valita teknisistä syistä. Jos kohtaat vaikeuksia tilauksen tekemisessä, ota meihin yhteyttä."
+
+msgctxt "Languages::geo_maps.shipping_time_and_rates"
+msgid "Shipping time and rates"
+msgstr "Toimitusaika ja hinnat"
+
+msgctxt "Languages::geo_maps.shipping_group_pickup"
+msgid "Pick-up"
+msgstr "Noukkia"
+
+msgctxt "Languages::geo_maps.shipping_group_delivery"
+msgid "Shipping"
+msgstr "laivaus"
+
+msgctxt "Languages::geo_maps.from_pickup_points"
+msgid "[shipping], [n] pickup point|[shipping], [n] pickup points"
+msgstr "[shipping], [n] noutopiste|[shipping], [n] noutopistettä"
+
+msgctxt "Languages::geo_maps.shipping_about"
+msgid "about"
+msgstr "noin"
+
+msgctxt "Languages::geo_maps.shipping_from"
+msgid "from"
+msgstr "alkaen"
+
+msgctxt "Languages::geo_maps.shipping_time"
+msgid "Shipping time"
+msgstr "Toimitusaika"
+
+msgctxt "Languages::geo_maps.no_shippings"
+msgid "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+msgstr "Valitettavasti emme löytäneet toimitusvaihtoehtoja sijaintillesi. Ota yhteyttä, niin katsotaan mitä asialle voidaan tehdä."
+
+msgctxt "Languages::geo_maps.no_shippings_short"
+msgid "Shipping to your location isn't available."
+msgstr "Toimitus sijaintiisi ei ole saatavilla."
+
+msgctxt "Languages::geo_maps.text_settings_google_api_notice"
+msgid "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."
+msgstr "Lisätietoja API-avaimen <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">määrittämisestä on dokumentaatiossa</a>."
+
+msgctxt "Languages::geo_maps.settings_is_configured_correctly_notice"
+msgid "If you see the map here, everything is configured correctly, and the maps are working on the map provider end."
+msgstr "Jos näet kartan tässä, kaikki on määritetty oikein ja kartat toimivat kartantoimittajan puolella."
+
+msgctxt "Languages::geo_maps.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "Google Kartat"
+
+msgctxt "Languages::geo_maps.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google Maps on palvelu, jonka avulla voimme näyttää karttoja ja eri paikkoja näillä kartoilla tai määrittää sijaintisi automaattisesti. Tässä on <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Googlen tietosuojakäytäntö;</a> suosittelemme myös Googlen tiivistä ja kattavaa <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">huomautusta tietosuojasta</a>."
+
+msgctxt "Languages::geo_maps.yandex_maps_cookie_title"
+msgid "Yandex Maps"
+msgstr "Yandex Maps"
+
+msgctxt "Languages::geo_maps.yandex_maps_cookie_description"
+msgid "Yandex Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://yandex.com/legal/confidential/\" target=\"_blank\">Yandex privacy policy</a>."
+msgstr "Yandex Maps on palvelu, jonka avulla voimme näyttää karttoja ja eri paikkoja näillä kartoilla tai määrittää sijaintisi automaattisesti. Tässä on <a href=\"https://yandex.com/legal/confidential/\" target=\"_blank\">Yandexin tietosuojakäytäntö</a>."
+

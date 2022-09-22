@@ -1,0 +1,4667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /release-4.15.1/addons/mobile_app.po\n"
+"X-Crowdin-File-ID: 6546\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::mobile_app"
+msgid "Mobile application"
+msgstr "Application mobile"
+
+msgctxt "Addons::description::mobile_app"
+msgid "Configure your mobile app for Android and iOS, download the config, and send it to us via Help Desk. We'll build and publish the app; for a fee, we can put you as the app developer. With access to the source code, you can publish the app yourself."
+msgstr "Configurez votre application mobile pour Android et iOS, téléchargez la configuration et envoyez-la nous via Help Desk. Nous allons créer et publier l'application ; moyennant des frais, nous pouvons vous désigner en tant que développeur d'applications. Avec l'accès au code source, vous pouvez publier l'application vous-même."
+
+msgctxt "Languages::app_params"
+msgid "Application"
+msgstr "Application"
+
+msgctxt "Languages::mobile_app.mobile_apply"
+msgid "Apply"
+msgstr "Appliquer"
+
+msgctxt "Languages::mobile_app.section.category"
+msgid "Categories"
+msgstr "Catégories"
+
+msgctxt "Languages::mobile_app.section.drawer"
+msgid "Drawer (sidebar menu)"
+msgstr "Tiroir (menu latéral)"
+
+msgctxt "Languages::mobile_app.section.navbar"
+msgid "Navigation bar"
+msgstr "Barre de navigation"
+
+msgctxt "Languages::mobile_app.section.product_screen"
+msgid "Product screen"
+msgstr "Ecran du produit"
+
+msgctxt "Languages::mobile_app.section.main"
+msgid "Main screen"
+msgstr "Écran principal"
+
+msgctxt "Languages::mobile_app.section.profile"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "Languages::mobile_app.settings.access_key"
+msgid "Access key:"
+msgstr "Clé d'accès :"
+
+msgctxt "Languages::mobile_app.mobile_account_delete_fail"
+msgid "Account delete fail"
+msgstr "Échec de la suppression du compte"
+
+msgctxt "Languages::mobile_app.appname"
+msgid "App Name"
+msgstr "Nom de l'appli"
+
+msgctxt "Languages::mobile_app.mobile_settings"
+msgid "Settings"
+msgstr "Paramètres"
+
+msgctxt "Languages::mobile_app.mobile_select_language"
+msgid "Select Language"
+msgstr "Choisir la langue"
+
+msgctxt "Languages::mobile_app.mobile_pages"
+msgid "Pages"
+msgstr "Pages"
+
+msgctxt "Languages::mobile_app.mobile_currency"
+msgid "Currency"
+msgstr "Devises"
+
+msgctxt "Languages::mobile_app.mobile_language"
+msgid "Language"
+msgstr "Langue"
+
+msgctxt "Languages::mobile_app.mobile_favorite"
+msgid "Favorite"
+msgstr "Favori"
+
+msgctxt "Languages::mobile_app.appshortdescription"
+msgid "Short description"
+msgstr "Description courte"
+
+msgctxt "Languages::mobile_app.appfulldescription"
+msgid "Full description"
+msgstr "Description complète"
+
+msgctxt "Languages::mobile_app.mobile_full_product_description"
+msgid "Full description"
+msgstr "Description complète"
+
+msgctxt "Languages::mobile_app.supportemail"
+msgid "Support email"
+msgstr "E-mail d'assistance"
+
+msgctxt "Languages::mobile_app.privacypolicyurl"
+msgid "Privacy Policy URL"
+msgstr "URL politique de confidentialité"
+
+msgctxt "Languages::ttc_mobile_app.appname"
+msgid "Application name (up to 30 symbols)"
+msgstr "Nom de l’application (jusqu'à 30 symboles)"
+
+msgctxt "Languages::ttc_mobile_app.appshortdescription"
+msgid "Application short description (up to 80 symbols)"
+msgstr "Courte description de l'application (jusqu'à 80 symboles)"
+
+msgctxt "Languages::ttc_mobile_app.appfulldescription"
+msgid "Application full description (up to 4000 symbols)"
+msgstr "Description complète de l'application (jusqu'à 4000 symboles)"
+
+msgctxt "Languages::ttc_mobile_app.supportemail"
+msgid "Will be displayed in 'about app' section"
+msgstr "Sera affichée dans la section \"à propos\""
+
+msgctxt "Languages::ttc_mobile_app.privacypolicyurl"
+msgid "URL of the Privacy Policy page of your store"
+msgstr "URL de la page de la politique de confidentialité de votre magasin"
+
+msgctxt "Languages::mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Notifications push"
+
+msgctxt "Languages::ttc_mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "Notifications push"
+
+msgctxt "Languages::mobile_app.mobile_buyer"
+msgid "Buyer"
+msgstr "Acheteur"
+
+msgctxt "Languages::bundleid"
+msgid "Bundle Id"
+msgstr "ID Bundle"
+
+msgctxt "Languages::apikey"
+msgid "API Key"
+msgstr "Clé API"
+
+msgctxt "Languages::baseurl"
+msgid "Base URL"
+msgstr "URL de base"
+
+msgctxt "Languages::siteurl"
+msgid "Site URL"
+msgstr "URL du site"
+
+msgctxt "Languages::mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Nom du magasin"
+
+msgctxt "Languages::ttc_mobile_app.shopname"
+msgid "Shop Name"
+msgstr "Nom du magasin"
+
+msgctxt "Languages::layoutid"
+msgid "Layout Id"
+msgstr "Identifiant de mise en page"
+
+msgctxt "Languages::images_params"
+msgid "Images"
+msgstr "Images"
+
+msgctxt "Languages::mobile_app.m_app_icon"
+msgid "App Icon"
+msgstr "Icône de l’appli"
+
+msgctxt "Languages::tt_mobile_app.m_app_icon"
+msgid "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+msgstr "1024 x 1024 ( ceci est dû à une exigence d'Apple, veuillez noter qu'il devrait bien paraître même s'il est redimensionné à 256x256)"
+
+msgctxt "Languages::mobile_app.m_app_splash_portrait"
+msgid "Splash Screen (portrait)"
+msgstr "Écran de démarrage (portrait)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_portrait"
+msgid "Recommended image size 2778x2778. It is displayed when you start the application on your mobile phone. For the best look on all devices, use the logo of your store. The logo shouldn't occupy the full width of the image, and should be in the center. We recommend a single-color or gradient background without small details."
+msgstr "Taille d'image recommandée 2778x2778. Il s'affiche lorsque vous démarrez l'application sur votre téléphone mobile. Pour le meilleur look sur tous les appareils, utilisez le logo de votre magasin. Le logo ne doit pas occuper toute la largeur de l'image et doit être au centre. Nous recommandons un fond uni ou dégradé sans petits détails."
+
+msgctxt "Languages::mobile_app.m_app_splash_landscape"
+msgid "Splash Screen (landscape)"
+msgstr "Écran de démarrage (paysage)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_landscape"
+msgid "Recommended image size 2208x1536. It is displayed when you start the application on your mobile phone"
+msgstr "Taille d'image recommandée 2208x1536. Cela s'affiche lorsque vous lancez l'application sur votre téléphone mobile"
+
+msgctxt "Languages::mobile_app.m_app_store_logo"
+msgid "Feature Graphic image"
+msgstr "Caractéristique Image graphique"
+
+msgctxt "Languages::tt_mobile_app.m_app_store_logo"
+msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+msgstr "(1024 x 500). Il s'agit de l'image affichée sur la page Google Play de votre application, voir la section \"Caractéristique Graphique\" <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">ici</a>"
+
+msgctxt "Languages::mobile_app.download_config"
+msgid "Download config"
+msgstr "Télécharger la configuration"
+
+msgctxt "Languages::mobile_app.preparing_config"
+msgid "Preparing config"
+msgstr "Préparation de la configuration"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Préparation des images Android"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Préparation des images Android"
+
+msgctxt "Languages::mobile_app.preparing_ios_icons"
+msgid "Preparing iOS icons"
+msgstr "Préparation des icônes iOS"
+
+msgctxt "Languages::mobile_app.preparing_ios_images"
+msgid "Preparing iOS images"
+msgstr "Préparation des images iOS"
+
+msgctxt "Languages::mobile_app.preparing_archive"
+msgid "Preparing archive"
+msgstr "Préparation des archives"
+
+msgctxt "SettingsSections::mobile_app::general"
+msgid "General"
+msgstr "Général"
+
+msgctxt "SettingsSections::mobile_app::service"
+msgid "Configure"
+msgstr "Configurer"
+
+msgctxt "Languages::mobile_app.configure_colors"
+msgid "Colors"
+msgstr "Couleurs"
+
+msgctxt "Languages::mobile_app.fcm_api_key"
+msgid "API key for push notifications"
+msgstr "Clé API pour les notifications push"
+
+msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
+msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
+msgstr "Obtenez la <b>clé de serveur héritée</b> de Cloud Messaging à partir de la <a href=\"https://console.firebase.google.com\" target=\"_blank\">console Firebase</a> à l'aide de votre identifiant de groupe : [bundle_id]"
+
+msgctxt "Languages::mobile_app.services_config"
+msgid "Firebase config file (Android)"
+msgstr "Fichier de configuration Firebase (Android)"
+
+msgctxt "Languages::tt_mobile_app.services_config"
+msgid "Upload the google-services.json file that was generated when you added an Android application in Firebase."
+msgstr "Téléchargez le fichier google-services.json qui a été généré lorsque vous avez ajouté une application Android dans Firebase."
+
+msgctxt "Languages::mobile_app.crop_when_resize"
+msgid "Crop image"
+msgstr "Rogner image"
+
+msgctxt "Languages::tt_mobile_app.crop_when_resize"
+msgid "If ticked, some part of an image might be lost (cut out) when it's resized, otherwise transparent borders might be added."
+msgstr "Si cette case est cochée, une partie de l'image pourrait être perdue (exclue) lorsqu'elle sera recadrée. Sinon, des bordures transparentes pourraient être rajoutées."
+
+msgctxt "Languages::mobile_app.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier"
+msgid "Merchant identifier"
+msgstr "Identifiant du commerçant"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
+msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+msgstr "Obtenez l'<b>identifiant marchand</b> comme décrit dans l' <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Aide sur le compte de développeur </a>"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name"
+msgid "Merchant name"
+msgstr "Nom du commerçant"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name_tooltip"
+msgid "Enter the Merchant ID Description that you used when registering your Merchant ID at the Apple Developer website."
+msgstr "Saisissez la description de l'identifiant du commerçant que vous avez utilisée lors de l'enregistrement de votre identifiant de commerçant sur le site Web des développeurs Apple."
+
+msgctxt "Languages::mobile_app.apple_pay_supported_networks"
+msgid "Payment networks"
+msgstr "Réseaux de paiement"
+
+msgctxt "Languages::mobile_app.app_translations"
+msgid "Mobile application translations"
+msgstr "Traductions d'applications mobiles"
+
+msgctxt "Languages::mobile_app.edit_app_translations"
+msgid "Edit mobile application texts"
+msgstr "Modifier les textes des applications mobiles"
+
+msgctxt "Languages::mobile_app.upload_existing_translations"
+msgid "Update texts using existing locale files"
+msgstr "Mettre à jour les textes à l'aide des fichiers de paramètres régionaux existants"
+
+msgctxt "Languages::mobile_app.invalid_locale_file"
+msgid "Locale file selected for the \"[language]\" language is not a valid JSON file"
+msgstr "Le fichier de paramètres régionaux sélectionné pour la langue \"[language]\" n'est pas un fichier JSON valide"
+
+msgctxt "Languages::mobile_app.app_translation_updated.item"
+msgid "[language]: [n] texts|[language]: [n] texts"
+msgstr "[language]: [n] textes|[language]: [n] textes"
+
+msgctxt "Languages::mobile_app.app_translation_updated"
+msgid "Mobile application translations have been updated"
+msgstr "Les traductions des applications mobiles ont été mises à jour"
+
+msgctxt "Languages::mobile_app.mobile_optional"
+msgid "(Optional)"
+msgstr "(Options)"
+
+msgctxt "Languages::mobile_app.mobile_aberdeenshire"
+msgid "Aberdeenshire"
+msgstr "Aberdeenshire"
+
+msgctxt "Languages::mobile_app.mobile_afghanistan"
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgctxt "Languages::mobile_app.mobile_aisne"
+msgid "Aisne"
+msgstr "Aisne"
+
+msgctxt "Languages::mobile_app.mobile_aland_islands"
+msgid "Aland Islands"
+msgstr "Iles Aland"
+
+msgctxt "Languages::mobile_app.mobile_alaska"
+msgid "Alaska"
+msgstr "Alaska"
+
+msgctxt "Languages::mobile_app.mobile_albacete"
+msgid "Albacete"
+msgstr "Albacete"
+
+msgctxt "Languages::mobile_app.mobile_albania"
+msgid "Albania"
+msgstr "Albanie"
+
+msgctxt "Languages::mobile_app.mobile_alessandria"
+msgid "Alessandria"
+msgstr "Alexandrie"
+
+msgctxt "Languages::mobile_app.mobile_algeria"
+msgid "Algeria"
+msgstr "Algérie"
+
+msgctxt "Languages::mobile_app.mobile_alicante"
+msgid "Alicante"
+msgstr "Alicante"
+
+msgctxt "Languages::mobile_app.mobile_allier"
+msgid "Allier"
+msgstr "Allier"
+
+msgctxt "Languages::mobile_app.mobile_almeria"
+msgid "Almería"
+msgstr "Almeria"
+
+msgctxt "Languages::mobile_app.mobile_alpes_maritimes"
+msgid "Alpes-Maritimes"
+msgstr "Alpes-Maritimes"
+
+msgctxt "Languages::mobile_app.mobile_alpes_de_haute_provence"
+msgid "Alpes-de-Haute-Provence"
+msgstr "Alpes-de-Haute-Provence"
+
+msgctxt "Languages::mobile_app.mobile_altajskij_kraj"
+msgid "Altajskij kraj"
+msgstr "Krai de l'Altaï"
+
+msgctxt "Languages::mobile_app.mobile_american_samoa"
+msgid "American Samoa"
+msgstr "Samoa américaines"
+
+msgctxt "Languages::mobile_app.mobile_amurskaja_oblast"
+msgid "Amurskaja oblast'"
+msgstr "L'oblast d'Amour"
+
+msgctxt "Languages::mobile_app.mobile_ancona"
+msgid "Ancona"
+msgstr "Ancône"
+
+msgctxt "Languages::mobile_app.mobile_andorra"
+msgid "Andorra"
+msgstr "Andorre"
+
+msgctxt "Languages::mobile_app.mobile_anglesey"
+msgid "Anglesey"
+msgstr "Anglesey"
+
+msgctxt "Languages::mobile_app.mobile_angola"
+msgid "Angola"
+msgstr "Angola"
+
+msgctxt "Languages::mobile_app.mobile_anguilla"
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgctxt "Languages::mobile_app.mobile_angus"
+msgid "Angus"
+msgstr "Angus"
+
+msgctxt "Languages::mobile_app.mobile_antarctica"
+msgid "Antarctica"
+msgstr "Antarctique"
+
+msgctxt "Languages::mobile_app.mobile_anonymous"
+msgid "Anonymous"
+msgstr "Anonyme"
+
+msgctxt "Languages::mobile_app.mobile_antigua_and_barbuda"
+msgid "Antigua and Barbuda"
+msgstr "Antigua-et-Barbuda"
+
+msgctxt "Languages::mobile_app.mobile_aosta"
+msgid "Aosta"
+msgstr "Aoste"
+
+msgctxt "Languages::mobile_app.mobile_appenzell_rhodes_interieures"
+msgid "Appenzell Rhodes-Intérieures"
+msgstr "Appenzell Rhodes-Intérieures"
+
+msgctxt "Languages::mobile_app.mobile_ardennes"
+msgid "Ardennes"
+msgstr "Ardennes"
+
+msgctxt "Languages::mobile_app.mobile_ardeche"
+msgid "Ardèche"
+msgstr "Ardèche"
+
+msgctxt "Languages::mobile_app.mobile_delete_account_alert"
+msgid "Are you sure you want to delete your account?"
+msgstr "Êtes-vous sûr de vouloir supprimer votre compte ?"
+
+msgctxt "Languages::mobile_app.mobile_arezzo"
+msgid "Arezzo"
+msgstr "Arezzo"
+
+msgctxt "Languages::mobile_app.mobile_argentina"
+msgid "Argentina"
+msgstr "Argentine"
+
+msgctxt "Languages::mobile_app.mobile_argovie"
+msgid "Argovie"
+msgstr "Argovie"
+
+msgctxt "Languages::mobile_app.mobile_argyll_and_bute"
+msgid "Argyll and Bute"
+msgstr "Argyll et Bute"
+
+msgctxt "Languages::mobile_app.mobile_arhangelskaja_oblast"
+msgid "Arhangel'skaja oblast'"
+msgstr "Oblast d'Arkhangelsk"
+
+msgctxt "Languages::mobile_app.mobile_arizona"
+msgid "Arizona"
+msgstr "Arizona"
+
+msgctxt "Languages::mobile_app.mobile_ariege"
+msgid "Ariège"
+msgstr "Ariège"
+
+msgctxt "Languages::mobile_app.mobile_arkansas"
+msgid "Arkansas"
+msgstr "Arkansas"
+
+msgctxt "Languages::mobile_app.mobile_armenia"
+msgid "Armenia"
+msgstr "Arménie"
+
+msgctxt "Languages::mobile_app.mobile_aruba"
+msgid "Aruba"
+msgstr "Aruba"
+
+msgctxt "Languages::mobile_app.mobile_ascoli_piceno"
+msgid "Ascoli Piceno"
+msgstr "Ascoli Piceno"
+
+msgctxt "Languages::mobile_app.mobile_asia_pacific"
+msgid "Asia-Pacific"
+msgstr "Asie-Pacifique"
+
+msgctxt "Languages::mobile_app.mobile_asti"
+msgid "Asti"
+msgstr "Asti"
+
+msgctxt "Languages::mobile_app.mobile_astrahanskaja_oblast"
+msgid "Astrahanskaja oblast'"
+msgstr "Oblast d'Astrakhan"
+
+msgctxt "Languages::mobile_app.mobile_asturias"
+msgid "Asturias"
+msgstr "Asturies"
+
+msgctxt "Languages::mobile_app.mobile_aube"
+msgid "Aube"
+msgstr "Aube"
+
+msgctxt "Languages::mobile_app.mobile_aude"
+msgid "Aude"
+msgstr "Aude"
+
+msgctxt "Languages::mobile_app.mobile_australia"
+msgid "Australia"
+msgstr "Australie"
+
+msgctxt "Languages::mobile_app.mobile_australian_capital_territory"
+msgid "Australian Capital Territory"
+msgstr "Territoire de la capitale australienne"
+
+msgctxt "Languages::mobile_app.mobile_austria"
+msgid "Austria"
+msgstr "Autriche"
+
+msgctxt "Languages::mobile_app.mobile_avellino"
+msgid "Avellino"
+msgstr "Avellino"
+
+msgctxt "Languages::mobile_app.mobile_aveyron"
+msgid "Aveyron"
+msgstr "Aveyron"
+
+msgctxt "Languages::mobile_app.mobile_avon"
+msgid "Avon"
+msgstr "Avon"
+
+msgctxt "Languages::mobile_app.mobile_awaiting_call"
+msgid "Awaiting call"
+msgstr "En attente d'appel"
+
+msgctxt "Languages::mobile_app.mobile_azerbaijan"
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+msgctxt "Languages::mobile_app.mobile_backordered"
+msgid "Backordered"
+msgstr "En rupture de stock"
+
+msgctxt "Languages::mobile_app.mobile_badajoz"
+msgid "Badajoz"
+msgstr "Badajoz"
+
+msgctxt "Languages::mobile_app.mobile_bad_request_repeat_ip"
+msgid "Bad Request: You have posted in this review already"
+msgstr "Mauvaise demande : vous avez déjà publié dans cet avis"
+
+msgctxt "Languages::mobile_app.mobile_bad_request_only_buyers_can_write_review"
+msgid "Bad Request: You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Mauvaise demande : vous ne pouvez pas rédiger d'avis sur ce produit. Les clients peuvent écrire des avis uniquement pour les produits qu'ils ont achetés. Si vous avez effectivement acheté ce produit chez nous, mais que vous voyez toujours ce message, veuillez nous contacter."
+
+msgctxt "Languages::mobile_app.mobile_bahamas"
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgctxt "Languages::mobile_app.mobile_bahrain"
+msgid "Bahrain"
+msgstr "Bahreïn"
+
+msgctxt "Languages::mobile_app.mobile_baleares"
+msgid "Baleares"
+msgstr "Baléares"
+
+msgctxt "Languages::mobile_app.mobile_banffshire"
+msgid "Banffshire"
+msgstr "Banffshire"
+
+msgctxt "Languages::mobile_app.mobile_bangladesh"
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgctxt "Languages::mobile_app.mobile_barbados"
+msgid "Barbados"
+msgstr "Barbade"
+
+msgctxt "Languages::mobile_app.mobile_barcelona"
+msgid "Barcelona"
+msgstr "Barcelone"
+
+msgctxt "Languages::mobile_app.mobile_bari"
+msgid "Bari"
+msgstr "Bari"
+
+msgctxt "Languages::mobile_app.mobile_bas_rhin"
+msgid "Bas-Rhin"
+msgstr "Bas-Rhin"
+
+msgctxt "Languages::mobile_app.mobile_bayern"
+msgid "Bayern"
+msgstr "Bavière"
+
+msgctxt "Languages::mobile_app.mobile_bedfordshire"
+msgid "Bedfordshire"
+msgstr "Bedfordshire"
+
+msgctxt "Languages::mobile_app.mobile_belarus"
+msgid "Belarus"
+msgstr "Biélorussie"
+
+msgctxt "Languages::mobile_app.mobile_belgium"
+msgid "Belgium"
+msgstr "Belgique"
+
+msgctxt "Languages::mobile_app.mobile_belgorodskaja_oblast"
+msgid "Belgorodskaja oblast'"
+msgstr "Région de Belgorod"
+
+msgctxt "Languages::mobile_app.mobile_belize"
+msgid "Belize"
+msgstr "Belize"
+
+msgctxt "Languages::mobile_app.mobile_belluno"
+msgid "Belluno"
+msgstr "Belluno"
+
+msgctxt "Languages::mobile_app.mobile_benevento"
+msgid "Benevento"
+msgstr "Bénévent"
+
+msgctxt "Languages::mobile_app.mobile_benin"
+msgid "Benin"
+msgstr "Bénin"
+
+msgctxt "Languages::mobile_app.mobile_bergamo"
+msgid "Bergamo"
+msgstr "Bergame"
+
+msgctxt "Languages::mobile_app.mobile_berkshire"
+msgid "Berkshire"
+msgstr "Berkshire"
+
+msgctxt "Languages::mobile_app.mobile_berlin"
+msgid "Berlin"
+msgstr "Berlin"
+
+msgctxt "Languages::mobile_app.mobile_bermuda"
+msgid "Bermuda"
+msgstr "Bermudes"
+
+msgctxt "Languages::mobile_app.mobile_berne"
+msgid "Berne"
+msgstr "Berne"
+
+msgctxt "Languages::mobile_app.mobile_berwickshire"
+msgid "Berwickshire"
+msgstr "Berwickshire"
+
+msgctxt "Languages::mobile_app.mobile_bhutan"
+msgid "Bhutan"
+msgstr "Bhoutan"
+
+msgctxt "Languages::mobile_app.mobile_biella"
+msgid "Biella"
+msgstr "Biella"
+
+msgctxt "Languages::mobile_app.mobile_blaenau_gwent"
+msgid "Blaenau Gwent"
+msgstr "Blaenau Gwent"
+
+msgctxt "Languages::mobile_app.mobile_bolivia"
+msgid "Bolivia"
+msgstr "Bolivie"
+
+msgctxt "Languages::mobile_app.mobile_bologna"
+msgid "Bologna"
+msgstr "Bologne"
+
+msgctxt "Languages::mobile_app.mobile_bolzano"
+msgid "Bolzano"
+msgstr "Bolzano"
+
+msgctxt "Languages::mobile_app.mobile_bosnia_and_herzegovina"
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie Herzégovine"
+
+msgctxt "Languages::mobile_app.mobile_botswana"
+msgid "Botswana"
+msgstr "Botswana"
+
+msgctxt "Languages::mobile_app.mobile_bouches_du_rhone"
+msgid "Bouches-du-Rhône"
+msgstr "Bouches-du-Rhône"
+
+msgctxt "Languages::mobile_app.mobile_bouvet_island"
+msgid "Bouvet Island"
+msgstr "Île Bouvet"
+
+msgctxt "Languages::mobile_app.mobile_branderburg"
+msgid "Branderburg"
+msgstr "Brandebourg"
+
+msgctxt "Languages::mobile_app.mobile_brazil"
+msgid "Brazil"
+msgstr "Brésil"
+
+msgctxt "Languages::mobile_app.mobile_bremen"
+msgid "Bremen"
+msgstr "Brême"
+
+msgctxt "Languages::mobile_app.mobile_brescia"
+msgid "Brescia"
+msgstr "Brescia"
+
+msgctxt "Languages::mobile_app.mobile_bridgend"
+msgid "Bridgend"
+msgstr "Bridgend"
+
+msgctxt "Languages::mobile_app.mobile_brindisi"
+msgid "Brindisi"
+msgstr "Brindisi"
+
+msgctxt "Languages::mobile_app.mobile_bristol"
+msgid "Bristol"
+msgstr "Bristol"
+
+msgctxt "Languages::mobile_app.mobile_british_columbia"
+msgid "British Columbia"
+msgstr "Colombie britannique"
+
+msgctxt "Languages::mobile_app.mobile_british_indian_ocean_territory"
+msgid "British Indian Ocean Territory"
+msgstr "Territoire britannique de l'océan Indien"
+
+msgctxt "Languages::mobile_app.mobile_british_virgin_islands"
+msgid "British Virgin Islands"
+msgstr "Îles Vierges britanniques"
+
+msgctxt "Languages::mobile_app.mobile_brjanskaja_oblast"
+msgid "Brjanskaja oblast'"
+msgstr "Oblast de Briansk '"
+
+msgctxt "Languages::mobile_app.mobile_brunei_darussalam"
+msgid "Brunei Darussalam"
+msgstr "Brunéi Darussalam"
+
+msgctxt "Languages::mobile_app.mobile_buckinghamshire"
+msgid "Buckinghamshire"
+msgstr "Buckinghamshire"
+
+msgctxt "Languages::mobile_app.mobile_bulgaria"
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+msgctxt "Languages::mobile_app.mobile_burgos"
+msgid "Burgos"
+msgstr "Burgos"
+
+msgctxt "Languages::mobile_app.mobile_burkina_faso"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgctxt "Languages::mobile_app.mobile_burundi"
+msgid "Burundi"
+msgstr "Burundi"
+
+msgctxt "Languages::mobile_app.mobile_bale_campagne"
+msgid "Bâle-Campagne"
+msgstr "Bâle-Campagne"
+
+msgctxt "Languages::mobile_app.mobile_bale_ville"
+msgid "Bâle-Ville"
+msgstr "Bâle-Ville"
+
+msgctxt "Languages::mobile_app.mobile_caerphilly"
+msgid "Caerphilly"
+msgstr "Caerphilly"
+
+msgctxt "Languages::mobile_app.mobile_cagliari"
+msgid "Cagliari"
+msgstr "Cagliari"
+
+msgctxt "Languages::mobile_app.mobile_caithness"
+msgid "Caithness"
+msgstr "Caithness"
+
+msgctxt "Languages::mobile_app.mobile_california"
+msgid "California"
+msgstr "Californie"
+
+msgctxt "Languages::mobile_app.mobile_caltanissetta"
+msgid "Caltanissetta"
+msgstr "Caltanissetta"
+
+msgctxt "Languages::mobile_app.mobile_calvados"
+msgid "Calvados"
+msgstr "Calvados"
+
+msgctxt "Languages::mobile_app.mobile_cambodia"
+msgid "Cambodia"
+msgstr "Cambodge"
+
+msgctxt "Languages::mobile_app.mobile_cambridgeshire"
+msgid "Cambridgeshire"
+msgstr "Cambridgeshire"
+
+msgctxt "Languages::mobile_app.mobile_cameroon"
+msgid "Cameroon"
+msgstr "Cameroun"
+
+msgctxt "Languages::mobile_app.mobile_campobasso"
+msgid "Campobasso"
+msgstr "Campobasso"
+
+msgctxt "Languages::mobile_app.mobile_canada"
+msgid "Canada"
+msgstr "Canada"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+msgctxt "Languages::mobile_app.mobile_canceled"
+msgid "Canceled"
+msgstr "Annulé"
+
+msgctxt "Languages::mobile_app.mobile_cantabria"
+msgid "Cantabria"
+msgstr "Cantabrie"
+
+msgctxt "Languages::mobile_app.mobile_cantal"
+msgid "Cantal"
+msgstr "Cantal"
+
+msgctxt "Languages::mobile_app.mobile_cape_verde"
+msgid "Cape Verde"
+msgstr "Cap-Vert"
+
+msgctxt "Languages::mobile_app.mobile_carbonia_iglesias"
+msgid "Carbonia-Iglesias"
+msgstr "Carbonia-Iglesias"
+
+msgctxt "Languages::mobile_app.mobile_cardiff"
+msgid "Cardiff"
+msgstr "Cardiff"
+
+msgctxt "Languages::mobile_app.mobile_carmarthenshire"
+msgid "Carmarthenshire"
+msgstr "Carmarthenshire"
+
+msgctxt "Languages::mobile_app.mobile_cart"
+msgid "Cart"
+msgstr "Panier"
+
+msgctxt "Languages::mobile_app.mobile_caserta"
+msgid "Caserta"
+msgstr "Caserte"
+
+msgctxt "Languages::mobile_app.mobile_castellon"
+msgid "Castellón"
+msgstr "Castellón"
+
+msgctxt "Languages::mobile_app.mobile_catania"
+msgid "Catania"
+msgstr "Catane"
+
+msgctxt "Languages::mobile_app.mobile_catanzaro"
+msgid "Catanzaro"
+msgstr "Catanzaro"
+
+msgctxt "Languages::mobile_app.mobile_cayman_islands"
+msgid "Cayman Islands"
+msgstr "Îles Caïmans"
+
+msgctxt "Languages::mobile_app.mobile_central_african_republic"
+msgid "Central African Republic"
+msgstr "République centrafricaine"
+
+msgctxt "Languages::mobile_app.mobile_ceredigion"
+msgid "Ceredigion"
+msgstr "Ceredigion"
+
+msgctxt "Languages::mobile_app.mobile_ceuta"
+msgid "Ceuta"
+msgstr "Ceuta"
+
+msgctxt "Languages::mobile_app.mobile_chad"
+msgid "Chad"
+msgstr "Tchad"
+
+msgctxt "Languages::mobile_app.mobile_charente"
+msgid "Charente"
+msgstr "Charente"
+
+msgctxt "Languages::mobile_app.mobile_charente_maritime"
+msgid "Charente-Maritime"
+msgstr "Charente-Maritime"
+
+msgctxt "Languages::mobile_app.mobile_chechenskaja_respublika"
+msgid "Chechenskaja respublika"
+msgstr "République tchétchène"
+
+msgctxt "Languages::mobile_app.mobile_checkout"
+msgid "Checkout"
+msgstr "Vérification"
+
+msgctxt "Languages::mobile_app.mobile_cheljabinskaja_oblast"
+msgid "Cheljabinskaja oblast'"
+msgstr "Oblast de Tcheliabinsk '"
+
+msgctxt "Languages::mobile_app.mobile_cher"
+msgid "Cher"
+msgstr "Cher"
+
+msgctxt "Languages::mobile_app.mobile_cheshire"
+msgid "Cheshire"
+msgstr "Cheshire"
+
+msgctxt "Languages::mobile_app.mobile_chieti"
+msgid "Chieti"
+msgstr "Chieti"
+
+msgctxt "Languages::mobile_app.mobile_chile"
+msgid "Chile"
+msgstr "Chili"
+
+msgctxt "Languages::mobile_app.mobile_china"
+msgid "China"
+msgstr "Chine"
+
+msgctxt "Languages::mobile_app.mobile_christmas_island"
+msgid "Christmas Island"
+msgstr "Île Christmas"
+
+msgctxt "Languages::mobile_app.mobile_chukotskij_avtonomnyj_okrug"
+msgid "Chukotskij avtonomnyj okrug"
+msgstr "District autonome de Tchoukotka"
+
+msgctxt "Languages::mobile_app.mobile_chuvashskaja_respublika"
+msgid "Chuvashskaja Respublika"
+msgstr "République de Tchouvachie"
+
+msgctxt "Languages::mobile_app.mobile_city"
+msgid "City"
+msgstr "Ville"
+
+msgctxt "Languages::mobile_app.mobile_ciudad_real"
+msgid "Ciudad Real"
+msgstr "Ciudad Real"
+
+msgctxt "Languages::mobile_app.mobile_clackmannanshire"
+msgid "Clackmannanshire"
+msgstr "Clackmannanshire"
+
+msgctxt "Languages::mobile_app.mobile_cleveland"
+msgid "Cleveland"
+msgstr "Cleveland"
+
+msgctxt "Languages::mobile_app.mobile_clwyd"
+msgid "Clwyd"
+msgstr "Clwyd"
+
+msgctxt "Languages::mobile_app.mobile_cocos_keeling_islands"
+msgid "Cocos (Keeling) Islands"
+msgstr "Îles Cocos (Keeling)"
+
+msgctxt "Languages::mobile_app.mobile_colombia"
+msgid "Colombia"
+msgstr "Colombie"
+
+msgctxt "Languages::mobile_app.mobile_colorado"
+msgid "Colorado"
+msgstr "Colorado"
+
+msgctxt "Languages::mobile_app.mobile_como"
+msgid "Como"
+msgstr "Côme"
+
+msgctxt "Languages::mobile_app.mobile_comoros"
+msgid "Comoros"
+msgstr "Comores"
+
+msgctxt "Languages::mobile_app.mobile_complete"
+msgid "Complete"
+msgstr "Compléter"
+
+msgctxt "Languages::mobile_app.mobile_congo"
+msgid "Congo"
+msgstr "Congo"
+
+msgctxt "Languages::mobile_app.mobile_connecticut"
+msgid "Connecticut"
+msgstr "Connecticut"
+
+msgctxt "Languages::mobile_app.mobile_contact_us_for_a_price"
+msgid "Contact us for a price"
+msgstr "Contactez-nous pour un prix"
+
+msgctxt "Languages::mobile_app.mobile_conwy"
+msgid "Conwy"
+msgstr "Conwy"
+
+msgctxt "Languages::mobile_app.mobile_cook_islands"
+msgid "Cook Islands"
+msgstr "Îles Cook"
+
+msgctxt "Languages::mobile_app.mobile_cornwall"
+msgid "Cornwall"
+msgstr "Cornouailles"
+
+msgctxt "Languages::mobile_app.mobile_correze"
+msgid "Corrèze"
+msgstr "Corrèze"
+
+msgctxt "Languages::mobile_app.mobile_corse_du_sud"
+msgid "Corse-du-Sud"
+msgstr "Corse-du-Sud"
+
+msgctxt "Languages::mobile_app.mobile_cosenza"
+msgid "Cosenza"
+msgstr "Cosenza"
+
+msgctxt "Languages::mobile_app.mobile_costa_rica"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgctxt "Languages::mobile_app.mobile_cote_divoire"
+msgid "Cote D'ivoire"
+msgstr "Côte d'Ivoire"
+
+msgctxt "Languages::mobile_app.mobile_country"
+msgid "Country"
+msgstr "Pays"
+
+msgctxt "Languages::mobile_app.mobile_county_antrim"
+msgid "County Antrim"
+msgstr "Comté d'Antrim"
+
+msgctxt "Languages::mobile_app.mobile_county_armagh"
+msgid "County Armagh"
+msgstr "Comté d'Armagh"
+
+msgctxt "Languages::mobile_app.mobile_county_down"
+msgid "County Down"
+msgstr "Comté de Down"
+
+msgctxt "Languages::mobile_app.mobile_county_fermanagh"
+msgid "County Fermanagh"
+msgstr "Comté de Fermanagh"
+
+msgctxt "Languages::mobile_app.mobile_county_londonderry"
+msgid "County Londonderry"
+msgstr "Comté de Londonderry"
+
+msgctxt "Languages::mobile_app.mobile_county_tyrone"
+msgid "County Tyrone"
+msgstr "Comté de Tyrone"
+
+msgctxt "Languages::mobile_app.mobile_coupon_code"
+msgid "Coupon code"
+msgstr "Code du coupon"
+
+msgctxt "Languages::mobile_app.mobile_cremona"
+msgid "Cremona"
+msgstr "Crémone"
+
+msgctxt "Languages::mobile_app.mobile_creuse"
+msgid "Creuse"
+msgstr "Creuse"
+
+msgctxt "Languages::mobile_app.mobile_croatia"
+msgid "Croatia"
+msgstr "Croatie"
+
+msgctxt "Languages::mobile_app.mobile_crotone"
+msgid "Crotone"
+msgstr "Crotone"
+
+msgctxt "Languages::mobile_app.mobile_cuba"
+msgid "Cuba"
+msgstr "Cuba"
+
+msgctxt "Languages::mobile_app.mobile_cuenca"
+msgid "Cuenca"
+msgstr "Cuenca"
+
+msgctxt "Languages::mobile_app.mobile_cumbria"
+msgid "Cumbria"
+msgstr "Cumbrie"
+
+msgctxt "Languages::mobile_app.mobile_cuneo"
+msgid "Cuneo"
+msgstr "Coni"
+
+msgctxt "Languages::mobile_app.mobile_curacao"
+msgid "Curaçao"
+msgstr "Curaçao"
+
+msgctxt "Languages::mobile_app.mobile_cyprus"
+msgid "Cyprus"
+msgstr "Chypre"
+
+msgctxt "Languages::mobile_app.mobile_czech_republic"
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+msgctxt "Languages::mobile_app.mobile_caceres"
+msgid "Cáceres"
+msgstr "Cáceres"
+
+msgctxt "Languages::mobile_app.mobile_cadiz"
+msgid "Cádiz"
+msgstr "Cadix"
+
+msgctxt "Languages::mobile_app.mobile_cordoba"
+msgid "Córdoba"
+msgstr "Córdoba"
+
+msgctxt "Languages::mobile_app.mobile_cote_dor"
+msgid "Côte-d'Or"
+msgstr "Côte-d'Or"
+
+msgctxt "Languages::mobile_app.mobile_cotes_darmor"
+msgid "Côtes-d'Armor"
+msgstr "Côtes-d'Armor"
+
+msgctxt "Languages::mobile_app.mobile_declined"
+msgid "Declined"
+msgstr "Refusé"
+
+msgctxt "Languages::mobile_app.mobile_delaware"
+msgid "Delaware"
+msgstr "Delaware"
+
+msgctxt "Languages::mobile_app.mobile_denbighshire"
+msgid "Denbighshire"
+msgstr "Denbighshire"
+
+msgctxt "Languages::mobile_app.mobile_denmark"
+msgid "Denmark"
+msgstr "Danemark"
+
+msgctxt "Languages::mobile_app.mobile_derbyshire"
+msgid "Derbyshire"
+msgstr "Derbyshire"
+
+msgctxt "Languages::mobile_app.mobile_deux_sevres"
+msgid "Deux-Sèvres"
+msgstr "Deux-Sèvres"
+
+msgctxt "Languages::mobile_app.mobile_devon"
+msgid "Devon"
+msgstr "Devon"
+
+msgctxt "Languages::mobile_app.mobile_discount"
+msgid "Discount"
+msgstr "Remise"
+
+msgctxt "Languages::mobile_app.mobile_district_of_columbia"
+msgid "District of Columbia"
+msgstr "District de Colombie"
+
+msgctxt "Languages::mobile_app.mobile_djibouti"
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgctxt "Languages::mobile_app.mobile_dominica"
+msgid "Dominica"
+msgstr "Dominique"
+
+msgctxt "Languages::mobile_app.mobile_dominican_republic"
+msgid "Dominican Republic"
+msgstr "République dominicaine"
+
+msgctxt "Languages::mobile_app.mobile_dordogne"
+msgid "Dordogne"
+msgstr "Dordogne"
+
+msgctxt "Languages::mobile_app.mobile_dorset"
+msgid "Dorset"
+msgstr "Dorset"
+
+msgctxt "Languages::mobile_app.mobile_doubs"
+msgid "Doubs"
+msgstr "Doubs"
+
+msgctxt "Languages::mobile_app.mobile_drome"
+msgid "Drôme"
+msgstr "Drôme"
+
+msgctxt "Languages::mobile_app.mobile_dumfries_and_galloway"
+msgid "Dumfries and Galloway"
+msgstr "Dumfries and Galloway"
+
+msgctxt "Languages::mobile_app.mobile_dumfries_shire"
+msgid "Dumfries-shire"
+msgstr "Dumfriesshire"
+
+msgctxt "Languages::mobile_app.mobile_dundee"
+msgid "Dundee"
+msgstr "Dundee"
+
+msgctxt "Languages::mobile_app.mobile_durham"
+msgid "Durham"
+msgstr "Durham"
+
+msgctxt "Languages::mobile_app.mobile_dyfed"
+msgid "Dyfed"
+msgstr "Dyfed"
+
+msgctxt "Languages::mobile_app.mobile_e_mail"
+msgid "E-mail"
+msgstr "E-mail"
+
+msgctxt "Languages::mobile_app.mobile_east_ayrshire"
+msgid "East Ayrshire"
+msgstr "East Ayrshire"
+
+msgctxt "Languages::mobile_app.mobile_east_dunbartonshire"
+msgid "East Dunbartonshire"
+msgstr "East Dunbartonshire"
+
+msgctxt "Languages::mobile_app.mobile_east_lothian"
+msgid "East Lothian"
+msgstr "East Lothian"
+
+msgctxt "Languages::mobile_app.mobile_east_renfrewshire"
+msgid "East Renfrewshire"
+msgstr "East Renfrewshire"
+
+msgctxt "Languages::mobile_app.mobile_east_riding_of_yorkshire"
+msgid "East Riding of Yorkshire"
+msgstr "Yorkshire de l'Est"
+
+msgctxt "Languages::mobile_app.mobile_east_sussex"
+msgid "East Sussex"
+msgstr "Sussex de l'Est"
+
+msgctxt "Languages::mobile_app.mobile_east_timor"
+msgid "East Timor"
+msgstr "Timor oriental"
+
+msgctxt "Languages::mobile_app.mobile_ecuador"
+msgid "Ecuador"
+msgstr "Équateur"
+
+msgctxt "Languages::mobile_app.mobile_edinburgh"
+msgid "Edinburgh"
+msgstr "Edinbourg"
+
+msgctxt "Languages::mobile_app.mobile_egypt"
+msgid "Egypt"
+msgstr "Egypte"
+
+msgctxt "Languages::mobile_app.mobile_el_salvador"
+msgid "El Salvador"
+msgstr "Le Salvador"
+
+msgctxt "Languages::mobile_app.mobile_enna"
+msgid "Enna"
+msgstr "Enna"
+
+msgctxt "Languages::mobile_app.mobile_equatorial_guinea"
+msgid "Equatorial Guinea"
+msgstr "Guinée Équatoriale"
+
+msgctxt "Languages::mobile_app.mobile_eritrea"
+msgid "Eritrea"
+msgstr "Érythrée"
+
+msgctxt "Languages::mobile_app.mobile_essex"
+msgid "Essex"
+msgstr "Essex"
+
+msgctxt "Languages::mobile_app.mobile_essonne"
+msgid "Essonne"
+msgstr "Essonne"
+
+msgctxt "Languages::mobile_app.mobile_estonia"
+msgid "Estonia"
+msgstr "Estonie"
+
+msgctxt "Languages::mobile_app.mobile_ethiopia"
+msgid "Ethiopia"
+msgstr "Ethiopie"
+
+msgctxt "Languages::mobile_app.mobile_eure"
+msgid "Eure"
+msgstr "Eure"
+
+msgctxt "Languages::mobile_app.mobile_eure_et_loir"
+msgid "Eure-et-Loir"
+msgstr "Eure-et-Loir"
+
+msgctxt "Languages::mobile_app.mobile_europe"
+msgid "Europe"
+msgstr "Europe"
+
+msgctxt "Languages::mobile_app.mobile_evrejskaja_avtonomnaja_oblast"
+msgid "Evrejskaja avtonomnaja oblast'"
+msgstr "Région autonome juive"
+
+msgctxt "Languages::mobile_app.mobile_failed"
+msgid "Failed"
+msgstr "Échoué"
+
+msgctxt "Languages::mobile_app.mobile_falkirk"
+msgid "Falkirk"
+msgstr "Falkirk"
+
+msgctxt "Languages::mobile_app.mobile_falkland_islands_malvinas"
+msgid "Falkland Islands (Malvinas)"
+msgstr "Îles Falkland (Malvinas)"
+
+msgctxt "Languages::mobile_app.mobile_faroe_islands"
+msgid "Faroe Islands"
+msgstr "Îles Féroé"
+
+msgctxt "Languages::mobile_app.mobile_ferrara"
+msgid "Ferrara"
+msgstr "Ferrare"
+
+msgctxt "Languages::mobile_app.mobile_fife"
+msgid "Fife"
+msgstr "Fife"
+
+msgctxt "Languages::mobile_app.mobile_fiji"
+msgid "Fiji"
+msgstr "Fidji"
+
+msgctxt "Languages::mobile_app.mobile_filter"
+msgid "Filter"
+msgstr "Filtre"
+
+msgctxt "Languages::mobile_app.mobile_finistere"
+msgid "Finistère"
+msgstr "Finistère"
+
+msgctxt "Languages::mobile_app.mobile_finland"
+msgid "Finland"
+msgstr "Finlande"
+
+msgctxt "Languages::mobile_app.mobile_firenze"
+msgid "Firenze"
+msgstr "Florence"
+
+msgctxt "Languages::mobile_app.mobile_first_name"
+msgid "First name"
+msgstr "Prénom"
+
+msgctxt "Languages::mobile_app.mobile_flevoland"
+msgid "Flevoland"
+msgstr "Flevoland"
+
+msgctxt "Languages::mobile_app.mobile_flintshire"
+msgid "Flintshire"
+msgstr "Flintshire"
+
+msgctxt "Languages::mobile_app.mobile_florida"
+msgid "Florida"
+msgstr "Floride"
+
+msgctxt "Languages::mobile_app.mobile_foggia"
+msgid "Foggia"
+msgstr "Foggia"
+
+msgctxt "Languages::mobile_app.mobile_forgot_password"
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié ?"
+
+msgctxt "Languages::mobile_app.mobile_forli_cesena"
+msgid "Forli-Cesena"
+msgstr "Forli-Césène"
+
+msgctxt "Languages::mobile_app.mobile_france"
+msgid "France"
+msgstr "France"
+
+msgctxt "Languages::mobile_app.mobile_france_metropolitan"
+msgid "France, Metropolitan"
+msgstr "France métropolitaine"
+
+msgctxt "Languages::mobile_app.mobile_french_guiana"
+msgid "French Guiana"
+msgstr "Guyane Française"
+
+msgctxt "Languages::mobile_app.mobile_french_polynesia"
+msgid "French Polynesia"
+msgstr "Polynésie française"
+
+msgctxt "Languages::mobile_app.mobile_french_southern_territories"
+msgid "French Southern Territories"
+msgstr "Terres Australes Françaises"
+
+msgctxt "Languages::mobile_app.mobile_fribourg"
+msgid "Fribourg"
+msgstr "Fribourg"
+
+msgctxt "Languages::mobile_app.mobile_friesland"
+msgid "Friesland"
+msgstr "Frise"
+
+msgctxt "Languages::mobile_app.mobile_frosinone"
+msgid "Frosinone"
+msgstr "Frosinone"
+
+msgctxt "Languages::mobile_app.mobile_gabon"
+msgid "Gabon"
+msgstr "Gabon"
+
+msgctxt "Languages::mobile_app.mobile_gambia"
+msgid "Gambia"
+msgstr "Gambie"
+
+msgctxt "Languages::mobile_app.mobile_gard"
+msgid "Gard"
+msgstr "Gard"
+
+msgctxt "Languages::mobile_app.mobile_gelderland"
+msgid "Gelderland"
+msgstr "Gueldre"
+
+msgctxt "Languages::mobile_app.mobile_genova"
+msgid "Genova"
+msgstr "Gênes"
+
+msgctxt "Languages::mobile_app.mobile_geneve"
+msgid "Genève"
+msgstr "Genève"
+
+msgctxt "Languages::mobile_app.mobile_georgia"
+msgid "Georgia"
+msgstr "Géorgie"
+
+msgctxt "Languages::mobile_app.mobile_germany"
+msgid "Germany"
+msgstr "Allemagne"
+
+msgctxt "Languages::mobile_app.mobile_gers"
+msgid "Gers"
+msgstr "Gers"
+
+msgctxt "Languages::mobile_app.mobile_ghana"
+msgid "Ghana"
+msgstr "Ghana"
+
+msgctxt "Languages::mobile_app.mobile_gibraltar"
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgctxt "Languages::mobile_app.mobile_girona"
+msgid "Girona"
+msgstr "Gérone"
+
+msgctxt "Languages::mobile_app.mobile_gironde"
+msgid "Gironde"
+msgstr "Gironde"
+
+msgctxt "Languages::mobile_app.mobile_glaris"
+msgid "Glaris"
+msgstr "Glaris"
+
+msgctxt "Languages::mobile_app.mobile_glasgow"
+msgid "Glasgow"
+msgstr "Glasgow"
+
+msgctxt "Languages::mobile_app.mobile_gloucestershire"
+msgid "Gloucestershire"
+msgstr "Gloucestershire"
+
+msgctxt "Languages::mobile_app.mobile_gorizia"
+msgid "Gorizia"
+msgstr "Gorizia"
+
+msgctxt "Languages::mobile_app.mobile_granada"
+msgid "Granada"
+msgstr "Grenade"
+
+msgctxt "Languages::mobile_app.mobile_greater_london"
+msgid "Greater London"
+msgstr "Grand Londres"
+
+msgctxt "Languages::mobile_app.mobile_greater_manchester"
+msgid "Greater Manchester"
+msgstr "Grand Manchester"
+
+msgctxt "Languages::mobile_app.mobile_greece"
+msgid "Greece"
+msgstr "Grèce"
+
+msgctxt "Languages::mobile_app.mobile_greenland"
+msgid "Greenland"
+msgstr "Groenland"
+
+msgctxt "Languages::mobile_app.mobile_grenada"
+msgid "Grenada"
+msgstr "Grenade"
+
+msgctxt "Languages::mobile_app.mobile_grisons"
+msgid "Grisons"
+msgstr "Grisons"
+
+msgctxt "Languages::mobile_app.mobile_groningen"
+msgid "Groningen"
+msgstr "Groningue"
+
+msgctxt "Languages::mobile_app.mobile_grosseto"
+msgid "Grosseto"
+msgstr "Grosseto"
+
+msgctxt "Languages::mobile_app.mobile_guadalajara"
+msgid "Guadalajara"
+msgstr "Guadalajara"
+
+msgctxt "Languages::mobile_app.mobile_guadeloupe"
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgctxt "Languages::mobile_app.mobile_guam"
+msgid "Guam"
+msgstr "Guam"
+
+msgctxt "Languages::mobile_app.mobile_guatemala"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgctxt "Languages::mobile_app.mobile_guernsey"
+msgid "Guernsey"
+msgstr "Guernesey"
+
+msgctxt "Languages::mobile_app.mobile_guinea"
+msgid "Guinea"
+msgstr "Guinée"
+
+msgctxt "Languages::mobile_app.mobile_guinea_bissau"
+msgid "Guinea-Bissau"
+msgstr "Guinée-Bissau"
+
+msgctxt "Languages::mobile_app.mobile_guipuzcoa"
+msgid "Guipúzcoa"
+msgstr "Guipuscoa"
+
+msgctxt "Languages::mobile_app.mobile_guyana"
+msgid "Guyana"
+msgstr "Guyana"
+
+msgctxt "Languages::mobile_app.mobile_gwynedd"
+msgid "Gwynedd"
+msgstr "Gwynedd"
+
+msgctxt "Languages::mobile_app.mobile_habarovskij_kraj"
+msgid "Habarovskij kraj"
+msgstr "Kraï de Khabarovsk"
+
+msgctxt "Languages::mobile_app.mobile_haiti"
+msgid "Haiti"
+msgstr "Haïti"
+
+msgctxt "Languages::mobile_app.mobile_hamburg"
+msgid "Hamburg"
+msgstr "Hambourg"
+
+msgctxt "Languages::mobile_app.mobile_hampshire"
+msgid "Hampshire"
+msgstr "Hampshire"
+
+msgctxt "Languages::mobile_app.mobile_hanty_mansijskij_avtonomnyj_okrug___jugra"
+msgid "Hanty-Mansijskij avtonomnyj okrug - Jugra"
+msgstr "Khantys-Mansis"
+
+msgctxt "Languages::mobile_app.mobile_haut_rhin"
+msgid "Haut-Rhin"
+msgstr "Haut-Rhin"
+
+msgctxt "Languages::mobile_app.mobile_haute_corse"
+msgid "Haute-Corse"
+msgstr "Haute-Corse"
+
+msgctxt "Languages::mobile_app.mobile_haute_garonne"
+msgid "Haute-Garonne"
+msgstr "Haute-Garonne"
+
+msgctxt "Languages::mobile_app.mobile_haute_loire"
+msgid "Haute-Loire"
+msgstr "Haute-Loire"
+
+msgctxt "Languages::mobile_app.mobile_haute_marne"
+msgid "Haute-Marne"
+msgstr "Haute-Marne"
+
+msgctxt "Languages::mobile_app.mobile_haute_savoie"
+msgid "Haute-Savoie"
+msgstr "Haute-Savoie"
+
+msgctxt "Languages::mobile_app.mobile_haute_saone"
+msgid "Haute-Saône"
+msgstr "Haute-Saône"
+
+msgctxt "Languages::mobile_app.mobile_haute_vienne"
+msgid "Haute-Vienne"
+msgstr "Haute-Vienne"
+
+msgctxt "Languages::mobile_app.mobile_hautes_alpes"
+msgid "Hautes-Alpes"
+msgstr "Hautes-Alpes"
+
+msgctxt "Languages::mobile_app.mobile_hautes_pyrenees"
+msgid "Hautes-Pyrénées"
+msgstr "Hautes-Pyrénées"
+
+msgctxt "Languages::mobile_app.mobile_hauts_de_seine"
+msgid "Hauts-de-Seine"
+msgstr "Hauts-de-Seine"
+
+msgctxt "Languages::mobile_app.mobile_hawaii"
+msgid "Hawaii"
+msgstr "Hawaï"
+
+msgctxt "Languages::mobile_app.mobile_heard_and_mcdonald_islands"
+msgid "Heard and McDonald Islands"
+msgstr "Îles Heard et McDonald"
+
+msgctxt "Languages::mobile_app.mobile_herefordshire"
+msgid "Herefordshire"
+msgstr "Herefordshire"
+
+msgctxt "Languages::mobile_app.mobile_hertfordshire"
+msgid "Hertfordshire"
+msgstr "Hertfordshire"
+
+msgctxt "Languages::mobile_app.mobile_hessen"
+msgid "Hessen"
+msgstr "Hesse"
+
+msgctxt "Languages::mobile_app.mobile_highlands"
+msgid "Highlands"
+msgstr "Highlands"
+
+msgctxt "Languages::mobile_app.mobile_honduras"
+msgid "Honduras"
+msgstr "Honduras"
+
+msgctxt "Languages::mobile_app.mobile_hong_kong"
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgctxt "Languages::mobile_app.mobile_huelva"
+msgid "Huelva"
+msgstr "Huelva"
+
+msgctxt "Languages::mobile_app.mobile_huesca"
+msgid "Huesca"
+msgstr "Huesca"
+
+msgctxt "Languages::mobile_app.mobile_humberside"
+msgid "Humberside"
+msgstr "Humberside"
+
+msgctxt "Languages::mobile_app.mobile_hungary"
+msgid "Hungary"
+msgstr "Hongrie"
+
+msgctxt "Languages::mobile_app.mobile_herault"
+msgid "Hérault"
+msgstr "Hérault"
+
+msgctxt "Languages::mobile_app.mobile_iceland"
+msgid "Iceland"
+msgstr "Islande"
+
+msgctxt "Languages::mobile_app.mobile_idaho"
+msgid "Idaho"
+msgstr "Idaho"
+
+msgctxt "Languages::mobile_app.mobile_ille_et_vilaine"
+msgid "Ille-et-Vilaine"
+msgstr "Ille-et-Vilaine"
+
+msgctxt "Languages::mobile_app.mobile_illinois"
+msgid "Illinois"
+msgstr "Illinois"
+
+msgctxt "Languages::mobile_app.mobile_imperia"
+msgid "Imperia"
+msgstr "Impéria"
+
+msgctxt "Languages::mobile_app.mobile_india"
+msgid "India"
+msgstr "Inde"
+
+msgctxt "Languages::mobile_app.mobile_indiana"
+msgid "Indiana"
+msgstr "Indiana"
+
+msgctxt "Languages::mobile_app.mobile_indonesia"
+msgid "Indonesia"
+msgstr "Indonésie"
+
+msgctxt "Languages::mobile_app.mobile_indre"
+msgid "Indre"
+msgstr "Indre"
+
+msgctxt "Languages::mobile_app.mobile_indre_et_loire"
+msgid "Indre-et-Loire"
+msgstr "Indre-et-Loire"
+
+msgctxt "Languages::mobile_app.mobile_inverclyde"
+msgid "Inverclyde"
+msgstr "Inverclyde"
+
+msgctxt "Languages::mobile_app.mobile_inverness_shire"
+msgid "Inverness-shire"
+msgstr "\n"
+"Comté d'Inverness"
+
+msgctxt "Languages::mobile_app.mobile_iowa"
+msgid "Iowa"
+msgstr "Iowa"
+
+msgctxt "Languages::mobile_app.mobile_iraq"
+msgid "Iraq"
+msgstr "Irak"
+
+msgctxt "Languages::mobile_app.mobile_ireland"
+msgid "Ireland"
+msgstr "Irlande"
+
+msgctxt "Languages::mobile_app.mobile_irkutskaja_oblast"
+msgid "Irkutskaja oblast'"
+msgstr "Région d'Irkoutsk"
+
+msgctxt "Languages::mobile_app.mobile_isernia"
+msgid "Isernia"
+msgstr "Isernia"
+
+msgctxt "Languages::mobile_app.mobile_islamic_republic_of_iran"
+msgid "Islamic Republic of Iran"
+msgstr "République islamique d'Iran"
+
+msgctxt "Languages::mobile_app.mobile_isle_of_man"
+msgid "Isle of Man"
+msgstr "île de Man"
+
+msgctxt "Languages::mobile_app.mobile_isle_of_wight"
+msgid "Isle of Wight"
+msgstr "Île de Wight"
+
+msgctxt "Languages::mobile_app.mobile_isles_of_scilly"
+msgid "Isles of Scilly"
+msgstr "Îles Scilly"
+
+msgctxt "Languages::mobile_app.mobile_israel"
+msgid "Israel"
+msgstr "Israël"
+
+msgctxt "Languages::mobile_app.mobile_isere"
+msgid "Isère"
+msgstr "Isère"
+
+msgctxt "Languages::mobile_app.mobile_italy"
+msgid "Italy"
+msgstr "Italie"
+
+msgctxt "Languages::mobile_app.mobile_ivanovskaja_oblast"
+msgid "Ivanovskaja oblast'"
+msgstr "Oblast d'Ivanovo"
+
+msgctxt "Languages::mobile_app.mobile_jamaica"
+msgid "Jamaica"
+msgstr "Jamaïque"
+
+msgctxt "Languages::mobile_app.mobile_jamalo_neneckij_avtonomnyj_okrug"
+msgid "Jamalo-Neneckij avtonomnyj okrug"
+msgstr "Okrug autonome de Yamalo-Nenets"
+
+msgctxt "Languages::mobile_app.mobile_japan"
+msgid "Japan"
+msgstr "Japon"
+
+msgctxt "Languages::mobile_app.mobile_jaroslavskaja_oblast"
+msgid "Jaroslavskaja oblast'"
+msgstr "Oblast de Iaroslavl"
+
+msgctxt "Languages::mobile_app.mobile_jaen"
+msgid "Jaén"
+msgstr "Jaén"
+
+msgctxt "Languages::mobile_app.mobile_jersey"
+msgid "Jersey"
+msgstr "Jersey"
+
+msgctxt "Languages::mobile_app.mobile_jordan"
+msgid "Jordan"
+msgstr "Jordanie"
+
+msgctxt "Languages::mobile_app.mobile_jura"
+msgid "Jura"
+msgstr "Jura"
+
+msgctxt "Languages::mobile_app.mobile_kabardino_balkarskaja_respublika"
+msgid "Kabardino-Balkarskaja Respublika"
+msgstr "République Kabardino-Balkare"
+
+msgctxt "Languages::mobile_app.mobile_kaliningradskaja_oblast"
+msgid "Kaliningradskaja oblast'"
+msgstr "Oblast de Kaliningrad"
+
+msgctxt "Languages::mobile_app.mobile_kaluzhskaja_oblast"
+msgid "Kaluzhskaja oblast'"
+msgstr "Oblast de Kalouga"
+
+msgctxt "Languages::mobile_app.mobile_kamchatskiy_kraj"
+msgid "Kamchatskiy kraj"
+msgstr "Kraï du Kamtchatka"
+
+msgctxt "Languages::mobile_app.mobile_kansas"
+msgid "Kansas"
+msgstr "Kansas"
+
+msgctxt "Languages::mobile_app.mobile_karachaevo_cherkesskaja_respublika"
+msgid "Karachaevo-Cherkesskaja respublika"
+msgstr "République de Karachay-Tcherkess"
+
+msgctxt "Languages::mobile_app.mobile_kazakhstan"
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgctxt "Languages::mobile_app.mobile_kemerovskaja_oblast"
+msgid "Kemerovskaja oblast'"
+msgstr "Oblast de Kemerovo"
+
+msgctxt "Languages::mobile_app.mobile_kent"
+msgid "Kent"
+msgstr "Kent"
+
+msgctxt "Languages::mobile_app.mobile_kentucky"
+msgid "Kentucky"
+msgstr "Kentucky"
+
+msgctxt "Languages::mobile_app.mobile_kenya"
+msgid "Kenya"
+msgstr "Kenya"
+
+msgctxt "Languages::mobile_app.mobile_kincardineshire"
+msgid "Kincardineshire"
+msgstr "Kincardineshire"
+
+msgctxt "Languages::mobile_app.mobile_kiribati"
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgctxt "Languages::mobile_app.mobile_kirovskaja_oblast"
+msgid "Kirovskaja oblast'"
+msgstr "Oblast de Kirov"
+
+msgctxt "Languages::mobile_app.mobile_korea"
+msgid "Korea"
+msgstr "Corée"
+
+msgctxt "Languages::mobile_app.mobile_korea_republic_of"
+msgid "Korea, Republic of"
+msgstr "Corée du Sud"
+
+msgctxt "Languages::mobile_app.mobile_kostromskaja_oblast"
+msgid "Kostromskaja oblast'"
+msgstr "Oblast de Kostroma"
+
+msgctxt "Languages::mobile_app.mobile_krasnodarskij_kraj"
+msgid "Krasnodarskij kraj"
+msgstr "Kraï de Krasnodar"
+
+msgctxt "Languages::mobile_app.mobile_krasnojarskij_kraj"
+msgid "Krasnojarskij kraj"
+msgstr "Kraï de Krasnoïarsk"
+
+msgctxt "Languages::mobile_app.mobile_kurganskaja_oblast"
+msgid "Kurganskaja oblast'"
+msgstr "Oblast de Kourgan"
+
+msgctxt "Languages::mobile_app.mobile_kurskaja_oblast"
+msgid "Kurskaja oblast'"
+msgstr "Oblast de Koursk"
+
+msgctxt "Languages::mobile_app.mobile_kuwait"
+msgid "Kuwait"
+msgstr "Koweït"
+
+msgctxt "Languages::mobile_app.mobile_kyrgyzstan"
+msgid "Kyrgyzstan"
+msgstr "Kirghizistan"
+
+msgctxt "Languages::mobile_app.mobile_laquila"
+msgid "L'Aquila"
+msgstr "L'Aquila"
+
+msgctxt "Languages::mobile_app.mobile_la_rioja"
+msgid "La Rioja"
+msgstr "La Rioja"
+
+msgctxt "Languages::mobile_app.mobile_la_spezia"
+msgid "La Spezia"
+msgstr "La Spezia"
+
+msgctxt "Languages::mobile_app.mobile_lancashire"
+msgid "Lancashire"
+msgstr "Lancashire"
+
+msgctxt "Languages::mobile_app.mobile_landes"
+msgid "Landes"
+msgstr "Landes"
+
+msgctxt "Languages::mobile_app.mobile_laos"
+msgid "Laos"
+msgstr "Laos"
+
+msgctxt "Languages::mobile_app.mobile_las_palmas"
+msgid "Las Palmas"
+msgstr "Las Palmas"
+
+msgctxt "Languages::mobile_app.mobile_last_name"
+msgid "Last name"
+msgstr "Nom"
+
+msgctxt "Languages::mobile_app.mobile_latina"
+msgid "Latina"
+msgstr "Latina"
+
+msgctxt "Languages::mobile_app.mobile_latvia"
+msgid "Latvia"
+msgstr "Lettonie"
+
+msgctxt "Languages::mobile_app.mobile_lebanon"
+msgid "Lebanon"
+msgstr "Liban"
+
+msgctxt "Languages::mobile_app.mobile_lecce"
+msgid "Lecce"
+msgstr "Lecce"
+
+msgctxt "Languages::mobile_app.mobile_lecco"
+msgid "Lecco"
+msgstr "Lecco"
+
+msgctxt "Languages::mobile_app.mobile_leicestershire"
+msgid "Leicestershire"
+msgstr "Leicestershire"
+
+msgctxt "Languages::mobile_app.mobile_leningradskaja_oblast"
+msgid "Leningradskaja oblast'"
+msgstr "Oblast de Léningrad"
+
+msgctxt "Languages::mobile_app.mobile_lesotho"
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgctxt "Languages::mobile_app.mobile_leon"
+msgid "León"
+msgstr "León"
+
+msgctxt "Languages::mobile_app.mobile_liberia"
+msgid "Liberia"
+msgstr "Libéria"
+
+msgctxt "Languages::mobile_app.mobile_libyan_arab_jamahiriya"
+msgid "Libyan Arab Jamahiriya"
+msgstr "Jamahiriya arabe libyenne"
+
+msgctxt "Languages::mobile_app.mobile_liechtenstein"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgctxt "Languages::mobile_app.mobile_limburg"
+msgid "Limburg"
+msgstr "Limbourg"
+
+msgctxt "Languages::mobile_app.mobile_lincolnshire"
+msgid "Lincolnshire"
+msgstr "Lincolnshire"
+
+msgctxt "Languages::mobile_app.mobile_lipeckaja_oblast"
+msgid "Lipeckaja oblast'"
+msgstr "Oblast de Lipetsk"
+
+msgctxt "Languages::mobile_app.mobile_list_price"
+msgid "List price"
+msgstr "Liste de prix"
+
+msgctxt "Languages::mobile_app.mobile_lithuania"
+msgid "Lithuania"
+msgstr "Lituanie"
+
+msgctxt "Languages::mobile_app.mobile_livorno"
+msgid "Livorno"
+msgstr "Livourne"
+
+msgctxt "Languages::mobile_app.mobile_lleida"
+msgid "Lleida"
+msgstr "Lérida"
+
+msgctxt "Languages::mobile_app.mobile_lodi"
+msgid "Lodi"
+msgstr "Lodi"
+
+msgctxt "Languages::mobile_app.mobile_loir_et_cher"
+msgid "Loir-et-Cher"
+msgstr "Loir-et-Cher"
+
+msgctxt "Languages::mobile_app.mobile_loire"
+msgid "Loire"
+msgstr "Loire"
+
+msgctxt "Languages::mobile_app.mobile_loire_atlantique"
+msgid "Loire-Atlantique"
+msgstr "Loire-Atlantique"
+
+msgctxt "Languages::mobile_app.mobile_loiret"
+msgid "Loiret"
+msgstr "Loiret"
+
+msgctxt "Languages::mobile_app.mobile_lot"
+msgid "Lot"
+msgstr "Lot"
+
+msgctxt "Languages::mobile_app.mobile_lot_et_garonne"
+msgid "Lot-et-Garonne"
+msgstr "Lot-et-Garonne"
+
+msgctxt "Languages::mobile_app.mobile_louisiana"
+msgid "Louisiana"
+msgstr "Louisiane"
+
+msgctxt "Languages::mobile_app.mobile_lozere"
+msgid "Lozère"
+msgstr "Lozère"
+
+msgctxt "Languages::mobile_app.mobile_lucca"
+msgid "Lucca"
+msgstr "Lucques"
+
+msgctxt "Languages::mobile_app.mobile_lucerne"
+msgid "Lucerne"
+msgstr "Lucerne"
+
+msgctxt "Languages::mobile_app.mobile_lugo"
+msgid "Lugo"
+msgstr "Lugo"
+
+msgctxt "Languages::mobile_app.mobile_luxembourg"
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgctxt "Languages::mobile_app.mobile_macau"
+msgid "Macau"
+msgstr "Macao"
+
+msgctxt "Languages::mobile_app.mobile_macedonia"
+msgid "Macedonia"
+msgstr "Macédoine"
+
+msgctxt "Languages::mobile_app.mobile_macerata"
+msgid "Macerata"
+msgstr "Macerata"
+
+msgctxt "Languages::mobile_app.mobile_madagascar"
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgctxt "Languages::mobile_app.mobile_madrid"
+msgid "Madrid"
+msgstr "Madrid"
+
+msgctxt "Languages::mobile_app.mobile_magadanskaja_oblast"
+msgid "Magadanskaja oblast'"
+msgstr "Oblast de Magadan"
+
+msgctxt "Languages::mobile_app.mobile_maine"
+msgid "Maine"
+msgstr "Maine"
+
+msgctxt "Languages::mobile_app.mobile_maine_et_loire"
+msgid "Maine-et-Loire"
+msgstr "Maine-et-Loire"
+
+msgctxt "Languages::mobile_app.mobile_malawi"
+msgid "Malawi"
+msgstr "Malawi"
+
+msgctxt "Languages::mobile_app.mobile_malaysia"
+msgid "Malaysia"
+msgstr "Malaisie"
+
+msgctxt "Languages::mobile_app.mobile_maldives"
+msgid "Maldives"
+msgstr "Maldives"
+
+msgctxt "Languages::mobile_app.mobile_mali"
+msgid "Mali"
+msgstr "Mali"
+
+msgctxt "Languages::mobile_app.mobile_malta"
+msgid "Malta"
+msgstr "Malte"
+
+msgctxt "Languages::mobile_app.mobile_manche"
+msgid "Manche"
+msgstr "Manche"
+
+msgctxt "Languages::mobile_app.mobile_manitoba"
+msgid "Manitoba"
+msgstr "Manitoba"
+
+msgctxt "Languages::mobile_app.mobile_mantova"
+msgid "Mantova"
+msgstr "Mantoue"
+
+msgctxt "Languages::mobile_app.mobile_marne"
+msgid "Marne"
+msgstr "Marne"
+
+msgctxt "Languages::mobile_app.mobile_marshall_islands"
+msgid "Marshall Islands"
+msgstr "Iles Marshall"
+
+msgctxt "Languages::mobile_app.mobile_martinique"
+msgid "Martinique"
+msgstr "Martinique"
+
+msgctxt "Languages::mobile_app.mobile_maryland"
+msgid "Maryland"
+msgstr "Maryland"
+
+msgctxt "Languages::mobile_app.mobile_massa_carrara"
+msgid "Massa-Carrara"
+msgstr "Massa-Carrare"
+
+msgctxt "Languages::mobile_app.mobile_massachusetts"
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+msgctxt "Languages::mobile_app.mobile_matera"
+msgid "Matera"
+msgstr "Matera"
+
+msgctxt "Languages::mobile_app.mobile_mauritania"
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+msgctxt "Languages::mobile_app.mobile_mauritius"
+msgid "Mauritius"
+msgstr "Maurice"
+
+msgctxt "Languages::mobile_app.mobile_mayenne"
+msgid "Mayenne"
+msgstr "Mayenne"
+
+msgctxt "Languages::mobile_app.mobile_mayotte"
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgctxt "Languages::mobile_app.mobile_mecklenburg_vorpommern"
+msgid "Mecklenburg-Vorpommern"
+msgstr "Mecklembourg-Poméranie-Occidentale"
+
+msgctxt "Languages::mobile_app.mobile_medio_campidano"
+msgid "Medio Campidano"
+msgstr "Medio Campidano"
+
+msgctxt "Languages::mobile_app.mobile_melilla"
+msgid "Melilla"
+msgstr "Melilla"
+
+msgctxt "Languages::mobile_app.mobile_merionethshire"
+msgid "Merionethshire"
+msgstr "Merionethshire"
+
+msgctxt "Languages::mobile_app.mobile_merseyside"
+msgid "Merseyside"
+msgstr "Merseyside"
+
+msgctxt "Languages::mobile_app.mobile_merthyr_tydfil"
+msgid "Merthyr Tydfil"
+msgstr "Merthyr Tydfil"
+
+msgctxt "Languages::mobile_app.mobile_messina"
+msgid "Messina"
+msgstr "Messine"
+
+msgctxt "Languages::mobile_app.mobile_meurthe_et_moselle"
+msgid "Meurthe-et-Moselle"
+msgstr "Meurthe-et-Moselle"
+
+msgctxt "Languages::mobile_app.mobile_meuse"
+msgid "Meuse"
+msgstr "Meuse"
+
+msgctxt "Languages::mobile_app.mobile_mexico"
+msgid "Mexico"
+msgstr "Mexique"
+
+msgctxt "Languages::mobile_app.mobile_michigan"
+msgid "Michigan"
+msgstr "Michigan"
+
+msgctxt "Languages::mobile_app.mobile_micronesia"
+msgid "Micronesia"
+msgstr "Micronésie"
+
+msgctxt "Languages::mobile_app.mobile_middlesex"
+msgid "Middlesex"
+msgstr "Middlesex"
+
+msgctxt "Languages::mobile_app.mobile_midlothian"
+msgid "Midlothian"
+msgstr "Midlothian"
+
+msgctxt "Languages::mobile_app.mobile_milano"
+msgid "Milano"
+msgstr "Milan"
+
+msgctxt "Languages::mobile_app.mobile_minnesota"
+msgid "Minnesota"
+msgstr "Minnesota"
+
+msgctxt "Languages::mobile_app.mobile_mississippi"
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgctxt "Languages::mobile_app.mobile_missouri"
+msgid "Missouri"
+msgstr "Missouri"
+
+msgctxt "Languages::mobile_app.mobile_modena"
+msgid "Modena"
+msgstr "Modène"
+
+msgctxt "Languages::mobile_app.mobile_moldova_republic_of"
+msgid "Moldova, Republic of"
+msgstr "Moldavie"
+
+msgctxt "Languages::mobile_app.mobile_monaco"
+msgid "Monaco"
+msgstr "Monaco"
+
+msgctxt "Languages::mobile_app.mobile_mongolia"
+msgid "Mongolia"
+msgstr "Mongolie"
+
+msgctxt "Languages::mobile_app.mobile_monmouthshire"
+msgid "Monmouthshire"
+msgstr "Monmouthshire"
+
+msgctxt "Languages::mobile_app.mobile_montana"
+msgid "Montana"
+msgstr "Montana"
+
+msgctxt "Languages::mobile_app.mobile_montenegro"
+msgid "Montenegro"
+msgstr "Monténégro"
+
+msgctxt "Languages::mobile_app.mobile_montserrat"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgctxt "Languages::mobile_app.mobile_moray"
+msgid "Moray"
+msgstr "Moray"
+
+msgctxt "Languages::mobile_app.mobile_morbihan"
+msgid "Morbihan"
+msgstr "Morbihan"
+
+msgctxt "Languages::mobile_app.mobile_morocco"
+msgid "Morocco"
+msgstr "Maroc"
+
+msgctxt "Languages::mobile_app.mobile_moselle"
+msgid "Moselle"
+msgstr "Moselle"
+
+msgctxt "Languages::mobile_app.mobile_moskovskaja_oblast"
+msgid "Moskovskaja oblast'"
+msgstr "Oblast de Moscou"
+
+msgctxt "Languages::mobile_app.mobile_moskva"
+msgid "Moskva"
+msgstr "Moscou"
+
+msgctxt "Languages::mobile_app.mobile_mozambique"
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgctxt "Languages::mobile_app.mobile_murcia"
+msgid "Murcia"
+msgstr "Murcie"
+
+msgctxt "Languages::mobile_app.mobile_murmanskaja_oblast"
+msgid "Murmanskaja oblast'"
+msgstr "Oblast de Mourmansk"
+
+msgctxt "Languages::mobile_app.mobile_myanmar"
+msgid "Myanmar"
+msgstr "Birmanie"
+
+msgctxt "Languages::mobile_app.mobile_malaga"
+msgid "Málaga"
+msgstr "Malaga"
+
+msgctxt "Languages::mobile_app.mobile_nairnshire"
+msgid "Nairnshire"
+msgstr "Comté de Nairn"
+
+msgctxt "Languages::mobile_app.mobile_namibia"
+msgid "Namibia"
+msgstr "Namibie"
+
+msgctxt "Languages::mobile_app.mobile_napoli"
+msgid "Napoli"
+msgstr "Naples"
+
+msgctxt "Languages::mobile_app.mobile_nauru"
+msgid "Nauru"
+msgstr "Nauru"
+
+msgctxt "Languages::mobile_app.mobile_navarra"
+msgid "Navarra"
+msgstr "Navarre"
+
+msgctxt "Languages::mobile_app.mobile_neath_port_talbot"
+msgid "Neath Port Talbot"
+msgstr "Neath Port Talbot"
+
+msgctxt "Languages::mobile_app.mobile_nebraska"
+msgid "Nebraska"
+msgstr "Nebraska"
+
+msgctxt "Languages::mobile_app.mobile_neneckij_avtonomnyj_okrug"
+msgid "Neneckij avtonomnyj okrug"
+msgstr "Nénétsie"
+
+msgctxt "Languages::mobile_app.mobile_nepal"
+msgid "Nepal"
+msgstr "Népal"
+
+msgctxt "Languages::mobile_app.mobile_netherlands"
+msgid "Netherlands"
+msgstr "Pays-Bas"
+
+msgctxt "Languages::mobile_app.mobile_neuchatel"
+msgid "Neuchâtel"
+msgstr "Neuchâtel"
+
+msgctxt "Languages::mobile_app.mobile_nevada"
+msgid "Nevada"
+msgstr "Nevada"
+
+msgctxt "Languages::mobile_app.mobile_new_brunswick"
+msgid "New Brunswick"
+msgstr "Nouveau-Brunswick"
+
+msgctxt "Languages::mobile_app.mobile_new_caledonia"
+msgid "New Caledonia"
+msgstr "Nouvelle-Calédonie"
+
+msgctxt "Languages::mobile_app.mobile_new_hampshire"
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+msgctxt "Languages::mobile_app.mobile_new_jersey"
+msgid "New Jersey"
+msgstr "New Jersey"
+
+msgctxt "Languages::mobile_app.mobile_new_mexico"
+msgid "New Mexico"
+msgstr "Nouveau-Mexique"
+
+msgctxt "Languages::mobile_app.mobile_new_south_wales"
+msgid "New South Wales"
+msgstr "Nouvelle-Galles du Sud"
+
+msgctxt "Languages::mobile_app.mobile_new_york"
+msgid "New York"
+msgstr "New York"
+
+msgctxt "Languages::mobile_app.mobile_new_zealand"
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+msgctxt "Languages::mobile_app.mobile_newfoundland_and_labrador"
+msgid "Newfoundland and Labrador"
+msgstr "Terre-Neuve-et-Labrador"
+
+msgctxt "Languages::mobile_app.mobile_newport"
+msgid "Newport"
+msgstr "Newport"
+
+msgctxt "Languages::mobile_app.mobile_nicaragua"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgctxt "Languages::mobile_app.mobile_nidwald"
+msgid "Nidwald"
+msgstr "Nidwald"
+
+msgctxt "Languages::mobile_app.mobile_niedersachsen"
+msgid "Niedersachsen"
+msgstr "Basse-Saxe"
+
+msgctxt "Languages::mobile_app.mobile_niger"
+msgid "Niger"
+msgstr "Niger"
+
+msgctxt "Languages::mobile_app.mobile_nigeria"
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgctxt "Languages::mobile_app.mobile_niue"
+msgid "Niue"
+msgstr "Niué"
+
+msgctxt "Languages::mobile_app.mobile_nizhegorodskaja_oblast"
+msgid "Nizhegorodskaja oblast'"
+msgstr "Oblast de Nijni Novgorod"
+
+msgctxt "Languages::mobile_app.mobile_nievre"
+msgid "Nièvre"
+msgstr "Nièvre"
+
+msgctxt "Languages::mobile_app.mobile_noord_brabant"
+msgid "Noord Brabant"
+msgstr "Brabant-du-Nord"
+
+msgctxt "Languages::mobile_app.mobile_noord_holland"
+msgid "Noord Holland"
+msgstr "Hollande-Septentrionale"
+
+msgctxt "Languages::mobile_app.mobile_nord"
+msgid "Nord"
+msgstr "Nord"
+
+msgctxt "Languages::mobile_app.mobile_nordrhein_westfalen"
+msgid "Nordrhein-Westfalen"
+msgstr "Rhénanie du Nord-Westphalie"
+
+msgctxt "Languages::mobile_app.mobile_norfolk_island"
+msgid "Norfolk Island"
+msgstr "Île Norfolk"
+
+msgctxt "Languages::mobile_app.mobile_norfolk"
+msgid "Norfolk"
+msgstr "Norfolk"
+
+msgctxt "Languages::mobile_app.mobile_north_ayrshire"
+msgid "North Ayrshire"
+msgstr "North Ayrshire"
+
+msgctxt "Languages::mobile_app.mobile_north_carolina"
+msgid "North Carolina"
+msgstr "Caroline du Nord"
+
+msgctxt "Languages::mobile_app.mobile_north_dakota"
+msgid "North Dakota"
+msgstr "Dakota du Nord"
+
+msgctxt "Languages::mobile_app.mobile_north_lanarkshire"
+msgid "North Lanarkshire"
+msgstr "North Lanarkshire"
+
+msgctxt "Languages::mobile_app.mobile_north_yorkshire"
+msgid "North Yorkshire"
+msgstr "Yorkshire du Nord"
+
+msgctxt "Languages::mobile_app.mobile_northamptonshire"
+msgid "Northamptonshire"
+msgstr "Northamptonshire"
+
+msgctxt "Languages::mobile_app.mobile_northern_mariana_islands"
+msgid "Northern Mariana Islands"
+msgstr "Îles Mariannes du Nord"
+
+msgctxt "Languages::mobile_app.mobile_northern_territory"
+msgid "Northern Territory"
+msgstr "Territoire du Nord"
+
+msgctxt "Languages::mobile_app.mobile_northumberland"
+msgid "Northumberland"
+msgstr "Northumberland"
+
+msgctxt "Languages::mobile_app.mobile_northwest_territories"
+msgid "Northwest Territories"
+msgstr "Territoires du Nord-Ouest"
+
+msgctxt "Languages::mobile_app.mobile_norway"
+msgid "Norway"
+msgstr "Norvège"
+
+msgctxt "Languages::mobile_app.mobile_nottinghamshire"
+msgid "Nottinghamshire"
+msgstr "Nottinghamshire"
+
+msgctxt "Languages::mobile_app.mobile_nova_scotia"
+msgid "Nova Scotia"
+msgstr "Nouvelle-Écosse"
+
+msgctxt "Languages::mobile_app.mobile_novara"
+msgid "Novara"
+msgstr "Novare"
+
+msgctxt "Languages::mobile_app.mobile_novgorodskaja_oblast"
+msgid "Novgorodskaja oblast'"
+msgstr "Oblast de Novgorod"
+
+msgctxt "Languages::mobile_app.mobile_novosibirskaja_oblast"
+msgid "Novosibirskaja oblast'"
+msgstr "Oblast de Novossibirsk"
+
+msgctxt "Languages::mobile_app.mobile_nunavut"
+msgid "Nunavut"
+msgstr "Nunavut"
+
+msgctxt "Languages::mobile_app.mobile_nuoro"
+msgid "Nuoro"
+msgstr "Nuoro"
+
+msgctxt "Languages::mobile_app.mobile_obwald"
+msgid "Obwald"
+msgstr "Obwald"
+
+msgctxt "Languages::mobile_app.mobile_ogliastra"
+msgid "Ogliastra"
+msgstr "Ogliastra"
+
+msgctxt "Languages::mobile_app.mobile_ohio"
+msgid "Ohio"
+msgstr "Ohio"
+
+msgctxt "Languages::mobile_app.mobile_oise"
+msgid "Oise"
+msgstr "Oise"
+
+msgctxt "Languages::mobile_app.mobile_oklahoma"
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+msgctxt "Languages::mobile_app.mobile_olbia_tempio"
+msgid "Olbia-Tempio"
+msgstr "Olbia-Tempio"
+
+msgctxt "Languages::mobile_app.mobile_old_price"
+msgid "Old price"
+msgstr "Ancien prix"
+
+msgctxt "Languages::mobile_app.mobile_oman"
+msgid "Oman"
+msgstr "Oman"
+
+msgctxt "Languages::mobile_app.mobile_omskaja_oblast"
+msgid "Omskaja oblast'"
+msgstr "Oblast d'Omsk"
+
+msgctxt "Languages::mobile_app.mobile_ontario"
+msgid "Ontario"
+msgstr "Ontario"
+
+msgctxt "Languages::mobile_app.mobile_open"
+msgid "Open"
+msgstr "Ouvrir"
+
+msgctxt "Languages::mobile_app.mobile_oregon"
+msgid "Oregon"
+msgstr "Oregon"
+
+msgctxt "Languages::mobile_app.mobile_orenburgskaja_oblast"
+msgid "Orenburgskaja oblast'"
+msgstr "Oblast d'Orenbourg"
+
+msgctxt "Languages::mobile_app.mobile_oristano"
+msgid "Oristano"
+msgstr "Oristano"
+
+msgctxt "Languages::mobile_app.mobile_orkney_islands"
+msgid "Orkney Islands"
+msgstr "Orcades"
+
+msgctxt "Languages::mobile_app.mobile_orlovskaja_oblast"
+msgid "Orlovskaja oblast'"
+msgstr "Oblast d'Orel"
+
+msgctxt "Languages::mobile_app.mobile_orne"
+msgid "Orne"
+msgstr "Orne"
+
+msgctxt "Languages::mobile_app.mobile_ourense"
+msgid "Ourense"
+msgstr "Orense"
+
+msgctxt "Languages::mobile_app.mobile_out_of_stock"
+msgid "Out of stock"
+msgstr "En rupture de stock"
+
+msgctxt "Languages::mobile_app.mobile_overijssel"
+msgid "Overijssel"
+msgstr "Overijssel"
+
+msgctxt "Languages::mobile_app.mobile_oxfordshire"
+msgid "Oxfordshire"
+msgstr "Oxfordshire"
+
+msgctxt "Languages::mobile_app.mobile_padova"
+msgid "Padova"
+msgstr "Padoue"
+
+msgctxt "Languages::mobile_app.mobile_pakistan"
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgctxt "Languages::mobile_app.mobile_palau"
+msgid "Palau"
+msgstr "Palaos"
+
+msgctxt "Languages::mobile_app.mobile_palencia"
+msgid "Palencia"
+msgstr "Palencia"
+
+msgctxt "Languages::mobile_app.mobile_palermo"
+msgid "Palermo"
+msgstr "Palerme"
+
+msgctxt "Languages::mobile_app.mobile_palestine_authority"
+msgid "Palestine Authority"
+msgstr "Autorité palestinienne"
+
+msgctxt "Languages::mobile_app.mobile_panama"
+msgid "Panama"
+msgstr "Panama"
+
+msgctxt "Languages::mobile_app.mobile_papua_new_guinea"
+msgid "Papua New Guinea"
+msgstr "Papouasie-Nouvelle-Guinée"
+
+msgctxt "Languages::mobile_app.mobile_paraguay"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgctxt "Languages::mobile_app.mobile_paris"
+msgid "Paris"
+msgstr "Paris"
+
+msgctxt "Languages::mobile_app.mobile_parma"
+msgid "Parma"
+msgstr "Parme"
+
+msgctxt "Languages::mobile_app.mobile_pas_de_calais"
+msgid "Pas-de-Calais"
+msgstr "Pas-de-Calais"
+
+msgctxt "Languages::mobile_app.mobile_pavia"
+msgid "Pavia"
+msgstr "Pavie"
+
+msgctxt "Languages::mobile_app.mobile_peebles_shire"
+msgid "Peebles-shire"
+msgstr "Peeblesshire"
+
+msgctxt "Languages::mobile_app.mobile_pembrokeshire"
+msgid "Pembrokeshire"
+msgstr "Pembrokeshire"
+
+msgctxt "Languages::mobile_app.mobile_pennsylvania"
+msgid "Pennsylvania"
+msgstr "Pennsylvanie"
+
+msgctxt "Languages::mobile_app.mobile_penzenskaja_oblast"
+msgid "Penzenskaja oblast'"
+msgstr "Oblast de Penza"
+
+msgctxt "Languages::mobile_app.mobile_permskij_kraj"
+msgid "Permskij kraj"
+msgstr "Kraï de Perm"
+
+msgctxt "Languages::mobile_app.mobile_perth_and_kinross"
+msgid "Perth and Kinross"
+msgstr "Perth and Kinross"
+
+msgctxt "Languages::mobile_app.mobile_peru"
+msgid "Peru"
+msgstr "Pérou"
+
+msgctxt "Languages::mobile_app.mobile_perugia"
+msgid "Perugia"
+msgstr "Pérouse"
+
+msgctxt "Languages::mobile_app.mobile_pesaro_e_urbino"
+msgid "Pesaro e Urbino"
+msgstr "Pesaro et d'Urbino"
+
+msgctxt "Languages::mobile_app.mobile_pescara"
+msgid "Pescara"
+msgstr "Pescara"
+
+msgctxt "Languages::mobile_app.mobile_philippines"
+msgid "Philippines"
+msgstr "Philippines"
+
+msgctxt "Languages::mobile_app.mobile_phone"
+msgid "Phone"
+msgstr "Téléphone"
+
+msgctxt "Languages::mobile_app.mobile_piacenza"
+msgid "Piacenza"
+msgstr "Plaisance"
+
+msgctxt "Languages::mobile_app.mobile_pisa"
+msgid "Pisa"
+msgstr "Pise"
+
+msgctxt "Languages::mobile_app.mobile_pistoia"
+msgid "Pistoia"
+msgstr "Pistoia"
+
+msgctxt "Languages::mobile_app.mobile_pitcairn"
+msgid "Pitcairn"
+msgstr "Îles Pitcairn"
+
+msgctxt "Languages::mobile_app.mobile_poland"
+msgid "Poland"
+msgstr "Pologne"
+
+msgctxt "Languages::mobile_app.mobile_pontevedra"
+msgid "Pontevedra"
+msgstr "Pontevedra"
+
+msgctxt "Languages::mobile_app.mobile_pordenone"
+msgid "Pordenone"
+msgstr "Pordenone"
+
+msgctxt "Languages::mobile_app.mobile_portugal"
+msgid "Portugal"
+msgstr "Portugal"
+
+msgctxt "Languages::mobile_app.mobile_potenza"
+msgid "Potenza"
+msgstr "Potenza"
+
+msgctxt "Languages::mobile_app.mobile_powys"
+msgid "Powys"
+msgstr "Powys"
+
+msgctxt "Languages::mobile_app.mobile_prato"
+msgid "Prato"
+msgstr "Prato"
+
+msgctxt "Languages::mobile_app.mobile_primorskij_kraj"
+msgid "Primorskij kraj"
+msgstr "Kraï du Primorie"
+
+msgctxt "Languages::mobile_app.mobile_prince_edward_island"
+msgid "Prince Edward Island"
+msgstr "Île-du-Prince-Édouard"
+
+msgctxt "Languages::mobile_app.mobile_processed"
+msgid "Processed"
+msgstr "Traité"
+
+msgctxt "Languages::mobile_app.mobile_pskovskaja_oblast"
+msgid "Pskovskaja oblast'"
+msgstr "Oblast de Pskov"
+
+msgctxt "Languages::mobile_app.mobile_puerto_rico"
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+msgctxt "Languages::mobile_app.mobile_puy_de_dome"
+msgid "Puy-de-Dôme"
+msgstr "Puy-de-Dôme"
+
+msgctxt "Languages::mobile_app.mobile_pyrenees_atlantiques"
+msgid "Pyrénées-Atlantiques"
+msgstr "Pyrénées-Atlantiques"
+
+msgctxt "Languages::mobile_app.mobile_pyrenees_orientales"
+msgid "Pyrénées-Orientales"
+msgstr "Pyrénées-Orientales"
+
+msgctxt "Languages::mobile_app.mobile_qatar"
+msgid "Qatar"
+msgstr "Qatar"
+
+msgctxt "Languages::mobile_app.mobile_quebec"
+msgid "Quebec"
+msgstr "Québec"
+
+msgctxt "Languages::mobile_app.mobile_queensland"
+msgid "Queensland"
+msgstr "Queensland"
+
+msgctxt "Languages::mobile_app.mobile_ragusa"
+msgid "Ragusa"
+msgstr "Raguse"
+
+msgctxt "Languages::mobile_app.mobile_ravenna"
+msgid "Ravenna"
+msgstr "Ravenne"
+
+msgctxt "Languages::mobile_app.mobile_reggio_calabria"
+msgid "Reggio Calabria"
+msgstr "Rège en Calabre"
+
+msgctxt "Languages::mobile_app.mobile_reggio_emilia"
+msgid "Reggio Emilia"
+msgstr "Rhège en Émilie"
+
+msgctxt "Languages::mobile_app.mobile_register"
+msgid "Register"
+msgstr "S'inscrire"
+
+msgctxt "Languages::mobile_app.mobile_renfrewshire"
+msgid "Renfrewshire"
+msgstr "Renfrewshire"
+
+msgctxt "Languages::mobile_app.mobile_republic_of_serbia"
+msgid "Republic of Serbia"
+msgstr "Serbie"
+
+msgctxt "Languages::mobile_app.mobile_requires_approval"
+msgid "Requires approval"
+msgstr "Nécessite l'approbation"
+
+msgctxt "Languages::mobile_app.mobile_respublika_adygeja"
+msgid "Respublika Adygeja"
+msgstr "République d'Adyguée"
+
+msgctxt "Languages::mobile_app.mobile_reset_password"
+msgid "Reset password"
+msgstr "Réinitialiser le mot de passe"
+
+msgctxt "Languages::mobile_app.mobile_respublika_altaj"
+msgid "Respublika Altaj"
+msgstr "République de l'Altaï"
+
+msgctxt "Languages::mobile_app.mobile_respublika_bashkortostan"
+msgid "Respublika Bashkortostan"
+msgstr "Bachkortostan"
+
+msgctxt "Languages::mobile_app.mobile_respublika_burjatija"
+msgid "Respublika Burjatija"
+msgstr "Bouriatie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_dagestan"
+msgid "Respublika Dagestan"
+msgstr "Daghestan"
+
+msgctxt "Languages::mobile_app.mobile_respublika_hakasija"
+msgid "Respublika Hakasija"
+msgstr "Khakassie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_ingushetija"
+msgid "Respublika Ingushetija"
+msgstr "Ingouchie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_kalmykija"
+msgid "Respublika Kalmykija"
+msgstr "Kalmoukie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_karelija"
+msgid "Respublika Karelija"
+msgstr "République de Carélie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_komi"
+msgid "Respublika Komi"
+msgstr "République des Komis"
+
+msgctxt "Languages::mobile_app.mobile_respublika_marij_jel"
+msgid "Respublika Marij Jel"
+msgstr "République des Maris"
+
+msgctxt "Languages::mobile_app.mobile_respublika_mordovija"
+msgid "Respublika Mordovija"
+msgstr "Mordovie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_saha_jakutija"
+msgid "Respublika Saha (Jakutija)"
+msgstr "République de Sakha"
+
+msgctxt "Languages::mobile_app.mobile_respublika_severnaja_osetija_alanija"
+msgid "Respublika Severnaja Osetija-Alanija"
+msgstr "Ossétie-du-Nord-Alanie"
+
+msgctxt "Languages::mobile_app.mobile_respublika_tatarstan"
+msgid "Respublika Tatarstan"
+msgstr "République du Tatarstan"
+
+msgctxt "Languages::mobile_app.mobile_respublika_tyva"
+msgid "Respublika Tyva"
+msgstr "Touva"
+
+msgctxt "Languages::mobile_app.mobile_reunion"
+msgid "Reunion"
+msgstr "Réunion"
+
+msgctxt "Languages::mobile_app.mobile_rheinland_pfalz"
+msgid "Rheinland-Pfalz"
+msgstr "Rhénanie-Palatinat"
+
+msgctxt "Languages::mobile_app.mobile_rhode_island"
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+msgctxt "Languages::mobile_app.mobile_rhondda_cynon_taff"
+msgid "Rhondda Cynon Taff"
+msgstr "Rhondda Cynon Taff"
+
+msgctxt "Languages::mobile_app.mobile_rhone"
+msgid "Rhône"
+msgstr "Rhône"
+
+msgctxt "Languages::mobile_app.mobile_rieti"
+msgid "Rieti"
+msgstr "Rieti"
+
+msgctxt "Languages::mobile_app.mobile_rimini"
+msgid "Rimini"
+msgstr "Rimini"
+
+msgctxt "Languages::mobile_app.mobile_rjazanskaja_oblast"
+msgid "Rjazanskaja oblast'"
+msgstr "Oblast de Riazan"
+
+msgctxt "Languages::mobile_app.mobile_roma"
+msgid "Roma"
+msgstr "Rome"
+
+msgctxt "Languages::mobile_app.mobile_romania"
+msgid "Romania"
+msgstr "Roumanie"
+
+msgctxt "Languages::mobile_app.mobile_rostovskaja_oblast"
+msgid "Rostovskaja oblast'"
+msgstr "Oblast de Rostov"
+
+msgctxt "Languages::mobile_app.mobile_rovigo"
+msgid "Rovigo"
+msgstr "Rovigo"
+
+msgctxt "Languages::mobile_app.mobile_roxburghshire"
+msgid "Roxburghshire"
+msgstr "Roxburghshire"
+
+msgctxt "Languages::mobile_app.mobile_russian_federation"
+msgid "Russian Federation"
+msgstr "Russie"
+
+msgctxt "Languages::mobile_app.mobile_rutland"
+msgid "Rutland"
+msgstr "Rutland"
+
+msgctxt "Languages::mobile_app.mobile_rwanda"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgctxt "Languages::mobile_app.mobile_saarland"
+msgid "Saarland"
+msgstr "Sarre"
+
+msgctxt "Languages::mobile_app.mobile_sachsen"
+msgid "Sachsen"
+msgstr "Saxe"
+
+msgctxt "Languages::mobile_app.mobile_sachsen_anhalt"
+msgid "Sachsen-Anhalt"
+msgstr "Saxe-Anhalt"
+
+msgctxt "Languages::mobile_app.mobile_sahalinskaja_oblast"
+msgid "Sahalinskaja oblast'"
+msgstr "Oblast de Sakhaline"
+
+msgctxt "Languages::mobile_app.mobile_saint_lucia"
+msgid "Saint Lucia"
+msgstr "Sainte-Lucie"
+
+msgctxt "Languages::mobile_app.mobile_saint_gall"
+msgid "Saint-Gall"
+msgstr "Saint-Gall"
+
+msgctxt "Languages::mobile_app.mobile_salamanca"
+msgid "Salamanca"
+msgstr "Salamanque"
+
+msgctxt "Languages::mobile_app.mobile_salerno"
+msgid "Salerno"
+msgstr "Salerne"
+
+msgctxt "Languages::mobile_app.mobile_samarskaja_oblast"
+msgid "Samarskaja oblast'"
+msgstr "Oblast de Samara"
+
+msgctxt "Languages::mobile_app.mobile_samoa"
+msgid "Samoa"
+msgstr "Samoa"
+
+msgctxt "Languages::mobile_app.mobile_san_marino"
+msgid "San Marino"
+msgstr "Saint Marin"
+
+msgctxt "Languages::mobile_app.mobile_sankt_peterburg"
+msgid "Sankt-Peterburg"
+msgstr "Saint-Pétersbourg"
+
+msgctxt "Languages::mobile_app.mobile_santa_cruz_de_tenerife"
+msgid "Santa Cruz de Tenerife"
+msgstr "Santa Cruz de Ténérife"
+
+msgctxt "Languages::mobile_app.mobile_sao_tome_and_principe"
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé-et-Principe"
+
+msgctxt "Languages::mobile_app.mobile_saratovskaja_oblast"
+msgid "Saratovskaja oblast'"
+msgstr "Oblast de Saratov"
+
+msgctxt "Languages::mobile_app.mobile_sarthe"
+msgid "Sarthe"
+msgstr "Sarthe"
+
+msgctxt "Languages::mobile_app.mobile_saskatchewan"
+msgid "Saskatchewan"
+msgstr "Saskatchewan"
+
+msgctxt "Languages::mobile_app.mobile_sassari"
+msgid "Sassari"
+msgstr "Sassari"
+
+msgctxt "Languages::mobile_app.mobile_saudi_arabia"
+msgid "Saudi Arabia"
+msgstr "Arabie saoudite"
+
+msgctxt "Languages::mobile_app.mobile_save"
+msgid "Save"
+msgstr "Sauver"
+
+msgctxt "Languages::mobile_app.mobile_savoie"
+msgid "Savoie"
+msgstr "Savoie"
+
+msgctxt "Languages::mobile_app.mobile_savona"
+msgid "Savona"
+msgstr "Savone"
+
+msgctxt "Languages::mobile_app.mobile_saone_et_loire"
+msgid "Saône-et-Loire"
+msgstr "Saône-et-Loire"
+
+msgctxt "Languages::mobile_app.mobile_schaffhouse"
+msgid "Schaffhouse"
+msgstr "Schaffhouse"
+
+msgctxt "Languages::mobile_app.mobile_schleswig_holstein"
+msgid "Schleswig-Holstein"
+msgstr "Schleswig-Holstein"
+
+msgctxt "Languages::mobile_app.mobile_schwytz"
+msgid "Schwytz"
+msgstr "Schwytz"
+
+msgctxt "Languages::mobile_app.mobile_scottish_borders"
+msgid "Scottish Borders"
+msgstr "Scottish Borders"
+
+msgctxt "Languages::mobile_app.mobile_segovia"
+msgid "Segovia"
+msgstr "Ségovie"
+
+msgctxt "Languages::mobile_app.mobile_seine_maritime"
+msgid "Seine-Maritime"
+msgstr "Seine-Maritime"
+
+msgctxt "Languages::mobile_app.mobile_seine_saint_denis"
+msgid "Seine-Saint-Denis"
+msgstr "Seine-Saint-Denis"
+
+msgctxt "Languages::mobile_app.mobile_seine_et_marne"
+msgid "Seine-et-Marne"
+msgstr "Seine-et-Marne"
+
+msgctxt "Languages::mobile_app.mobile_selkirkshire"
+msgid "Selkirkshire"
+msgstr "Selkirkshire"
+
+msgctxt "Languages::mobile_app.mobile_seller"
+msgid "Seller"
+msgstr "Vendeur"
+
+msgctxt "Languages::mobile_app.mobile_sellers"
+msgid "Sellers"
+msgstr "Vendeurs"
+
+msgctxt "Languages::mobile_app.mobile_senegal"
+msgid "Senegal"
+msgstr "Sénégal"
+
+msgctxt "Languages::mobile_app.mobile_serbia"
+msgid "Serbia"
+msgstr "Serbie"
+
+msgctxt "Languages::mobile_app.mobile_sevilla"
+msgid "Sevilla"
+msgstr "Séville"
+
+msgctxt "Languages::mobile_app.mobile_seychelles"
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgctxt "Languages::mobile_app.mobile_shetland_islands"
+msgid "Shetland Islands"
+msgstr "Îles Shetland"
+
+msgctxt "Languages::mobile_app.mobile_shropshire"
+msgid "Shropshire"
+msgstr "Shropshire"
+
+msgctxt "Languages::mobile_app.mobile_siena"
+msgid "Siena"
+msgstr "Sienne"
+
+msgctxt "Languages::mobile_app.mobile_sierra_leone"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgctxt "Languages::mobile_app.mobile_singapore"
+msgid "Singapore"
+msgstr "Singapour"
+
+msgctxt "Languages::mobile_app.mobile_sint_maarten"
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+msgctxt "Languages::mobile_app.mobile_siracusa"
+msgid "Siracusa"
+msgstr "Syracuse"
+
+msgctxt "Languages::mobile_app.mobile_slovakia"
+msgid "Slovakia"
+msgstr "Slovaquie"
+
+msgctxt "Languages::mobile_app.mobile_slovenia"
+msgid "Slovenia"
+msgstr "Slovénie"
+
+msgctxt "Languages::mobile_app.mobile_smolenskaja_oblast"
+msgid "Smolenskaja oblast'"
+msgstr "Oblast de Smolensk"
+
+msgctxt "Languages::mobile_app.mobile_sofia"
+msgid "Sofia"
+msgstr "Sofia"
+
+msgctxt "Languages::mobile_app.mobile_soleure"
+msgid "Soleure"
+msgstr "Soleure"
+
+msgctxt "Languages::mobile_app.mobile_solomon_islands"
+msgid "Solomon Islands"
+msgstr "Îles Salomon"
+
+msgctxt "Languages::mobile_app.mobile_somalia"
+msgid "Somalia"
+msgstr "Somalie"
+
+msgctxt "Languages::mobile_app.mobile_somerset"
+msgid "Somerset"
+msgstr "Somerset"
+
+msgctxt "Languages::mobile_app.mobile_somme"
+msgid "Somme"
+msgstr "Somme"
+
+msgctxt "Languages::mobile_app.mobile_sondrio"
+msgid "Sondrio"
+msgstr "Sondrio"
+
+msgctxt "Languages::mobile_app.mobile_soria"
+msgid "Soria"
+msgstr "Soria"
+
+msgctxt "Languages::mobile_app.mobile_we_have_no_shipping_options_available_for_your_location"
+msgid "Sorry, it seems that we have no shipping options available for your location.Please check your shipping address and contact us if everything is okay. We'll see what we can do about it."
+msgstr "Désolé, il semble que nous n'avions aucune option d'expédition disponible pour votre emplacement.Veuillez consulter votre adresse de livraison et contactez-nous si tout va bien. Nous verrons ce que nous pouvons faire à ce sujet."
+
+msgctxt "Languages::mobile_app.mobile_please_sign_in_to_buy"
+msgid "Please sign in to buy"
+msgstr "Veuillez vous connecter pour acheter"
+
+msgctxt "Languages::mobile_app.mobile_store_closed_for_maintenance"
+msgid "Sorry, the store is temporarily closed for maintenance."
+msgstr "Désolé, le magasin est temporairement fermé pour maintenance."
+
+msgctxt "Languages::mobile_app.mobile_sorting_a_to_z"
+msgid "Sorting: A to Z"
+msgstr "Tri: A à Z"
+
+msgctxt "Languages::mobile_app.mobile_sorting_highest_prices_first"
+msgid "Sorting: Highest prices first"
+msgstr "Tri: Prix les plus élevés d'abord"
+
+msgctxt "Languages::mobile_app.mobile_sorting_lowest_prices_first"
+msgid "Sorting: Lowest prices first"
+msgstr "Tri: Prix les plus bas d'abord"
+
+msgctxt "Languages::mobile_app.mobile_sorting_most_popular_first"
+msgid "Sorting: Most popular first"
+msgstr "Tri: Le plus populaire en premier"
+
+msgctxt "Languages::mobile_app.mobile_sorting_newest_items_first"
+msgid "Sorting: Newest items first"
+msgstr "Tri: Les nouveautés en premier"
+
+msgctxt "Languages::mobile_app.mobile_sorting_z_to_a"
+msgid "Sorting: Z to A"
+msgstr "Tri: Z à A"
+
+msgctxt "Languages::mobile_app.mobile_south_africa"
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+msgctxt "Languages::mobile_app.mobile_south_australia"
+msgid "South Australia"
+msgstr "Australie-Méridionale"
+
+msgctxt "Languages::mobile_app.mobile_south_ayrshire"
+msgid "South Ayrshire"
+msgstr "South Ayrshire"
+
+msgctxt "Languages::mobile_app.mobile_south_carolina"
+msgid "South Carolina"
+msgstr "Caroline du Sud"
+
+msgctxt "Languages::mobile_app.mobile_south_dakota"
+msgid "South Dakota"
+msgstr "Dakota du Sud"
+
+msgctxt "Languages::mobile_app.mobile_south_lanarkshire"
+msgid "South Lanarkshire"
+msgstr "South Lanarkshire"
+
+msgctxt "Languages::mobile_app.mobile_south_yorkshire"
+msgid "South Yorkshire"
+msgstr "Yorkshire du Sud"
+
+msgctxt "Languages::mobile_app.mobile_spain"
+msgid "Spain"
+msgstr "Espagne"
+
+msgctxt "Languages::mobile_app.mobile_sri_lanka"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgctxt "Languages::mobile_app.mobile_st._helena"
+msgid "St. Helena"
+msgstr "Sainte-Hélène"
+
+msgctxt "Languages::mobile_app.mobile_store_closed"
+msgid "Store closed"
+msgstr "Magasin fermé"
+
+msgctxt "Languages::mobile_app.mobile_st._kitts_and_nevis"
+msgid "St. Kitts and Nevis"
+msgstr "Saint-Kitts-et-Nevis"
+
+msgctxt "Languages::mobile_app.mobile_st._pierre_and_miquelon"
+msgid "St. Pierre and Miquelon"
+msgstr "Saint-Pierre-et-Miquelon"
+
+msgctxt "Languages::mobile_app.mobile_st._vincent_and_the_grenadines"
+msgid "St. Vincent and the Grenadines"
+msgstr "Saint-Vincent et les Grenadines"
+
+msgctxt "Languages::mobile_app.mobile_staffordshire"
+msgid "Staffordshire"
+msgstr "Staffordshire"
+
+msgctxt "Languages::mobile_app.mobile_state"
+msgid "State"
+msgstr "État"
+
+msgctxt "Languages::mobile_app.mobile_stavropolskij_kraj"
+msgid "Stavropol'skij kraj"
+msgstr "Kraï de Stavropol"
+
+msgctxt "Languages::mobile_app.mobile_stirling"
+msgid "Stirling"
+msgstr "Stirling"
+
+msgctxt "Languages::mobile_app.mobile_stirlingshire"
+msgid "Stirlingshire"
+msgstr "Comté de Stirling"
+
+msgctxt "Languages::mobile_app.mobile_sudan"
+msgid "Sudan"
+msgstr "Soudan"
+
+msgctxt "Languages::mobile_app.mobile_suffolk"
+msgid "Suffolk"
+msgstr "Suffolk"
+
+msgctxt "Languages::mobile_app.mobile_suriname"
+msgid "Suriname"
+msgstr "Suriname"
+
+msgctxt "Languages::mobile_app.mobile_surrey"
+msgid "Surrey"
+msgstr "Surrey"
+
+msgctxt "Languages::mobile_app.mobile_sutherland"
+msgid "Sutherland"
+msgstr "Sutherland"
+
+msgctxt "Languages::mobile_app.mobile_svalbard_and_jan_mayen_islands"
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Svalbard et Jan Mayen"
+
+msgctxt "Languages::mobile_app.mobile_sverdlovskaja_oblast"
+msgid "Sverdlovskaja oblast'"
+msgstr "Oblast de Sverdlovsk"
+
+msgctxt "Languages::mobile_app.mobile_swansea"
+msgid "Swansea"
+msgstr "Swansea"
+
+msgctxt "Languages::mobile_app.mobile_swaziland"
+msgid "Swaziland"
+msgstr "Eswatini"
+
+msgctxt "Languages::mobile_app.mobile_sweden"
+msgid "Sweden"
+msgstr "Suède"
+
+msgctxt "Languages::mobile_app.mobile_switzerland"
+msgid "Switzerland"
+msgstr "Suisse"
+
+msgctxt "Languages::mobile_app.mobile_syrian_arab_republic"
+msgid "Syrian Arab Republic"
+msgstr "République arabe syrienne"
+
+msgctxt "Languages::mobile_app.mobile_taiwan"
+msgid "Taiwan"
+msgstr "Taïwan"
+
+msgctxt "Languages::mobile_app.mobile_tajikistan"
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+msgctxt "Languages::mobile_app.mobile_tambovskaja_oblast"
+msgid "Tambovskaja oblast'"
+msgstr "Oblast de Tambov"
+
+msgctxt "Languages::mobile_app.mobile_tanzania_united_republic_of"
+msgid "Tanzania, United Republic of"
+msgstr "Tanzanie"
+
+msgctxt "Languages::mobile_app.mobile_taranto"
+msgid "Taranto"
+msgstr "Tarente"
+
+msgctxt "Languages::mobile_app.mobile_tarn"
+msgid "Tarn"
+msgstr "Tarn"
+
+msgctxt "Languages::mobile_app.mobile_tarn_et_garonne"
+msgid "Tarn-et-Garonne"
+msgstr "Tarn-et-Garonne"
+
+msgctxt "Languages::mobile_app.mobile_tarragona"
+msgid "Tarragona"
+msgstr "Tarragone"
+
+msgctxt "Languages::mobile_app.mobile_tasmania"
+msgid "Tasmania"
+msgstr "Tasmanie"
+
+msgctxt "Languages::mobile_app.mobile_tennessee"
+msgid "Tennessee"
+msgstr "Tennessee"
+
+msgctxt "Languages::mobile_app.mobile_teramo"
+msgid "Teramo"
+msgstr "Teramo"
+
+msgctxt "Languages::mobile_app.mobile_terni"
+msgid "Terni"
+msgstr "Terni"
+
+msgctxt "Languages::mobile_app.mobile_territoire_de_belfort"
+msgid "Territoire de Belfort"
+msgstr "Territoire de Belfort"
+
+msgctxt "Languages::mobile_app.mobile_teruel"
+msgid "Teruel"
+msgstr "Teruel"
+
+msgctxt "Languages::mobile_app.mobile_tessin"
+msgid "Tessin"
+msgstr "Tessin"
+
+msgctxt "Languages::mobile_app.mobile_texas"
+msgid "Texas"
+msgstr "Texas"
+
+msgctxt "Languages::mobile_app.mobile_thailand"
+msgid "Thailand"
+msgstr "Thaïlande"
+
+msgctxt "Languages::mobile_app.mobile_thurgovie"
+msgid "Thurgovie"
+msgstr "Thurgovie"
+
+msgctxt "Languages::mobile_app.mobile_thuringen"
+msgid "Thüringen"
+msgstr "Thuringe"
+
+msgctxt "Languages::mobile_app.mobile_tjumenskaja_oblast"
+msgid "Tjumenskaja oblast'"
+msgstr "Oblast de Tioumen"
+
+msgctxt "Languages::mobile_app.mobile_togo"
+msgid "Togo"
+msgstr "Togo"
+
+msgctxt "Languages::mobile_app.mobile_tokelau"
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgctxt "Languages::mobile_app.mobile_toledo"
+msgid "Toledo"
+msgstr "Tolède"
+
+msgctxt "Languages::mobile_app.mobile_tomskaja_oblast"
+msgid "Tomskaja oblast'"
+msgstr "Oblast de Tomsk"
+
+msgctxt "Languages::mobile_app.mobile_tonga"
+msgid "Tonga"
+msgstr "Tonga"
+
+msgctxt "Languages::mobile_app.mobile_torfaen"
+msgid "Torfaen"
+msgstr "Torfaen"
+
+msgctxt "Languages::mobile_app.mobile_torino"
+msgid "Torino"
+msgstr "Turin"
+
+msgctxt "Languages::mobile_app.mobile_total"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "Languages::mobile_app.mobile_trapani"
+msgid "Trapani"
+msgstr "Trapani"
+
+msgctxt "Languages::mobile_app.mobile_trento"
+msgid "Trento"
+msgstr "Trente"
+
+msgctxt "Languages::mobile_app.mobile_treviso"
+msgid "Treviso"
+msgstr "Trévise"
+
+msgctxt "Languages::mobile_app.mobile_trieste"
+msgid "Trieste"
+msgstr "Trieste"
+
+msgctxt "Languages::mobile_app.mobile_trinidad_and_tobago"
+msgid "Trinidad and Tobago"
+msgstr "Trinité-et-Tobago"
+
+msgctxt "Languages::mobile_app.mobile_tulskaja_oblast"
+msgid "Tul'skaja oblast'"
+msgstr "Oblast de Toula"
+
+msgctxt "Languages::mobile_app.mobile_tunisia"
+msgid "Tunisia"
+msgstr "Tunisie"
+
+msgctxt "Languages::mobile_app.mobile_turkey"
+msgid "Turkey"
+msgstr "Turquie"
+
+msgctxt "Languages::mobile_app.mobile_turkmenistan"
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+msgctxt "Languages::mobile_app.mobile_turks_and_caicos_islands"
+msgid "Turks and Caicos Islands"
+msgstr "Îles Turques-et-Caïques"
+
+msgctxt "Languages::mobile_app.mobile_tuvalu"
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgctxt "Languages::mobile_app.mobile_tverskaja_oblast"
+msgid "Tverskaja oblast'"
+msgstr "Oblast de Tver"
+
+msgctxt "Languages::mobile_app.mobile_tyne_and_wear"
+msgid "Tyne and Wear"
+msgstr "Tyne and Wear"
+
+msgctxt "Languages::mobile_app.mobile_udine"
+msgid "Udine"
+msgstr "Udine"
+
+msgctxt "Languages::mobile_app.mobile_udmurtskaja_respublika"
+msgid "Udmurtskaja Respublika"
+msgstr "République d'Oudmourtie"
+
+msgctxt "Languages::mobile_app.mobile_uganda"
+msgid "Uganda"
+msgstr "Uganda"
+
+msgctxt "Languages::mobile_app.mobile_ukraine"
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgctxt "Languages::mobile_app.mobile_uljanovskaja_oblast"
+msgid "Ul'janovskaja oblast'"
+msgstr "Oblast d'Oulianovsk"
+
+msgctxt "Languages::mobile_app.mobile_united_arab_emirates"
+msgid "United Arab Emirates"
+msgstr "Émirats arabes unis"
+
+msgctxt "Languages::mobile_app.mobile_united_kingdom_great_britain"
+msgid "United Kingdom (Great Britain)"
+msgstr "Royaume-Uni"
+
+msgctxt "Languages::mobile_app.mobile_united_states_virgin_islands"
+msgid "United States Virgin Islands"
+msgstr "Îles Vierges des États-Unis"
+
+msgctxt "Languages::mobile_app.mobile_united_states"
+msgid "United States"
+msgstr "États-Unis"
+
+msgctxt "Languages::mobile_app.mobile_uri"
+msgid "Uri"
+msgstr "Uri"
+
+msgctxt "Languages::mobile_app.mobile_uruguay"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgctxt "Languages::mobile_app.mobile_utah"
+msgid "Utah"
+msgstr "Utah"
+
+msgctxt "Languages::mobile_app.mobile_utrecht"
+msgid "Utrecht"
+msgstr "Utrecht"
+
+msgctxt "Languages::mobile_app.mobile_uzbekistan"
+msgid "Uzbekistan"
+msgstr "Ouzbékistan"
+
+msgctxt "Languages::mobile_app.mobile_val_doise"
+msgid "Val-d'Oise"
+msgstr "Val-d'Oise"
+
+msgctxt "Languages::mobile_app.mobile_val_de_marne"
+msgid "Val-de-Marne"
+msgstr "Val-de-Marne"
+
+msgctxt "Languages::mobile_app.mobile_valais"
+msgid "Valais"
+msgstr "Valais"
+
+msgctxt "Languages::mobile_app.mobile_vale_of_glamorgan"
+msgid "Vale of Glamorgan"
+msgstr "Vale of Glamorgan"
+
+msgctxt "Languages::mobile_app.mobile_valencia"
+msgid "Valencia"
+msgstr "Valence"
+
+msgctxt "Languages::mobile_app.mobile_valladolid"
+msgid "Valladolid"
+msgstr "Valladolid"
+
+msgctxt "Languages::mobile_app.mobile_vanuatu"
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgctxt "Languages::mobile_app.mobile_var"
+msgid "Var"
+msgstr "Var"
+
+msgctxt "Languages::mobile_app.mobile_varese"
+msgid "Varese"
+msgstr "Varèse"
+
+msgctxt "Languages::mobile_app.mobile_vatican_city_state"
+msgid "Vatican City State"
+msgstr "Vatican"
+
+msgctxt "Languages::mobile_app.mobile_vaucluse"
+msgid "Vaucluse"
+msgstr "Vaucluse"
+
+msgctxt "Languages::mobile_app.mobile_vaud"
+msgid "Vaud"
+msgstr "Vaud"
+
+msgctxt "Languages::mobile_app.mobile_vendee"
+msgid "Vendée"
+msgstr "Vendée"
+
+msgctxt "Languages::mobile_app.mobile_venezia"
+msgid "Venezia"
+msgstr "Venise"
+
+msgctxt "Languages::mobile_app.mobile_venezuela"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "Languages::mobile_app.mobile_verbano_cusio_ossola"
+msgid "Verbano-Cusio-Ossola"
+msgstr "Verbano-Cusio-Ossola"
+
+msgctxt "Languages::mobile_app.mobile_vercelli"
+msgid "Vercelli"
+msgstr "Verceil"
+
+msgctxt "Languages::mobile_app.mobile_vermont"
+msgid "Vermont"
+msgstr "Vermont"
+
+msgctxt "Languages::mobile_app.mobile_verona"
+msgid "Verona"
+msgstr "Vérone"
+
+msgctxt "Languages::mobile_app.mobile_vibo_valentia"
+msgid "Vibo Valentia"
+msgstr "Vibo Valentia"
+
+msgctxt "Languages::mobile_app.mobile_vicenza"
+msgid "Vicenza"
+msgstr "Vicence"
+
+msgctxt "Languages::mobile_app.mobile_victoria"
+msgid "Victoria"
+msgstr "Victoria"
+
+msgctxt "Languages::mobile_app.mobile_vienne"
+msgid "Vienne"
+msgstr "Vienne"
+
+msgctxt "Languages::mobile_app.mobile_viet_nam"
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+msgctxt "Languages::mobile_app.mobile_virgin_islands"
+msgid "Virgin Islands"
+msgstr "Îles Vierges"
+
+msgctxt "Languages::mobile_app.mobile_virginia"
+msgid "Virginia"
+msgstr "Virginie"
+
+msgctxt "Languages::mobile_app.mobile_viterbo"
+msgid "Viterbo"
+msgstr "Viterbe"
+
+msgctxt "Languages::mobile_app.mobile_vizcaya"
+msgid "Vizcaya"
+msgstr "Biscaye"
+
+msgctxt "Languages::mobile_app.mobile_vladimirskaja_oblast"
+msgid "Vladimirskaja oblast'"
+msgstr "Oblast de Vladimir"
+
+msgctxt "Languages::mobile_app.mobile_volgogradskaja_oblast"
+msgid "Volgogradskaja oblast'"
+msgstr "Oblast de Volgograd"
+
+msgctxt "Languages::mobile_app.mobile_vologodskaja_oblast"
+msgid "Vologodskaja oblast'"
+msgstr "Oblast de Vologda"
+
+msgctxt "Languages::mobile_app.mobile_voronezhskaja_oblast"
+msgid "Voronezhskaja oblast'"
+msgstr "Oblast de Voronej"
+
+msgctxt "Languages::mobile_app.mobile_vosges"
+msgid "Vosges"
+msgstr "Vosges"
+
+msgctxt "Languages::mobile_app.mobile_wallis_and_futuna_islands"
+msgid "Wallis And Futuna Islands"
+msgstr "Territoire des îles Wallis et Futuna"
+
+msgctxt "Languages::mobile_app.mobile_warwickshire"
+msgid "Warwickshire"
+msgstr "Warwickshire"
+
+msgctxt "Languages::mobile_app.mobile_washington"
+msgid "Washington"
+msgstr "Washington"
+
+msgctxt "Languages::mobile_app.mobile_west_dunbartonshire"
+msgid "West Dunbartonshire"
+msgstr "West Dunbartonshire"
+
+msgctxt "Languages::mobile_app.mobile_west_lothian"
+msgid "West Lothian"
+msgstr "West Lothian"
+
+msgctxt "Languages::mobile_app.mobile_west_midlands"
+msgid "West Midlands"
+msgstr "Midlands de l'Ouest"
+
+msgctxt "Languages::mobile_app.mobile_west_sussex"
+msgid "West Sussex"
+msgstr "Sussex de l'Ouest"
+
+msgctxt "Languages::mobile_app.mobile_west_virginia"
+msgid "West Virginia"
+msgstr "Virginie-Occidentale"
+
+msgctxt "Languages::mobile_app.mobile_west_yorkshire"
+msgid "West Yorkshire"
+msgstr "Yorkshire de l'Ouest"
+
+msgctxt "Languages::mobile_app.mobile_western_australia"
+msgid "Western Australia"
+msgstr "Australie-Occidentale"
+
+msgctxt "Languages::mobile_app.mobile_western_isles"
+msgid "Western Isles"
+msgstr "Hébrides extérieures"
+
+msgctxt "Languages::mobile_app.mobile_western_sahara"
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+msgctxt "Languages::mobile_app.mobile_wigtownshire"
+msgid "Wigtownshire"
+msgstr "Comté de Wigtown"
+
+msgctxt "Languages::mobile_app.mobile_wiltshire"
+msgid "Wiltshire"
+msgstr "Wiltshire"
+
+msgctxt "Languages::mobile_app.mobile_wisconsin"
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgctxt "Languages::mobile_app.mobile_worcestershire"
+msgid "Worcestershire"
+msgstr "Worcestershire"
+
+msgctxt "Languages::mobile_app.mobile_wrexham"
+msgid "Wrexham"
+msgstr "Wrexham"
+
+msgctxt "Languages::mobile_app.mobile_wyoming"
+msgid "Wyoming"
+msgstr "Wyoming"
+
+msgctxt "Languages::mobile_app.mobile_yemen"
+msgid "Yemen"
+msgstr "Yémen"
+
+msgctxt "Languages::mobile_app.mobile_yonne"
+msgid "Yonne"
+msgstr "Yonne"
+
+msgctxt "Languages::mobile_app.mobile_yorkshire"
+msgid "Yorkshire"
+msgstr "Yorkshire"
+
+msgctxt "Languages::mobile_app.mobile_yukon"
+msgid "Yukon"
+msgstr "Yukon"
+
+msgctxt "Languages::mobile_app.mobile_yvelines"
+msgid "Yvelines"
+msgstr "Yvelines"
+
+msgctxt "Languages::mobile_app.mobile_zabaykalskiy_kraj"
+msgid "Zabaykal'skiy kraj"
+msgstr "Kraï de Transbaïkalie"
+
+msgctxt "Languages::mobile_app.mobile_zaire"
+msgid "Zaire"
+msgstr "Zaïre"
+
+msgctxt "Languages::mobile_app.mobile_zambia"
+msgid "Zambia"
+msgstr "Zambie"
+
+msgctxt "Languages::mobile_app.mobile_zamora"
+msgid "Zamora"
+msgstr "Zamora"
+
+msgctxt "Languages::mobile_app.mobile_zaragoza"
+msgid "Zaragoza"
+msgstr "Saragosse"
+
+msgctxt "Languages::mobile_app.mobile_zeeland"
+msgid "Zeeland"
+msgstr "Zélande"
+
+msgctxt "Languages::mobile_app.mobile_zimbabwe"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgctxt "Languages::mobile_app.mobile_zoug"
+msgid "Zoug"
+msgstr "Zoug"
+
+msgctxt "Languages::mobile_app.mobile_zuid_holland"
+msgid "Zuid Holland"
+msgstr "Hollande-Méridionale"
+
+msgctxt "Languages::mobile_app.mobile_zurich"
+msgid "Zurich"
+msgstr "Zurich"
+
+msgctxt "Languages::mobile_app.mobile_alava"
+msgid "Álava"
+msgstr "Alava"
+
+msgctxt "Languages::mobile_app.mobile_avila"
+msgid "Ávila"
+msgstr "Ávila"
+
+msgctxt "Languages::mobile_app.mobile_address"
+msgid "Address"
+msgstr "Adresse"
+
+msgctxt "Languages::mobile_app.mobile_address_2"
+msgid "Address 2"
+msgstr "Adresse 2"
+
+msgctxt "Languages::mobile_app.mobile_add_to_cart"
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+msgctxt "Languages::mobile_app.mobile_auth"
+msgid "Auth"
+msgstr "Auth"
+
+msgctxt "Languages::mobile_app.mobile_authentication"
+msgid "Authentication"
+msgstr "Authentification"
+
+msgctxt "Languages::mobile_app.mobile_bank_routing_number"
+msgid "Bank routing number"
+msgstr "Numéro de routage de la banque"
+
+msgctxt "Languages::mobile_app.mobile_billing_address"
+msgid "Billing address"
+msgstr "Adresse de facturation"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+msgctxt "Languages::mobile_app.mobile_cant_handle_url"
+msgid "Can't handle url"
+msgstr "Ne peut pas gérer d'URL"
+
+msgctxt "Languages::mobile_app.mobile_cardholders_name"
+msgid "Cardholder's name"
+msgstr "Nom du porteur"
+
+msgctxt "Languages::mobile_app.mobile_card_number"
+msgid "Card Number"
+msgstr "Numéro de carte"
+
+msgctxt "Languages::mobile_app.mobile_categories"
+msgid "Categories"
+msgstr "Catégories"
+
+msgctxt "Languages::mobile_app.mobile_change_address"
+msgid "Change address"
+msgstr "Changer l'adresse"
+
+msgctxt "Languages::mobile_app.mobile_checking_account_number"
+msgid "Checking account number"
+msgstr "Vérification du numéro de compte"
+
+msgctxt "Languages::mobile_app.mobile_checkout_complete"
+msgid "Checkout complete"
+msgstr "Vérification complète"
+
+msgctxt "Languages::mobile_app.mobile_comment"
+msgid "Comment"
+msgstr "Commenter"
+
+msgctxt "Languages::mobile_app.mobile_comments_reviews"
+msgid "Comments & Reviews"
+msgstr "Commentaire et avis"
+
+msgctxt "Languages::mobile_app.mobile_vendors"
+msgid "Vendors"
+msgstr "Vendeurs"
+
+msgctxt "Languages::mobile_app.mobile_clear_all_cart"
+msgid "Clear all cart ?"
+msgstr "Vider le panier ?"
+
+msgctxt "Languages::mobile_app.mobile_clear_all_filter"
+msgid "Clear all"
+msgstr "Tout effacer"
+
+msgctxt "Languages::mobile_app.mobile_clear_wish_list"
+msgid "Clear wish list?"
+msgstr "Effacer liste de souhaits?"
+
+msgctxt "Languages::mobile_app.mobile_congratulations"
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+msgctxt "Languages::mobile_app.mobile_contact_information"
+msgid "Contact Information"
+msgstr "Coordonnées"
+
+msgctxt "Languages::mobile_app.mobile_customers_signature"
+msgid "Customer's signature"
+msgstr "Signature du client"
+
+msgctxt "Languages::mobile_app.mobile_cvv_cvc"
+msgid "CVV/CVC"
+msgstr "CVV/CVC"
+
+msgctxt "Languages::mobile_app.mobile_delete"
+msgid "Delete"
+msgstr "Supprimer"
+
+msgctxt "Languages::mobile_app.mobile_delete_account"
+msgid "Delete account"
+msgstr "Supprimer le compte"
+
+msgctxt "Languages::mobile_app.mobile_delivery"
+msgid "Delivery"
+msgstr "Livraison"
+
+msgctxt "Languages::mobile_app.mobile_reviews"
+msgid "Reviews"
+msgstr "Commentaires"
+
+msgctxt "Languages::mobile_app.mobile_email"
+msgid "Email"
+msgstr "E-mail"
+
+msgctxt "Languages::mobile_app.mobile_you_can_leave_us_a_comment_here"
+msgid "You can leave us a comment here."
+msgstr "Vous pouvez nous laisser un commentaire ici."
+
+msgctxt "Languages::mobile_app.mobile_your_changes_have_been_saved"
+msgid "Your changes have been saved."
+msgstr "Vos changements ont été enregistrés."
+
+msgctxt "Languages::mobile_app.mobile_your_request_has_been_sent"
+msgid "Your request has been sent successfully."
+msgstr "Votre demande a été envoyée avec succès."
+
+msgctxt "Languages::mobile_app.mobile_your_wish_lists_will_love_here"
+msgid "Your Wish Lists will love here."
+msgstr "Vos listes de souhaits adoreront être ici."
+
+msgctxt "Languages::mobile_app.mobile_error"
+msgid "Error"
+msgstr "Erreur"
+
+msgctxt "Languages::mobile_app.mobile_something_went_wrong_please_try_again_later"
+msgid "Something went wrong. Please try again later."
+msgstr "Une erreur est survenue. Veuillez réessayer ultérieurement."
+
+msgctxt "Languages::mobile_app.mobile_please_fill_required_fields"
+msgid "Please fill in the required fields."
+msgstr "S'il vous plaît remplissez tous les champs obligatoires."
+
+msgctxt "Languages::mobile_app.mobile_fax"
+msgid "Fax"
+msgstr "Fax"
+
+msgctxt "Languages::mobile_app.mobile_features"
+msgid "Features"
+msgstr "Caractéristiques"
+
+msgctxt "Languages::mobile_app.mobile_go_to_store"
+msgid "Go To Store"
+msgstr "Aller au magasin"
+
+msgctxt "Languages::mobile_app.mobile_home"
+msgid "Home"
+msgstr "Accueil"
+
+msgctxt "Languages::mobile_app.mobile_information"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "Languages::mobile_app.mobile_items"
+msgid "{{count}} item(s)"
+msgstr "{{count}} élément(s)"
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty"
+msgstr "La liste est vide"
+
+msgctxt "Languages::mobile_app.mobile_login"
+msgid "Login"
+msgstr "Connexion"
+
+msgctxt "Languages::mobile_app.mobile_logout"
+msgid "Logout"
+msgstr "Se déconnecter"
+
+msgctxt "Languages::mobile_app.mobile_looking_for_ideas"
+msgid "Looking for ideas?"
+msgstr "Vous cherchez des idées ?"
+
+msgctxt "Languages::mobile_app.mobile_my_profile"
+msgid "My Profile"
+msgstr "Mon profil"
+
+msgctxt "Languages::mobile_app.mobile_next"
+msgid "Next"
+msgstr "Suivant"
+
+msgctxt "Languages::mobile_app.mobile_notice"
+msgid "Notice"
+msgstr "Remarque"
+
+msgctxt "Languages::mobile_app.mobile_no_posts_found"
+msgid "No posts found"
+msgstr "Aucun post trouvé"
+
+msgctxt "Languages::mobile_app.mobile_reviews_quantity"
+msgid "{{count}} reviews"
+msgstr "{{count}} avis"
+
+msgctxt "Languages::mobile_app.mobile_products_found"
+msgid "Products found: {{count}}"
+msgstr "Produits trouvés: {{count}}"
+
+msgctxt "Languages::mobile_app.mobile_ok"
+msgid "Ok"
+msgstr "Ok"
+
+msgctxt "Languages::mobile_app.mobile_order"
+msgid "Order"
+msgstr "Commande"
+
+msgctxt "Languages::mobile_app.mobile_payment_method"
+msgid "Payment method"
+msgstr "Méthode de paiement"
+
+msgctxt "Languages::mobile_app.mobile_placed_on"
+msgid "Placed on"
+msgstr "Placé sur"
+
+msgctxt "Languages::mobile_app.mobile_place_order"
+msgid "Place order"
+msgstr "Passer commande"
+
+msgctxt "Languages::mobile_app.mobile_products"
+msgid "Products"
+msgstr "Produits"
+
+msgctxt "Languages::mobile_app.mobile_products_information"
+msgid "Products information"
+msgstr "Information produits"
+
+msgctxt "Languages::mobile_app.mobile_code_has_been_sent"
+msgid "The confirmation code has been sent to the {{email}}, type it below to log in."
+msgstr "Le code de confirmation a été envoyé sur {{e-mail}}, tapez-le ci-dessous pour vous connecter."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_added_to_your_cart"
+msgid "The product was added to your cart."
+msgstr "Produit ajouté à votre panier."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_added_to_your_wish_list"
+msgid "The product was added to your Wish list."
+msgstr "Produits ajoutés dans votre liste de souhaits."
+
+msgctxt "Languages::mobile_app.mobile_this_product_is_already_in_the_wish_list"
+msgid "This product is already in the wish list."
+msgstr "Ce produit est déjà dans la liste de souhaits."
+
+msgctxt "Languages::mobile_app.mobile_not_reviews_yet"
+msgid "This product has not been reviewed yet."
+msgstr "Ce produit n'a pas encore été noté."
+
+msgctxt "Languages::mobile_app.mobile_profile"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "Languages::mobile_app.mobile_the_rating_field_is_mandatory"
+msgid "The rating field is mandatory."
+msgstr "Il est obligatoire de donner un avis."
+
+msgctxt "Languages::mobile_app.mobile_registration"
+msgid "Registration"
+msgstr "Inscription"
+
+msgctxt "Languages::mobile_app.mobile_registration_complete"
+msgid "Registration complete."
+msgstr "Inscription terminée."
+
+msgctxt "Languages::mobile_app.mobile_reviews_product_details"
+msgid "Reviews ({{count}})"
+msgstr "Avis ({{count}})"
+
+msgctxt "Languages::mobile_app.mobile_search"
+msgid "Search"
+msgstr "Rechercher"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "Envoyer avis"
+
+msgctxt "Languages::mobile_app.mobile_share_product"
+msgid "Share product"
+msgstr "Partager le produit"
+
+msgctxt "Languages::mobile_app.mobile_shipping"
+msgid "Shipping"
+msgstr "Expédition"
+
+msgctxt "Languages::mobile_app.mobile_shipping_address"
+msgid "Shipping address"
+msgstr "Adresse de livraison"
+
+msgctxt "Languages::mobile_app.mobile_shipping_cost"
+msgid "Shipping cost"
+msgstr "Frais de port"
+
+msgctxt "Languages::mobile_app.mobile_shipping_method"
+msgid "Shipping method"
+msgstr "Mode de livraison"
+
+msgctxt "Languages::mobile_app.mobile_show_all"
+msgid "Show all"
+msgstr "Afficher tout"
+
+msgctxt "Languages::mobile_app.mobile_sign_in"
+msgid "Sign in"
+msgstr "S'identifier"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_as_a_different_user"
+msgid "Sign in as a different user"
+msgstr "Se connecter en tant qu'autre utilisateur"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "Connectez-vous pour voir le prix"
+
+msgctxt "Languages::mobile_app.mobile_subtotal"
+msgid "Subtotal"
+msgstr "Sous-total"
+
+msgctxt "Languages::mobile_app.mobile_success"
+msgid "Success"
+msgstr "Succès"
+
+msgctxt "Languages::mobile_app.mobile_summary"
+msgid "Summary"
+msgstr "Résumé"
+
+msgctxt "Languages::mobile_app.mobile_your_shopping_cart_is_empty"
+msgid "Your shopping cart is empty."
+msgstr "Votre panier est vide."
+
+msgctxt "Languages::mobile_app.mobile_product_has_zero_inventory_and_cannot_be_added_to_the_cart"
+msgid "Product has zero inventory and cannot be added to the cart."
+msgstr "Le produit a un inventaire nul et ne peut pas être ajouté au panier."
+
+msgctxt "Languages::mobile_app.mobile_your_order_has_been_successfully_placed"
+msgid "Your order has been successfully placed."
+msgstr "Votre commande a bien été transmise."
+
+msgctxt "Languages::mobile_app.mobile_your_post_will_be_checked_before_it_gets_published"
+msgid "Your post will be checked before it gets published."
+msgstr "Votre message sera vérifié avant d'être publié."
+
+msgctxt "Languages::mobile_app.mobile_the_profile_data_has_been_updated_successfully_dot"
+msgid "The profile data has been updated successfully."
+msgstr "Les données de profil ont été mises à jour avec succès."
+
+msgctxt "Languages::mobile_app.mobile_the_profile_data_has_been_updated_successfully"
+msgid "The profile data has been updated successfully"
+msgstr "Les données de profil ont été mises à jour avec succès"
+
+msgctxt "Languages::mobile_app.mobile_thank_you_for_your_post"
+msgid "Thank you for your post."
+msgstr "Merci pour votre message."
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_features"
+msgid "There are no features."
+msgstr "Il n'y a pas de fonctionnalités."
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_mm"
+msgid "Valid thru (mm)"
+msgstr "Valable jusqu'à (mm)"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_yy"
+msgid "Valid thru (yy)"
+msgstr "Valable jusqu'à (yy)"
+
+msgctxt "Languages::mobile_app.mobile_vendor_detail"
+msgid "Vendor Detail"
+msgstr "Détail du vendeur"
+
+msgctxt "Languages::mobile_app.mobile_details"
+msgid "Details"
+msgstr "Détails"
+
+msgctxt "Languages::mobile_app.mobile_vendor"
+msgid "Vendor"
+msgstr "Vendeur"
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor info"
+msgstr "Info du vendeur"
+
+msgctxt "Languages::mobile_app.mobile_vendor_products"
+msgid "Vendor products"
+msgstr "Produits du vendeur"
+
+msgctxt "Languages::mobile_app.mobile_view_all"
+msgid "View All"
+msgstr "Voir tout"
+
+msgctxt "Languages::mobile_app.mobile_view_detail"
+msgid "View Detail"
+msgstr "Voir détails"
+
+msgctxt "Languages::mobile_app.mobile_website"
+msgid "Website"
+msgstr "Site web"
+
+msgctxt "Languages::mobile_app.mobile_wish_list"
+msgid "Wish List"
+msgstr "Liste de souhaits"
+
+msgctxt "Languages::mobile_app.mobile_write_a_review"
+msgid "Write a Review"
+msgstr "Ajouter un avis"
+
+msgctxt "Languages::mobile_app.mobile_admin_reply"
+msgid "Administrator reply"
+msgstr "Réponse de l'administrateur"
+
+msgctxt "Languages::mobile_app.mobile_vendor_reply"
+msgid "Vendor reply"
+msgstr "Réponse du vendeur"
+
+msgctxt "Languages::mobile_app.mobile_wrong_password"
+msgid "Wrong password."
+msgstr "Mot de passe erroné."
+
+msgctxt "Languages::mobile_app.mobile_your_message"
+msgid "Your message"
+msgstr "Votre message"
+
+msgctxt "Languages::mobile_app.mobile_your_name"
+msgid "Your name"
+msgstr "Votre nom"
+
+msgctxt "Languages::mobile_app.mobile_password"
+msgid "Password"
+msgstr "Mot de passe"
+
+msgctxt "Languages::mobile_app.mobile_zip_code"
+msgid "Zip code"
+msgstr "Code postal"
+
+msgctxt "Languages::mobile_app.mobile_add"
+msgid "Add"
+msgstr "Ajouter"
+
+msgctxt "Languages::mobile_app.mobile_advantages"
+msgid "Advantages"
+msgstr "Avantages"
+
+msgctxt "Languages::mobile_app.mobile_including_discount"
+msgid "Including discount"
+msgstr "Remise incluse"
+
+msgctxt "Languages::mobile_app.mobile_including_tax"
+msgid "Including tax"
+msgstr "Taxe incluse"
+
+msgctxt "Languages::mobile_app.mobile_incorrect_code"
+msgid "Incorrect code."
+msgstr "Code incorrect."
+
+msgctxt "Languages::mobile_app.mobile_orders"
+msgid "Orders"
+msgstr "Commandes"
+
+msgctxt "Languages::mobile_app.mobile_order_detail"
+msgid "Order Detail"
+msgstr "Détails de la commande"
+
+msgctxt "Languages::mobile_app.mobile_order_discount"
+msgid "Order discount"
+msgstr "Rabais sur la commande"
+
+msgctxt "Languages::mobile_app.mobile_order_lower"
+msgid "order"
+msgstr "commande"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_products_in_this_section"
+msgid "There are no products in this section"
+msgstr "Il n'y a pas de produits sous cette catégorie"
+
+msgctxt "Languages::mobile_app.mobile_delimiter"
+msgid "|"
+msgstr "|"
+
+msgctxt "Languages::mobile_app.mobile_add_product"
+msgid "Add product"
+msgstr "Ajouter un produit"
+
+msgctxt "Languages::mobile_app.mobile_vendor_orders"
+msgid "Vendor Orders"
+msgstr "Ordres du vendeur"
+
+msgctxt "Languages::mobile_app.mobile_select_country"
+msgid "Select country"
+msgstr "Sélectionner pays"
+
+msgctxt "Languages::mobile_app.mobile_select_date"
+msgid "Select date"
+msgstr "Sélectionner une date"
+
+msgctxt "Languages::mobile_app.mobile_select_feature"
+msgid "Select feature"
+msgstr "Sélectionnez la fonctionnalité"
+
+msgctxt "Languages::mobile_app.mobile_select_features"
+msgid "Select features"
+msgstr "Sélectionnez les fonctionnalités"
+
+msgctxt "Languages::mobile_app.mobile_select_state"
+msgid "Select state"
+msgstr "Sélectionnez l'état"
+
+msgctxt "Languages::mobile_app.mobile_select_product_image"
+msgid "Select product image"
+msgstr "Sélectionner l'image du produit"
+
+msgctxt "Languages::mobile_app.mobile_image"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "Languages::mobile_app.mobile_select_image"
+msgid "Select image"
+msgstr "Sélectionnez une image"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_images"
+msgid "There are no images"
+msgstr "Il n'y a pas d'images"
+
+msgctxt "Languages::mobile_app.mobile_select"
+msgid "Select"
+msgstr "Sélectionner"
+
+msgctxt "Languages::mobile_app.mobile_enter_the_name"
+msgid "Enter the name"
+msgstr "Entrez le nom"
+
+msgctxt "Languages::mobile_app.mobile_try_again"
+msgid "Try again:"
+msgstr "Réessayer:"
+
+msgctxt "Languages::mobile_app.mobile_enter_email_to_get_code"
+msgid "Enter your e-mail, we will send you a code to log into your account."
+msgstr "Entrez votre e-mail, nous vous enverrons un code pour vous connecter à votre compte."
+
+msgctxt "Languages::mobile_app.mobile_name"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "Languages::mobile_app.mobile_description_optional"
+msgid "Description (optional)"
+msgstr "Description (facultatif)"
+
+msgctxt "Languages::mobile_app.mobile_description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "Languages::mobile_app.mobile_enter_the_price"
+msgid "Enter the price"
+msgstr "Entrer le prix"
+
+msgctxt "Languages::mobile_app.mobile_price"
+msgid "Price"
+msgstr "Prix"
+
+msgctxt "Languages::mobile_app.mobile_in_stock"
+msgid "In stock"
+msgstr "En stock"
+
+msgctxt "Languages::mobile_app.mobile_create"
+msgid "Create"
+msgstr "Créer"
+
+msgctxt "Languages::mobile_app.mobile_cant_apply_code"
+msgid "The entered code cannot be applied, because it does not meet the requirements."
+msgstr "Le code entré ne peut pas être appliqué, car il ne répond pas aux exigences."
+
+msgctxt "Languages::mobile_app.mobile_code_does_not_match"
+msgid "The username you have entered does not match any account in our store. Please make sure you have entered the correct username and try again."
+msgstr "Le nom d'utilisateur que vous avez entré ne correspond à aucun compte dans notre magasin. Assurez-vous que vous avez entré le bon nom d'utilisateur et réessayez."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_created"
+msgid "The product was created"
+msgstr "Le produit a été créé"
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_updated"
+msgid "The product was updated"
+msgstr "Le produit a été mis à jour"
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_deleted"
+msgid "The product was deleted"
+msgstr "Le produit a été supprimé"
+
+msgctxt "Languages::mobile_app.mobile_delete_this_product"
+msgid "Delete This Product"
+msgstr "Supprimer ce produit"
+
+msgctxt "Languages::mobile_app.mobile_status"
+msgid "Status"
+msgstr "Statut"
+
+msgctxt "Languages::mobile_app.mobile_active"
+msgid "Active"
+msgstr "Activer"
+
+msgctxt "Languages::mobile_app.mobile_hidden"
+msgid "Hidden"
+msgstr "Caché"
+
+msgctxt "Languages::mobile_app.mobile_disabled"
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgctxt "Languages::mobile_app.mobile_disapproved"
+msgid "Disapproved"
+msgstr "Désapprouvé"
+
+msgctxt "Languages::mobile_app.mobile_disadvantages"
+msgid "Disadvantages"
+msgstr "Désavantages"
+
+msgctxt "Languages::mobile_app.mobile_get_the_code"
+msgid "Get the code"
+msgstr "Obtenez le code"
+
+msgctxt "Languages::mobile_app.mobile_didnt_receive_code"
+msgid "Didn't receive the code?"
+msgstr "Pas reçu le code?"
+
+msgctxt "Languages::mobile_app.mobile_make_product_active"
+msgid "Make Product Active"
+msgstr "Rendre le produit actif"
+
+msgctxt "Languages::mobile_app.mobile_make_product_hidden"
+msgid "Make Product Hidden"
+msgstr "Caché le produit"
+
+msgctxt "Languages::mobile_app.mobile_make_product_disabled"
+msgid "Make Product Disabled"
+msgstr "Rendre le Produit désactivé"
+
+msgctxt "Languages::mobile_app.mobile_pricing_slash_inventory"
+msgid "Pricing / Inventory"
+msgstr "Prix / Inventaire"
+
+msgctxt "Languages::mobile_app.mobile_recovery_code"
+msgid "Recovery code"
+msgstr "Code de récupération"
+
+msgctxt "Languages::mobile_app.mobile_list_price_dollar"
+msgid "List price ($)"
+msgstr "Liste de prix ($)"
+
+msgctxt "Languages::mobile_app.mobile_shipping_properties"
+msgid "Shipping properties"
+msgstr "Propriétés d'expédition"
+
+msgctxt "Languages::mobile_app.mobile_weight_lbs"
+msgid "Weight (lbs)"
+msgstr "Poids (lbs)"
+
+msgctxt "Languages::mobile_app.mobile_free_shipping"
+msgid "Free shipping"
+msgstr "Livraison gratuite"
+
+msgctxt "Languages::mobile_app.promotion"
+msgid "Promotion"
+msgstr "Promotion"
+
+msgctxt "Languages::mobile_app.app_store_app_id"
+msgid "App Store application ID"
+msgstr "ID d'application App Store"
+
+msgctxt "Languages::mobile_app.google_play_app_id"
+msgid "Google Play application ID"
+msgstr "ID d'application Google Play"
+
+msgctxt "Languages::mobile_app.promotion_note"
+msgid "Visitors of your site who use iOS or Android devices will see a prompt to install the mobile application.<br>To show your application's icon in this prompt, <a href=\"[icon_url]\">upload App Icon</a> in the add-on settings. If App Icon is not specified, the favicon of a storefront will be used instead."
+msgstr "Les visiteurs de votre site qui utilisent des appareils iOS ou Android verront une invite pour installer l'application mobile.<br>Pour afficher l'icône de votre application dans cette invite, <a href=\"[icon_url]\"> télécharger l'icône de l'application </a> dans les paramètres complémentaires. Si l'icône de l'application n'est pas spécifiée, le Favicon d'une vitrine sera utilisé à la place."
+
+msgctxt "Languages::mobile_app.we_also_have_a_mobile_app"
+msgid "We also have a mobile app"
+msgstr "Nous avons aussi une application mobile"
+
+msgctxt "Languages::mobile_app.view_demo"
+msgid "View demo"
+msgstr "Voir la démo"
+
+msgctxt "Languages::mobile_app.open"
+msgid "Open"
+msgstr "Ouvrir"
+
+msgctxt "Languages::mobile_app.app_store_app_id_tooltip"
+msgid "Take it from the application link in <a href=\"https://www.apple.com/app-store\" target=\"_blank\">App Store</a>. <br> For example, in https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157 the ID is 1304872157."
+msgstr "Obtenez-le à partir du lien d'application dans <a href=\"htttps://www.apple.com/app-store\" target=\"_blank\"> App Store </a>. <br> Par exemple, pour https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157 , l'ID est 1304872157."
+
+msgctxt "Languages::mobile_app.google_play_app_id_tooltip"
+msgid "Take it from the application link in <a href=\"https://play.google.com/store\" target=\"_blank\">Google Play</a>. <br> For example, in https://play.google.com/store/apps/details?id=com.simtech.multivendor&hl=en_US the ID is com.simtech.multivendor."
+msgstr "Obtenez-le à partir du lien d'application dans  <a href=\"https://play.google.com/store\" target=\"_blank\">Google Play</a>. <br> Par exemple, pour https://play.google.com/store/apps/details?id=com.simtech.multivendor&hl=en_US , l'ID est com.simtech.multivendor."
+
+msgctxt "Languages::mobile_app.mobile_taxes"
+msgid "Taxes"
+msgstr "Taxes"
+
+msgctxt "Languages::mobile_app.mobile_yookassa"
+msgid "YooKassa"
+msgstr "YooKassa"
+
+msgctxt "Languages::mobile_app.google_pay"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgctxt "Languages::mobile_app.google_pay_api_key"
+msgid "Google Pay Api Key"
+msgstr "Clé API Google Pay"
+
+msgctxt "Languages::mobile_app.google_pay_supported_networks"
+msgid "Payment networks"
+msgstr "Réseaux de paiement"
+
+msgctxt "Languages::mobile_app.section.bottom_tabs"
+msgid "Bottom tabs"
+msgstr "Onglets inférieurs"
+
+msgctxt "Languages::mobile_app.section.push_notifications"
+msgid "Push notifications"
+msgstr "Notifications push"
+
+msgctxt "Languages::mobile_app.m_app_notification_icon"
+msgid "Notification icon"
+msgstr "Icône de notification"
+
+msgctxt "Languages::tt_mobile_app.m_app_notification_icon"
+msgid "(192 x 192) Push notification icon (Android)"
+msgstr "(192 x 192) Icône de notification push (Android)"
+
+msgctxt "Languages::mobile_app.mobile_code"
+msgid "Code"
+msgstr "Code"
+
+msgctxt "Languages::mobile_app.mobile_registration_failed"
+msgid "Registration failed"
+msgstr "Échec de l'enregistrement"
+
+msgctxt "Languages::mobile_app.section.configure_app"
+msgid "Configure app"
+msgstr "Configurer l'application"
+
+msgctxt "Languages::mobile_app.section.configure_app_description"
+msgid "These settings are hard-coded into the app and can't be changed on the fly. After you change them, you'll need to save the changes, download the config, build the new app, and release an upgrade."
+msgstr "Ces paramètres sont codés sur l'application et ne peuvent pas être modifiés à la volée. Une fois que vous les avez changées, vous devez enregistrer les modifications, télécharger la configuration, créer la nouvelle application et publier une mise à niveau."
+
+msgctxt "Languages::mobile_app.section.changeable_settings_description"
+msgid "These settings change in every customer's app as soon as you change them here and save the changes. You won't need to build the new app and release an upgrade."
+msgstr "Ces paramètres changent dans l'application de chaque client dès que vous les modifiez ici et les enregistrez. Vous n'aurez pas besoin de compiler la nouvelle application et de faire une mise à jour."
+
+msgctxt "Languages::mobile_app.edit_app_layouts"
+msgid "Edit mobile application layouts"
+msgstr "Modifier la mise en page des applications mobiles"
+
+msgctxt "Languages::mobile_app.color_preset"
+msgid "Color preset"
+msgstr "Préréglage de couleur"
+
+msgctxt "Languages::mobile_app.color_preset_custom"
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgctxt "Languages::mobile_app.color_preset_marine"
+msgid "Marine - Amazon style"
+msgstr "Marine - Style Amazon"
+
+msgctxt "Languages::mobile_app.color_preset_berry"
+msgid "Berry - Wildberries style"
+msgstr "Baie - Style baies sauvages"
+
+msgctxt "Languages::mobile_app.color_preset_navyblue"
+msgid "Navy blue - Ozon style"
+msgstr "Bleu marine - Style ozone"
+
+msgctxt "Languages::mobile_app.color_preset_orange"
+msgid "Orange - AliExpress style"
+msgstr "Orange - Style AliExpress"
+
+msgctxt "Languages::mobile_app.color_preset_bright"
+msgid "Bright"
+msgstr "Brillant"
+
+msgctxt "Languages::mobile_app.colors"
+msgid "Colors"
+msgstr "Couleurs"
+
+msgctxt "Languages::category_appearance"
+msgid "Сategory appearance in mobile application"
+msgstr "Apparition de la catégorie dans l'application mobile"
+
+msgctxt "Languages::mobile_app.category_appearance_tooltip"
+msgid "Determines how the list of categories will look in the mobile application:<br><ul class=\"muted\"><li>Category images with background—works best if you use JPEG or PNG images with a solid background.</li><li>Category images without background—works best if you use PNG images with a transparent background.</li><li>Categories without images—works best if your categories don't have images with similar format and background style.</li></ul>"
+msgstr "Détermine l'apparence de la liste des catégories dans l'application mobile :<br><ul class=\"muted\"><li>Images de catégorie avec arrière-plan : fonctionne mieux si vous utilisez des images JPEG ou PNG avec un arrière-plan uni.</li><li>Images de catégorie sans arrière-plan : fonctionne mieux si vous utilisez des images PNG avec un arrière-plan transparent.</li><li>Catégories sans images : fonctionne mieux si vos catégories n'ont pas d'images avec un format et un style d'arrière-plan similaires.</li></ul>"
+
+msgctxt "Languages::mobile_app.category_image_with_background"
+msgid "Category image with background"
+msgstr "Image de catégorie avec arrière-plan"
+
+msgctxt "Languages::mobile_app.category_image_without_background"
+msgid "Category image without background"
+msgstr "Image de catégorie sans arrière-plan"
+
+msgctxt "Languages::mobile_app.category_without_image"
+msgid "Category without image"
+msgstr "Catégorie sans image"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "Envoyer avis"
+
+msgctxt "Languages::mobile_app.mobile_app.mobile_social_login"
+msgid "Or sign-in with another identity provider:"
+msgstr "Ou connectez-vous avec un autre fournisseur d'identité :"
+
+msgctxt "Languages::mobile_app.mobile_write_review"
+msgid "Write a Review"
+msgstr "Écrire une critique"
+
+msgctxt "Languages::mobile_app.mobile_product_reviews"
+msgid "reviews"
+msgstr "Commentaires"
+

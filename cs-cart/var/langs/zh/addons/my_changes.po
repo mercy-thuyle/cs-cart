@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/my_changes.po\n"
+"X-Crowdin-File-ID: 6614\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::my_changes"
+msgid "My Changes (example add-on)"
+msgstr "我的更改（示例插件）"
+
+msgctxt "Addons::description::my_changes"
+msgid "A dummy add-on to let devs see how add-ons work. You can also use it to introduce small changes not worthy of a separate add-on"
+msgstr "一个虚拟插件，让开发人员了解插件是如何工作的。您还可以使用它来引入不值得单独加载的小更改"
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_panel_configurator.po\n"
+"X-Crowdin-File-ID: 6696\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "Διαμορφωτής πίνακα πωλητή"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "Απλοποιεί τον πίνακα πωλητών εμφανίζοντας στους πωλητές μόνο τα πεδία και τα μενού που πρέπει να δουν."
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "Ρυθμίσεις σελίδας προϊόντος"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "Στυλ πίνακα πωλητή"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "Αυτή η καρτέλα δεν έχει διαμορφώσιμα πεδία και εμφανίζεται ως έχει"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "Ρυθμίσεις σελίδας προϊόντος"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "Λογότυπα και στυλ"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "Διαχειριστείτε τα λογότυπα που χρησιμοποιούνται στον ιστότοπο και στα μηνύματα ηλεκτρονικού ταχυδρομείου και διαμορφώστε την εμφάνιση του μικροκαταστήματος και των σελίδων προϊόντων"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "Διατάξεις σελίδας"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "Διαχειριστείτε τις διατάξεις του μικροκαταστήματος και των σελίδων προϊόντων"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "Διαχειριστείτε τον τρόπο με τον οποίο λαμβάνετε πληρωμές από πελάτες"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "Για να διευκολύνουν την ενσωμάτωση, οι πωλητές δεν βλέπουν ορισμένα στοιχεία μενού και ορισμένα πεδία στη σελίδα επεξεργασίας προϊόντος. Μπορείτε να διαμορφώσετε τι βλέπουν οι πωλητές και τι δεν βλέπουν το <a href=\"[config_url]\" target=\"_blank\">στις ρυθμίσεις του πρόσθετου \"Διαμορφωτής πίνακα πωλητών\"</a>. Εάν απενεργοποιήσετε το πρόσθετο, τα μενού και ο ίδιος ο πίνακας πωλητή θα αλλάξουν ώστε να μοιάζουν με τον πίνακα διαχείρισης της αγοράς."
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "Χρώμα πλαϊνής γραμμής"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "Χρώμα στοιχείου"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "Εικόνα φόντου πλευρικής γραμμής"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "Εάν ανεβάσετε την εικόνα φόντου, θα εμφανιστεί αυτη αντί για το χρώμα της πλαϊνής γραμμής. Εάν την ανεβάσετε, συνιστούμε να επιλέξετε ένα χρώμα πλαϊνής γραμμής που ταιριάζει με την εικόνα φόντου."
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "Πληροφορίες πωλητή"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "Αυτή η ρύθμιση δεν εμφανίζεται στη σελίδα επεξεργασίας προϊόντος αυτήν τη στιγμή, επειδή έχει οριστεί καθολικά για όλα τα προϊόντα. Ελέγξτε το μενού <a href=\"[settings_url]\" target=\"_blank\">\"Ρυθμίσεις\"</a> για να το βρείτε."
+

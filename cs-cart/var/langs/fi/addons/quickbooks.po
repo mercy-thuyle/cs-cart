@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/quickbooks.po\n"
+"X-Crowdin-File-ID: 6648\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::quickbooks"
+msgid "Quickbooks"
+msgstr "Pikakirjat"
+
+msgctxt "Addons::description::quickbooks"
+msgid "Integrates the Quickbooks accounting software with the store"
+msgstr "Integroi Quickbooks-kirjanpitoohjelmiston kauppaan"
+
+msgctxt "Languages::export_to_quickbooks"
+msgid "Export to Quickbooks"
+msgstr "Vie Quickbooksiin"
+
+msgctxt "SettingsSections::quickbooks::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::quickbooks::trns_class"
+msgid "Transaction class name"
+msgstr "Tapahtumaluokan nimi"
+
+msgctxt "SettingsOptions::quickbooks::accnt_tax"
+msgid "Account to track taxes. The type of this account should be INC."
+msgstr "Tili verojen seuraamiseen. Tämän tilin tyypin tulee olla INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_product"
+msgid "Account to track product sales. The type of this account should be INC."
+msgstr "Tili tuotteiden myynnin seuraamiseen. Tämän tilin tyypin tulee olla INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_shipping"
+msgid "Account to track shipping cost. The type of this account should be INC."
+msgstr "Tili toimituskulujen seuraamiseen. Tämän tilin tyypin tulee olla INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_discount"
+msgid "Account to track discounts. The type of this account should be INC."
+msgstr "Tili alennusten seuraamiseen. Tämän tilin tyypin tulee olla INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_surcharge"
+msgid "Account to track the payment surcharge of your items sales (where applicable). The type of this account should be INC."
+msgstr "Tili tuotteiden myynnin maksulisän seuraamiseen (tarvittaessa). Tämän tilin tyypin tulee olla INC."
+
+msgctxt "SettingsOptions::quickbooks::accnt_asset"
+msgid "Account to track the value of your inventory. The type of this account should be OASSET."
+msgstr "Tili, jolla voit seurata varastosi arvoa. Tämän tilin tyypin tulee olla OASSET."
+
+msgctxt "SettingsOptions::quickbooks::accnt_cogs"
+msgid "Account to track the cost of your items sales. The type of this account should be COGS."
+msgstr "Tili tuotteiden myynnin kustannusten seuraamiseen. Tämän tilin tyypin tulee olla COGS."
+

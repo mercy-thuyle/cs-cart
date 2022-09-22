@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_analytics.po\n"
+"X-Crowdin-File-ID: 6596\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::google_analytics"
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgctxt "Addons::description::google_analytics"
+msgid "Integrates a Google Analytics service with the store"
+msgstr "Integrace služby Google Analytics v obchodě"
+
+msgctxt "SettingsSections::google_analytics::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::google_analytics::tracking_code"
+msgid "Google Analytics account number"
+msgstr "Číslo účtu Google Analytics"
+
+msgctxt "SettingsOptions::google_analytics::track_ecommerce"
+msgid "Track e-commerce transactions"
+msgstr "Sledovat transakce elektronického obchodu"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_title"
+msgid "Google Tag Manager"
+msgstr "Správce značek Google"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_description"
+msgid "Google Tag Manager is a service that provides us with website analytics: the number of unique visitors, the most and least popular pages, etc. Here is <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">Google Tag Manager statement on privacy</a>."
+msgstr "Google Tag Manager je služba, která nám poskytuje analýzu webových stránek: počet unikátních návštěvníků, nejoblíbenější a nejméně oblíbené stránky atd. Zde je <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">prohlášení Správce značek Google o ochraně osobních údajů</a>."
+

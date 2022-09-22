@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.15.1/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 6702\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses"
+msgstr "Varehus"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "Lar deg angi produktlager separat for hver butikk og lager. Viser for kundene tilgjengeligheten av et produkt i butikker eller i bestemte prisområder."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "butikk"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "Hentested"
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "Lager"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "Navn"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "By"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "Mengde"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "Send til"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "Bestemmer prisområdene der produktene fra dette lageret vil bli ansett som tilgjengelige."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "Bestemmer hvor dette stedet ligger. Dette avgjør i sin tur fraktraten og leveringstiden til dette stedet."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "Vis til"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Lar deg tilby dette hentepunktet til innbyggerne i andre prisområder ved kassen."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] er ikke på lager i den valgte regionen.|Følgende produkter er ikke på lager i den valgte regionen: [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "Mengder"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "Butikker og varehus"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "Butikk / Lager"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "Flyttetid"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "Tiden det tar å flytte produkter herfra til en annen butikk eller lager i dette prisområdet."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "Advare om forsinkelse"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "Hvis et produkt må flyttes til takstområdet herfra, vis flyttetiden i produktlisten og handlekurven."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "Produkter kan hentes fra forskjellige butikker og varehus først, avhengig av hvor kunden din er. <a href=\"[destinations_url]\" target=\"_blank\">Konfigurer butikk- og lagerprioritet individuelt for hvert prisområde.</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "Produktet er på et eksternt lager. Hvis du bestiller den, sender vi den [shipping_delay]."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "Produktet er på et eksternt lager. Hvis du bestiller den, kan frakten ta litt lengre tid."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "Ved bestilling: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "Noen av produktene du har bestilt er på et eksternt lager. Frakt kan ta noe lengre tid enn oppgitt her."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "Tilgjengelig ved bestilling"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "På lager"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "i [n] butikk|i [n] butikker"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "Tilgjengelighet i butikk"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "Tilgjengelighet i butikk"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "Liste over butikker hvor produktet kan kjøpes"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "Butikk og adresse"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "Telefon"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "Søk i butikk"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "Kart"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "Ingen butikker funnet som samsvarer med søkekriteriene"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "Prisområde"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "Forsinket advarsel"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "Den vises hvis produktene ikke er tilgjengelige i butikkene og lagrene ovenfor."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "Skriv for å søke, eller klikk på knappen til høyre for å legge til alle prisområder"
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "Enhver type butikk"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "Legg til alle"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "Denne butikkfronten har ingen butikker eller varehus. Vennligst <a href=\"[create_url]\">opprett en</a> eller <a href=\"[list_url]\">gjør en eksisterende tilgjengelig</a> for denne butikkfronten"
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "Dette vil ikke påvirke produktene som har antallet spesifisert i den importerte filen. Dette vil heller ikke påvirke produkter på varehusene som ikke er oppdatert i denne forhåndsinnstillingen."
+
+msgctxt "Languages::warehouses.destination_can_be_deleted"
+msgid "Couldn't delete the rate area because at least one product is contained in warehouses in this rate area. Please delete this rate area from warehouse or reset the number of <a href=\"[href]\">these products</a>, and try again."
+msgstr "Kunne ikke slette prisområdet fordi minst ett produkt finnes i varehus i dette prisområdet. Vennligst slett dette prisområdet fra lageret eller tilbakestill antallet <a href=\"[href]\">disse produktene</a>, og prøv igjen."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "Varehus"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "Varehus"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "Kunne ikke finne lager [id]"
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "Kategori [id] opprettet; lokal ID: [local_id]"
+

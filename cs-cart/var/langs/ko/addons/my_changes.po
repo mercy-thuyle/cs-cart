@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/my_changes.po\n"
+"X-Crowdin-File-ID: 6614\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::my_changes"
+msgid "My Changes (example add-on)"
+msgstr "내 변경 사항(예시 추가 기능)"
+
+msgctxt "Addons::description::my_changes"
+msgid "A dummy add-on to let devs see how add-ons work. You can also use it to introduce small changes not worthy of a separate add-on"
+msgstr "개발자가 추가 기능의 작동 방식을 볼 수 있도록 하는 더미 추가 기능입니다. 별도의 추가 기능에 적합하지 않은 작은 변경 사항을 도입하는 데 사용할 수도 있습니다."
+

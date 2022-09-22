@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/tags.po\n"
+"X-Crowdin-File-ID: 6680\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr "Etichete"
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr "Activează etichetele produselor"
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr "Gestionați etichetele de pagină de produs și conținut."
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr "Autentificați-vă pentru a introduce tag-uri"
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr "Nor de tag-uri"
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr "Tag-uri"
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr "Etichete"
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr "Etichete de produs"
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr "adăugați o etichetă"
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "Articole marcate cu eticheta „[tag]”:"
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr "Etichetă"
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr "Adăugați un tag"
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr "Etichete pentru produse"
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr "Etichete pentru pagini"
+
+msgctxt "Languages::n_tags"
+msgid "[n] tag|[n] tags"
+msgstr "[n] etichetă|[n] etichetă"
+

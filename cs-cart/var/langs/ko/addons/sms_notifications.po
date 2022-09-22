@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/sms_notifications.po\n"
+"X-Crowdin-File-ID: 6670\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::sms_notifications"
+msgid "SMS notifications"
+msgstr "SMS 알림"
+
+msgctxt "Addons::description::sms_notifications"
+msgid "Allows you to set up administrator SMS order notifications"
+msgstr "관리자 SMS 주문 알림을 설정할 수 있습니다."
+
+msgctxt "Languages::unicode_not_enabled"
+msgid "Unicode support can not be enabled: 'mbstring' PHP extension is not installed."
+msgstr "유니코드 지원을 활성화할 수 없습니다: 'mbstring' PHP 확장이 설치되지 않았습니다."
+
+msgctxt "SettingsSections::sms_notifications::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number"
+msgid "Phone number"
+msgstr "전화 번호"
+
+msgctxt "SettingsOptions::sms_notifications::phone_number_from"
+msgid "Send from number"
+msgstr "번호에서 보내기"
+
+msgctxt "SettingsOptions::sms_notifications::elm_clickatell_settings"
+msgid "Clickatell settings"
+msgstr "클릭아텔 설정"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_user"
+msgid "Username"
+msgstr "사용자 이름"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_api_id"
+msgid "API ID"
+msgstr "API ID"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_password"
+msgid "Password"
+msgstr "비밀번호"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_unicode"
+msgid "Use Unicode"
+msgstr "유니코드 사용"
+
+msgctxt "SettingsOptions::sms_notifications::clickatel_concat"
+msgid "Split long sms into several parts"
+msgstr "긴 SMS를 여러 부분으로 분할"
+
+msgctxt "SettingsOptions::sms_notifications::elm_send_sms_if"
+msgid "Send SMS if"
+msgstr "다음 경우 SMS 보내기"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_order_placed"
+msgid "New order has been placed"
+msgstr "새로운 주문이 접수되었습니다"
+
+msgctxt "SettingsOptions::sms_notifications::sms_new_cusomer_registered"
+msgid "New customer has been registered"
+msgstr "신규 고객이 등록되었습니다"
+
+msgctxt "SettingsOptions::sms_notifications::sms_product_negative_amount"
+msgid "Product quantity is less than zero"
+msgstr "제품 수량이 0보다 작습니다."
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_min_amout"
+msgid "Only send when order total amount is more than"
+msgstr "주문 총액이 다음 이상인 경우에만 발송"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_shipping"
+msgid "Only send for these shipping methods"
+msgstr "이 배송 방법에 대해서만 보내기"
+
+msgctxt "SettingsOptions::sms_notifications::elm_sms_content"
+msgid "SMS content"
+msgstr "SMS 콘텐츠"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_payment_info"
+msgid "Add payment info"
+msgstr "결제 정보 추가"
+
+msgctxt "SettingsOptions::sms_notifications::sms_send_customer_email"
+msgid "Add customers e-mail"
+msgstr "고객 이메일 추가"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_1"
+msgid "Do not split"
+msgstr "분할하지 마십시오"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_2"
+msgid "2 sms"
+msgstr "2 SMS"
+
+msgctxt "SettingsVariants::sms_notifications::clickatel_concat::clickatel_concat_3"
+msgid "3 sms"
+msgstr "3 SMS"
+

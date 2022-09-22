@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "תשלומים ישירים מלקוח לספק"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "שינוים של תהליך הקנייה: הלקוחות משלמים לכל ספק בנפרד, וכסף ההזמנות הולך ישר לספקים. ספקים יכולים גם להגדיר שיטות תשלום משלהם וקידומי מכירות."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "סיכום עגלות"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "משלמים כעת"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "יש מוצרים בעגלה שלך כי אתה לא הורה עדיין. אנא<a href=\"[cart_url]\">להציג את העגלה שלך</a> להמשיך לקופה."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "עמלה של תשלום עבור הזמנה #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "אין לך שיטות תשלום פעילות משלך. לכן, אמצעי התשלום של בעל המקום ישמשו בקופה במקום זאת. כדי למנוע עיכובים בקבלת כסף, הגדר אמצעי תשלום משלך."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "אמצעי תשלום אלה יוצעו ללקוחות רק כאשר לספק אין אמצעי תשלום פעילים. הכסף מן ההזמנות יהיה הראשון ללכת הבעלים של השוק, מי יהיה הודיע על זה ויהיה חייב להעביר את הכסף לספק."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "אמצעי תשלום שלך"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "אמצעי תשלום של בעלים האתר"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "ליצור שיטת תשלום"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "סל לפי ספקים"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "פיצול סל של הלקוח לפי תשלום לספקים"
+

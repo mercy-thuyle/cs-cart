@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/shopify_import.po\n"
+"X-Crowdin-File-ID: 6800\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::shopify_import"
+msgid "Import from Shopify"
+msgstr "Імпорт із Shopify"
+
+msgctxt "Addons::description::shopify_import"
+msgid "Allows you to import products from Shopify."
+msgstr "Дозволяє імпортувати продукти з Shopify."
+
+msgctxt "Languages::shopify_import.shopify_products_import"
+msgid "Shopify products"
+msgstr "Продукти Shopify"
+
+msgctxt "Languages::shopify_import.sync_data_name"
+msgid "Import products from Shopify"
+msgstr "Імпортуйте продукти з Shopify"
+
+msgctxt "Languages::shopify_import.choose_import_mode"
+msgid "Choose import mode"
+msgstr "Виберіть режим імпорту"
+
+msgctxt "Languages::shopify_import.import_for_all_vendors"
+msgid "I'm launching my marketplace and setting up products for all vendors to use"
+msgstr "Я запускаю свій ринок і налаштовую продукти для використання всіма постачальниками"
+
+msgctxt "Languages::shopify_import.import_for_specific_vendor"
+msgid "I'm importing these products for a specific vendor"
+msgstr "Я імпортую ці продукти для певного постачальника"
+
+msgctxt "Languages::shopify_import.depends_on_common_products_addon"
+msgid "This option needs <a href=\"[link]\">Common products for vendors</a> add-on to be installed"
+msgstr "Для цього параметра потрібно встановити <a href=\"[link]\">загальних продуктів для постачальників</a> доповнення"
+
+msgctxt "Languages::shopify_import.invalid_csv_file_format"
+msgid "Uploaded CSV-file has invalid format or empty. Only files exported from Shopify supported."
+msgstr "Завантажений CSV-файл має недійсний формат або порожній. Підтримуються лише файли, експортовані з Shopify."
+
+msgctxt "Languages::shopify_import.products_without_sku"
+msgid "The SKU value is missing for some products. These products are always imported as new objects."
+msgstr "Для деяких продуктів відсутнє значення SKU. Ці продукти завжди імпортуються як нові об’єкти."
+
+msgctxt "Languages::shopify_import.last_status.S"
+msgid "Success"
+msgstr "Успіх"
+
+msgctxt "Languages::shopify_import.last_status.F"
+msgid "Failure"
+msgstr "Невдача"
+

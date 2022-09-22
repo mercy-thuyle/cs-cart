@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/watermarks.po\n"
+"X-Crowdin-File-ID: 6706\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::watermarks"
+msgid "Watermarks"
+msgstr "Marcas d'água"
+
+msgctxt "Addons::description::watermarks"
+msgid "Allows you to add watermarks to product and category images"
+msgstr "Permite adicionar marcas d'água a imagens de produtos e categorias"
+
+msgctxt "Languages::wt_watermarks"
+msgid "Watermarks"
+msgstr "Marcas d'água"
+
+msgctxt "Languages::wt_graphic_watermark"
+msgid "Graphic watermark"
+msgstr "Marca d'água gráfica"
+
+msgctxt "Languages::wt_text_watermark"
+msgid "Text watermark"
+msgstr "Marca d'água de texto"
+
+msgctxt "Languages::wt_watermark_vertical_position"
+msgid "Watermark vertical position"
+msgstr "Posição vertical da marca d'água"
+
+msgctxt "Languages::wt_watermark_horizontal_position"
+msgid "Watermark horizontal position"
+msgstr "Posição horizontal da marca d'água"
+
+msgctxt "Languages::wt_watermark_position"
+msgid "Watermark position"
+msgstr "Posição da marca d'água"
+
+msgctxt "Languages::wt_watermark_image"
+msgid "Watermark image"
+msgstr "Imagem de marca d'água"
+
+msgctxt "Languages::wt_watermark_text"
+msgid "Watermark text"
+msgstr "Texto da marca d'água"
+
+msgctxt "Languages::wt_font"
+msgid "Font"
+msgstr "Fonte"
+
+msgctxt "Languages::wt_font_color"
+msgid "Font color"
+msgstr "Cor da fonte"
+
+msgctxt "Languages::wt_font_size_icon"
+msgid "Font size (thumbnail)"
+msgstr "Tamanho da fonte (miniatura)"
+
+msgctxt "Languages::wt_font_size_detailed"
+msgid "Font size (larger image)"
+msgstr "Tamanho da fonte (imagem maior)"
+
+msgctxt "Languages::wt_watermark_icon"
+msgid "Thumbnail watermark"
+msgstr "Marca d'água da miniatura"
+
+msgctxt "Languages::wt_watermark_detailed"
+msgid "Popup larger image watermark"
+msgstr "Marca d'água de imagem maior pop-up"
+
+msgctxt "Languages::wt_fail_apply_graphic_watermark"
+msgid "Failed to apply the watermark to [image_type]. The watermark image is not added."
+msgstr "Falha ao aplicar a marca d'água a [image_type]. A imagem da marca d'água não é adicionada."
+
+msgctxt "Languages::wt_icons"
+msgid "thumbnails"
+msgstr "miniaturas"
+
+msgctxt "Languages::wt_detailed"
+msgid "popup larger images"
+msgstr "pop-up imagens maiores"
+
+msgctxt "Languages::wt_images_access_description"
+msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
+msgstr "Para negar o acesso às suas imagens originais, adicione as seguintes instruções ao arquivo '.htaccess' no diretório 'images' de sua instalação. Ele protegerá suas imagens originais. Mesmo que uma imagem original seja aberta, a imagem com marca d'água correspondente será exibida."
+
+msgctxt "Languages::wt_watermarks_access_description"
+msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
+msgstr "Para gerar imagens com marca d'água automaticamente, mesmo que não sejam solicitadas nas páginas da sua loja, adicione o arquivo '.htaccess' com as seguintes instruções ao diretório 'images/watermarked' de sua instalação."
+
+msgctxt "Languages::wt_access_note"
+msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
+msgstr "Observe que, se você desativar ou desinstalar o complemento 'Marcas d'água', deverá remover essas instruções dos arquivos '.htaccess' manualmente. Caso contrário, as imagens da categoria e do produto não estarão disponíveis."
+
+msgctxt "Languages::wt_access_warning"
+msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
+msgstr "A criação de marca d'água está desativada. Se houver instruções de \"Reescrever regras de marcas d'água\" no arquivo \"images/.htaccess\", você deve removê-las manualmente. Caso contrário, as imagens da categoria e do produto não estarão disponíveis."
+
+msgctxt "Languages::wt_images_access_info"
+msgid "Images access"
+msgstr "Acesso a imagens"
+
+msgctxt "SettingsSections::watermarks::general"
+msgid "General"
+msgstr "Em geral"
+
+msgctxt "SettingsOptions::watermarks::watermark"
+msgid "Watermark"
+msgstr "Marca d'água"
+
+msgctxt "SettingsOptions::watermarks::apply_to_product"
+msgid "Product watermarks"
+msgstr "Marcas d'água do produto"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_icons"
+msgid "Resized images"
+msgstr "Imagens redimensionadas"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
+msgid "Original size images"
+msgstr "Imagens em tamanho original"
+
+msgctxt "SettingsOptions::watermarks::apply_to_categories"
+msgid "Category watermarks"
+msgstr "Marcas d'água de categoria"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_icons"
+msgid "Resized images"
+msgstr "Imagens redimensionadas"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
+msgid "Original size images"
+msgstr "Imagens em tamanho original"
+
+msgctxt "SettingsOptions::watermarks::images_access_info"
+msgid "Images access"
+msgstr "Acesso a imagens"
+

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/rma.po\n"
+"X-Crowdin-File-ID: 6656\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::rma"
+msgid "RMA"
+msgstr "RMA"
+
+msgctxt "Addons::description::rma"
+msgid "Adds a return management system"
+msgstr "반품 관리 시스템 추가"
+
+msgctxt "Languages::returned_products"
+msgid "Returned products"
+msgstr "반품된 제품"
+
+msgctxt "Languages::rma_return"
+msgid "Return"
+msgstr "반품"
+
+msgctxt "Languages::no_return_requests_found"
+msgid "No return requests found"
+msgstr "반품 요청을 찾을 수 없습니다"
+
+msgctxt "Languages::returned_product"
+msgid "Returned product"
+msgstr "반품된 제품"
+
+msgctxt "Languages::returns"
+msgid "Returns"
+msgstr "보고"
+
+msgctxt "Languages::returns_info"
+msgid "Returns info"
+msgstr "반품 정보"
+
+msgctxt "Languages::return_info"
+msgid "Return information"
+msgstr "반품 정보"
+
+msgctxt "Languages::order_returns"
+msgid "Order returns"
+msgstr "주문 반품"
+
+msgctxt "Languages::return_registration"
+msgid "Request a replacement or a refund"
+msgstr "교체 또는 환불 요청"
+
+msgctxt "Languages::return_requests"
+msgid "Return requests"
+msgstr "반품 요청"
+
+msgctxt "Languages::return_requests_menu_description"
+msgid "View and process return requests from orders placed on your web site."
+msgstr "웹사이트에서 주문한 반품 요청을 보고 처리합니다."
+
+msgctxt "Languages::return_status"
+msgid "Return status"
+msgstr "반품 상태"
+
+msgctxt "Languages::return_period"
+msgid "Return period"
+msgstr "반환 기간"
+
+msgctxt "Languages::what_you_would_like_to_do"
+msgid "What would you like to do"
+msgstr "무엇을하고 싶으십니까"
+
+msgctxt "Languages::rma_notify_supplier"
+msgid "Notify supplier"
+msgstr "공급업체에 알리기"
+
+msgctxt "Languages::add_reason"
+msgid "Add reason"
+msgstr "이유 추가"
+
+msgctxt "Languages::new_reason"
+msgid "New reason"
+msgstr "새로운 이유"
+
+msgctxt "Languages::type_comment"
+msgid "Type comments here"
+msgstr "여기에 댓글 입력"
+
+msgctxt "Languages::return_requests_note"
+msgid "Go to the list of your return requests"
+msgstr "반품 요청 목록으로 이동"
+
+msgctxt "Languages::privileges.manage_rma"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.rma"
+msgid "Return merchandise authorization (RMA)"
+msgstr "반품 승인(RMA)"
+
+msgctxt "Languages::rma.text_return_change_warning"
+msgid "The status of return request will change from [old_status] to [new_status]."
+msgstr "반품 요청 상태는 [old_status] 에서 [new_status]로 변경됩니다."
+
+msgctxt "Languages::returnable"
+msgid "Returnable"
+msgstr "반품 가능"
+
+msgctxt "Languages::returnable_product"
+msgid "Returnable product"
+msgstr "반품 가능한 제품"
+
+msgctxt "Languages::rma_request_statuses"
+msgid "RMA request statuses"
+msgstr "RMA 요청 상태"
+
+msgctxt "Languages::return_products_information"
+msgid "Return products information"
+msgstr "반품 상품 정보"
+
+msgctxt "Languages::declined_products_information"
+msgid "Declined products information"
+msgstr "거부된 제품 정보"
+
+msgctxt "Languages::rma_reasons"
+msgid "RMA reasons"
+msgstr "RMA 이유"
+
+msgctxt "Languages::rma_actions"
+msgid "RMA actions"
+msgstr "RMA 조치"
+
+msgctxt "Languages::rma"
+msgid "RMA"
+msgstr "RMA"
+
+msgctxt "Languages::return_period_days"
+msgid "Return period (days)"
+msgstr "반환 기간(일)"
+
+msgctxt "Languages::all_actions"
+msgid "All actions"
+msgstr "모든 행동들"
+
+msgctxt "Languages::decline_products"
+msgid "Decline products"
+msgstr "제품 거부"
+
+msgctxt "Languages::create_gift_certificate"
+msgid "Create gift certificate"
+msgstr "상품권 생성"
+
+msgctxt "Languages::accept_products"
+msgid "Accept products"
+msgstr "제품 수락"
+
+msgctxt "Languages::rma.recalculate_order"
+msgid "Recalculate order"
+msgstr "순서 다시 계산"
+
+msgctxt "Languages::rma.manually_recalculate_order"
+msgid "Set the new order total manually"
+msgstr "새 주문 합계를 수동으로 설정"
+
+msgctxt "Languages::rma.dont_recalculate_order"
+msgid "Don't recalculate order"
+msgstr "순서를 다시 계산하지 마십시오"
+
+msgctxt "Languages::delete_this_return"
+msgid "Delete this return"
+msgstr "이 반품 삭제"
+
+msgctxt "Languages::update_totals_and_inventory"
+msgid "Update totals and inventory"
+msgstr "총계 및 재고 업데이트"
+
+msgctxt "Languages::request_statuses"
+msgid "request statuses"
+msgstr "요청 상태"
+
+msgctxt "SettingsSections::rma::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::rma::display_product_return_period"
+msgid "Display product return period"
+msgstr "제품 반품 기간 표시"
+
+msgctxt "SettingsOptions::rma::dont_take_weekends_into_account"
+msgid "Do not take weekends into account when calculating product return period"
+msgstr "제품 반품 기간을 계산할 때 주말을 고려하지 마십시오."
+
+msgctxt "Languages::email_template.rma_slip_notification"
+msgid "RMA slip"
+msgstr "RMA 전표"
+
+msgctxt "Languages::template_document_rma_packing_slip_default"
+msgid "Return request: packing slip"
+msgstr "반품 요청: 포장 전표"
+
+msgctxt "Languages::document_preview_return_request_not_found"
+msgid "Couldn't find a return request. Preview only works with existing data. Please create a return request and use Preview again."
+msgstr "반품 요청을 찾을 수 없습니다. 미리보기는 기존 데이터에서만 작동합니다. 반품 요청을 작성하고 미리보기를 다시 사용하십시오."
+
+msgctxt "Languages::event.rma.status_changed.name"
+msgid "Return request status changed to [status]"
+msgstr "반품 요청 상태가 [status]으로 변경됨"
+
+msgctxt "Languages::rma.choose_change_return_status"
+msgid "What to do with the order"
+msgstr "주문으로 무엇을해야합니까?"
+
+msgctxt "Languages::rma.please_confirm_decision"
+msgid "Please confirm your decision."
+msgstr "결정을 확인해 주세요."
+
+msgctxt "Languages::rma.order_total_will_changed"
+msgid "The order total will be set to"
+msgstr "주문 합계는 다음으로 설정됩니다."
+
+msgctxt "Languages::rma.shipping_costs_will_changed"
+msgid "Shipping costs will be set to"
+msgstr "배송비는 다음으로 설정됩니다."
+

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/pay360.po\n"
+"X-Crowdin-File-ID: 6626\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "پرداخت های Pay360"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "به شما امکان می دهد پرداخت ها را از طریق Pay360 بپذیرید"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "نام کاربری API"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "رمز عبور API"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "میزبان صندوقدار"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "شماره حساب مورد استفاده برای شناسایی مشتری یا وام. اگر این یک PAN است، شش رقم اول و چهار رقم آخر PAN را ارائه کنید. در غیر این صورت حداکثر ده کاراکتر از شماره حساب را وارد کنید."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "قسمت اول کد پستی گیرنده وام؛ حداکثر شش کاراکتر به عنوان مثال، اگر کد پستی \"EC2A 1AE\" باشد، این کد \"EC2A\" خواهد بود."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "نام خانوادگی گیرنده وام؛ حداکثر شش کاراکتر، به استثنای اعداد یا کاراکترهای خاص. اگر نام بیش از شش کاراکتر است، شش کاراکتر اول را وارد کنید. به عنوان مثال، برای \"Smith\"، این می تواند \"Smith\" باشد. برای \"ویلیامز\"، این \"ویلیا\" خواهد بود."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "لطفا فقط از حروف الفبا استفاده کنید."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "لطفا فقط از حروف الفبا و اعداد استفاده کنید."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "اجباری برای MCC 6012، 6051 مستقر در بریتانیا و اروپا و برخی از 7299 تاجر"
+

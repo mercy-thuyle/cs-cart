@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "Pläne des Anbieters"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "Erstellen Sie Pläne mit unterschiedlichen Einschränkungen und Preisen für Ihre Anbieter"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "Provisionen"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "Beziehen Sie die Versandkosten in die Verkäuferprovisionen ein"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "Beziehen Sie Steuern in die Verkäuferprovisionen ein"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "Berechnen Sie Verkäuferprovisionen, ohne vorher Steuern von der Bestellsumme abzuziehen."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "Ermöglichen Sie Anbietern, ihren aktuellen Plan zu ändern"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "Steuern von Anbietern einziehen"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "Eingezogene Steuern auf das Konto des Marktplatzes senden."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "Pläne des Anbieters"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "Informationen zum Anbieterplan"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "Zeigt Informationen zum ausgewählten Anbieterplan an"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "Planen"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "Planen"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "Kommission"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "Einschränkungen"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "Erstellen Sie Pläne für Ihre Anbieter mit unterschiedlichen Einschränkungen und Preisen"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "pro Monat"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "pro Jahr"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "einmal"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "max. Produkte"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "Legen Sie die maximale Anzahl von Produkten fest, die ein Anbieter in diesem Plan haben kann. Leer lassen, um eine unbegrenzte Anzahl von Produkten zuzulassen."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "Ein Anbieter kann seinen eigenen Microstore unter einer separaten Adresse wie <i>example.com/vendor/</i>haben. Ein Microstore enthält nur Produkte des Anbieters, dem dieser Microstore gehört. Außerdem enthalten Suchergebnisse im Microstore eines Anbieters nur Produkte dieses Anbieters."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "Lieferantenplan hinzufügen"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "Neuer Anbieterplan"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "Lieferantenplan bearbeiten"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "Der Plan konnte nicht gelöscht werden: Einige Anbieter verwenden ihn"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "Der Plan konnte nicht deaktiviert werden: Einige Anbieter verwenden ihn"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "Transaktionsgebühr"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "Transaktionsgebühr (abs)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "Einnahmen"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "Umsatz bis"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "Der maximal zulässige monatliche Umsatz für Anbieter, die diesen Plan verwenden. Lassen Sie dieses Feld leer, um unbegrenzten Umsatz zuzulassen."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "Mikrospeicher des Anbieters"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "Angebot als beste Wahl"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "Beste Wahl"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "Der Plan wird Ihnen in Rechnung gestellt, nachdem der Administrator Ihr Anbieterkonto genehmigt hat"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "Derzeitiger Plan"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "Aktuelle Plannutzung"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "Beste Wahl"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "Wählen Sie Ihren Plan"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "Wählen"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "Monat"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "Jahr"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "Planname"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> Produkt|<strong>[n]</strong> Produkte"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>Unbegrenzt</strong> Produkte"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "Umsatz bis <strong>[revenue]</strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>Unbegrenzt</strong> Umsatz"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "Transaktionsgebühr: <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "Anbieterprovision"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "Bitte geben Sie eine Kategorie an."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "Ihr Plan wurde auf [plan]gesetzt. Sehen Sie sich die Details Ihres Plans unten an."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "Zahlung für Ihren Plan"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "Eine Summe von [price] wurde von Ihrem Konto für die Nutzung des [plan] -Plans abgebucht. Folgen Sie dem Link, um <a href=\"[href]\">Ihren Kontostand anzuzeigen</a> oder sehen Sie sich unten die Details Ihres Plans an."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "Ihr Tarif wurde geändert"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "Ihr Tarif wurde auf [plan]geändert. Sehen Sie sich die Details Ihres neuen Plans unten an."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "Es können keine weiteren Produkte hinzugefügt werden: Sie haben die maximale Anzahl von Produkten erreicht, die Ihr Plan zulässt. Um Ihren Tarif zu ändern, <a href=\"[href]\">folgen Sie bitte diesem Link</a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "Maximaler Umsatz überschritten"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> überstiegen die vom Plan [plan] zugelassenen maximalen Einnahmen."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "Nicht verfügbar"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "Zu viele Produkte ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "Zu viel Umsatz ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "Dieser Plan ist leider nicht für Sie verfügbar. Bitte wählen Sie einen verfügbaren Plan aus."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "Sie wechseln zu einem anderen Anbieterplan. Ihnen wird der volle Preis des Plans in Rechnung gestellt. Bist du dir sicher, dass du weitermachen willst?"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "Verkäuferplan: Änderungsbenachrichtigung"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "Verkäuferplan: Bezahlbenachrichtigung"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "Lieferantenpläne: Umsatzbenachrichtigung"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "Kann ansehen"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "Kann bearbeiten"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "Pläne des Anbieters"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] von [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "von [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% von [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "Auszahlung für den Vendor Plan: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "Anbieterplan"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "Sollen Ihre Änderungen bestehende Anbieter betreffen?"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "Was sollten wir mit <a href=\"[search_url]\" target=\"_blank\">[n] Anbieter </a> tun, der diesen Plan jetzt verwendet?|Was sollten wir mit <a href=\"[search_url]\" target=\"_blank\">[n] Anbietern </a> tun, die diesen Plan jetzt verwenden?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "Verkäufer zu den Schaufenstern hinzufügen, die dem Plan hinzugefügt wurden|Hinzufügen der Verkäufer zu den Schaufenstern, die zum Plan hinzugefügt wurden"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "Entfernen Sie den Verkäufer aus den Schaufenstern, die aus diesem Plan entfernt wurden|Entfernen Sie die Verkäufer aus den Schaufenstern, die aus diesem Plan entfernt wurden"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "Der Anbieter wurde zu einem anderen Plan verschoben"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "Was sollten wir mit den Schaufenstern tun, die diesem Anbieter zur Verfügung stehen?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "Fügen Sie den Anbieter zu den Storefronts hinzu, die im neuen Anbieterplan verfügbar sind"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "Entfernen Sie den Anbieter aus den Schaufenstern, die in seinem vorherigen Plan verfügbar sind"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "Erweiterte Lieferantenplanerstellung"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "Ein neuer Lieferantenplan „[plan_name]“ wurde erstellt. Sie können jetzt <a href=\"[link]\">Beschränkungen für Lieferanten festlegen, die diesen Plan verwenden</a>."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "[commission]% Gebühr"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "Standardplan"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "Lieferantenplan wurde geändert"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "Pläne des Anbieters"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "Lieferantenpläne: Der Lieferantenplan wurde geändert"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "Lieferant \"[vendor]\" verschoben auf \"[plan]\""
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "Der Plan des Anbieters „[vendor]“ wurde von „[old_plan]“ auf „[new_plan]“ geändert."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "Alter Plan"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "Neuer Plan"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "Fügen Sie Anbieteradministratoren zu den Benutzergruppen hinzu, die dem Plan hinzugefügt wurden"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "Entfernen Sie Lieferantenadministratoren aus den Benutzergruppen, die aus dem Plan entfernt wurden"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "Dies sind die Benutzergruppen, die die Administratoren des Anbieters erhalten, wenn ein Anbieter diesen Plan erhält"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "Leider ist diese Kategorie für den Anbieter nicht verfügbar. Bitte überprüfen Sie die Konfiguration des Anbieterplans."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "Alle Schaufenster enthalten"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "Alle Kategorien enthalten"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "Anbieterplan konnte nicht deaktiviert werden. Es muss mindestens ein aktiver oder ausgeblendeter Anbieterplan vorhanden sein."
+

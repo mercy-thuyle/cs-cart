@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "תכניות הספקים"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "צור תכוניות עם מגבלות ומחירים שונים עבור הספקים שלך"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "עמלות"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "כלול את עלות המשלוח בעמלות הספק"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "כלול את המיסים בעמלות הספק"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "חשב את עמלות הספק ללא ניכוי המיסים מסה\"כ ההזמנה."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "אפשר לספקים לשנות את התוכניות הנוכחיות שלהם"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "גבו מיסים מספקים"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "שלח מיסים שנאספו לחשבון השוק."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "תכניות הספקים"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "מידע על תוכנית הספק"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "מציג מידע על תוכנית שנבחרה על ידי הספק"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "תוכנית"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "תוכנית"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "עמלה"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "מגבלות"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "צור תכניות עבור הספקים שלך עם מגבלות ומחירים שונים"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "לחודש"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "לשנה"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "חד פעמי"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "מקסימום המוצרים"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "קבע את מקסימום המוצרים בתוכנית הספק. השאר ריק כדי לאפשר מספר בלתי מוגבל של המוצרים."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "ספק יכול להחזיק במיקרו חנות בכתובת נפרדת כגון <i>example.com/vendor/</i>. מיקרו חנות יכולה לכלול רק מוצרים של הספק שהוא הבעלים של מיקרו חנות זו. כמו כן, תוצאות החיפוש מיקרו חנות של הספק יכללו רק מוצרים של ספק זה."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "הוסף תוכנית הספק"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "תוכנית ספק חדשה"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "עריכה של תוכנית הספק"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "מחיקת תכנית לא הצליחה: היא בשימוש של ספקים מסוימים"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "השבתת התכנית לא הצליחה: היא בשימוש של ספקים מסוימים"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "עמלת העסקה"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "עמלת העסקה (abs)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "הכנסה"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "הכנסה עד ל"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "הכנסה מקסימלית חודשית המותרת לספקים המשתמשים בתוכנית זו. השאר שדה זה ריק כדי לאפשר הכנסה בלתי מוגבלת."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "מיקרו חנות של הספק"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "הצע כבחירה הטובה ביותר"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "הבחירה הטובה ביותר"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "תחויב עבור התוכנית לאחר שמנהל המערכת יאשר את חשבון הספק שלך"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "התוכנית הנוכחית"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "שימוש בתוכנית הנוכחית"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "הבחירה הטובה ביותר"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "בחר את התוכנית שלך"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "בחר"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "חודש"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "שנה"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "שם התוכנית"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> מוצר|<strong>[n]</strong> מוצרים"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "בלתי מוגבל"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>בלתי מוגבל</strong> מוצרים"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "הכנסה עד ל <strong> [revenue]</strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>הכנסה <strong>בלתי מוגבלת"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "עמלת עסקה: <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "עמלת הספק"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "ציין את הקטגוריה."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "התוכנית שלך נקבעה כ [plan]. ראה את הפרטים של התוכנית שלך להלן."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "תשלום עבור התוכנית שלך"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "סכום של [price] נמשך מחשבונך עבור השימוש ב [plan] תוכנית. עבור לקישור <a href=\"[href]\"> כדי לצפות ביתרה בחשבונך </a> או ראה את פרטי חשבונך להלן."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "התוכנית שלך שונתה"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "התוכנית שלך השתנתה ל [plan]. ראה פרטי התוכנית שלך להלן."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "לא ניתן להוסיף מוצרים נוספים: הגעת למספר מקסימלי של המוצרים המותרים לפי התוכנית שלך. כדי לשנות את תכניתך, נא <a href=\"[href]\"> עבור לקישור הבא </a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "עברת את ההכנסה המקסימלית"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> עברת את ההכנסה המקסימלית המותרת על ידי [plan] התוכנית."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "בלתי זמינה"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "יותר מדי מוצרים ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "הכנסה גבוהה מדי ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "לצערנו, תוכנית זו אינה זמינה עבורך. בחר תוכנית זמינה."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "אתה עובר לתוכנית ספק אחרת. תחויב במחיר מלא של התוכנית. האם אתה בטוח שברצונך להמשיך?"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "תכניות ספקים: הודעה על שינוי תוכנית"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "תכניות ספקים: הודעת תשלום"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "תכניות ספקים: הודעת על הכנסה"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "יכול לצפות"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "תכניות ספקים"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] מתוך [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "מתוך [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% מ [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "תשלום לספק לפי תכנית הספק: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "תכנית הספק"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "האם השינויים שלך צריכים להשפיע על ספקים קיימים?"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "מה עלינו לעשות בקשר ל-<a href=\"[search_url]\" target=\"_blank\">ספק</a>שמשתמש בתוכנית זו כעת?|מה עלינו לעשות בקשר ל-<a href=\"[search_url]\" target=\"_blank\">[n] ספקים</a> שמשתמשים בתוכנית זו כעת?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "הוסף את הספק לחזיתות החנויות שנוספו לתוכנית. הוסף את הספקים לחזיתות החנויות שנוספו לתוכנית"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "הסר את הספק מחזיתות החנויות שהוסרו מהתוכנית. הסר את הספקים מחזיתות החנויות שהוסרו מתוכנית"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "הספק הועבר לתכנית אחרת"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "מה עלינו לעשות בקשר לחזיתות החנויות שזמינות עבור ספק זה?"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "הוסף את הספק לחזיתות החנויות הזמינות בתוכנית הספק החדשה"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "הסר את הספק מחזיתות החנויות הזמינות בתכניתו הקודמת"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "יצירת תכנית ספקים מתקדמת"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "נוצרה תוכנית ספק חדשה \"[plan_name]\". כעת תוכל <a href=\"[link]\">להגדיר הגבלות על ספקים המשתמשים בתכנית זו</a> ."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "[עמלה] עמלה%"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "תוכנית ברירת מחדל"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "תוכנית הספק שונתה"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "תוכניות ספקים"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "תוכניות ספקים: תוכנית ספק שונתה"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "הספק \"[vendor]\" הועבר ל- \"[plan]\""
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "התוכנית של הספק \"[vendor]\" שונתה מ- \"[old_plan]\" ל- \"[new_plan]\"."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "תוכנית ישנה"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "תכנית חדשה"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "הוסף מנהלי ספקים לקבוצות המשתמשים שנוספו לתוכנית"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "הסר מנהלי ספקים מקבוצות המשתמשים שהוסרו מהתוכנית"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "אלו הן קבוצות המשתמשים שמנהלי הספק יקבלו כאשר ספק יקבל את התוכנית הזו"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "מצטערים, קטגוריה זו אינה זמינה עבור הספק. אנא בדוק את התצורה של תוכנית הספק."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "כל חלונות הראווה כלולים"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "כל הקטגוריות כלולות"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "לא ניתן היה להשבית את תוכנית הספק. חייבת להתקיים לפחות תוכנית ספק פעילה או נסתרת אחת."
+

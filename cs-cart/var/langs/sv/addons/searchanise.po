@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/searchanise.po\n"
+"X-Crowdin-File-ID: 6668\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Addons::description::searchanise"
+msgid "Turns on the <a target=\"_blank\" href=\"https://searchanise.io/\">Searchanise</a> fast search service"
+msgstr "Slår på snabbsöktjänsten <a target=\"_blank\" href=\"https://searchanise.io/\">Searchanise</a>"
+
+msgctxt "Languages::searchanise_menu_description"
+msgid "Manage search settings, customize view and merchandise products."
+msgstr "Hantera sökinställningar, anpassa vyer och varuprodukter."
+
+msgctxt "Languages::searchanise"
+msgid "Searchanise"
+msgstr "Searchanise"
+
+msgctxt "Languages::text_se_import_status_queued"
+msgid "The product catalog is queued for syncing with Searchanise."
+msgstr "Produktkatalogen står i kö för synkronisering med Searchanise."
+
+msgctxt "Languages::text_se_re_indexation_required"
+msgid "Searchanise: Re-indexation required (click the <strong>Force re-indexation</strong> button in the <a href=\"[link]\">Searchanise admin panel</a>)."
+msgstr "Searchanise: Förnyad indexering krävs, klicka på knappen <b>Tvinga indexering</b> i <a href=\"[link]\">Searchanise kontrollpanel</a>."
+
+msgctxt "Languages::text_se_new_engine_store"
+msgid "Searchanise: New search engine for [store] created. Catalog import started."
+msgstr "Searchanise: Ny sökmotor för [store] upprättades. Katalogimport startad."
+
+msgctxt "Languages::text_se_seo_settings_notice"
+msgid "If you have modified any SEO add-on settings, please <a href=\"[link]\">Re-indexation</a> product catalog with Searchanise to update product URLs."
+msgstr "Om du ändrat någon SEO inställning måste du <a href=\"[link]\">återindexera</a> butiken med Searchanise för att uppdatera alla URLer."
+
+msgctxt "Languages::text_se_connect_error"
+msgid "An error occurred during Searchanise registration. Please try later."
+msgstr "Ett fel inträffade under Searchanise registreringen. Försök igen senare."
+
+msgctxt "Languages::text_se_import_status_processing"
+msgid "The product catalog syncing is in progress."
+msgstr "Synkronisering av produktkatalogen pågår."
+
+msgctxt "Languages::text_se_import_status_done"
+msgid "The product catalog was synced successfully with Searchanise."
+msgstr "Produktkatalogen har synkroniserats med Searchanise."
+
+msgctxt "Languages::text_se_import_status_none"
+msgid "The product catalog is not synced with Searchanise yet. Please press \"Sync\" button to start."
+msgstr "Produktkatalogen är inte synkroniserad med Searchanise ännu. Klicka på \"Sync\" knappen för att starta."
+
+msgctxt "Languages::text_se_data_update"
+msgid "Please note that the data on Searchanise server is updated with a 2-3 minute delay after you make changes in your store."
+msgstr "Obs! Searchanise servern uppdateras med 2-3 minuters fördröjning efter att du ändrat något i din butik."
+
+msgctxt "Languages::text_se_signup"
+msgid "Click the button below to connect to Searchanise."
+msgstr "Klicka på knappen nedanför för att ansluta till Searchanise."
+
+msgctxt "Languages::text_se_just_connected"
+msgid "Congratulations, you've just connected to Searchanise."
+msgstr "Grattis, du har just anslutet till Searchanise."
+
+msgctxt "Languages::text_se_connected"
+msgid "You've connected to Searchanise."
+msgstr "Du har anslutit till Searchanise."
+
+msgctxt "Languages::text_se_ajax_connecting"
+msgid "Product indexation has started in your store. It may take some time. Wait just a little, we've almost finished."
+msgstr "Produktindexering har påbörjats i din butik. Det kan ta lite tid. Vänta lite, vi är nästan klara."
+
+msgctxt "Languages::text_se_database_restore_notice"
+msgid "You've just restored your data from the database dump file. If this dump contains product data, please <a href=\"[link]\">Re-indexation</a> it with Searchanise."
+msgstr "Eftersom du har återställt data från en databas dump-fil måste du, om denna fil innehåller produktdata <a href=\"[link]\">återindexera</a> Searchanise."
+
+msgctxt "Languages::text_se_only_root_can_register"
+msgid "Only the root admin has the permission to connect to Searchanise"
+msgstr "Endast huvudadministratör har tillåtelse att ansluta till Searchanise"
+
+msgctxt "Languages::se_did_you_mean"
+msgid "Did you mean"
+msgstr "Menade du"
+
+msgctxt "Languages::se_product_id"
+msgid "Product Id"
+msgstr "Produkt ID"
+
+msgctxt "Languages::se_title"
+msgid "Title"
+msgstr "Titel"
+
+msgctxt "Languages::se_summary"
+msgid "Description"
+msgstr "Beskrivning"
+
+msgctxt "Languages::se_link"
+msgid "Product Url"
+msgstr "Produkt Url"
+
+msgctxt "Languages::se_price"
+msgid "Price"
+msgstr "Pris"
+
+msgctxt "Languages::se_list_price"
+msgid "List Price"
+msgstr "Listpris"
+
+msgctxt "Languages::se_quantity"
+msgid "Quantity"
+msgstr "Antal"
+
+msgctxt "Languages::se_product_code"
+msgid "Product Code"
+msgstr "Produktkod"
+
+msgctxt "Languages::se_image_link"
+msgid "Image Url"
+msgstr "Bild Url"
+
+msgctxt "Languages::se_category_Id"
+msgid "Category Id"
+msgstr "Kategori ID"
+
+msgctxt "Languages::se_category_usergroup_ids"
+msgid "Category Usergroup Ids"
+msgstr "Kategori kundgrupp ID"
+
+msgctxt "Languages::se_usergroup_ids"
+msgid "Usergroup Ids"
+msgstr "Kundgrupp ID"
+
+msgctxt "Languages::se_company_id"
+msgid "Company Id"
+msgstr "Företag ID"
+
+msgctxt "Languages::se_empty_categories"
+msgid "Without Categories"
+msgstr "Utan kategorier"
+
+msgctxt "Languages::se_active_companies"
+msgid "Company is active"
+msgstr "Företaget är akivt"
+
+msgctxt "Languages::se_price_for_usergroup_id"
+msgid "Price for usergroup Id ([id])"
+msgstr "Pris för kundgrupp ID ([id])"
+
+msgctxt "Languages::se_for_feature_id"
+msgid "Feature \"[id]\" Id"
+msgstr "Egenskapsidentifierare \"[id]\""
+
+msgctxt "Languages::se_relevance"
+msgid "Relevance"
+msgstr "Relevans"
+
+msgctxt "Languages::se_products"
+msgid "Products"
+msgstr "Produkter"
+
+msgctxt "Languages::se_popular_suggestions"
+msgid "Popular suggestions"
+msgstr "Populära förslag"
+
+msgctxt "Languages::sort_by_relevance_asc"
+msgid "Sort by Relevance"
+msgstr "Sortera efter relevans"
+
+msgctxt "Languages::se_api_key"
+msgid "API key"
+msgstr "API nyckel"
+
+msgctxt "Languages::se_private_key"
+msgid "Private key"
+msgstr "Privat nyckel"
+
+msgctxt "Languages::se_options_combinations_codes"
+msgid "Options combinations codes"
+msgstr "Kombinationskoder för alternativ"
+
+msgctxt "Languages::se_master_product_status"
+msgid "Common product status"
+msgstr "Gemensam produktstatus"
+
+msgctxt "Languages::se_is_vendor_product"
+msgid "Vendor product flag"
+msgstr "Säljarens produktflagga"
+
+msgctxt "Languages::se_is_master_product"
+msgid "Сommon product flag"
+msgstr "Gemensam produktflagga"
+
+msgctxt "Languages::se_connection_warning"
+msgid "Searchanise: There is no connection to Searchanise server! For Searchanise to work properly, the store server must be able to access searchserverapi.com. Please contact Searchanise <a href=\"mailto: [email]\">[email]</a> technical support or your system administrator."
+msgstr "Searchanise: Det finns ingen anslutning till Searchanise-servern! För att Searchanise ska fungera korrekt måste butiksservern kunna komma åt searchserverapi.com. Kontakta Searchanise <a href=\"mailto: [email]\">[email]</a> tekniska support eller din systemadministratör."
+
+msgctxt "Languages::se_queue_warning"
+msgid "Searchanise: We found an issue with the export of changes in your store catalog. To resolve the issue please contact the Searchanise <a href=\"mailto: [email]\">[email]</a> technical support."
+msgstr "Searchanise: Vi hittade ett problem med exporten av ändringar i din butikskatalog. Kontakta Searchanise <a href=\"mailto: [email]\">[email]</a> tekniska support för att lösa problemet."
+
+msgctxt "SettingsSections::searchanise::configuration"
+msgid "Configuration"
+msgstr "Inställningar"
+

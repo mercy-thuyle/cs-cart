@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "Directe klant-naar-leverancier betalingen"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "Verandert het afrekenproces: klanten betalen aan elke leverancier afzonderlijk en het geld van bestellingen gaat rechtstreeks naar leveranciers. Verkopers kunnen ook hun eigen betaalmethoden en promoties instellen."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "Overzicht winkelwagentjes"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "Nu betalen"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "Er zijn producten in uw winkelwagen die u nog niet heeft besteld. Gelieve <a href=\"[cart_url]\">uw winkelwagen te bekijken</a> om door te gaan met afrekenen."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "Uitbetaling van de commissie voor de bestelling #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "U heeft zelf geen actieve betaalmethoden. Daarom worden bij het afrekenen de betaalmethoden van de eigenaar van de marktplaats gebruikt. Stel uw eigen betaalmethode in om vertragingen bij het ontvangen van geld te voorkomen."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "Deze betaalmethoden worden alleen aan klanten aangeboden als een leverancier geen actieve betaalmethoden heeft. Het geld van bestellingen gaat eerst naar de marktplaatseigenaar, die hierover wordt geïnformeerd en dat geld moet overmaken naar de verkoper."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "Uw betaalmethoden"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "Betaalmethoden van Marketplace-eigenaar"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "Maak een betaalmethode aan"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "Winkelwagen door leveranciers"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "Winkelwagen van de klant opgesplitst door leveranciers bij het afrekenen"
+

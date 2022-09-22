@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_analytics.po\n"
+"X-Crowdin-File-ID: 6596\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::google_analytics"
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgctxt "Addons::description::google_analytics"
+msgid "Integrates a Google Analytics service with the store"
+msgstr "Google Analyticsによるアクセス情報の収集・分析を可能にします"
+
+msgctxt "SettingsSections::google_analytics::general"
+msgid "General"
+msgstr "基本設定"
+
+msgctxt "SettingsOptions::google_analytics::tracking_code"
+msgid "Google Analytics account number"
+msgstr "Google AnalyticsのプロパティID"
+
+msgctxt "SettingsOptions::google_analytics::track_ecommerce"
+msgid "Track e-commerce transactions"
+msgstr "Eコマーストランザクションのトラッキング"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_title"
+msgid "Google Tag Manager"
+msgstr "Googleタグマネージャー"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_description"
+msgid "Google Tag Manager is a service that provides us with website analytics: the number of unique visitors, the most and least popular pages, etc. Here is <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">Google Tag Manager statement on privacy</a>."
+msgstr "Google Tag Managerは、ウェブサイト分析を提供するサービスです。ユニークな訪問者の数、最も人気のあるページと最も人気のないページなどです。プライバシーに関するGoogleTagManagerのステートメントは <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">です</a>。"
+

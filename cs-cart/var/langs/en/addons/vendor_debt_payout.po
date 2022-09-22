@@ -1,0 +1,341 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Vendor-to-admin payments"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Suspend vendors if their balance remains below"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Grace period to refill balance"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Taxes on refilling balance"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Vendor-to-admin payments"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Marketplace fees"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Marketplace fees (order #[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Payment surcharge for marketplace fees (order #[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Pay the fees"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Restrict admin panel functions if vendor's debt reaches"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Grace period for vendor plan fees"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "day(s)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Suspend vendors"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Suspend vendors if their balance remains below"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Grace period to refill balance"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "The debt of [amount] that hasn't been paid until [date]."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "Hide products of suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Block admin panel of suspended vendors"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Block admin panel of suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Notify vendors about upcoming suspension"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Notify admin about suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Send weekly digest of suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Disable suspended vendors after a while"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Time in days before a suspended vendor is disabled"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Notify vendors about their disabled account"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Notify admin about disabled vendors"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Actions on suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Notifications"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Refill balance"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Enter an amount"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "Suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Your account might get suspended soon"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Your account is suspended"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Vendor sign-in: Debt and grace period"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Please deposit at least [amount] until [date] to avoid suspension."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Vendor-to-admin payments notifications"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Vendor-to-admin payments notifications"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Vendor-to-admin payments notifications"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Vendor-to-admin payments notifications"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Vendor status was changed to Suspended"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Vendor-to-admin payments notifications"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Vendor status changed from Suspended"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Vendor sign-in: Debt and grace period"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Vendor-to-admin payments notifications"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Vendor status was changed to Disabled"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: Weekly digest of debtors"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Weekly digest of debtors"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Weekly digest of debtors"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: Status changed to [status]"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "The status of vendor [vendor_name] was changed to [status]."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Your account might get suspended soon"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "Your account at [marketplace] might get suspended soon."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Info about upcoming suspension"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Send weekly digest of suspended vendors"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "Debt owned"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Account balance"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "These vendors got suspended for debt automatically since the last report:"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "These vendors paid their debt and had their suspension lifted since the last report:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "No vendors got suspended for debt automatically since the last report."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "No vendors paid their debt and had their suspension lifted since the last report."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr "Naming \"Vendor debt\" for different languages"
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Edit</a>"

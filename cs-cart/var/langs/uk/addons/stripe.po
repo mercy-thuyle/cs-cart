@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe.po\n"
+"X-Crowdin-File-ID: 6666\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "Платежі Stripe"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "Дозволяє приймати платежі через Stripe."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "Stripe"
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "Публічний ключ"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "Секретний ключ"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "Тип платежу"
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "Кредитна картка"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Аплет <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> вимагає відображати іконку Apple Pay на сторінці оплати.</p><p>Ви можете встановити наступне зображення як значок способу оплати або використайте його в описі способу оплати:</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p><a href=\"[guidelines_url]\" target=\"_blank\">Правила </a> Google вимагають, щоб на сторінці оплати відображалася іконка Google Pay.</p><p>Ви можете встановити наступне зображення як значок способу оплати або використовувати його в описі способу оплати:</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "Оплата онлайн"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "Тестовий платіж (оплата не стягується)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "При використанні Apple Pay або Google Pay плата не стягуватиметься."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "Apple Pay не підтримується цим пристроєм"
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "Google Pay не підтримується цим пристроєм"
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "Токен системи Stripe"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "Країна облікового записку Stripe"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "Показувати кнопку \"[button_name]\" на сторінках товарів"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "Купити через Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "Купити через Google Pay"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "Під час створення PaymentIntent з платежем №[payment_id]: [error]сталася помилка"
+
+msgctxt "Languages::stripe.webhook_register_error"
+msgid "An error occurred while registering the webhook for the payment #[payment_id]: [error]"
+msgstr "Під час реєстрації вебхука для платежу сталася помилка №[payment_id]: [error]"
+
+msgctxt "Languages::stripe.webhook_handle_error"
+msgid "An error occurred while processing the webhook: [error]"
+msgstr "Під час обробки вебхука сталася помилка: [error]"
+
+msgctxt "Languages::stripe.merchant_identifier"
+msgid "Merchant identifier"
+msgstr "Ідентифікатор продавця"
+
+msgctxt "Languages::stripe.stripe_cookie_title"
+msgid "Stripe"
+msgstr "Смуга"
+
+msgctxt "Languages::stripe.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe є платіжним постачальником. Це дозволяє нам приймати платежі, якщо ви виберете спосіб оплати на основі Stripe. Ось <a href=\"https://stripe.com/privacy\" target=\"_blank\">Політика конфіденційності Stripe</a>."
+

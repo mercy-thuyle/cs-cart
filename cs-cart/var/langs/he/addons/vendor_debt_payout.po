@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "תשלומי ספק למנהל"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "מגביל את הפונקציונליות פאנל אדמיניסטרטיבי של ספקים תחת תנאים מסוימים ומאפשר לספקים לשלם עמלות שלהם ואת החובות בפאנל אדמיניסטרטיבי. זה קל כמו רכישת מוצר בחנות."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "השעה את הספקים אם יתרתם נשארת מתחת"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "תקופת חסד למילוי איזון"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "מיסים על יתרת מילוי מחדש"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "תשלומי ספק למנהל"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "עמלות"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "עמלות בשוק (הזמנה מספר [id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "תוספת תשלום עבור עמלות בשוק (הזמנה מס'[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "לשלם את עמלות"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "הגבל פונקציות ניהול פאנל אדמיניסטרטיבי של ספק במידה וקיים חוב של ספק"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "כאשר היתרה של ספק היא שלילית ומגיעה למספר זה, פאנל אדמיניסטרטיבי של הספק לא יאפשר לבצע פעולות כלשהן. כאשר היתרה השלילית של ספק היא מחצית מהמספר הזה, הספק יראה את האזהרה שצוין במשתנה השפה \"vendor_debt_payout.debt_near_imit_message\"."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "תקופת גרייס עבור דמי תוכנית הספק"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "תשלומים עבור תוכניות נלקחים מתוך יתרת החשבון של הספק. אם היתרה נהיית שלילית לאחר תשלום האגרה, ותקופה זו פג, פאנל אדמיניסטרטיבי של הספק לא יאפשר לבצע פעולות כלשהן עד שהספק ישלם את החוב."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "יום (ימים)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "עליך לשלם את עמלות של [fee_amount] עבור משתמש התוכנית [plan_name]. יתרת החשבון הנוכחי שלך הוא [current_balance]. אם התשלום לא ישולם עד [overdue_date], לא תוכלו לעבוד עם הפאנל אדמיניסטרטיבי עד <a href=\"[pay_url]\" target=\"_blank\">לשלם כל העמלות</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "מצב החשבון שלך הוא כעת [current_balance]. אם זה מגיע [minimal_balance], לא תוכלו להשתמש בפאנל אדמיניסטרטיבי שלך עד <a href=\"[pay_url]\" target=\"_blank\">שתשלמו כל העמלות</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p> הגישה שלך לפאנל אדמיניסטרטיבי הוגבלה באופן אוטומטי מפני שהגעת למגבלת היתרה בחשבון שלילי או שלא שילמת עמלה בגין תוכנית הספקים שלך בזמן. </p> <p> יתרת החשבון הנוכחית שלך היא [current_balance].</p><p>בבקשה <a href=\"[pay_url]\">לשלם את העמלות</a> - לאחר ביצוע התשלום, הגישה שלך לפאנל אדמיניסטרטיבי תשוחזר באופן אוטומטי. </p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "השעיית ספקים"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "השעה את הספקים אם יתרתם נשארת מתחת"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "תקופת חסד למילוי איזון"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "החוב של [amount]  שלא שולם עד [date]."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "כדי להקל על העבודה עם ספקים מושעים, בדוק את ההגדרות של תוסף <a href=\"[link]\">תשלומי ספק לספק</a> ."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "ספק יכול להיות מושעה אם החוב חורג מתנאי <a href=\"[link]\">תוכנית הספק</a> ."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "הסתר מוצרים של ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "חסום את לוח הניהול של ספקים מושעים"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "חסום את לוח הניהול של ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "הודע לספקים על השעיה הקרובה"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "הודע למנהל על ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">ערוך הודעות</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "שלח תקציר שבועי של ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "השבת ספקים מושעים לאחר זמן מה"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "זמן בימים לפני שספק מושעה מושבת"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "הודע לספקים על חשבונם המושבת"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "הודע למנהל על ספקים מושבתים"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "פעולות על ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "הודעות"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "למלא איזון מחדש"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "הזן סכום"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "מצטערים, לא הצלחנו להמשיך בתשלום. הסכום שצוין חייב להיות גדול מ- 0."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "חשבונך מושעה. כדי להסיר את ההשעיה, יש להפקיד לפחות [סכום] כדי למלא את היתרה עד ל [vendor_plan_lowers_allowed_ balance]. <a target=\"_blank\" href=\"[link]\">למלא איזון מחדש</a> ."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "חשבונך עשוי להיות מושעה בקרוב. יש להפקיד לפחות [סכום] עד [תאריך] כדי למנוע השעיה. <a target=\"_blank\" href=\"[link]\">למלא איזון מחדש</a> ."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p style=\";text-align:right;direction:rtl\"> חשבונך הושעה אוטומטית. </p><p style=\";text-align:right;direction:rtl\"> סיבה: היתרה הנוכחית שלך היא [יתרה], שהיא מתחת ליתרה המינימלית המותרת של [יתרה_מאוזנת_]. </p><p style=\";text-align:right;direction:rtl\"> נא להפקיד לפחות [סכום]. לאחר עיבוד התשלום, ההשעיה תוסר באופן אוטומטי. </p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p style=\";text-align:right;direction:rtl\"> היתרה הנוכחית שלך היא [יתרה], שהיא מתחת ליתרה המינימלית המותרת של [יתרה_מאוזנת_מאוזנת]. </p><p style=\";text-align:right;direction:rtl\"> יש להפקיד לפחות [סכום] עד [תאריך]. אחרת חשבונך עשוי להיות מושעה."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "חשבונך עשוי להיות מושעה בקרוב"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "חשבונך מושעה"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "כניסה לספק: תקופת חוב וחסד"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "יש להפקיד לפחות [סכום] עד [תאריך] כדי למנוע השעיה."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "כדי להסיר את ההשעיה, יש להפקיד לפחות [סכום] כדי למלא את היתרה עד ל [vendor_plan_lowers_allowed_ balance]."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "התראות תשלומים של ספק למנהל"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "התראות תשלומים של ספק למנהל"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "התראות תשלומים של ספק למנהל"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "התראות תשלומים של ספק למנהל"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "סטטוס הספק שונה למושעה"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "התראות תשלומים של ספק למנהל"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "סטטוס הספק השתנה מהשעיה"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "כניסה לספק: תקופת חוב וחסד"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "התראות תשלומים של ספק למנהל"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "סטטוס של ספק שונה למושבת"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: עיכול שבועי של חייבים"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "זהו דו\"ח שבועי על חייבים בשוק שלך. זה כולל את הספקים שהפכו לחייבים או ששילמו את חובם מאז הדוח האחרון. יכול להיות שיש בשוק שלך <a href=\"[href]\">ספקים מושעים יותר</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "עיכול שבועי של חייבים"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "עיכול שבועי של חייבים"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: הסטטוס השתנה ל- [סטטוס]"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "סטטוס הספק [vendor_name] השתנה ל [status]."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "חשבונך עשוי להיות מושעה בקרוב"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "חשבונך ב- [marketplace] עשוי להיות מושעה בקרוב."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "מידע על ההשעיה הקרובה"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "היתרה הנוכחית שלך היא [יתרה], שהיא מתחת ליתרה המינימלית המותרת של [יתרה_מאוזנת_מאוזנת]. יש להפקיד לפחות [סכום] עד [תאריך] כדי למנוע השעיה. תוכל למלא את היתרה <a href=\"[link]\">בחלונית הספקים</a> שלך."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "הגדרנו את היתרה המינימלית המותרת ל 0. כעת בכל פעם שיתרת הספק יורדת מתחת ל 0, תקופת החסד תתחיל, והספק יתבקש לשלם את החוב."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "שלח תקציר שבועי של ספקים מושעים"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "בבעלות חוב"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "יתרת חשבון"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "ספקים אלה הושעו מחובות באופן אוטומטי מאז הדוח האחרון ::"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "ספקים אלה שילמו את חובם ובוטלו השעייתם מאז הדיווח האחרון:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "אף ספק לא הושעה בגלל חוב באופן אוטומטי מאז הדוח האחרון."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "אף ספק לא שילם את חובם והשעייתם הוסרה מאז הדיווח האחרון."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "החוב הכולל של כל הספקים בשוק שלך (כולל אלה שאינם רשומים בדו\"ח זה) כרגע הוא [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "הספקים מחזירים את חובם על ידי רכישת מוצר עמלות ספציפיות בשוק. כאן תוכלו לערוך פרטים של המוצר והקטגוריה אליה הוא שייך."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "מוצר"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "קטגוריה"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">ערוך</a>"
+

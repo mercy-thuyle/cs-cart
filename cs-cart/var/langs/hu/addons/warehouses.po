@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/warehouses.po\n"
+"X-Crowdin-File-ID: 6702\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::warehouses"
+msgid "Warehouses"
+msgstr "Raktárak"
+
+msgctxt "Addons::description::warehouses"
+msgid "Lets you set product stock separately for each store and warehouse. Shows to customers the availability of a product in stores or in particular rate areas."
+msgstr "Lehetővé teszi a termékkészlet külön-külön beállítását minden egyes piactér és raktár számára. Megjeleníti a vásárlók számára egy termék elérhetőségét a piactereken vagy bizonyos díjszabási területen."
+
+msgctxt "Languages::warehouses.store_type"
+msgid "Type"
+msgstr "Típus"
+
+msgctxt "Languages::warehouses.store_type_store"
+msgid "Store"
+msgstr "Piactér"
+
+msgctxt "Languages::warehouses.store_type_pickup"
+msgid "Pickup point"
+msgstr "Átvételi pont "
+
+msgctxt "Languages::warehouses.store_type_warehouse"
+msgid "Warehouse"
+msgstr "Raktár"
+
+msgctxt "Languages::warehouses.name"
+msgid "Name"
+msgstr "Név"
+
+msgctxt "Languages::warehouses.city"
+msgid "City"
+msgstr "Város"
+
+msgctxt "Languages::warehouses.quantity"
+msgid "Quantity"
+msgstr "Mennyiség"
+
+msgctxt "Languages::warehouses.settings"
+msgid "Settings"
+msgstr "Beállítások"
+
+msgctxt "Languages::warehouses.ship_to"
+msgid "Ship to"
+msgstr "Szállítási cím"
+
+msgctxt "Languages::warehouses.ship_to_tooltip"
+msgid "Determines the rate areas in which the products from this warehouse will be considered available."
+msgstr "Meghatározza azokat a díjszabási területeket, amelyekben az adott raktárból származó termékek elérhetőnek tekintendők."
+
+msgctxt "Languages::warehouses.main_destination_tooltip"
+msgid "Determines where this place is located. In turn, this determines the shipping rate and delivery time to this place."
+msgstr "Meghatározza, hogy hol található ez a hely. Ez viszont meghatározza a szállítási díjat és a szállítási időt erre a helyre."
+
+msgctxt "Languages::warehouses.show_to"
+msgid "Show to"
+msgstr "Megjelenítés"
+
+msgctxt "Languages::warehouses.show_to_tooltip"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Lehetővé teszi, hogy ezt az átvételi pontot más tarifális zónák lakosainak is felajánlja a pénztárnál."
+
+msgctxt "Languages::warehouses.out_of_stock_products"
+msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
+msgstr "[product] termék nincs raktáron a kiválasztott régióban.|A következő termékek nincsenek raktáron a kiválasztott régióban: [products]"
+
+msgctxt "Languages::warehouses.warehouse_stock"
+msgid "Quantities"
+msgstr "Mennyiségek"
+
+msgctxt "Languages::warehouses.stores_and_warehouses"
+msgid "Stores & Warehouses"
+msgstr "Piacterek & raktárak"
+
+msgctxt "Languages::warehouses.store_warehouse"
+msgid "Store / Warehouse"
+msgstr "Piactér / raktár"
+
+msgctxt "Languages::warehouses.shipping_delay"
+msgid "Moving time"
+msgstr "(Áru)mozgatási idő"
+
+msgctxt "Languages::warehouses.shipping_delay.tooltip"
+msgid "The time it takes to move products from here to another store or warehouse in this rate area."
+msgstr "Az az idő, amely alatt a termékeket innen egy másik piactérre vagy raktárba szállítják ebben a díjszabási területen."
+
+msgctxt "Languages::warehouses.warn_about_delay"
+msgid "Warn about delay"
+msgstr "Figyelmeztetés késedelemre"
+
+msgctxt "Languages::warehouses.warn_about_delay.tooltip"
+msgid "If a product has to be moved to the rate area from here, show the moving time in the product list and cart."
+msgstr "Ha egy terméket innen kell áthelyezni a díjszabási területre, akkor a terméklistában és a kosárban az (áru)mozgatási idő megjelenítése."
+
+msgctxt "Languages::warehouses.destinations_configuration.tooltip"
+msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
+msgstr "A termékeket először különböző piacterekről és raktárakból lehet elvinni, attól függően, hogy a vásárló hol tartózkodik. <a href=\"[destinations_url]\" target=\"_blank\">Piacterek és raktárak prioritásának egyedi beállítása minden egyes díjszabási területhez.</a>"
+
+msgctxt "Languages::warehouses.shipping_delay.description"
+msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
+msgstr "A termék távoli raktárban található. Ha megrendeled, akkor [shipping_delay] fogjuk küldeni."
+
+msgctxt "Languages::warehouses.shipping_delay.description.default"
+msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
+msgstr "A termék távoli raktárban található. Ha megrendeled, a szállítás valamelyest tovább tarthat."
+
+msgctxt "Languages::warehouses.shipping_delay.description.short"
+msgid "If ordered: [shipping_delay]"
+msgstr "Rendelés esetén: [shipping_delay]"
+
+msgctxt "Languages::warehouses.shipping_delay_for_products"
+msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
+msgstr "A megrendelt termékek egy része távoli raktárban található. A szállítás az itt megadottnál kissé hosszabb ideig tarthat."
+
+msgctxt "Languages::warehouses.product_available_if_ordered"
+msgid "Available if ordered"
+msgstr "Rendelés esetén elérhető"
+
+msgctxt "Languages::warehouses.product_in_stock"
+msgid "In stock"
+msgstr "Készleten"
+
+msgctxt "Languages::warehouses.in_n_stores"
+msgid "in [n] store|in [n] stores"
+msgstr "[n] piactéren|[n] piactéren"
+
+msgctxt "Languages::warehouses.product_availability"
+msgid "Availability in stores"
+msgstr "Elérhetőség a piactereken"
+
+msgctxt "Languages::block_availability_in_stores"
+msgid "Availability in stores"
+msgstr "Elérhetőség a piactereken"
+
+msgctxt "Languages::block_availability_in_stores_description"
+msgid "List of stores where the product can be purchased"
+msgstr "Azon piacterek listája, ahol a termék megvásárolható"
+
+msgctxt "Languages::warehouses.store_and_address"
+msgid "Store and address"
+msgstr "Piactér és cím"
+
+msgctxt "Languages::warehouses.phone"
+msgid "Phone"
+msgstr "Telefonszám"
+
+msgctxt "Languages::warehouses.search_store"
+msgid "Search store"
+msgstr "Piactér keresése"
+
+msgctxt "Languages::warehouses.stores_list"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "Languages::warehouses.stores_map"
+msgid "Map"
+msgstr "Térkép"
+
+msgctxt "Languages::warehouses.no_matching_stores_found"
+msgid "No stores found matching the search criteria"
+msgstr "Nem találhatók a keresési feltételeknek megfelelő piacterek"
+
+msgctxt "Languages::warehouses.rate_area"
+msgid "Rate area"
+msgstr "Díjszabási terület"
+
+msgctxt "Languages::warehouses.shipping_delay_notification"
+msgid "Delay warning"
+msgstr "Késlekedési figyelmeztetés"
+
+msgctxt "Languages::warehouses.shipping_delay_notification.tooltip"
+msgid "It will appear if products aren't available in the stores and warehouses above."
+msgstr "Megjelenik, ha a termékek nem állnak rendelkezésre a fenti piactereken és raktárakban."
+
+msgctxt "Languages::warehouses.type_to_search_or_check_all"
+msgid "Type to search, or click the button on the right to add all rate areas"
+msgstr "Írd be a kereséshez, vagy kattints a jobb oldali gombra az összes díjszabási terület hozzáadásához."
+
+msgctxt "Languages::warehouses.any_store_type"
+msgid "Any type of store"
+msgstr "Bármilyen típusú piactér"
+
+msgctxt "Languages::warehouses.add_all"
+msgid "Add all"
+msgstr "Összes hozzáadása"
+
+msgctxt "Languages::warehouses.quantity_tab.no_data"
+msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
+msgstr "Ezen a piactéren nincsenek piacterek vagy raktárak. Kérjük, <a href=\"[create_url]\"> hozz létre egyet</a> vagy <a href=\"[list_url]\"> tégy elérhetővé egy meglévőt</a> az adott piactérhez."
+
+msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
+msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."
+msgstr "Ez nem érinti azokat a termékeket, amelyeknek az importált fájlban megadott mennyisége van. Ez szintén nem érinti az olyan raktárakban lévő termékeket, amelyek nincsenek frissítve ebben az előbeállításban."
+
+msgctxt "Languages::warehouses.destination_can_be_deleted"
+msgid "Couldn't delete the rate area because at least one product is contained in warehouses in this rate area. Please delete this rate area from warehouse or reset the number of <a href=\"[href]\">these products</a>, and try again."
+msgstr "Nem sikerült törölni a díjterületet, mert legalább egy termék van raktárban ezen a díjterületen. Kérjük, törölje ezt a díjszabási területet a raktárból, vagy állítsa vissza a <a href=\"[href]\">darab termék számát</a>, és próbálkozzon újra."
+
+msgctxt "Languages::commerceml.map.entity_type.warehouse"
+msgid "Warehouses"
+msgstr "Raktárak"
+
+msgctxt "Languages::commerceml.tab.warehouse"
+msgid "Warehouses"
+msgstr "Raktárak"
+
+msgctxt "Languages::warehouses.commerceml.import.error.product.warehouse_not_found"
+msgid "Couldn't find warehouse [id]"
+msgstr "Nem található a [id] raktár "
+
+msgctxt "Languages::warehouses.commerceml.import.message.warehouse.created"
+msgid "Category [id] created; local ID: [local_id]"
+msgstr "Kategória [id] létrehozva; helyi azonosító: [local_id]"
+

@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::mve_plus"
+msgid "Multi-Vendor Plus Functionality"
+msgstr "Multi-Vendor Plus Functionality"
+
+msgctxt "Addons::description::mve_plus"
+msgid "Enables the functionality available only in the Multi-Vendor Plus edition."
+msgstr "Enables the functionality available only in the Multi-Vendor Plus edition."

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Liitteet"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Mahdollistaa liitteiden lisäämisen tuotteisiin"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Liitteet"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Uusi liite"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Lisää liite"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Liitteen muokkaaminen"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Määritä liitehakemisto kaupan juurihakemistossa. Laita tuotavat liitteet tähän hakemistoon."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Joidenkin tuotteiden liitteitä ei voitu tuoda. Joko näitä liitteitä ei ole olemassa (tai niitä ei voi käyttää), tai tuodussa tiedostossa olevien liitteiden polut ovat virheellisiä."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Tuotteiden liitteet"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Liitteiden erotin"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Erotin tuotteen liitteiden välillä."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Poista olemassa olevat liitteet"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Jos otat tämän asetuksen käyttöön, tuotujen tuotteiden olemassa olevat liitteet korvataan tuodussa tiedostossa määritetyillä liitteillä (jos liitteitä ei ole määritetty, vanhat liitteet säilyvät). Jos asetus on poistettu käytöstä, uudet liitteet yksinkertaisesti lisätään olemassa oleviin liitteisiin."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Liitehakemisto"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Tallenna liitteet palvelimellesi"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Tuodun tiedoston URL-osoitteina luetellut liitteet ladataan palvelimellesi."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "Tuotteen [product]tiedostoa [url] ei voitu ladata"
+

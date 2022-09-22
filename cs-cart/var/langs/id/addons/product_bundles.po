@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-20 12:57\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr ""
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr ""
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr ""
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr ""
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr ""
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr ""
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr ""
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr ""
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr ""
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr ""
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr ""
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr ""
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr ""
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr ""
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr ""
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr ""
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr ""
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr ""
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr ""
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr ""
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr ""
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr ""
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr ""
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr ""
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr ""
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr ""
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr ""
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr ""
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr ""
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr ""
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr ""
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr ""
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr ""
+

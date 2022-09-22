@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/my_changes.po\n"
+"X-Crowdin-File-ID: 6614\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::my_changes"
+msgid "My Changes (example add-on)"
+msgstr "Οι αλλαγές μου (παράδειγμα πρόσθετου)"
+
+msgctxt "Addons::description::my_changes"
+msgid "A dummy add-on to let devs see how add-ons work. You can also use it to introduce small changes not worthy of a separate add-on"
+msgstr "Ένα εικονικό πρόσθετο που επιτρέπει στους προγραμματιστές να δουν πώς λειτουργούν τα πρόσθετα. Μπορείτε επίσης να το χρησιμοποιήσετε για να εισάγετε μικρές αλλαγές που δεν αξίζουν ξεχωριστό πρόσθετο"
+

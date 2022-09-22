@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/email_marketing.po\n"
+"X-Crowdin-File-ID: 6718\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::email_marketing"
+msgid "E-mail marketing"
+msgstr "Marketing de email"
+
+msgctxt "Addons::description::email_marketing"
+msgid "Synchronizes your newsletter subscriber lists with MailChimp and Mad Mimi"
+msgstr "Sincroniza suas listas de assinantes de newsletter com MailChimp e Mad Mimi"
+
+msgctxt "Languages::subscribers_menu_description"
+msgid "Manage newsletter subscribers and settings."
+msgstr "Gerenciar assinantes e configurações de newsletters."
+
+msgctxt "Languages::email_marketing.subscription_confirmed"
+msgid "Thank you for subscribing to our newsletter"
+msgstr "Obrigado por subscrever a nossa newsletter"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed"
+msgid "Your subscription has been confirmed. No extra actions is required."
+msgstr "Sua assinatura foi confirmada. Nenhuma ação extra é necessária."
+
+msgctxt "Languages::email_marketing.subscription_pending"
+msgid "Email confirmation is required!"
+msgstr "A confirmação por e-mail é necessária!"
+
+msgctxt "Languages::email_marketing.text_subscription_pending"
+msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
+msgstr "Obrigado por subscrever a nossa newsletter.<p>Um e-mail de confirmação foi enviado para você. Por favor, use o link no e-mail para confirmar sua inscrição</p>"
+
+msgctxt "Languages::email_marketing.confirm_subscription"
+msgid "Please confirm subscription"
+msgstr "Por favor, confirme subscrição"
+
+msgctxt "Languages::email_marketing.text_confirm_subscription"
+msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
+msgstr "Recebemos uma solicitação de assinatura sua. Por favor confirme:<p><a href=\"[href]\">Clique aqui para confirmar a sua subscrição à nossa newsletter</a></p>Se recebeu este e-mail por engano, basta apagá-lo. Você não será inscrito se não clicar no link de confirmação acima."
+
+msgctxt "Languages::email_marketing.subscription_confirmed_2"
+msgid "Subscription confirmed"
+msgstr "Inscrição confirmada"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
+msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
+msgstr "A sua subscrição da nossa newsletter foi confirmada. Obrigado por se inscrever!"
+
+msgctxt "Languages::email_marketing.email_subscribed"
+msgid "You were subscribed to our newsletter"
+msgstr "Você foi inscrito em nossa newsletter"
+
+msgctxt "Languages::email_marketing.text_email_subscribed"
+msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Obrigado por subscrever a nossa newsletter. <p>Se a qualquer momento você desejar parar de receber nossos e-mails, <a href=\"[href]\">clique neste link para cancelar a inscrição</a>.</p>"
+
+msgctxt "Languages::email_marketing.email_subscribed_2optin"
+msgid "Subscription confirmed"
+msgstr "Inscrição confirmada"
+
+msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
+msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "A sua subscrição da nossa newsletter foi confirmada.<p>Se a qualquer momento você desejar parar de receber nossos e-mails, <a href=\"[href]\">clique neste link para cancelar a inscrição</a>.</p>"
+
+msgctxt "Languages::email_marketing.unsubscribe_successful"
+msgid "Unsubscribe successful"
+msgstr "Cancelamento de inscrição bem-sucedido"
+
+msgctxt "Languages::email_marketing.text_unsubscribe_successful"
+msgid "Your email has been removed from our list."
+msgstr "Seu e-mail foi removido de nossa lista."
+
+msgctxt "Languages::email_marketing.export_all"
+msgid "Export all"
+msgstr "Exportar tudo"
+
+msgctxt "Languages::email_marketing.enter_api_key_and_save"
+msgid "Enter API key and save first"
+msgstr "Digite a chave da API e salve primeiro"
+
+msgctxt "Languages::email_marketing.warning_email_exists"
+msgid "[email] is already subscribed"
+msgstr "[email] já está inscrito"
+
+msgctxt "Languages::email_marketing.new_subscriber"
+msgid "New subscriber"
+msgstr "Novo assinante"
+
+msgctxt "Languages::email_marketing.sync"
+msgid "Sync"
+msgstr "Sincronizar"
+
+msgctxt "Languages::email_marketing.text_subscribe"
+msgid "Subscribe to our newsletter"
+msgstr "Assine a nossa newsletter"
+
+msgctxt "Languages::email_marketing.tmpl_subscription"
+msgid "Email marketing: Newsletter subscription form"
+msgstr "Marketing por e-mail: formulário de assinatura de newsletter"
+
+msgctxt "Languages::privileges.manage_email_marketing"
+msgid "Can edit"
+msgstr "Pode editar"
+
+msgctxt "Languages::privileges.view_email_marketing"
+msgid "Can view"
+msgstr "Pode ver"
+
+msgctxt "Languages::privilege_groups.email_marketing"
+msgid "Email marketing"
+msgstr "Marketing de email"
+
+msgctxt "Languages::email_marketing.error_no_list"
+msgid "Please select mailing list in add-on settings to start import"
+msgstr "Selecione a lista de discussão nas configurações do complemento para iniciar a importação"
+
+msgctxt "SettingsSections::email_marketing::general"
+msgid "General"
+msgstr "Em geral"
+
+msgctxt "SettingsSections::email_marketing::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsSections::email_marketing::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "SettingsOptions::email_marketing::em_show_on_checkout"
+msgid "Newsletter checkbox on checkout"
+msgstr "Caixa de seleção do boletim informativo no checkout"
+
+msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
+msgid "Tick off by default"
+msgstr "Marque por padrão"
+
+msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
+msgid "Double opt-in"
+msgstr "Ativação dupla"
+
+msgctxt "SettingsOptions::email_marketing::em_welcome_letter"
+msgid "Send a welcome letter with the unsubscribe link"
+msgstr "Envie uma carta de boas-vindas com o link de cancelamento de inscrição"
+
+msgctxt "SettingsOptions::email_marketing::em_service"
+msgid "Email integration provider"
+msgstr "Provedor de integração de e-mail"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_api_key"
+msgid "API key"
+msgstr "Chave API"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_list"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_username"
+msgid "E-mail"
+msgstr "E-mail"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_api_key"
+msgid "API key"
+msgstr "Chave API"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_list"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "SettingsVariants::email_marketing::em_service::dummy"
+msgid "--"
+msgstr "--"
+
+msgctxt "SettingsVariants::email_marketing::em_service::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsVariants::email_marketing::em_service::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "Languages::email_template.email_marketing_confirmation"
+msgid "Email marketing: subscription confirmation"
+msgstr "E-mail marketing: confirmação de assinatura"
+
+msgctxt "Languages::email_template.email_marketing_welcome"
+msgid "Email marketing: welcome letter"
+msgstr "E-mail marketing: carta de boas-vindas"
+
+msgctxt "Languages::email_template.email_marketing_welcome_2optin"
+msgid "Email marketing: welcome letter (2optin)"
+msgstr "E-mail marketing: carta de boas-vindas (2optin)"
+

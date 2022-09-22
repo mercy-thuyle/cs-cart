@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.15.1/addons/geo_maps.po\n"
+"X-Crowdin-File-ID: 6542\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::geo_maps"
+msgid "Maps and geolocation"
+msgstr "Kart og geolokalisering"
+
+msgctxt "Addons::description::geo_maps"
+msgid "Enables Google or Yandex maps and geolocation functionality in your store."
+msgstr "Aktiverer Google- eller Yandex-kart og geolokaliseringsfunksjonalitet i butikken din."
+
+msgctxt "SettingsSections::geo_maps::general"
+msgid "General"
+msgstr "Generell"
+
+msgctxt "SettingsSections::geo_maps::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsSections::geo_maps::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::provider"
+msgid "Provider"
+msgstr "Forsørger"
+
+msgctxt "SettingsVariants::geo_maps::provider::google"
+msgid "Google"
+msgstr "Google"
+
+msgctxt "SettingsVariants::geo_maps::provider::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsOptions::geo_maps::show_shippings_on_product"
+msgid "Show shipping cost and time on product pages"
+msgstr "Vis fraktkostnad og tid på produktsidene"
+
+msgctxt "SettingsOptions::geo_maps::yandex_api_key"
+msgid "API key"
+msgstr "API-nøkkel"
+
+msgctxt "SettingsTooltips::geo_maps::yandex_api_key"
+msgid "Get the API key here: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+msgstr "Få API-nøkkelen her: <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">https://developer.tech.yandex.ru</a>"
+
+msgctxt "SettingsOptions::geo_maps::yandex_commercial"
+msgid "I use the paid version of the API"
+msgstr "Jeg bruker den betalte versjonen av API"
+
+msgctxt "SettingsOptions::geo_maps::google_api_key"
+msgid "API key"
+msgstr "API-nøkkel"
+
+msgctxt "SettingsTooltips::geo_maps::google_api_key"
+msgid "Get the API key here: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+msgstr "Få API-nøkkelen her: <a href=\" https://console.developers.google.com\" target=\"_blank\"> https://console.developers.google.com</a>"
+
+msgctxt "Languages::geo_maps.select_your_city"
+msgid "Select your city"
+msgstr "Velg byen din"
+
+msgctxt "Languages::geo_maps.your_city"
+msgid "Your city"
+msgstr "Din by"
+
+msgctxt "Languages::geo_maps.location_detection_disabled"
+msgid "Your location could not be determined. Try enabling the location services on your device or disabling the tracking protection."
+msgstr "Posisjonen din kunne ikke bestemmes. Prøv å aktivere posisjonstjenestene på enheten din eller deaktivere sporingsbeskyttelsen."
+
+msgctxt "Languages::block_geo_maps_customer_location"
+msgid "Customer location"
+msgstr "Kundens plassering"
+
+msgctxt "Languages::block_geo_maps_customer_location_description"
+msgid "Customer city and city selection form"
+msgstr "Skjema for valg av kundeby og by"
+
+msgctxt "Languages::geo_maps.shipping_address_on_map"
+msgid "Shipping address on map"
+msgstr "Leveringsadresse på kartet"
+
+msgctxt "Languages::geo_maps.cannot_select_location"
+msgid "This location couldn't be selected due to technical reasons. If you encounter any difficulties when placing an order, please contact us."
+msgstr "Denne plasseringen kunne ikke velges på grunn av tekniske årsaker. Hvis du støter på problemer når du legger inn en bestilling, vennligst kontakt oss."
+
+msgctxt "Languages::geo_maps.shipping_time_and_rates"
+msgid "Shipping time and rates"
+msgstr "Leveringstid og priser"
+
+msgctxt "Languages::geo_maps.shipping_group_pickup"
+msgid "Pick-up"
+msgstr "Plukke opp"
+
+msgctxt "Languages::geo_maps.shipping_group_delivery"
+msgid "Shipping"
+msgstr "Shipping"
+
+msgctxt "Languages::geo_maps.from_pickup_points"
+msgid "[shipping], [n] pickup point|[shipping], [n] pickup points"
+msgstr "[shipping], [n] hentepunkt|[shipping], [n] hentepunkter"
+
+msgctxt "Languages::geo_maps.shipping_about"
+msgid "about"
+msgstr "Om"
+
+msgctxt "Languages::geo_maps.shipping_from"
+msgid "from"
+msgstr "fra"
+
+msgctxt "Languages::geo_maps.shipping_time"
+msgid "Shipping time"
+msgstr "Leveringstid"
+
+msgctxt "Languages::geo_maps.no_shippings"
+msgid "Sorry, we couldn't find any shipping options for your location. Please contact us, and we'll see what we can do about it."
+msgstr "Beklager, vi fant ingen fraktalternativer for stedet ditt. Ta kontakt med oss, så ser vi hva vi kan gjøre med det."
+
+msgctxt "Languages::geo_maps.no_shippings_short"
+msgid "Shipping to your location isn't available."
+msgstr "Frakt til stedet ditt er ikke tilgjengelig."
+
+msgctxt "Languages::geo_maps.text_settings_google_api_notice"
+msgid "Learn more about setting up API key <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">in the documentation</a>."
+msgstr "Lær mer om å sette opp API-nøkkel <a target=\"_blank\" href=\"https://docs.cs-cart.com/4.10.x/user_guide/addons/maps_and_geolocation/#configuration\">i dokumentasjonen</a>."
+
+msgctxt "Languages::geo_maps.settings_is_configured_correctly_notice"
+msgid "If you see the map here, everything is configured correctly, and the maps are working on the map provider end."
+msgstr "Hvis du ser kartet her, er alt konfigurert riktig, og kartene fungerer på kartleverandørens ende."
+
+msgctxt "Languages::geo_maps.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "Google Kart"
+
+msgctxt "Languages::geo_maps.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google Maps er en tjeneste som lar oss vise kartene og ulike plasseringer på disse kartene, eller automatisk bestemme plasseringen din. Her er <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Googles personvernregler;</a> anbefaler vi også Googles kortfattede og omfattende <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">-merknad om personvern</a>."
+
+msgctxt "Languages::geo_maps.yandex_maps_cookie_title"
+msgid "Yandex Maps"
+msgstr "Yandex kart"
+
+msgctxt "Languages::geo_maps.yandex_maps_cookie_description"
+msgid "Yandex Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://yandex.com/legal/confidential/\" target=\"_blank\">Yandex privacy policy</a>."
+msgstr "Yandex Maps er en tjeneste som lar oss vise kartene og forskjellige plasseringer på disse kartene, eller automatisk bestemme plasseringen din. Her er <a href=\"https://yandex.com/legal/confidential/\" target=\"_blank\">Yandex personvernerklæring</a>."
+

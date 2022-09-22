@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "商品バンドル"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "商品バンドルを作成し、それに対する割引を設定できるようにします。"
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "商品バンドル"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "商品バンドルの表示、追加、編集ができます。"
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "キャンペーン画像"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "キャンペーンに表示"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "バンドル商品"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "全体価格"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "割引を分割"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "バンドル名"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "バンドル商品"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "総額"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "新しいバンドルを追加"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "<b> [bundle_name] </b>バンドルは、このバンドルの商品が削除されたため無効になりました。| <b> [bundle_name] </b>バンドルは、これらのバンドルの商品の1つが削除されたため無効になりました。"
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "新しいバンドル"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "有効なバンドル"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "機能の指定"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "任意のバリエーション"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "オプションの指定"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "定価合計"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "注文割引"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "全てをカートに追加"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "ログインして価格を見る"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "バンドル詳細"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "商品とのバンドル"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "この名前は、同じ表示名を持つ複数の商品バンドルを区別するために、管理画面にのみ表示されます。"
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "商品ページに表示"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "本当に商品なしのバンドルを作成しますか？"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "本当に1商品でバンドルを作成しますか？"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "商品オプションの指定が必要"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "閲覧可能"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "編集可能"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "商品バンドル"
+

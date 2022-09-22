@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/divido.po\n"
+"X-Crowdin-File-ID: 6662\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::divido"
+msgid "Divido payments"
+msgstr "분할 지불"
+
+msgctxt "Addons::description::divido"
+msgid "Lets customers spread the cost of any purchase over a period of time while the merchant gets paid in full right away."
+msgstr "판매자가 즉시 전액을 지불하는 동안 고객이 일정 기간 동안 구매 비용을 분산할 수 있습니다."
+
+msgctxt "Languages::addons.divido.select_currency_undefined"
+msgid "The [currency] currency is not set up in store"
+msgstr "[currency] 통화가 매장에 설정되어 있지 않습니다."
+
+msgctxt "Languages::addons.divido.order_status"
+msgid "Divido status"
+msgstr "디비도 상태"
+
+msgctxt "Languages::addons.divido"
+msgid "Divido"
+msgstr "디비도"
+
+msgctxt "Languages::addons.divido.pay_in_instalments"
+msgid "Pay in instalments"
+msgstr "분할 지불"
+
+msgctxt "Languages::addons.divido.choose_your_plan"
+msgid "Choose your plan"
+msgstr "요금제 선택"
+
+msgctxt "Languages::addons.divido.choose_your_deposit"
+msgid "Choose your deposit"
+msgstr "보증금을 선택하세요"
+
+msgctxt "Languages::addons.divido.monthly_payments_of"
+msgid "monthly payments of"
+msgstr "의 월별 지불"
+
+msgctxt "Languages::addons.divido.term"
+msgid "Term"
+msgstr "용어"
+
+msgctxt "Languages::addons.divido.deposit"
+msgid "Deposit"
+msgstr "보증금"
+
+msgctxt "Languages::addons.divido.cost_of_credit"
+msgid "Cost of credit"
+msgstr "신용 비용"
+
+msgctxt "Languages::addons.divido.total_payable"
+msgid "Total payable"
+msgstr "총 지불액"
+
+msgctxt "Languages::addons.divido.total_interest_apr"
+msgid "Total interest APR"
+msgstr "총이자"
+
+msgctxt "Languages::addons.divido.text_redirected"
+msgid "You will be redirected to Divido to complete this finance application when you place your order"
+msgstr "주문할 때 이 금융 애플리케이션을 완료하기 위해 Divido로 리디렉션됩니다."
+
+msgctxt "Languages::addons.divido.cart_amount_limit"
+msgid "Minimum order total"
+msgstr "최소 주문 합계"
+
+msgctxt "Languages::addons.divido.monthly_instalment"
+msgid "Monthly instalment"
+msgstr "월 할부"
+
+msgctxt "Languages::ttc_addons.divido.cart_amount_limit"
+msgid "The order total has to be equal or greater than this sum, or the payment method won't be available at checkout. Leave empty if you don't want to impose this restriction."
+msgstr "주문 합계는 이 합계보다 크거나 같아야 합니다. 그렇지 않으면 결제 시 결제 수단을 사용할 수 없습니다. 이 제한을 적용하지 않으려면 비워 둡니다."
+
+msgctxt "Languages::addons.divido.show_product_page_calculator"
+msgid "Show monthly payment rate on the product page"
+msgstr "제품 페이지에 월별 결제율 표시"
+
+msgctxt "Languages::addons.divido.product_price_limit"
+msgid "Minimum product price"
+msgstr "최소 제품 가격"
+
+msgctxt "Languages::ttc_addons.divido.product_price_limit"
+msgid "The product price has to be equal or greater than this sum, or the monthly payment rate won't appear on the product page. Leave empty if you don't want to impose this restriction."
+msgstr "제품 가격은 이 금액보다 크거나 같아야 합니다. 그렇지 않으면 제품 페이지에 월별 결제 요금이 표시되지 않습니다. 이 제한을 적용하지 않으려면 비워 둡니다."
+
+msgctxt "Languages::finance_code"
+msgid "Finance code"
+msgstr "금융 코드"
+
+msgctxt "Languages::addons.divido.availability_notice"
+msgid "<b>Note:</b> Payments via Divido are only available to the residents of the United Kingdom and can only be made in pounds sterling (GBP)."
+msgstr "<b>참고:</b> Divido를 통한 결제는 영국 거주자만 사용할 수 있으며 영국 파운드(GBP)로만 결제할 수 있습니다."
+
+msgctxt "Languages::divido.cookie_title"
+msgid "Marketing cookies"
+msgstr "마케팅 쿠키"
+
+msgctxt "Languages::divido.cookie_description"
+msgid "Divido is a payment provider that allows you to pay in installments, if you choose a payment method powered by Divido. Here is <a href=\"https://www.divido.com/privacy-policy/\" target=\"_blank\">Divido privacy policy.</a>"
+msgstr "Divido는 Divido에서 제공하는 결제 방법을 선택하는 경우 할부로 결제할 수 있는 결제 제공업체입니다. <a href=\"https://www.divido.com/privacy-policy/\" target=\"_blank\">디비도 개인정보취급방침입니다.</a>"
+

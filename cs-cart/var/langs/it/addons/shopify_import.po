@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.15.1/addons/shopify_import.po\n"
+"X-Crowdin-File-ID: 6800\n"
+"PO-Revision-Date: 2022-06-23 09:43\n"
+
+msgctxt "Addons::name::shopify_import"
+msgid "Import from Shopify"
+msgstr "Importa da Shopify"
+
+msgctxt "Addons::description::shopify_import"
+msgid "Allows you to import products from Shopify."
+msgstr "Ti consente di importare prodotti da Shopify."
+
+msgctxt "Languages::shopify_import.shopify_products_import"
+msgid "Shopify products"
+msgstr "Shopify prodotti"
+
+msgctxt "Languages::shopify_import.sync_data_name"
+msgid "Import products from Shopify"
+msgstr "Importa prodotti da Shopify"
+
+msgctxt "Languages::shopify_import.choose_import_mode"
+msgid "Choose import mode"
+msgstr "Scegli la modalità di importazione"
+
+msgctxt "Languages::shopify_import.import_for_all_vendors"
+msgid "I'm launching my marketplace and setting up products for all vendors to use"
+msgstr "Sto lanciando il mio mercato e impostando prodotti che tutti i fornitori possono utilizzare"
+
+msgctxt "Languages::shopify_import.import_for_specific_vendor"
+msgid "I'm importing these products for a specific vendor"
+msgstr "Sto importando questi prodotti per un fornitore specifico"
+
+msgctxt "Languages::shopify_import.depends_on_common_products_addon"
+msgid "This option needs <a href=\"[link]\">Common products for vendors</a> add-on to be installed"
+msgstr "Questa opzione richiede <a href=\"[link]\">prodotti comuni per i fornitori</a> componente aggiuntivo da installare"
+
+msgctxt "Languages::shopify_import.invalid_csv_file_format"
+msgid "Uploaded CSV-file has invalid format or empty. Only files exported from Shopify supported."
+msgstr "Il file CSV caricato ha un formato non valido o vuoto. Sono supportati solo i file esportati da Shopify."
+
+msgctxt "Languages::shopify_import.products_without_sku"
+msgid "The SKU value is missing for some products. These products are always imported as new objects."
+msgstr "Il valore SKU manca per alcuni prodotti. Questi prodotti vengono sempre importati come nuovi oggetti."
+
+msgctxt "Languages::shopify_import.last_status.S"
+msgid "Success"
+msgstr "Successo"
+
+msgctxt "Languages::shopify_import.last_status.F"
+msgid "Failure"
+msgstr "Fallimento"
+

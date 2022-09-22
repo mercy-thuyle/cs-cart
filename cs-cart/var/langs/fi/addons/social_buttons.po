@@ -1,0 +1,738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/social_buttons.po\n"
+"X-Crowdin-File-ID: 6726\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::social_buttons"
+msgid "Social buttons"
+msgstr "Sosiaaliset painikkeet"
+
+msgctxt "Addons::description::social_buttons"
+msgid "Adds the buttons for sharing products and pages in social media (Twitter, Facebook, etc.). Helps social networks and messengers to display better previews for the links to your site"
+msgstr "Lisää painikkeet tuotteiden ja sivujen jakamiseen sosiaalisessa mediassa (Twitter, Facebook jne.). Auttaa sosiaalisia verkostoja ja lähettiläitä näyttämään parempia esikatseluita sivustollesi johtavista linkeistä"
+
+msgctxt "Languages::facebook"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "Languages::facebook_obj_type"
+msgid "Facebook object type"
+msgstr "Facebook-objektityyppi"
+
+msgctxt "Languages::fb_activities"
+msgid "Activities"
+msgstr "Aktiviteetit"
+
+msgctxt "Languages::fb_businesses"
+msgid "Businesses"
+msgstr "Yritykset"
+
+msgctxt "Languages::fb_groups"
+msgid "Groups"
+msgstr "ryhmät"
+
+msgctxt "Languages::fb_organizations"
+msgid "Organizations"
+msgstr "Organisaatiot"
+
+msgctxt "Languages::fb_people"
+msgid "People"
+msgstr "Ihmiset"
+
+msgctxt "Languages::fb_places"
+msgid "Places"
+msgstr "Paikat"
+
+msgctxt "Languages::fb_products_entertainment"
+msgid "Products and Entertainment"
+msgstr "Tuotteet ja viihde"
+
+msgctxt "Languages::fb_websites"
+msgid "Websites"
+msgstr "Verkkosivustot"
+
+msgctxt "Languages::text_recommendation_notes"
+msgid "Your friend has recommended this page to you. Please follow the link:"
+msgstr "Ystäväsi on suositellut tätä sivua sinulle. Ole hyvä ja seuraa linkkiä:"
+
+msgctxt "Languages::sb_share"
+msgid "Share"
+msgstr "Jaa"
+
+msgctxt "SettingsSections::social_buttons::yandex"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "SettingsSections::social_buttons::twitter"
+msgid "Twitter"
+msgstr "Viserrys"
+
+msgctxt "SettingsSections::social_buttons::facebook"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "SettingsSections::social_buttons::vkontakte"
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+msgctxt "SettingsOptions::social_buttons::yandex_enable"
+msgid "Show Yandex.Share block"
+msgstr "Näytä Yandex.Share-lohko"
+
+msgctxt "SettingsOptions::social_buttons::yandex_share_code"
+msgid "Yandex.Share code"
+msgstr "Yandex.Share koodi"
+
+msgctxt "SettingsOptions::social_buttons::yandex_display_on"
+msgid "Display on"
+msgstr "Näyttö päällä"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::products"
+msgid "Product details pages"
+msgstr "Tuotetietosivut"
+
+msgctxt "SettingsVariants::social_buttons::yandex_display_on::pages"
+msgid "Pages"
+msgstr "Sivut"
+
+msgctxt "SettingsTooltips::social_buttons::yandex_share_code"
+msgid "You can configure the block and get the code at <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+msgstr "Voit määrittää lohkon ja saada koodin osoitteesta <a href=\"http://api.yandex.ru/share/\" target=\"_blank\">http://api.yandex.ru/share/</a>"
+
+msgctxt "SettingsOptions::social_buttons::twitter_enable"
+msgid "Show Twitter button"
+msgstr "Näytä Twitter-painike"
+
+msgctxt "SettingsOptions::social_buttons::twitter_via"
+msgid "Via"
+msgstr "Kautta"
+
+msgctxt "SettingsOptions::social_buttons::twitter_size"
+msgid "Button size"
+msgstr "Painikkeen koko"
+
+msgctxt "SettingsOptions::social_buttons::twitter_display_count"
+msgid "Display count"
+msgstr "Näyttömäärä"
+
+msgctxt "SettingsOptions::social_buttons::twitter_display_on"
+msgid "Display on"
+msgstr "Näyttö päällä"
+
+msgctxt "SettingsOptions::social_buttons::facebook_enable"
+msgid "Show Facebook button"
+msgstr "Näytä Facebook-painike"
+
+msgctxt "SettingsOptions::social_buttons::facebook_app_id"
+msgid "Facebook app ID"
+msgstr "Facebook-sovelluksen tunnus"
+
+msgctxt "SettingsOptions::social_buttons::facebook_href"
+msgid "The URL of the page to like"
+msgstr "Tykkäävän sivun URL-osoite"
+
+msgctxt "SettingsOptions::social_buttons::facebook_send"
+msgid "Include a Send button with the Like button"
+msgstr "Liitä mukaan Lähetä-painike Tykkää-painikkeen kanssa"
+
+msgctxt "SettingsOptions::social_buttons::facebook_width"
+msgid "Width of the Like button (px)"
+msgstr "Tykkää-painikkeen leveys (px)"
+
+msgctxt "SettingsOptions::social_buttons::facebook_layout"
+msgid "Button layout"
+msgstr "Painikkeiden asettelu"
+
+msgctxt "SettingsOptions::social_buttons::facebook_show_faces"
+msgid "Display profile photos"
+msgstr "Näytä profiilikuvat"
+
+msgctxt "SettingsOptions::social_buttons::facebook_action"
+msgid "Button verb"
+msgstr "Painikeverbi"
+
+msgctxt "SettingsOptions::social_buttons::facebook_lang"
+msgid "Language"
+msgstr "Kieli"
+
+msgctxt "SettingsOptions::social_buttons::facebook_action_font"
+msgid "Button font"
+msgstr "Painikkeen fontti"
+
+msgctxt "SettingsOptions::social_buttons::facebook_colorscheme"
+msgid "Color scheme"
+msgstr "Väriskeema"
+
+msgctxt "SettingsOptions::social_buttons::facebook_display_on"
+msgid "Display on"
+msgstr "Näyttö päällä"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_enable"
+msgid "Show Vkontakte button"
+msgstr "Näytä Vkontakte-painike"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_appid"
+msgid "Vkontakte app ID"
+msgstr "Vkontakte-sovelluksen tunnus"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_button_style"
+msgid "Button layout"
+msgstr "Painikkeiden asettelu"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_height"
+msgid "Button height (px)"
+msgstr "Painikkeen korkeus (px)"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_width"
+msgid "Button width (px)"
+msgstr "Painikkeen leveys (px)"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_buttons_name"
+msgid "Button name"
+msgstr "Painikkeen nimi"
+
+msgctxt "SettingsOptions::social_buttons::vkontakte_display_on"
+msgid "Display on"
+msgstr "Näyttö päällä"
+
+msgctxt "SettingsTooltips::social_buttons::twitter_via"
+msgid "User name to attribute the Tweet to (i.e. 'via @username')"
+msgstr "Käyttäjätunnus, jolle twiitti liitetään (eli @käyttäjänimen kautta)"
+
+msgctxt "SettingsTooltips::social_buttons::facebook_app_id"
+msgid "Specify any Facebook app ID, otherwise the button will not be shown"
+msgstr "Määritä mikä tahansa Facebook-sovelluksen tunnus, muuten painiketta ei näytetä"
+
+msgctxt "SettingsTooltips::social_buttons::facebook_href"
+msgid "Leave empty to use an actual page URL"
+msgstr "Jätä tyhjäksi, jos haluat käyttää todellista sivun URL-osoitetta"
+
+msgctxt "SettingsTooltips::social_buttons::facebook_show_faces"
+msgid "Enable to display profile photos below the button (standard layout only)"
+msgstr "Ota käyttöön profiilikuvien näyttäminen painikkeen alla (vain vakioasettelu)"
+
+msgctxt "SettingsTooltips::social_buttons::vkontakte_width"
+msgid "Only for the button with text counter"
+msgstr "Vain painikkeelle, jossa on tekstilaskuri"
+
+msgctxt "SettingsVariants::social_buttons::twitter_size::medium"
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+msgctxt "SettingsVariants::social_buttons::twitter_size::large"
+msgid "Large"
+msgstr "Suuri"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_count::none"
+msgid "None"
+msgstr "Ei mitään"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_count::horizontal"
+msgid "Horizontal"
+msgstr "Vaakasuora"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_count::vertical"
+msgid "vertical"
+msgstr "pystysuora"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_on::products"
+msgid "Product details pages"
+msgstr "Tuotetietosivut"
+
+msgctxt "SettingsVariants::social_buttons::twitter_display_on::pages"
+msgid "Pages"
+msgstr "Sivut"
+
+msgctxt "SettingsVariants::social_buttons::facebook_display_on::products"
+msgid "Product details pages"
+msgstr "Tuotetietosivut"
+
+msgctxt "SettingsVariants::social_buttons::facebook_display_on::pages"
+msgid "Pages"
+msgstr "Sivut"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_display_on::products"
+msgid "Product details pages"
+msgstr "Tuotetietosivut"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_display_on::pages"
+msgid "Pages"
+msgstr "Sivut"
+
+msgctxt "SettingsVariants::social_buttons::facebook_layout::standard"
+msgid "Standard"
+msgstr "Vakio"
+
+msgctxt "SettingsVariants::social_buttons::facebook_layout::button_count"
+msgid "With count"
+msgstr "Laskun kanssa"
+
+msgctxt "SettingsVariants::social_buttons::facebook_layout::box_count"
+msgid "With large count"
+msgstr "Suurella määrällä"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::like"
+msgid "Like"
+msgstr "Kuten"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action::like"
+msgid "Like"
+msgstr "Kuten"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action::recommend"
+msgid "Recommend"
+msgstr "Suositella"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::af_ZA"
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ar_AR"
+msgid "Arabic"
+msgstr "arabialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::az_AZ"
+msgid "Azerbaijani"
+msgstr "Azerbaidžani"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::be_BY"
+msgid "Belarusian"
+msgstr "valkovenäläinen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::bg_BG"
+msgid "Bulgarian"
+msgstr "bulgarialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::bn_IN"
+msgid "Bengali"
+msgstr "bengali"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::bs_BA"
+msgid "Bosnian"
+msgstr "bosnialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ca_ES"
+msgid "Catalan"
+msgstr "katalaani"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::cs_CZ"
+msgid "Czech"
+msgstr "Tšekki"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::cy_GB"
+msgid "Welsh"
+msgstr "Walesin"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::da_DK"
+msgid "Danish"
+msgstr "Tanskan kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::de_DE"
+msgid "German"
+msgstr "Saksan kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::el_GR"
+msgid "Greek"
+msgstr "kreikkalainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_GB"
+msgid "English (UK)"
+msgstr "englanti (UK)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_PI"
+msgid "English (Pirate)"
+msgstr "englanti (piraatti)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_UD"
+msgid "English (Upside Down)"
+msgstr "englanti (ylösalaisin)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::en_US"
+msgid "English (US)"
+msgstr "Englanti me)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::eo_EO"
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::es_ES"
+msgid "Spanish (Spain)"
+msgstr "espanja (Espanja)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::es_LA"
+msgid "Spanish"
+msgstr "Espanja"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::et_EE"
+msgid "Estonian"
+msgstr "Virolainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::eu_ES"
+msgid "Basque"
+msgstr "baski"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fa_IR"
+msgid "Persian"
+msgstr "persialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fb_LT"
+msgid "Leet Speak"
+msgstr "Leet Puhu"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fi_FI"
+msgid "Finnish"
+msgstr "Suomalainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fo_FO"
+msgid "Faroese"
+msgstr "färsaarten"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fr_CA"
+msgid "French (Canada)"
+msgstr "ranska (Kanada)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fr_FR"
+msgid "French (France)"
+msgstr "ranska (Ranska)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::fy_NL"
+msgid "Frisian"
+msgstr "friisi"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ga_IE"
+msgid "Irish"
+msgstr "irlantilainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::gl_ES"
+msgid "Galician"
+msgstr "Galicialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::he_IL"
+msgid "Hebrew"
+msgstr "heprealainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hi_IN"
+msgid "Hindi"
+msgstr "hindi"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hr_HR"
+msgid "Croatian"
+msgstr "Kroatia"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hu_HU"
+msgid "Hungarian"
+msgstr "Unkarin kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::hy_AM"
+msgid "Armenian"
+msgstr "armenialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::id_ID"
+msgid "Indonesian"
+msgstr "Indonesialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::is_IS"
+msgid "Icelandic"
+msgstr "islantilainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::it_IT"
+msgid "Italian"
+msgstr "italialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ja_JP"
+msgid "Japanese"
+msgstr "japanilainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ka_GE"
+msgid "Georgian"
+msgstr "Georgian"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::km_KH"
+msgid "Khmer"
+msgstr "khmerit"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ko_KR"
+msgid "Korean"
+msgstr "Korealainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ku_TR"
+msgid "Kurdish"
+msgstr "kurdi"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::la_VA"
+msgid "Latin"
+msgstr "latinan kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::lt_LT"
+msgid "Lithuanian"
+msgstr "liettualainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::lv_LV"
+msgid "Latvian"
+msgstr "Latvialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::mk_MK"
+msgid "Macedonian"
+msgstr "makedonialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ml_IN"
+msgid "Malayalam"
+msgstr "malajalami"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ms_MY"
+msgid "Malay"
+msgstr "malaiji"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::nb_NO"
+msgid "Norwegian (bokmal)"
+msgstr "norja (bokmal)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ne_NP"
+msgid "Nepali"
+msgstr "nepali"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::nl_NL"
+msgid "Dutch"
+msgstr "Hollannin kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::nn_NO"
+msgid "Norwegian (nynorsk)"
+msgstr "norja (nynorsk)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pa_IN"
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pl_PL"
+msgid "Polish"
+msgstr "Kiillottaa"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ps_AF"
+msgid "Pashto"
+msgstr "pashto"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pt_BR"
+msgid "Portuguese (Brazil)"
+msgstr "portugali (Brasilia)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::pt_PT"
+msgid "Portuguese (Portugal)"
+msgstr "portugali (Portugali)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ro_RO"
+msgid "Romanian"
+msgstr "romanialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ru_RU"
+msgid "Russian"
+msgstr "Venäjän kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sk_SK"
+msgid "Slovak"
+msgstr "Slovakian"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sl_SI"
+msgid "Slovenian"
+msgstr "slovenialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sq_AL"
+msgid "Albanian"
+msgstr "albanialainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sr_RS"
+msgid "Serbian"
+msgstr "serbia"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sv_SE"
+msgid "Swedish"
+msgstr "Ruotsin kieli"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::sw_KE"
+msgid "Swahili"
+msgstr "swahili"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::ta_IN"
+msgid "Tamil"
+msgstr "tamili"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::te_IN"
+msgid "Telugu"
+msgstr "telugu"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::th_TH"
+msgid "Thai"
+msgstr "thaimaalainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::tl_PH"
+msgid "Filipino"
+msgstr "filippiiniläinen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::tr_TR"
+msgid "Turkish"
+msgstr "turkkilainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::uk_UA"
+msgid "Ukrainian"
+msgstr "ukrainalainen"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::vi_VN"
+msgid "Vietnamese"
+msgstr "vietnam"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_CN"
+msgid "Simplified Chinese (China)"
+msgstr "yksinkertaistettu kiina (Kiina)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_HK"
+msgid "Traditional Chinese (Hong Kong)"
+msgstr "perinteinen kiina (Hongkong)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_lang::zh_TW"
+msgid "Traditional Chinese (Taiwan)"
+msgstr "perinteinen kiina (Taiwan)"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::arial"
+msgid "Arial"
+msgstr "Arial"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::lucida grande"
+msgid "Lucida grande"
+msgstr "Lucida grande"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::segoe ui"
+msgid "Segoe ui"
+msgstr "Segoe ui"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::tahoma"
+msgid "Tahoma"
+msgstr "Tahoma"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::trebuchet ms"
+msgid "Trebuchet ms"
+msgstr "Trebuchet ms"
+
+msgctxt "SettingsVariants::social_buttons::facebook_action_font::verdana"
+msgid "Verdana"
+msgstr "Verdana"
+
+msgctxt "SettingsVariants::social_buttons::facebook_colorscheme::light"
+msgid "Light"
+msgstr "Kevyt"
+
+msgctxt "SettingsVariants::social_buttons::facebook_colorscheme::dark"
+msgid "Dark"
+msgstr "Tumma"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::full"
+msgid "Button with a text counter"
+msgstr "Painike tekstilaskurilla"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::button"
+msgid "Button with a little counter"
+msgstr "Painike pienellä laskurilla"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::mini"
+msgid "Mini button"
+msgstr "Mini-painike"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_button_style::Vertical"
+msgid "Mini button, counter on top"
+msgstr "Minipainike, tiski päällä"
+
+msgctxt "SettingsVariants::social_buttons::vkontakte_buttons_name::interesting"
+msgid "It's interesting"
+msgstr "Se on kiinnostavaa"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_display_on"
+msgid "Display on"
+msgstr "Näyttö päällä"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_display_on::products"
+msgid "Product details pages"
+msgstr "Tuotetietosivut"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_display_on::pages"
+msgid "Pages"
+msgstr "Sivut"
+
+msgctxt "SettingsSections::social_buttons::pinterest"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_enable"
+msgid "Show Pinterest button"
+msgstr "Näytä Pinterest-painike"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_size"
+msgid "Button size"
+msgstr "Painikkeen koko"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_size::20"
+msgid "Small"
+msgstr "Pieni"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_size::28"
+msgid "Large"
+msgstr "Suuri"
+
+msgctxt "SettingsOptions::social_buttons::pinterest_shape"
+msgid "Shape"
+msgstr "Muoto"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_shape::rect"
+msgid "Rectangular"
+msgstr "Suorakulmainen"
+
+msgctxt "SettingsVariants::social_buttons::pinterest_shape::round"
+msgid "Circular"
+msgstr "Pyöreä"
+
+msgctxt "Languages::social_buttons.facebook_cookie_title"
+msgid "Facebook"
+msgstr "Facebook"
+
+msgctxt "Languages::social_buttons.facebook_cookie_description"
+msgid "Facebook cookies enable Facebook-related functionality, such as Facebook button on the product page. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "Facebook-evästeet mahdollistavat Facebookiin liittyvät toiminnot, kuten Facebook-painikkeen tuotesivulla. Tässä on <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebookin tietosuojakäytäntö</a>."
+
+msgctxt "Languages::social_buttons.pinterest_cookie_title"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgctxt "Languages::social_buttons.pinterest_cookie_description"
+msgid "Pinterest cookies enable Pinterest-related functionality, such as Pinterest button on the product page. Here is <a href=\"https://policy.pinterest.com/en/privacy-policy\" target=\"_blank\">Pinterest privacy policy</a>."
+msgstr "Pinterest-evästeet mahdollistavat Pinterestiin liittyvät toiminnot, kuten Pinterest-painikkeen tuotesivulla. Tässä on <a href=\"https://policy.pinterest.com/en/privacy-policy\" target=\"_blank\">Pinterestin tietosuojakäytäntö</a>."
+
+msgctxt "Languages::social_buttons.twitter_cookie_title"
+msgid "Twitter"
+msgstr "Viserrys"
+
+msgctxt "Languages::social_buttons.twitter_cookie_description"
+msgid "Twitter cookies enable Twitter-related functionality, such as the Twitter button on the product page. Here is <a href=\"https://twitter.com/en/privacy\" target=\"_blank\">Twitter privacy policy</a>."
+msgstr "Twitter-evästeet mahdollistavat Twitteriin liittyvät toiminnot, kuten Twitter-painikkeen tuotesivulla. Tässä on <a href=\"https://twitter.com/en/privacy\" target=\"_blank\">Twitterin tietosuojakäytäntö</a>."
+
+msgctxt "Languages::social_buttons.vkontakte_cookie_title"
+msgid "VK"
+msgstr "VK"
+
+msgctxt "Languages::social_buttons.vkontakte_cookie_description"
+msgid "VK cookies enable VK-related functionality, such as VK button on the product page. Here is <a href=\"https://m.vk.com/privacy\" target=\"_blank\">VK privacy policy</a>."
+msgstr "VK-evästeet mahdollistavat VK:hen liittyvät toiminnot, kuten VK-painikkeen tuotesivulla. Tässä on <a href=\"https://m.vk.com/privacy\" target=\"_blank\">VK:n tietosuojakäytäntö</a>."
+
+msgctxt "Languages::social_buttons.yandex_cookie_title"
+msgid "Yandex"
+msgstr "Yandex"
+
+msgctxt "Languages::social_buttons.yandex_cookie_description"
+msgid "Yandex helps us display the buttons of multiple social networks (for example, on product pages). Here is <a href=\"https://yandex.com/legal/confidential/\" target=\"_blank\">Yandex privacy policy</a>."
+msgstr "Yandex auttaa meitä näyttämään useiden sosiaalisten verkostojen painikkeet (esimerkiksi tuotesivuilla). Tässä on <a href=\"https://yandex.com/legal/confidential/\" target=\"_blank\">Yandexin tietosuojakäytäntö</a>."
+

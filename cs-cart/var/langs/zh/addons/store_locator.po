@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 6728\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "商店和取货点"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "如果配置了相应的运输方式，则允许您在地图上标记您的实体店并让您的客户从那里收集订单。"
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "在地图上查看"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "获取 API 密钥"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "商店定位"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "商店和取货点"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "商店定位块"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "没有找到地址"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "选择坐标"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "设置"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "编辑商店位置"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "商店新的位置"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "添加商店位置"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "坐标"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "纬度"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "太长"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "所有商店"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "在订单相关文档中显示地图"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "在装箱单和发票上打印地图"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "使用城市列表而不是地图"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "影响客户地理位置块。该列表将从拥有商店和取货点的城市生成。"
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "商店定位器"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "可以查看"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "“客户取货”运输方式让客户可以选择从商店取货。商店可以在“商店位置”插件中创建<br /><b>商店创建：</b> <a href=\"[store_locator]\">商店位置</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "选择商店"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "接送点"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "商店设置中的“位置”字段"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "在送货方式设置中选择的订单"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "精选店铺"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "可用商店"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "地图和列表"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "列表"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "地图"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "结帐页面上的位置列表视图"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "捡起"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "可自取"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "工作时间"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "捡起"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "没有找到合适的目的地"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "没有找到店铺"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "捡起"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "取件编号"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "可取件"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "取件附加费"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "取货地址"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "代收电话"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "接送时间"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "取货目的地 ID"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "隐藏我无法取货的地方"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "商店和取货点"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "在以前的版本中，附加费被添加到为运输方式指定的标准费率中。现在在计算运费时不考虑此附加费。为了您的方便，我们将其留在这里，以便您可以在运输方式编辑页面上查看并相应地调整费率。"
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "位于费率区"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "确定此取货点的运费。运费在运输方式编辑页面上指定。如果您没有为取件点选择费率区域，则取件点将不会出现在结帐时。"
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "显示给"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "显示给"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "允许您在结账时向其他费率区域的居民提供此取货点。"
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "从 [price]"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "用两根手指移动地图"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "滚动到顶部"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "无费率区域"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "姓名"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "取货地点"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "任何费率区域"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "从商店取货"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "任何供应商"
+
+msgctxt "Languages::store_locator.any"
+msgid "Any"
+msgstr "任何"
+
+msgctxt "Languages::store_locator.shipping_price_from_to"
+msgid "from [from_price] to [to_price]"
+msgstr "从 [from_price] 到 [to_price]"
+

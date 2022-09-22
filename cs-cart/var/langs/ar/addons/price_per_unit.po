@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_per_unit.po\n"
+"X-Crowdin-File-ID: 6732\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "السعر لكل وحدة"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "يسمح لك بعرض السعر لكل وحدة على الكتالوج وصفحات المنتج."
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "السعر لكل وحدة"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "إسم الوحدة"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "على سبيل المثال ، \"ml\" أو \"g\" بدون علامات اقتباس."
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "الوحدات في المنتج"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "مطلوب للحساب التلقائي لسعر الوحدة."
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "عرض السعر لكل X وحدة"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "للحالات التي تريد فيها إظهار السعر \"لكل 250 مل\" بدلاً من \"لكل مل\"."
+

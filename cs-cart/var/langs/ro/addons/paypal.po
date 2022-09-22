@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal.po\n"
+"X-Crowdin-File-ID: 6592\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "Plăţi PayPal"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "Vă permite să acceptați plăți prin PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced și PayPal Payflow Pro."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "Înlocuiți informațiile clientului"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "Modul de testare"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "Eligibilitatea protecției"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "Setări de notificare instantanee a plății"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "Harta de conversie a stării comenzii PayPal"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "Setări logo PayPal"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>Notă:</b> Conform politicii PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'></a> (4.6), suprataxele nu sunt acceptate."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "ID-ul tranzactiei"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "Logo-ul PayPal"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Utilizați un format grafic valid, cum ar fi .gif, .jpg sau .png. Limitați imaginea la 190 pixeli lățime cu 60 pixeli înălțime. PayPal decupează imagini mai mari. PayPal plasează imaginea logo-ului dvs. în partea de sus a zonei de examinare a coșului. "
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "Erori IPN"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "Numărul de articole plătite este diferit de numărul de articole din comandă"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "Moneda utilizată pentru plată este diferită de moneda comenzii."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "Totalul plății este diferit de totalul comenzii."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "Mod Paypal"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "Vânzător"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Folosiți Checkout în context"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "Verificarea în context nu va fi utilizată atunci când magazinul rulează în modul Widget"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "Este necesar un ID de comerciant pentru a utiliza funcția <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>de verificare în context</a> în cadrul acestei integrări. Puteți căuta ID-ul de comerciant conectându-vă la <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Faceți clic pe pictograma profil din partea dreaptă sus a paginii și apoi selectați <b>Profil și setări</b> din meniul <b>Profil de afaceri</b> . (Dacă nu vedeți pictograma profilului în partea de sus a paginii, faceți clic pe <b>Profil</b>, care apare în meniul de sus când este selectată fila <b>Contul meu</b> ) Faceți clic pe <b>Informațiile companiei mele</b> din stânga și <b>ID-ul contului de comerciant</b> este afișat în lista de articole de profil din dreapta."
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "Instant Payment Notification (IPN) este un serviciu care anunță automat comercianții cu privire la evenimentele legate de tranzacțiile PayPal.<br>Când un client plasează o comandă și alege PayPal ca metodă de plată, comanda primește statutul <b>Deschis</b> .<br>PayPal trimite apoi mesaje de notificare de plată instantanee care includ starea tranzacției. Această stare modifică starea comenzii în magazinul dvs. conform hărții de conversie a stării."
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "Starea tranzacției"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "Starea tranzacției: [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "Suplimentul a fost stabilit pentru metoda de plată care utilizează Serviciile PayPal. Vă rugăm să vă asigurați că acest lucru respectă Acordul de utilizare <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">pentru Serviciile PayPal</a> pentru regiunea dvs."
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "Oferă o rambursare prin PayPal"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "O rambursare va fi efectuată odată ce un administrator modifică starea cererii de returnare"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "Rambursarea a fost făcută prin PayPal"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] au fost rambursate în [date] la [time]."
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "Starea comenzii la rambursare parțială"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "Nu schimba"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "Stabilește dacă se modifică sau nu starea comenzii automat după o rambursare parțială prin PayPal."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "Setat la:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "Timp de primire IPN"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "Starea comenzii inițiale"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "Toate comenzile cu o metodă de plată PayPal primesc această stare până când sosește răspunsul de la PayPal (un mesaj IPN) sau un client se întoarce la magazin printr-un link de pe site-ul PayPal."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "În mod implicit, starea <i>Deschis</i> scade inventarul, astfel încât doi clienți nu vor putea cumpăra același produs în timp ce plata este procesată de PayPal. Dar dacă un client părăsește site-ul PayPal fără să plătească sau să se întoarcă la magazin printr-un link de pe site-ul PayPal, veți avea o comandă abandonată <i>Open</i> cu produse rezervate."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "Acest lucru vă asigură că nu veți avea comenzi neplătite abandonate cu starea <i>Deschis</i> și produse rezervate. Dar până când sosește răspunsul de la PayPal (un mesaj IPN) sau clientul se întoarce la magazin printr-un link de pe site-ul PayPal, comanda va fi listată ca <i>Incompletă</i>, iar produsele nu vor fi rezervate."
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "Detalii tehnice"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "Conectați-vă la PayPal"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "Utilizați aceste butoane pentru a finaliza asistentul de configurare"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "Configurați Live"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "Configurați Testul"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "Se conectează la <b>server de înregistrare PayPal</b>..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "Metoda de plată <b>[payment]</b> a fost configurată cu succes"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "A apărut o eroare la conectarea la un cont PayPal"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "A apărut o eroare la obținerea configurației metodei de plată"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "Acum aveți un cont de afaceri PayPal și ați integrat cu succes [product] cu PayPal.<br>Nu uitați să vă confirmați e-mailul pentru a vă activa contul, astfel încât să puteți accesa plățile. Pentru a face acest lucru, urmați instrucțiunile trimise de PayPal pe adresa dvs. de e-mail."
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "Pentru a accesa plățile de la clienții dvs., vă rugăm să vă confirmați adresa de e-mail urmând instrucțiunile pe care PayPal vi le-a trimis prin e-mail."
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "Suplimentul <b>plăți PayPal</b> este dezactivat, așa că nu puteți configura această metodă de plată."
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "3-D secure este obligatoriu în Regatul Unit."
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "Afișați butonul „Părți cu PayPal” pe pagina de conținut al coșului"
+
+msgctxt "Languages::paypal.paypal_cookie_title"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "Languages::paypal.paypal_cookie_description"
+msgid "PayPal is a payment provider. It allows us to accept payments, if you choose a payment method powered by PayPal. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPal privacy statement</a>."
+msgstr "PayPal este un furnizor de plăți. Ne permite să acceptăm plăți, dacă alegeți o metodă de plată alimentată de PayPal. Iată <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">declarație de confidențialitate PayPal</a>."
+

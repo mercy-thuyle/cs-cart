@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/onekpay.po\n"
+"X-Crowdin-File-ID: 6620\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::onekpay"
+msgid "BillriantPay payments"
+msgstr "پرداخت های BillriantPay"
+
+msgctxt "Addons::description::onekpay"
+msgid "Lets you accept payments via BillriantPay."
+msgstr "به شما امکان می دهد پرداخت ها را از طریق BillriantPay بپذیرید."
+
+msgctxt "Languages::onekpay.merchant_number"
+msgid "Merchant ID"
+msgstr "شناسه بازرگان"
+
+msgctxt "Languages::onekpay.terminal_number"
+msgid "Terminal ID"
+msgstr "شناسه ترمینال"
+
+msgctxt "Languages::onekpay.secure_hash"
+msgid "Secure hash"
+msgstr "هش امن"
+
+msgctxt "Languages::onekpay.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "پرداخت انجام نشد: [error_message]"
+
+msgctxt "Languages::onekpay.short_notice"
+msgid "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> is a global payment service provider, which works safely, drives merchants’ performance, and reduces a risk. BillriantPay understands the day-to-day realities and requirements of a modern eCommerce business so as to offer and build solutions that fit a wide range of businesses. BillriantPay helps you build stronger relationships with your buyers by streamlining the payment processes. <br /><br />Our advantages:<br />- Secure and fast<br />- Simple and easy to configure<br />- Flexible terms and conditions for different industries<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">Sign-up to Login and Pay with BillriantPay</a></strong>"
+msgstr "<a href=\"http://www.billriant.com\" target=\"_blank\">BillriantPay</a> یک ارائه دهنده خدمات پرداخت جهانی است که با خیال راحت کار می کند، عملکرد بازرگانان را افزایش می دهد و خطر را کاهش می دهد. BillriantPay واقعیت‌ها و الزامات روزمره یک تجارت الکترونیک مدرن را درک می‌کند تا راه‌حل‌هایی را ارائه کند که متناسب با طیف گسترده‌ای از مشاغل باشد. BillriantPay به شما کمک می کند با ساده کردن فرآیندهای پرداخت، روابط قوی تری با خریداران خود ایجاد کنید. <br /><br />مزایای ما:<br />- ایمن و سریع<br />- پیکربندی ساده و آسان<br />- شرایط و ضوابط انعطاف پذیر برای صنایع مختلف<br /><br /><strong><a href=\"https://merchant.billriant.com/login?from=cs-cart\" target=\"_blank\">ثبت نام برای ورود و پرداخت با BillriantPay</a></strong>"
+

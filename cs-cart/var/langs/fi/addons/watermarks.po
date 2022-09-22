@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/watermarks.po\n"
+"X-Crowdin-File-ID: 6706\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::watermarks"
+msgid "Watermarks"
+msgstr "Vesileimat"
+
+msgctxt "Addons::description::watermarks"
+msgid "Allows you to add watermarks to product and category images"
+msgstr "Voit lisätä vesileimoja tuote- ja luokkakuviin"
+
+msgctxt "Languages::wt_watermarks"
+msgid "Watermarks"
+msgstr "Vesileimat"
+
+msgctxt "Languages::wt_graphic_watermark"
+msgid "Graphic watermark"
+msgstr "Graafinen vesileima"
+
+msgctxt "Languages::wt_text_watermark"
+msgid "Text watermark"
+msgstr "Teksti vesileima"
+
+msgctxt "Languages::wt_watermark_vertical_position"
+msgid "Watermark vertical position"
+msgstr "Vesileiman pystysuora asento"
+
+msgctxt "Languages::wt_watermark_horizontal_position"
+msgid "Watermark horizontal position"
+msgstr "Vesileiman vaaka-asento"
+
+msgctxt "Languages::wt_watermark_position"
+msgid "Watermark position"
+msgstr "Vesileiman sijainti"
+
+msgctxt "Languages::wt_watermark_image"
+msgid "Watermark image"
+msgstr "Vesileima kuva"
+
+msgctxt "Languages::wt_watermark_text"
+msgid "Watermark text"
+msgstr "Vesileiman teksti"
+
+msgctxt "Languages::wt_font"
+msgid "Font"
+msgstr "Fontti"
+
+msgctxt "Languages::wt_font_color"
+msgid "Font color"
+msgstr "Fontin väri"
+
+msgctxt "Languages::wt_font_size_icon"
+msgid "Font size (thumbnail)"
+msgstr "Fonttikoko (pikkukuva)"
+
+msgctxt "Languages::wt_font_size_detailed"
+msgid "Font size (larger image)"
+msgstr "Fonttikoko (isompi kuva)"
+
+msgctxt "Languages::wt_watermark_icon"
+msgid "Thumbnail watermark"
+msgstr "Pikkukuvan vesileima"
+
+msgctxt "Languages::wt_watermark_detailed"
+msgid "Popup larger image watermark"
+msgstr "Ponnahdusikkuna suurempi kuva vesileima"
+
+msgctxt "Languages::wt_fail_apply_graphic_watermark"
+msgid "Failed to apply the watermark to [image_type]. The watermark image is not added."
+msgstr "Vesileiman lisääminen arvoon [image_type]epäonnistui. Vesileimakuvaa ei lisätä."
+
+msgctxt "Languages::wt_icons"
+msgid "thumbnails"
+msgstr "pikkukuvat"
+
+msgctxt "Languages::wt_detailed"
+msgid "popup larger images"
+msgstr "ponnahtaa suurempia kuvia"
+
+msgctxt "Languages::wt_images_access_description"
+msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
+msgstr "Estä pääsy alkuperäisiin kuviisi lisäämällä seuraavat ohjeet .htaccess-tiedostoon asennuksesi \"images\"-hakemistossa. Se suojaa alkuperäisiä kuviasi. Vaikka alkuperäinen kuva avattaisiin, vastaava vesileimakuva näytetään sen sijaan."
+
+msgctxt "Languages::wt_watermarks_access_description"
+msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
+msgstr "Luodaksesi vesileimakuvat automaattisesti, vaikka niitä pyydettäisiin muualta kuin kauppasi sivuilta, lisää .htaccess-tiedosto seuraavin ohjeineen asennuksesi \"images/waterleima\"-hakemistoon."
+
+msgctxt "Languages::wt_access_note"
+msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
+msgstr "Huomaa, että jos poistat Watermarks-lisäosan käytöstä tai poistat sen asennuksen, sinun tulee poistaa nämä ohjeet .htaccess-tiedostoista manuaalisesti. Muuten luokka- ja tuotekuvat eivät ole saatavilla."
+
+msgctxt "Languages::wt_access_warning"
+msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
+msgstr "Vesileiman luonti on poistettu käytöstä. Jos \"images/.htaccess\"-tiedostossa on \"Write Watermarks Regulations\" -ohjeita, poista ne manuaalisesti. Muuten luokka- ja tuotekuvat eivät ole saatavilla."
+
+msgctxt "Languages::wt_images_access_info"
+msgid "Images access"
+msgstr "Kuvien käyttöoikeus"
+
+msgctxt "SettingsSections::watermarks::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::watermarks::watermark"
+msgid "Watermark"
+msgstr "Vesileima"
+
+msgctxt "SettingsOptions::watermarks::apply_to_product"
+msgid "Product watermarks"
+msgstr "Tuotteen vesileimat"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_icons"
+msgid "Resized images"
+msgstr "Kuvien kokoa muutettu"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
+msgid "Original size images"
+msgstr "Alkuperäisen kokoiset kuvat"
+
+msgctxt "SettingsOptions::watermarks::apply_to_categories"
+msgid "Category watermarks"
+msgstr "Luokkavesileimat"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_icons"
+msgid "Resized images"
+msgstr "Kuvien kokoa muutettu"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
+msgid "Original size images"
+msgstr "Alkuperäisen kokoiset kuvat"
+
+msgctxt "SettingsOptions::watermarks::images_access_info"
+msgid "Images access"
+msgstr "Kuvien käyttöoikeus"
+

@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/seo.po\n"
+"X-Crowdin-File-ID: 6664\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "搜索引擎优化"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "添加搜索引擎 - 友好的URL支持"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "在您的商店使用这个区域定义重写URLs全局规则."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "从旧的 url 管理重定向规则"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "如果您的URL想要一个特殊的SEO名称http://example.com/index.php?dispatch=<b>categories.catalog</b>,您需要输入 \"<b>categories.catalog</b>\"区域的值\"<b>这个是URL中\"dispatch\"参数的值</b>\"与指定SEO的名字\"<b>SEO name</b>\"."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "SEO 名称"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "SEO-friendly URLs已禁止.请检查您的 web 服务器和 URL 操作引擎设置."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "调度值"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "来自URL的\"dispatch\"参数的值"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "新的规则"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "SEO 规则"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "页[n]"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "搜索引擎优化"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "可以查看"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "301重定向"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "旧网址"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "新网址"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "新重定向"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "您要重定向的 URL 已经存在"
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "谷歌丰富网页摘要预览"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "评分"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] 评论|[n] 评论"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "从旧的 URL 创建重定向"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "<b>[url] </b> URL 的格式不正确。例如，如果您的 URL 为 <b> http://example.com/path/to/object </b>，则需要输入 <b>/路径/to/对象 </b>"
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "例如，如果您的 URL 为 <b> http://example.com/path/to/object </b>，则需要输入 <b>/路径/to/对象 </b>"
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "产品SEO URL类型"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "分类SEO URL格式"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "页面 SEO 网址格式"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "其他 SEO 网址格式"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "在 URL 中显示其他语言"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "所有语言使用单一的URL"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "在 URL 中允许非拉丁符号"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/产品名称/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/产品-名称.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/类别-名称/[子类别-口称/]产品-名称/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/category-name/subcategory-name/product-name.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/父-类别/类别/[页-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/父-类别/类别-[页-2].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/类别/[页-2/]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/父-页/页. html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/父-页/页. html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/页面/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/项目/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/分类[-页-2]. html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/页. html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/项目. html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b> 警告! </b><b> SEO </b> 加载项当前配置为使用所有语言的单个 URL。如果您隐藏、禁用或删除其中一个店面的默认语，则 SEO url 将被更改。"
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "合适的代码可以帮助此功能与产品一起出现在搜索引擎中。支持的代码："
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "品牌"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "组织或业务人员用于标记产品的名称"
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr "国际标准书号"
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "国际标准书号"
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr "GTIN"
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "全球贸易项目编号"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "制造商零件编号"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "<a href=\"[link]\">SEO</a> 附加组件当前配置为对所有语言使用单个 URL。如果您更改此店面的默认语言，则 SEO URL 将更改。"
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "<a href=\"[link]\">SEO</a> 附加组件当前配置为对所有语言使用单个 URL。如果您更改默认店面的默认语言，则所有店面的 SEO URL 都会更改。"
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "您的商店中已存在以下 SEO 名称： <b>[names]</b>。 <p> 改为使用以下 SEO 名称： <b>[new_names]</b>|您的商店中已存在以下 SEO 名称： <b>[names]</b>。改为使用以下 SEO 名称： <b>[new_names]</b>。"
+
+msgctxt "Languages::seo.error_incorrect_seo_name"
+msgid "The following SEO name had incorrect format: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names had incorrect format: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "以下 SEO 名称的格式不正确： <b>[names]</b>。 <p> 改用了以下 SEO 名称： <b>[new_names]</b>|以下 SEO 名称的格式不正确： <b>[names]</b>。改为使用以下 SEO 名称： <b>[new_names]</b>。"
+

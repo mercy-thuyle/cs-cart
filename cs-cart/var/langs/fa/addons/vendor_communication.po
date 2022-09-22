@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 6690\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "مرکز پیام"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "به مشتریان، فروشندگان و مدیران اجازه می دهد تا از طریق چت داخلی با یکدیگر تماس بگیرند."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "برای مشتریان"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "دکمه تماس در صفحات محصول"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "دکمه تماس در میکرو استور فروشنده"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "دکمه تماس در منوی \"پیام ها\"."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "دکمه \"پرسش یک سوال\" را در صفحات محصول نشان دهید."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "دکمه \"پرسش یک سوال\" را در ریزفروشگاه های فروشندگان نشان دهید."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "ارتباط مشتری با فروشنده"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "ارتباط فروشنده با مدیر"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr "دکمه تماس در صفحه سفارش دقیق"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr "دکمه \"شروع ارتباط\" را در صفحه سفارش دقیق نشان دهید."
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "پیام ها"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "مرکز پیام"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "مرکز پیام"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "پیام های مشتریان"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "پیام های مشتری به فروشنده"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "نویسنده"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "تاریخ"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "پیام"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "با فروشنده تماس بگیرید"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "سوال بپرس"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "تماس [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "ایجاد شده در"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "پیام شما به <b>[vendor_name]</b>ارسال شد.<br/><br/>پاسخ فروشنده به آدرس ایمیل حساب شما ارسال می شود. برای مشاهده تاریخچه پیام خود، لطفاً <a href=\"[thread_url]\">به مرکز پیام</a> واقع در بخش \"پیام ها\" در منوی \"حساب من\" بروید."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "پیام شما به <b>[vendor_name]</b>ارسال شد.<br/><br/>ما به شما در مورد پاسخ اطلاع خواهیم داد. برای مشاهده تاریخچه پیام خود، لطفاً <a href=\"[thread_url]\" target=\"_blank\">به مرکز پیام</a> واقع در بخش \"پیام ها\" در منوی \"حساب من\" بروید."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "موضوع به روز رسانی نمی شود"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "نمی توان رشته ایجاد کرد"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "از فروشنده سوال بپرسید: اعلان مدیر"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "از فروشنده سوال بپرسید: اطلاع رسانی مشتری"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "شما یک پیام <a href=\"[thread_url]\">جدید</a> از [message_from]دارید."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "شما یک پیام جدید از [message_from]دارید"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "موضوع شماره[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. ارتباط با [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "نخ"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "هیچ پیامی یافت نشد"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "نام مشتری"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "لطفا پیام خود را وارد کنید"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "یک پیام تایپ کنید..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "شما"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "جزئیات سفارش"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "جزئیات واردات"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "تاپیک حذف شد"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "تاپیک ها حذف شده اند"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "نمی توان تاپیک را حذف کرد"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "نمی توان رشته ها را حذف کرد"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "نمی توان پیام ارسال کرد"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "هیچ موضوعی یافت نشد"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "فیلد [field_name] الزامی است"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "به شرطی که نوع موضوع رشته نامعتبر باشد"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "لطفا برای تماس با فروشنده وارد شوید"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "می تواند ویرایش کند"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "می تواند مشاهده کند"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "مرکز پیام: ارتباط مشتری با فروشنده"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "پیام شما به [vendor_name]"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "لطفا وارد شوید تا بتوانیم پاسخ را به شما اطلاع دهیم"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr "مرکز پیام"
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "مشتری به فروشنده: پیام جدید دریافت شد"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "فروشنده به مدیر: پیام جدید دریافت شد"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr "پیام جدید دریافت شد"
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] یک پیام جدید از [customer]دارد"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "برای دیدن پیام روی این اعلان کلیک کنید"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "با مدیر تماس بگیرید"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "با فروشنده تماس بگیرید"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "ارتباط"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "مرکز پیام"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "پیام از فروشنده به مدیر"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "ارتباط فروشنده"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "ارتباط با مشتری"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "ارتباط ادمین"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "پیام شما به مدیر"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "برخی از موضوعات ایجاد نشده اند: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "پیام شما به <b>[name]</b>ارسال شد.<br/><br/>برای مشاهده تاریخچه پیام خود، لطفاً <a href=\"[thread_url]\">به مرکز پیام</a> واقع در منوی \"فروشندگان\" بروید."
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr "پیام شما به <b>[name]</b>ارسال شد.<br/><br/>برای مشاهده تاریخچه پیام خود، لطفاً <a href=\"[thread_url]\">به مرکز پیام</a> واقع در منوی \"مشتریان\" بروید."
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "پیام های شما ارسال شده است.<br/><br/>برای مشاهده تاریخچه پیام خود، لطفاً <a href=\"[thread_url]\">به مرکز پیام</a> واقع در منوی \"فروشندگان\" بروید."
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "مرکز پیام: ارتباط فروشنده با مدیر"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr "مشتری به مدیر: پیام جدید دریافت شد"
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr "ارتباط را شروع کنید"
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr "مرکز پیام: ارتباط با مشتری"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr "ارتباط با فروشنده"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr "ارتباط با مشتری"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr "ارتباط با مدیر"
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr "با مشتری تماس بگیرید"
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr "موضوع"
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr "مدیر"
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr "پیام شما به مشتری"
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr "ارتباط سفارش: پیام جدید دریافت شد"
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr "به بالا بروید"
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr "پیام فرستادن"
+

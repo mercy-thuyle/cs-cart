@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/alpha_bank.po\n"
+"X-Crowdin-File-ID: 6580\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::alpha_bank"
+msgid "Alpha bank payments"
+msgstr "Alfa bankovní platby"
+
+msgctxt "Addons::description::alpha_bank"
+msgid "Allows you to accept payments via Alpha bank"
+msgstr "Umožňuje přijímat platby prostřednictvím banky Alpha"
+
+msgctxt "Languages::alpha_bank.merchant_id"
+msgid "Merchant ID"
+msgstr "ID obchodníka"
+
+msgctxt "Languages::alpha_bank.shared_secret"
+msgid "Shared Secret"
+msgstr "Sdílené tajemství"
+

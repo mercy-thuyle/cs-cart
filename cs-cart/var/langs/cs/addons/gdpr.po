@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 6590\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "GDPR nařízení (EU)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Pomáhá vám dodržovat GDPR (nařízení Evropské unie o osobních údajích) tím, že zákazníkům zobrazuje informace o jejich osobních údajích, žádá jejich souhlas se zpracováním a nabízí způsoby, jak vymazat nebo exportovat osobní údaje."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Souhlas s cookies"
+
+msgctxt "SettingsOptions::gdpr::privacy_policy_page"
+msgid "Privacy policy page"
+msgstr "Stránka zásad ochrany osobních údajů"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "\"Implicit consent\" is a simple notification that the site uses cookies. \"Explicit consent\" means that visitors can select the services that can or can't set cookies."
+msgstr "„Implicitní souhlas“ je jednoduché upozornění, že web používá soubory cookie. „Explicitní souhlas“ znamená, že návštěvníci si mohou vybrat služby, které mohou nebo nemohou nastavit soubory cookie."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Žádné"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "Implicitní"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Explicitní"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "GDPR data uživatele"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Osobní data uživatele"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Osobní údaje z uživatelských profilů"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Osobní údaje z předplatného produktů"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "Osobní údaje ze souhlasů GDPR"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "Anonymizovat"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Jakmile někoho anonymizujete, všechny jeho osobní údaje budou nahrazeny náhodně generovanými údaji. Tuto akci nelze vrátit zpět, pokud databázi neobnovíte ze zálohy. Opravdu chcete pokračovat?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Zobrazit a upravit"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Osobní data z objednávek"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Text souhlasu"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Krátký text souhlasu"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Checkout: Odeslání objednávky, zpracování osobních dat"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p> Na (zadanou e-mailovou adresu) zasíláme ([company]) e-maily týkající se účtu (například oznámení o stavu objednávky, e-maily pro resetování hesla atd.). Z tohoto důvodu potřebujeme uložit vaši e-mailovou adresu, dokud zůstanete naším zákazníkem. </p> <p> Používáme informace v části fakturační / dodací adresa a můžeme je poslat poskytovateli dopravy nebo platební metody na adresu: </ p > <ul> <li> Určete, jaké způsoby dopravy a platby jsou k dispozici pro vaše místo. </li> <li> Dokončete proces platby nebo přepravy prostřednictvím poskytovatele, kterého si vyberete při placení při odeslání objednávky. </li> </ul> <p> Někteří naši zaměstnanci nebo prodejci, kteří prodávají produkty v našem obchodě a používat jeho administrační panel může mít přístup k vašim datům. Ceníme si vašeho soukromí, takže přístup k datům je poskytován na základě potřeby vědět, aby bylo možné provozovat obchod. Prodejce například obdrží vaše údaje pouze v případě, že jste si u nich něco objednali, aby mohl tuto objednávku splnit. </p> <p> Pokud se rozhodnete, že již nechcete náš obchod používat a chcete mít svůj osobní údaje odstraněné z naší databáze (nebo pokud chcete získat všechny osobní údaje spojené s vaším účtem, které máme), zašlete prosím e-mail na [email]. </p> <p> Pokud se domníváte, že vaše osobní údaje došlo ke zneužití údajů, máte právo podat stížnost u dozorového úřadu. Podle obecného nařízení EU o ochraně osobních údajů jsme povinni vás o tomto právu informovat; ve skutečnosti nemáme v úmyslu zneužít vaše údaje. </p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Souhlasím se <u>zpracováním osobních údajů.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Zákazník: registrace"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>E-mailové adresy odlišují zákazníky od sebe navzájem. Do obchodu se přihlásíte zadáním emailové adresy a hesla, které zde uvedete.</p> <p>Na zadanou e-mailovou adresu také zasíláme ([company]) e-maily související s účtem (jako jsou oznámení o stavu objednávky, e-maily pro resetování hesla a další). Z tohoto důvodu potřebujeme uchovat vaši e-mailovou adresu, dokud zůstanete naším zákazníkem.</p> <p>Spolu s vaší e-mailovou adresou jsou uložena další pole profilu, která mohou nebo nemusí být na této stránce. Tyto informace můžeme použít k tomu, abychom vás kontaktovali, pokud to bude nutné.</p> <p>Někteří členové našeho personálu a/nebo prodejci, kteří prodávají produkty v našem obchodě a používají jeho administrační panel, mohou mít přístup k vašim údajům. Vážíme si vašeho soukromí, takže přístup k datům je poskytován na základě potřeby vědět, abychom mohli provozovat obchod. Prodejce například obdrží vaše data pouze v případě, že jste si od něj něco objednali, aby mohl tuto objednávku splnit.</p> <p>Pokud se rozhodnete, že již nechcete náš obchod používat a chcete, aby byly vaše osobní údaje odstraněny z naší databáze (nebo pokud byste chtěli získat všechny osobní údaje spojené s vaším účtem, které máme), zašlete nám email na [email].</p> <p>Pokud se domníváte, že byly Vaše osobní údaje zneužity, máte právo podat stížnost u dozorového úřadu. Na základě obecného nařízení EU o ochraně osobních údajů jsme povinni vás o tomto právu informovat; ve skutečnosti nemáme v úmyslu vaše údaje zneužít.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Souhlasím se <u>zpracováním osobních údajů.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Profil: aktualizace"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>E-mailové adresy odlišují zákazníky od sebe navzájem. Do obchodu se přihlásíte zadáním emailové adresy a hesla, které zde uvedete.</p> <p>Na zadanou e-mailovou adresu také zasíláme ([company]) e-maily související s účtem (jako jsou oznámení o stavu objednávky, e-maily pro resetování hesla a další). Z tohoto důvodu potřebujeme uchovat vaši e-mailovou adresu, dokud zůstanete naším zákazníkem.</p> <p>Spolu s vaší e-mailovou adresou jsou uložena další pole profilu, která mohou nebo nemusí být na této stránce. Tyto informace můžeme použít k tomu, abychom vás kontaktovali, pokud to bude nutné.</p> <p>Používáme informace v sekci fakturační/dodací adresy a můžeme je odeslat poskytovateli dopravy nebo způsobu platby na:</p> <ul> <li>Zjistit, jaké způsoby dopravy a platby jsou dostupné pro vaši lokalitu.</li> <li>Dokončete proces platby nebo dopravy prostřednictvím poskytovatele, kterého si vyberete u pokladny při odesílání objednávky.</li> </ul> <p>Někteří naši zaměstnanci a/nebo prodejci, kteří prodávají produkty v našem obchodě a používají jeho administrační panel, mohou mít přístup k vašim údajům. Vážíme si vašeho soukromí, takže přístup k datům je poskytován na základě potřeby vědět, abychom mohli provozovat obchod. Prodejce například obdrží vaše data pouze v případě, že jste si od něj něco objednali, aby mohl tuto objednávku splnit.</p> <p>Pokud se rozhodnete, že již nechcete náš obchod používat a chtěli byste, aby byly vaše osobní údaje odstraněny z naší databáze (nebo pokud byste chtěli získat všechny osobní údaje spojené s vaším účtem, které máme), zašlete nám e-mailem na [email].</p> <p>Pokud se domníváte, že byly Vaše osobní údaje zneužity, máte právo podat stížnost u dozorového úřadu. Na základě obecného nařízení EU o ochraně osobních údajů jsme povinni vás o tomto právu informovat; ve skutečnosti nemáme v úmyslu vaše údaje zneužít.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Souhlasím se <u>zpracováním osobních údajů.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Prodejce: registrace účtu"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Protože prodejci prodávají produkty na našem trhu, musíme ([company]) o nich vyžadovat určité informace. Zákazníkům se například zobrazí název společnosti a popis prodejce a slouží k vzájemnému odlišení prodejců; adresa se používá pro výpočet sazby za dopravu.</p> <p>Požadujeme však také některé osobní údaje, jako je jméno/příjmení a e-mailová adresa. Ty jsou nezbytné pro vytvoření administrátorského účtu dodavatele v našem systému. Prodejci spolupracují s tržištěm prostřednictvím takových účtů. E-mailové adresy jsou nezbytné, protože od sebe odlišují administrátory. Do obchodu se přihlásíte zadáním emailové adresy, kterou zde uvedete. Jména jsou nezbytná, protože jeden dodavatel může mít více správců – tímto způsobem je snazší zvládnout odpovědnost.</p> <p>Na zadanou e-mailovou adresu také zasíláme e-maily související s účtem (jako jsou oznámení o stavu objednávky, e-maily pro resetování hesla a další). Z tohoto důvodu potřebujeme uchovat vaši e-mailovou adresu, dokud zůstanete naším zákazníkem. Pokud se rozhodnete, že již nechcete s naším tržištěm pracovat a chcete, aby byly osobní údaje odstraněny z naší databáze (nebo pokud byste chtěli získat všechny osobní údaje spojené s vaším účtem, které máme), zašlete nám e-mail do [email].</p> <p>Pokud se domníváte, že byly Vaše osobní údaje zneužity, máte právo podat stížnost u dozorového úřadu. Na základě obecného nařízení EU o ochraně osobních údajů jsme povinni vás o tomto právu informovat; ve skutečnosti nemáme v úmyslu vaše údaje zneužít.</p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Souhlasím se <u>zpracováním osobních údajů.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Produkty: předplatné"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>My ([company]) přidáme vaši e-mailovou adresu do speciálního seznamu adresátů pro tento produkt. Jakmile bude produkt na skladě, obdržíte o něm automaticky e-mail a vaše e-mailová adresa bude odstraněna z e-mailového seznamu produktu.</p> <p>Data budou viditelná některým členům našeho personálu. Pokud si přejete, aby byly vaše osobní údaje odstraněny, zašlete e-mail na adresu [email].</p> <p>Pokud se domníváte, že byly Vaše osobní údaje zneužity, máte právo podat stížnost u dozorového úřadu. Na základě obecného nařízení EU o ochraně osobních údajů jsme povinni vás o tomto právu informovat; ve skutečnosti nemáme v úmyslu vaše údaje zneužít.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Souhlasím se <u>zpracováním osobních údajů.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Checkout: aktualizace adresy"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Na zadanou e-mailovou adresu posíláme ([company]) e-maily související s účtem (jako jsou oznámení o stavu objednávky, e-maily pro resetování hesla a další). Z tohoto důvodu potřebujeme uchovat vaši e-mailovou adresu, dokud zůstanete naším zákazníkem.</p> <p>Používáme informace v sekci fakturační/dodací adresy a můžeme je odeslat poskytovateli dopravy nebo způsobu platby na:</p> <ul> <li>Zjistit, jaké způsoby dopravy a platby jsou dostupné pro vaši lokalitu. </li> <li>Dokončete proces platby nebo dopravy prostřednictvím poskytovatele, kterého si vyberete u pokladny při odesílání objednávky.</li> </ul> <p>Někteří naši zaměstnanci a/nebo prodejci, kteří prodávají produkty v našem obchodě a používají jeho administrační panel, mohou mít přístup k vašim údajům. Vážíme si vašeho soukromí, takže přístup k datům je poskytován na základě potřeby vědět, abychom mohli provozovat obchod. Prodejce například obdrží vaše data pouze v případě, že jste si od něj něco objednali, aby mohl tuto objednávku splnit.</p> <p>Pokud se rozhodnete, že již nechcete náš obchod používat a chtěli byste, aby byly vaše osobní údaje odstraněny z naší databáze (nebo pokud chcete získat všechny osobní údaje spojené s vaším účtem, které máme), zašlete nám e-mailem na [email].</p> <p>Pokud se domníváte, že byly Vaše osobní údaje zneužity, máte právo podat stížnost u dozorového úřadu. Na základě obecného nařízení EU o ochraně osobních údajů jsme povinni vás o tomto právu informovat; ve skutečnosti nemáme v úmyslu vaše údaje zneužít.</p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Souhlasím se <u>zpracováním osobních údajů.</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "Export do XML"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Abyste mohli pokračovat, je nutný váš souhlas."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Uživatel byl anonymizován."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p>Upozorňujeme, že anonymizace neovlivňuje žádné zálohy a protokoly, které můžete mít. V případě potřeby proveďte následující:</p><ol><li>Vymažte protokoly pod <b>Správa → Protokoly</b>.</li><li>Zabezpečte a odstraňte zálohy, které můžete mít v části <b>Správa → Zálohování/Obnova</b>.</li></ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Souhlas s cookies"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p>Tato webová stránka používá cookies (malé kousky dat uložené ve vašem počítači). Některé soubory cookie jsou přidány samotnou webovou stránkou: pomáhají vám zobrazit obsah vašeho košíku, udržují vás přihlášené po zadání e-mailu a hesla, zachovávají vaše preference a dělají spoustu dalších užitečných věcí. Tyto soubory cookie používáme pouze k tomu, aby vám stránky správně fungovaly. Dokonce i váš souhlas s naším používáním souborů cookie je uložen jako soubor cookie.</p><p>Jiné soubory cookie mohou být používány službami třetích stran (jako je PayPal, YouTube, Mapy Google, Facebook atd.) k ukládání údajů o tom, jak tyto služby třetích stran používáte na webových stránkách. Nemáme žádnou kontrolu nad tím, jak třetí strany používají cookies, ale tyto cookies jsou také důležité pro správné fungování webu. Některé funkce PayPal například nemusí fungovat bez souborů cookie PayPal.</p><p>Bez souborů cookie se může mnoho věcí pokazit. Proto vás žádáme, abyste souhlasili s používáním cookies, než budete pokračovat. Pokud si nepřejete žádné soubory cookie, ale chtěli byste web nadále používat, nakonfigurujte svůj prohlížeč tak, aby soubory cookie blokoval, a poté budete moci „souhlasit“ s jejich používáním, zatímco my to nebudeme považovat za váš souhlas. .</p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "Souhlasím"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "Ne, chci odejít."
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site."
+msgstr "Na této stránce se používají soubory cookie, aby poskytovaly nejlepší uživatelský zážitek. Pokud budete pokračovat, předpokládáme, že souhlasíte s přijímáním cookies z této stránky."
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Umožňuje registrovaným uživatelům požadovat jejich osobní údaje nebo anonymizaci"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p>Při interakci zákazníků s obchodem poskytují osobní údaje pro různé účely. Když zadáte objednávku, potřebujeme vědět, kam ji poslat; když se přihlásíte k odběru e-mailového zpravodaje, potřebujeme vědět, kam jej máme zasílat a podobně. Uchováváme tyto údaje organizované, abyste vždy mohli:</p> <ol> <li>Požádat, abychom vám zaslali všechny vaše osobní údaje. V takovém případě vám zašleme soubor XML e-mailem. Tento soubor bude obsahovat všechny vaše osobní údaje, které máme.</li> <li>Žádost o zapomenutí. V takovém případě bude váš účet deaktivován a všechna vaše osobní data budou odstraněna. V případě potřeby si v budoucnu budete moci zaregistrovat nový účet se stejnou e-mailovou adresou.</li> </ol> <p>Vezměte prosím na vědomí, že na zpracování některého z těchto požadavků budeme potřebovat nějaký čas. Můžeme vás kontaktovat ohledně vaší žádosti e-mailem nebo jinými způsoby.</p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "Zaslat moje osobní data"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Zašleme vám soubor XML se všemi vašimi osobními údaji, které máme. Vezměte prosím na vědomí, že na zpracování tohoto požadavku budeme potřebovat nějaký čas, takže e-mail s vaším souborem XML nebude odeslán okamžitě. Pokud máte nějaké připomínky k vaší žádosti, zanechte je prosím v poli níže.</p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Žádost o kopii osobních údajů: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> s e-mailovou adresou [customer_email] si vyžádal kopii osobních údajů s následujícím komentářem:</p> <p>[comment]</p> <p>Klikněte na odkaz na začátku této zprávy a použijte odpovídající tlačítko na stránce profilu zákazníka na panelu Správa. získat data ve formátu XML. Poté odešlete soubor XML zákazníkovi.</p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "Odstranit moje osobní data"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Váš účet deaktivujeme a odstraníme z něj všechna vaše osobní data. Poté se nebudete moci přihlásit. V budoucnu si však budete moci zaregistrovat nový účet se stejnou e-mailovou adresou. Upozorňujeme, že na zpracování tohoto požadavku budeme potřebovat nějaký čas, takže váš účet nebude deaktivován okamžitě. Pokud máte nějaké připomínky k vaší žádosti, zanechte je prosím v poli níže.</p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Žádost o odstranění osobních údajů: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> s e-mailovou adresou [customer_email] požádal o odstranění osobních údajů s následujícím komentářem:</p> <p>[comment]</p> <p>Klikněte na odkaz na začátku této zprávy a pomocí odpovídajícího tlačítka na stránce profilu zákazníka na panelu Správa anonymizovat zákazníka.</p> <p>Upozorňujeme, že <b>tato akce nahradí všechny osobní údaje zákazníka</b> náhodně generovanými údaji. Nejlepší je ujistit se, že všechny obchody se zákazníkem (jako jsou objednávky a požadavky na vrácení) jsou uzavřeny předtím, než to uděláte.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "Vaše žádost byla úspěšně odeslána."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "Při pokusu o odeslání vašeho požadavku došlo k chybě. Zkuste to prosím znovu nebo pošlete zprávu na následující e-mailovou adresu: <a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Texty níže uvedených dohod mohou obsahovat <b>[email]</b> nebo <b>[company]</b> . To jsou zástupné symboly, které budou automaticky nahrazeny skutečnými daty, když zákazníci uvidí smlouvy. Pokud máte pouze jednu prodejnu, budou data pro zástupné symboly převzata z <a href=\"[company_settings_url]\" target=\"_blank\">Nastavení → Společnost</a>. Máte-li více výloh, budou data převzata z nastavení výlohy, kterou zákazník navštíví:</p><ul><li><b>[company]</b> budou převzata z <i>Název společnosti</i>.</li><li><b>[email]</b> bude převzato z <i>E-mailová adresa uživatelského oddělení</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Texty níže uvedených dohod mohou obsahovat <b>[email]</b> nebo <b>[company]</b> . To jsou zástupné symboly, které budou automaticky nahrazeny skutečnými daty, když zákazníci uvidí smlouvy. Data pro zástupné symboly budou převzata z <a href=\"[company_settings_url]\" target=\"_blank\">Nastavení → Společnost</a>:</p><ul><li><b>[company]</b> budou převzata z <i>Název společnosti</i>.</li><li><b>[email]</b> bude převzato z <i>E-mailová adresa uživatelského oddělení</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_title"
+msgid "Strictly necessary cookies"
+msgstr "Nezbytně nutné cookies"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_description"
+msgid "These cookies are essential for the website to work properly. For example, they let you place an order, or help the site remember that you've signed into your account. That's why they can't be disabled through the site. You can configure your browser to disable even these cookies, but important parts of the site won't work without them."
+msgstr "Tyto soubory cookie jsou nezbytné pro správné fungování webu. Umožňují vám například zadat objednávku nebo pomáhají webu zapamatovat si, že jste se přihlásili ke svému účtu. Proto je nelze prostřednictvím webu deaktivovat. Svůj prohlížeč můžete nakonfigurovat tak, aby zakázal i tyto soubory cookie, ale důležité části webu bez nich nebudou fungovat."
+
+msgctxt "Languages::gdpr.performance_cookies_title"
+msgid "Performance cookies"
+msgstr "Výkonové soubory cookie"
+
+msgctxt "Languages::gdpr.performance_cookies_description"
+msgid "These cookies allow us to see how the website works. The information that these cookies help to collect is anonymous; it is typically presented in numbers. For example, these cookies help us see how often errors occur, how many unique visitors we have, or how long each page is viewed on average. Thanks to these cookies, we can improve the site for you."
+msgstr "Tyto soubory cookie nám umožňují vidět, jak web funguje. Informace, které tyto soubory cookie pomáhají shromažďovat, jsou anonymní; obvykle se uvádí v číslech. Tyto soubory cookie nám například pomáhají zjistit, jak často dochází k chybám, kolik máme unikátních návštěvníků nebo jak dlouho je každá stránka v průměru zobrazena. Díky těmto cookies pro vás můžeme web vylepšit."
+
+msgctxt "Languages::gdpr.functional_cookies_title"
+msgid "Functional cookies"
+msgstr "Funkční cookies"
+
+msgctxt "Languages::gdpr.functional_cookies_description"
+msgid "These cookies enable additional functionality at the website. They may be set by third-party providers whose services we've added to the website. Those services may include many things, like maps, geolocation for preliminary shipping rate calculation, or the ability to sign in with your social network account. Without functional cookies, the parts of the site associated with these services may not work properly."
+msgstr "Tyto soubory cookie umožňují na webu další funkce. Mohou být nastaveny poskytovateli třetích stran, jejichž služby jsme na web přidali. Tyto služby mohou zahrnovat mnoho věcí, jako jsou mapy, geolokace pro předběžný výpočet sazby za dopravu nebo možnost přihlásit se pomocí účtu na sociální síti. Bez funkčních souborů cookie nemusí části webu spojené s těmito službami fungovat správně."
+
+msgctxt "Languages::gdpr.marketing_cookies_title"
+msgid "Marketing cookies"
+msgstr "Marketingové soubory cookie"
+
+msgctxt "Languages::gdpr.marketing_cookies_description"
+msgid "These cookies are used by our advertising partners. They help them to measure promotion efficiency and serve you ads that are more relevant and less repetitive. This is usually achieved by remembering the browser and device that saw the ad. Turning these cookies off won't reduce the number of ads you see on the internet, but will make them less personalized."
+msgstr "Tyto soubory cookie používají naši reklamní partneři. Pomáhají jim měřit efektivitu propagace a zobrazovat vám reklamy, které jsou relevantnější a méně se opakují. Toho se obvykle dosáhne tak, že si zapamatujete prohlížeč a zařízení, které reklamu vidělo. Vypnutím těchto souborů cookie se nesníží počet reklam, které vidíte na internetu, ale budou méně personalizované."
+
+msgctxt "Languages::gdpr.eway_cookies_title"
+msgid "eWAY"
+msgstr "eWAY"
+
+msgctxt "Languages::gdpr.eway_cookies_description"
+msgid "eWAY is a payment provider. It allows us to accept payments, if you choose a payment method powered by eWAY. Here is <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY privacy policy</a>."
+msgstr "eWAY je poskytovatelem plateb. Umožňuje nám přijímat platby, pokud zvolíte platební metodu poháněnou eWAY. Zde je <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">zásad ochrany osobních údajů eWAY</a>."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_title"
+msgid "You can find out more in this document: {privacyPolicy}."
+msgstr "Více se dozvíte v tomto dokumentu: {privacyPolicy}."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_name"
+msgid "Privacy policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgctxt "Languages::gdpr.klaro_service"
+msgid "service"
+msgstr "servis"
+
+msgctxt "Languages::gdpr.klaro_services"
+msgid "services"
+msgstr "služby"
+
+msgctxt "Languages::gdpr.klaro_accept_all"
+msgid "Accept all"
+msgstr "Přijmout vše"
+
+msgctxt "Languages::gdpr.klaro_accept_selected"
+msgid "Accept selected"
+msgstr "Přijmout vybrané"
+
+msgctxt "Languages::gdpr.klaro_close"
+msgid "Close"
+msgstr "Zavřít"
+
+msgctxt "Languages::gdpr.klaro_consent_modal_description"
+msgid "Here you can assess and customize the services (and their respective cookies) that we'd like to use on this website. You're in charge! Enable or disable services as you see fit."
+msgstr "Zde můžete vyhodnotit a přizpůsobit služby (a jejich příslušné soubory cookie), které bychom chtěli na tomto webu používat. Vy jste velí! Povolte nebo zakažte služby, jak uznáte za vhodné."
+
+msgctxt "Languages::gdpr.klaro_consent_modal_title"
+msgid "Cookies we would like to use"
+msgstr "Soubory cookie, které bychom rádi používali"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_change_description"
+msgid "There were changes since your last visit, please renew your consent."
+msgstr "Od vaší poslední návštěvy došlo ke změnám, obnovte prosím svůj souhlas."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_title"
+msgid "Cookie Consent"
+msgstr "Souhlas se soubory cookie"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_description"
+msgid "Hi! Could we please enable some additional services that require cookies? You can always change or withdraw your consent later."
+msgstr "Ahoj! Mohli bychom prosím povolit některé další služby, které vyžadují soubory cookie? Svůj souhlas můžete kdykoli změnit nebo odvolat."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_learn_more"
+msgid "Let me choose"
+msgstr "Nech mě vybrat"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_testing"
+msgid "Testing mode!"
+msgstr "Testovací režim!"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_always"
+msgid "Always"
+msgstr "Vždy"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_once"
+msgid "'Yes'"
+msgstr "'Ano'"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_description"
+msgid "Do you want to load external content supplied by {title}?"
+msgstr "Chcete načíst externí obsah dodaný {title}?"
+
+msgctxt "Languages::gdpr.klaro_decline"
+msgid "I decline"
+msgstr "odmítám"
+
+msgctxt "Languages::gdpr.klaro_ok"
+msgid "That's ok"
+msgstr "To je v pořádku"
+
+msgctxt "Languages::gdpr.klaro_powered_by"
+msgid "Realized with Klaro!"
+msgstr "Realizováno s Klaro!"
+
+msgctxt "Languages::gdpr.klaro_service_purpose"
+msgid "purpose"
+msgstr "účel"
+
+msgctxt "Languages::gdpr.klaro_service_purposes"
+msgid "purposes"
+msgstr "účely"
+
+msgctxt "Languages::gdpr.klaro_service_required_description"
+msgid "This service is always required"
+msgstr "Tato služba je vždy vyžadována"
+
+msgctxt "Languages::gdpr.disable_all_description"
+msgid "Use this switch to enable or disable all services."
+msgstr "Pomocí tohoto přepínače povolíte nebo zakážete všechny služby."
+
+msgctxt "Languages::gdpr.disable_all_title"
+msgid "Enable or disable all services"
+msgstr "Povolit nebo zakázat všechny služby"
+
+msgctxt "Languages::gdpr.opt_out_description"
+msgid "This service is enabled by default (but you can opt out)"
+msgstr "Tato služba je ve výchozím nastavení povolena (ale můžete se odhlásit)"
+
+msgctxt "Languages::gdpr.opt_out_title"
+msgid "(opt-out)"
+msgstr "(odhlásit se)"
+
+msgctxt "Languages::gdpr.klaro_service_required_title"
+msgid "(always required)"
+msgstr "(vždy vyžadováno)"
+

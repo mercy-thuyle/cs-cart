@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "المدفوعات المباشرة من العميل إلى البائع"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "تغيير عملية السحب: يدفع العملاء لكل بائع على حدة ، وينتقل المال من الطلبات مباشرة إلى البائعين. يمكن للموردين أيضًا إعداد طرق الدفع الخاصة بهم والعروض الترويجية."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "ملخص العربات"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "إدفع الآن"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "هناك منتجات في عربة التسوق التي لم تطلبها بعد. الرجاء <a href=\"[cart_url]\"> عرض سلة التسوق </a> لمتابعة سداد الرسوم."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "دفع العمولة للطلب #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "لم يكن لديك أي طرق الدفع النشطة الخاصة بك. لهذا السبب سيتم استخدام طرق الدفع لمالك السوق عند الخروج بدلاً من ذلك. لتجنب التأخير في تلقي الأموال ، يرجى إعداد طريقة الدفع الخاصة بك."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "سيتم عرض طرق الدفع هذه للعملاء فقط عندما لا يكون لدى البائع أي طرق دفع نشطة. سيذهب المال من الطلبيات أولاً إلى مالك السوق ، الذي سيتم إعلامه بذلك وسيتعين عليه تحويل هذه الأموال إلى البائع."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "طرق الدفع الخاصة بك"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "طرق دفع مالك السوق"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "إنشاء أسلوب الدفع"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "سلة التسوق من قبل البائعين"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "عربة العميل مقسمة من قبل البائعين عند الخروج"
+

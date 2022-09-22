@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/discussion.po\n"
+"X-Crowdin-File-ID: 6714\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::discussion"
+msgid "Comments and reviews"
+msgstr "Kommentit ja arvostelut"
+
+msgctxt "Addons::description::discussion"
+msgid "Lets customers leave comments to categories, pages, etc., review vendors and write testimonials"
+msgstr "Antaa asiakkaiden jättää kommentteja luokkiin, sivuille jne., arvostella toimittajia ja kirjoittaa suosituksia"
+
+msgctxt "Languages::use_for_discussion"
+msgid "Comments and reviews forms"
+msgstr "Kommentti- ja arvostelulomakkeet"
+
+msgctxt "Languages::comments_and_reviews_menu_description"
+msgid "Customer comments and reviews on products, categories, orders, etc."
+msgstr "Asiakkaiden kommentit ja arvostelut tuotteista, luokista, tilauksista jne."
+
+msgctxt "Languages::discussion_title_category"
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgctxt "Languages::discussion_title_giftreg"
+msgid "Guestbook"
+msgstr "Vieraskirja"
+
+msgctxt "Languages::discussion_title_home_page_menu_description"
+msgid "Manage the testimonials from your store visitors."
+msgstr "Hallinnoi myymäläsi vierailijoiden kokemuksia."
+
+msgctxt "Languages::discussion_title_order"
+msgid "Communication"
+msgstr "Viesti"
+
+msgctxt "Languages::discussion_title_page"
+msgid "Comments"
+msgstr "Kommentit"
+
+msgctxt "Languages::discussion_title_product"
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgctxt "Languages::discussion_title_return"
+msgid "Communication"
+msgstr "Viestintä"
+
+msgctxt "Languages::no_posts_found"
+msgid "No posts found"
+msgstr "Ei kommentteja"
+
+msgctxt "Languages::your_rating"
+msgid "Your rating"
+msgstr "Arviosi"
+
+msgctxt "Languages::comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Kommentteja ja arvosteluja"
+
+msgctxt "Languages::discussion_title_home_page"
+msgid "Testimonials"
+msgstr "Suositukset"
+
+msgctxt "Languages::text_enabled_testimonials_notice"
+msgid "Testimonials are disabled. To enable, please go to <a href=\"[link]\">Comments and reviews: options</a> and select the \"Communication\", \"Rating\" or \"Communication and Rating\" value in \"Testimonials\" field."
+msgstr "Todistukset on poistettu käytöstä. Ota käyttöön siirtymällä kohtaan <a href=\"[link]\">Kommentit ja arvostelut: vaihtoehdot</a> ja valitsemalla \"Viestintä\", \"Arviointi\" tai \"Viestintä ja luokitus\" -arvo \"Lausunnot\" -kentässä."
+
+msgctxt "Languages::discussion_title_company"
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgctxt "Languages::communication_and_rating"
+msgid "Communication and Rating"
+msgstr "Viestintä ja luokitus"
+
+msgctxt "Languages::communication"
+msgid "Communication"
+msgstr "Viestit"
+
+msgctxt "Languages::rating"
+msgid "Rating"
+msgstr "Luokitus"
+
+msgctxt "Languages::cant_find_thread"
+msgid "Thread can not be found."
+msgstr "Viestiä ei löydy."
+
+msgctxt "Languages::error_already_posted"
+msgid "You have posted in this discussion already"
+msgstr "Olet jo kirjoittanut tähän keskusteluun"
+
+msgctxt "Languages::text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Kiitos viestistäsi"
+
+msgctxt "Languages::text_post_pended"
+msgid "Your post will be checked before it gets published."
+msgstr "Viestisi tarkistetaan ennen kuin se julkaistaan."
+
+msgctxt "Languages::discussion"
+msgid "Comments and reviews"
+msgstr "Kommentteja ja arvosteluja"
+
+msgctxt "Languages::text_new_post_notification"
+msgid "This is a notification of a new post to"
+msgstr "Olet saanut uuden viestin: "
+
+msgctxt "Languages::text_approval_notice"
+msgid "This post needs approving"
+msgstr "Tämä viesti vaatii hyväksynnän"
+
+msgctxt "Languages::latest_reviews"
+msgid "Latest comments & reviews"
+msgstr "Uusimmat kommentit ja arvostelut"
+
+msgctxt "Languages::comment_by"
+msgid "Comment by"
+msgstr "Kommentoi"
+
+msgctxt "Languages::and"
+msgid "and"
+msgstr "ja"
+
+msgctxt "Languages::add_post"
+msgid "Add post"
+msgstr "Lisää viesti"
+
+msgctxt "Languages::not_approved"
+msgid "Not approved"
+msgstr "Hylätty"
+
+msgctxt "Languages::discussion_manager"
+msgid "Comments and reviews"
+msgstr "Kommentteja ja arvosteluja"
+
+msgctxt "Languages::testimonials"
+msgid "Testimonials"
+msgstr "Suositukset"
+
+msgctxt "Languages::privileges.view_discussions"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::privileges.manage_discussions"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.discussions"
+msgid "Comments and reviews"
+msgstr "Kommentit ja arvostelut"
+
+msgctxt "Languages::block_testimonials"
+msgid "Testimonials"
+msgstr "Suositukset"
+
+msgctxt "Languages::block_testimonials_description"
+msgid "User testimonials"
+msgstr "Käyttäjien suosittelut"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Lajittele arvosanan mukaan: matalasta korkeaan"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Lajittele luokituksen mukaan"
+
+msgctxt "Languages::reviews"
+msgid "review|reviews"
+msgstr "arvostelu|arvostelut"
+
+msgctxt "Languages::write_review"
+msgid "Write a review"
+msgstr "Kirjoita arvostelu"
+
+msgctxt "SettingsSections::discussion::products"
+msgid "Products"
+msgstr "Tuotteet"
+
+msgctxt "SettingsSections::discussion::categories"
+msgid "Categories"
+msgstr "Luokat"
+
+msgctxt "SettingsSections::discussion::orders"
+msgid "Orders"
+msgstr "Tilaukset"
+
+msgctxt "SettingsSections::discussion::pages"
+msgid "Pages"
+msgstr "Sivut"
+
+msgctxt "SettingsSections::discussion::testimonials"
+msgid "Testimonials"
+msgstr "Suositukset"
+
+msgctxt "SettingsSections::discussion::companies"
+msgid "Vendors"
+msgstr "Myyjät"
+
+msgctxt "SettingsOptions::discussion::product_posts_per_page"
+msgid "Posts per page"
+msgstr "Viestejä per sivu"
+
+msgctxt "SettingsOptions::discussion::product_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ylläpitäjän tulee hyväksyä lähettäjän lähettämät viestit"
+
+msgctxt "SettingsOptions::discussion::product_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Vain yksi viesti yhdeltä IP-osoitteelta on sallittu"
+
+msgctxt "SettingsOptions::discussion::product_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Jaa keskustelut kaikkien myymälöiden kanssa"
+
+msgctxt "SettingsTooltips::discussion::product_share_discussion"
+msgid "Show all comments and reviews of a product on all storefronts that the product is shared with"
+msgstr "Näytä kaikki tuotteen kommentit ja arvostelut kaikissa julkisivuissa, joiden kanssa tuote on jaettu"
+
+msgctxt "SettingsOptions::discussion::category_posts_per_page"
+msgid "Posts per page"
+msgstr "Viestejä per sivu"
+
+msgctxt "SettingsOptions::discussion::category_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ylläpitäjän tulee hyväksyä lähettäjän lähettämät viestit"
+
+msgctxt "SettingsOptions::discussion::category_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Vain yksi viesti yhdeltä IP-osoitteelta on sallittu"
+
+msgctxt "SettingsOptions::discussion::order_posts_per_page"
+msgid "Posts per page"
+msgstr "Viestejä per sivu"
+
+msgctxt "SettingsOptions::discussion::order_initiate"
+msgid "Allow customer to initiate discussion"
+msgstr "Anna asiakkaan aloittaa keskustelu"
+
+msgctxt "SettingsOptions::discussion::page_posts_per_page"
+msgid "Posts per page"
+msgstr "Viestejä per sivu"
+
+msgctxt "SettingsOptions::discussion::page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ylläpitäjän tulee hyväksyä lähettäjän lähettämät viestit"
+
+msgctxt "SettingsOptions::discussion::page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Vain yksi viesti yhdeltä IP-osoitteelta on sallittu"
+
+msgctxt "SettingsOptions::discussion::page_share_discussion"
+msgid "Share discussions with all stores"
+msgstr "Jaa keskustelut kaikkien myymälöiden kanssa"
+
+msgctxt "SettingsTooltips::discussion::page_share_discussion"
+msgid "Show all comments and reviews of a page on all storefronts that the page is shared with"
+msgstr "Näytä kaikki sivun kommentit ja arvostelut kaikissa julkisivuissa, joiden kanssa sivu on jaettu"
+
+msgctxt "SettingsOptions::discussion::home_page_posts_per_page"
+msgid "Posts per page"
+msgstr "Viestejä per sivu"
+
+msgctxt "SettingsOptions::discussion::home_page_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ylläpitäjän tulee hyväksyä lähettäjän lähettämät viestit"
+
+msgctxt "SettingsOptions::discussion::home_page_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Vain yksi viesti yhdeltä IP-osoitteelta on sallittu"
+
+msgctxt "SettingsOptions::discussion::home_page_testimonials"
+msgid "Testimonials"
+msgstr "Suositukset"
+
+msgctxt "SettingsOptions::discussion::testimonials_from_all_stores"
+msgid "Show testimonials from all stores"
+msgstr "Näytä suosittelut kaikista myymälöistä"
+
+msgctxt "SettingsOptions::discussion::product_discussion_type"
+msgid "Default value"
+msgstr "Oletusarvo"
+
+msgctxt "SettingsTooltips::discussion::product_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Määrittää, ovatko kommentit ja/tai arvostelut sallittuja uusille tuotteille. Ei vaikuta olemassa oleviin tuotteisiin."
+
+msgctxt "SettingsOptions::discussion::product_review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Vain ostajat voivat postittaa"
+
+msgctxt "SettingsTooltips::discussion::product_review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Salli tuotteen arvostelujen jättäminen vain tuotteen ostaneille."
+
+msgctxt "SettingsOptions::discussion::category_discussion_type"
+msgid "Default value"
+msgstr "Oletusarvo"
+
+msgctxt "SettingsTooltips::discussion::category_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created categories. Doesn't affect existing categories."
+msgstr "Määrittää, sallitaanko kommentit ja/tai arvostelut äskettäin luoduille luokille. Ei vaikuta olemassa oleviin luokkiin."
+
+msgctxt "SettingsOptions::discussion::page_discussion_type"
+msgid "Default value"
+msgstr "Oletusarvo"
+
+msgctxt "SettingsTooltips::discussion::page_discussion_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created pages. Doesn't affect existing pages."
+msgstr "Määrittää, sallitaanko kommentit ja/tai arvostelut äskettäin luoduille sivuille. Ei vaikuta olemassa oleviin sivuihin."
+
+msgctxt "SettingsOptions::discussion::company_discussion_type"
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgctxt "SettingsOptions::discussion::company_only_buyers"
+msgid "Only buyers can post"
+msgstr "Vain ostajat voivat postittaa"
+
+msgctxt "SettingsTooltips::discussion::company_only_buyers"
+msgid "Allow leaving reviews for a vendor only to those who bought products from that vendor."
+msgstr "Salli arvioiden jättäminen myyjästä vain niille, jotka ostivat tuotteita kyseiseltä myyjältä."
+
+msgctxt "SettingsOptions::discussion::company_posts_per_page"
+msgid "Posts per page"
+msgstr "Viestejä per sivu"
+
+msgctxt "SettingsOptions::discussion::company_post_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Ylläpitäjän tulee hyväksyä lähettäjän lähettämät viestit"
+
+msgctxt "SettingsOptions::discussion::company_post_ip_check"
+msgid "Only one post from one IP is allowed"
+msgstr "Vain yksi viesti yhdeltä IP-osoitteelta on sallittu"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::any"
+msgid "Any customer"
+msgstr "Kuka tahansa asiakas"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Vain nimettömät asiakkaat"
+
+msgctxt "SettingsVariants::discussion::company_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Hyväksyntää ei tarvita"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::any"
+msgid "Any customer"
+msgstr "Kuka tahansa asiakas"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Vain nimettömät asiakkaat"
+
+msgctxt "SettingsVariants::discussion::product_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Hyväksyntää ei tarvita"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::any"
+msgid "Any customer"
+msgstr "Kuka tahansa asiakas"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Vain nimettömät asiakkaat"
+
+msgctxt "SettingsVariants::discussion::category_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Hyväksyntää ei tarvita"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::any"
+msgid "Any customer"
+msgstr "Kuka tahansa asiakas"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Vain nimettömät asiakkaat"
+
+msgctxt "SettingsVariants::discussion::page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Hyväksyntää ei tarvita"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::any"
+msgid "Any customer"
+msgstr "Kuka tahansa asiakas"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Vain nimettömät asiakkaat"
+
+msgctxt "SettingsVariants::discussion::home_page_post_approval::disabled"
+msgid "No approval needed"
+msgstr "Hyväksyntää ei tarvita"
+
+msgctxt "Languages::discussion_tab_products"
+msgid "Product Reviews"
+msgstr "Tuotearvostelut"
+
+msgctxt "Languages::discussion_tab_categories"
+msgid "Category Reviews"
+msgstr "Luokka-arvostelut"
+
+msgctxt "Languages::discussion_tab_pages"
+msgid "Page Comments"
+msgstr "Sivun kommentit"
+
+msgctxt "Languages::discussion_tab_orders"
+msgid "Order Communication"
+msgstr "Tilaa viestintä"
+
+msgctxt "Languages::discussion_tab_home_page"
+msgid "Testimonials"
+msgstr "Suositukset"
+
+msgctxt "Languages::discussion_tab_companies"
+msgid "Company Reviews"
+msgstr "Yritysarvostelut"
+
+msgctxt "Languages::email_template.discussion_notification"
+msgid "Comments and reviews notification"
+msgstr "Ilmoitus kommenteista ja arvosteluista"
+
+msgctxt "Languages::show_rating"
+msgid "Show review rating"
+msgstr "Näytä arvostelun luokitus"
+
+msgctxt "Languages::gdpr_discussions_data"
+msgid "Personal data from discussions"
+msgstr "Henkilötietoja keskusteluista"
+
+msgctxt "Languages::discussion.add_new_review"
+msgid "Discussion: new review"
+msgstr "Keskustelu: uusi arvostelu"
+
+msgctxt "Languages::discussion.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Nimesi näkyy arvostelusi tai kommenttisi vieressä ja näkyy kaikille. Tallennamme ([company]) myös IP-osoitteesi turvallisuussyistä, mutta vain henkilökuntamme voi nähdä sen. Se säilyy järjestelmässämme, kunnes peruutat suostumuksesi. Jos haluat, että henkilötietosi poistetaan, lähetä sähköpostia osoitteeseen [email].</p> <p>Jos uskot, että henkilötietojasi on käytetty väärin, sinulla on oikeus tehdä valitus valvontaviranomaiselle. EU:n yleisen tietosuoja-asetuksen mukaan olemme velvollisia ilmoittamaan sinulle tästä oikeudesta; emme todellakaan aio väärinkäyttää tietojasi.</p>"
+
+msgctxt "Languages::discussion.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Hyväksyn, että henkilötietojani <u>käsitellään seuraavasti.</u>"
+
+msgctxt "Languages::discussion.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Kirjaudu sisään kirjoittaaksesi arvostelun"
+
+msgctxt "Languages::discussion.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "Et voi kirjoittaa arvostelua tästä tuotteesta. Asiakkaat voivat kirjoittaa arvosteluja vain ostamistaan tuotteista. Jos ostit tämän tuotteen meiltä, mutta näet edelleen tämän viestin, ota meihin yhteyttä."
+
+msgctxt "Languages::discussion.you_have_to_buy_from_vendor_before_writing_review"
+msgid "You can't write a review for this vendor. Customers can write reviews for a vendor only after they buy something from that vendor. If you actually placed an order with this vendor, but are still seeing this message, please contact us."
+msgstr "Et voi kirjoittaa arvostelua tälle toimittajalle. Asiakkaat voivat kirjoittaa arvosteluja myyjälle vasta ostaessaan jotain kyseiseltä myyjältä. Jos teit tilauksen tältä toimittajalta, mutta näet edelleen tämän viestin, ota meihin yhteyttä."
+
+msgctxt "Languages::discussion.event.products.new_post"
+msgid "Products: new review posted"
+msgstr "Tuotteet: uusi arvostelu julkaistu"
+
+msgctxt "Languages::discussion.event.testimonials.new_post"
+msgid "Testimonials: new review posted"
+msgstr "Kokemukset: uusi arvostelu julkaistu"
+
+msgctxt "Languages::discussion.event.orders.new_post"
+msgid "Order communication: new message added"
+msgstr "Tilausviestintä: uusi viesti lisätty"
+
+msgctxt "Languages::discussion.event.categories.new_post"
+msgid "Categories: new review posted"
+msgstr "Kategoriat: uusi arvostelu julkaistu"
+
+msgctxt "Languages::discussion.event.pages.new_post"
+msgid "Pages: new comment posted"
+msgstr "Sivut: uusi kommentti lähetetty"
+
+msgctxt "Languages::discussion.event.vendors.new_post"
+msgid "Vendors: new review posted"
+msgstr "Toimittajat: uusi arvostelu julkaistu"
+

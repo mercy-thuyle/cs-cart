@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_variations.po\n"
+"X-Crowdin-File-ID: 6606\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations"
+msgstr "تغییرات محصول"
+
+msgctxt "Addons::description::product_variations"
+msgid "Create products with different feature variants (for example, a different color or size), and let customers select the desired variant."
+msgstr "محصولاتی با انواع ویژگی های مختلف (به عنوان مثال، رنگ یا اندازه متفاوت) ایجاد کنید و به مشتریان اجازه دهید نوع مورد نظر را انتخاب کنند."
+
+msgctxt "SettingsSections::product_variations::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_images"
+msgid "Allow own images for child variations"
+msgstr "به تصاویر خود برای تغییرات کودک اجازه دهید"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_images"
+msgid "If child variations aren't allowed to have their own images, they will use the images from the default variation of the catalog item."
+msgstr "اگر تغییرات فرزند مجاز به داشتن تصاویر خود نباشند، از تصاویر مربوط به تنوع پیش‌فرض مورد کاتالوگ استفاده خواهند کرد."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_auto_change_default_variation"
+msgid "Change default variation when it gets hidden or runs out of stock"
+msgstr "تغییرات پیش‌فرض را هنگامی که مخفی می‌شود یا موجودی آن تمام می‌شود، تغییر دهید"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_auto_change_default_variation"
+msgid "Ensure that customers always see the products that are in stock first. We recommend leaving this setting enabled for better filtering of variations."
+msgstr "اطمینان حاصل کنید که مشتریان همیشه ابتدا محصولات موجود در انبار را مشاهده می کنند. توصیه می کنیم برای فیلتر کردن بهتر تغییرات، این تنظیم را فعال کنید."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_features"
+msgid "Allow own feature values for child variations"
+msgstr "مقادیر ویژگی های خود را برای تغییرات فرزند مجاز کنید"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_features"
+msgid "If child variations aren't allowed to have their own values for features, they will use the values from the default variation of the catalog item."
+msgstr "اگر تغییرات فرزند مجاز به داشتن مقادیر خاص برای ویژگی‌ها نباشند، از مقادیر تغییر پیش‌فرض مورد کاتالوگ استفاده خواهند کرد."
+
+msgctxt "SettingsOptions::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show all possible feature variants"
+msgstr "نمایش همه انواع ویژگی های ممکن"
+
+msgctxt "SettingsTooltips::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show a feature variant even if it is not available for this variation."
+msgstr "یک نوع ویژگی را حتی اگر برای این تنوع موجود نباشد نشان دهید."
+
+msgctxt "SettingsOptions::product_variations::quantity_discount_on_different_variations"
+msgid "Give quantity discount on different product variations"
+msgstr "برای تنوع محصول تخفیف کمی بدهید"
+
+msgctxt "SettingsTooltips::product_variations::quantity_discount_on_different_variations"
+msgid "All variations in the same group will count to the quantity that is eligible for a discount."
+msgstr "همه تغییرات در همان گروه به مقداری که برای تخفیف واجد شرایط است محاسبه می شود."
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr "نوع محصول"
+
+msgctxt "Languages::product_variations.product_type.catalog_item"
+msgid "Catalog item"
+msgstr "مورد کاتالوگ"
+
+msgctxt "Languages::product_variations.product_type.variation_of_catalog_item"
+msgid "Variation of a catalog item"
+msgstr "تنوع یک آیتم کاتالوگ"
+
+msgctxt "Languages::product_variations.belongs_to_catalog_item"
+msgid "Belongs to catalog item:"
+msgstr "متعلق به آیتم کاتالوگ:"
+
+msgctxt "Languages::product_variations.variations"
+msgid "Variations"
+msgstr "تغییرات"
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of catalog item <a href=\"[url]\">[product]</a>"
+msgstr "تنوع مورد کاتالوگ <a href=\"[url]\">[product]</a>"
+
+msgctxt "Languages::product_variations.group_code"
+msgid "Variation group"
+msgstr "گروه واریاسیون"
+
+msgctxt "Languages::product_variations.group_code.placeholder"
+msgid "Set custom group code here"
+msgstr "کد گروه سفارشی را در اینجا تنظیم کنید"
+
+msgctxt "Languages::product_variations.group_code.description"
+msgid "Use the group code on a product editing page or during import to add the product to this group as a variation. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\"."
+msgstr "از کد گروه در صفحه ویرایش محصول یا در حین واردات استفاده کنید تا محصول را به عنوان یک تغییر به این گروه اضافه کنید. یک کد گروه فقط می تواند شامل ارقام، حروف لاتین و علائم زیر باشد: \"-\" و \"_\"."
+
+msgctxt "Languages::product_variations.group_code.link"
+msgid "Add to variation group"
+msgstr "به گروه تغییرات اضافه کنید"
+
+msgctxt "Languages::product_variations.add_variations"
+msgid "Add variations"
+msgstr "تغییرات را اضافه کنید"
+
+msgctxt "Languages::product_variations.link_existing"
+msgid "Use existing products"
+msgstr "از محصولات موجود استفاده کنید"
+
+msgctxt "Languages::product_variations.create_new"
+msgid "Create new products"
+msgstr "محصولات جدید ایجاد کنید"
+
+msgctxt "Languages::product_variations.add_variations_description"
+msgid "Add variations to generate a group of similar products that differ in color, size, etc. Or add this product to an existing group by entering the group code."
+msgstr "برای تولید گروهی از محصولات مشابه که از نظر رنگ، اندازه و غیره متفاوت هستند، تغییراتی اضافه کنید. یا با وارد کردن کد گروه، این محصول را به یک گروه موجود اضافه کنید."
+
+msgctxt "Languages::product_variations.manage"
+msgid "Manage variations"
+msgstr "تغییرات را مدیریت کنید"
+
+msgctxt "Languages::product_variations.edit_features"
+msgid "Edit features"
+msgstr "ویرایش ویژگی ها"
+
+msgctxt "Languages::product_variations.delete"
+msgid "Disband group"
+msgstr "گروه را منحل کنید"
+
+msgctxt "Languages::product_variations.remove_variation"
+msgid "Remove variation from group"
+msgstr "حذف تغییرات از گروه"
+
+msgctxt "Languages::product_variations.delete_product"
+msgid "Delete product"
+msgstr "محصول را حذف کنید"
+
+msgctxt "Languages::product_variations.mark_main_product"
+msgid "Set as default variation"
+msgstr "به عنوان تنوع پیش فرض تنظیم کنید"
+
+msgctxt "Languages::product_variations.no_available_features"
+msgid "This product doesn't have features that allow grouping products. Please make sure that:<ol><li>You have created at least one feature with <b>Purpose:</b> <i>Variations as separate products</i> or <i>Variations as one product</i>.</li><li>You have specified the value of that feature for the product.</li></ol><a href=[manage_features_href]>Manage features</a>"
+msgstr "این محصول دارای ویژگی هایی نیست که امکان گروه بندی محصولات را فراهم می کند. لطفاً مطمئن شوید که:<ol><li>شما حداقل یک ویژگی را با <b>هدف ایجاد کرده اید:</b> <i>تنوع به عنوان محصولات جداگانه</i> یا <i>تنوع به عنوان یک محصول</i>.</li><li>شما مقدار آن ویژگی را برای محصول مشخص کرده اید.</li></ol><a href=[manage_features_href]>مدیریت ویژگی های</a>"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item"
+msgid "Variations as separate products"
+msgstr "تغییرات به عنوان محصولات جداگانه"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item.description"
+msgid "For cases when a few similar products differ visibly by a feature, and have different names (for example, multiple \"Color\" variants of a T-shirt). These products will appear as separate positions in the catalog. Customers will also be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "برای مواردی که چند محصول مشابه با یک ویژگی به وضوح متفاوت هستند، و نام‌های متفاوتی دارند (به عنوان مثال، چندین نوع \"رنگی\" یک تی شرت). این محصولات به عنوان موقعیت های جداگانه در کاتالوگ ظاهر می شوند. مشتریان همچنین می توانند مقدار ویژگی مورد نظر را در صفحه محصول انتخاب کنند. برای رسیدن به این هدف، <b>تغییرات را برای محصولات دارای این ویژگی تنظیم کنید</b>."
+
+msgctxt "Languages::product_feature.feature_style.dropdown"
+msgid "Drop-down list"
+msgstr "لیست کشویی"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_images"
+msgid "Images"
+msgstr "تصاویر"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_labels"
+msgid "Text labels"
+msgstr "برچسب های متنی"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item"
+msgid "Variations as one product"
+msgstr "تنوع به عنوان یک محصول"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item.description"
+msgid "For cases when a few similar products differ by a feature, but have the same name and similar appearance (for example, multiple \"Size\" variants of a T-shirt). These products will occupy a single position in the catalog. Customers will be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "برای مواردی که چند محصول مشابه با یک ویژگی متفاوت هستند، اما نام یکسان و ظاهری مشابه دارند (به عنوان مثال، چندین نوع \"سایز\" یک تی شرت). این محصولات یک موقعیت واحد را در کاتالوگ اشغال خواهند کرد. مشتریان می توانند مقدار ویژگی مورد نظر را در صفحه محصول انتخاب کنند. برای رسیدن به این هدف، <b>تغییرات را برای محصولات دارای این ویژگی تنظیم کنید</b>."
+
+msgctxt "Languages::product_variations.warning.before_edit_variations_save_product"
+msgid "Before you can edit variations, please save the product."
+msgstr "قبل از اینکه بتوانید تغییرات را ویرایش کنید، لطفاً محصول را ذخیره کنید."
+
+msgctxt "Languages::product_variations.error.group_not_found"
+msgid "Variation group #[id] not found"
+msgstr "گروه تغییر شماره[id] یافت نشد"
+
+msgctxt "Languages::product_variations.error.product_not_found_in_group"
+msgid "Product #[product_id] not found in variation group \"[group_code]\""
+msgstr "محصول شماره[product_id] در گروه تنوع \"[group_code]\" یافت نشد"
+
+msgctxt "Languages::product_variations.error.cannot_mark_main_product_child_product"
+msgid "Product #[product_id] in group \"[group_code]\" isn't a variation, so it can't become default for a catalog item"
+msgstr "محصول شماره[product_id] در گروه \"[group_code]\" یک تغییر نیست، بنابراین نمی تواند به عنوان پیش فرض برای یک مورد کاتالوگ تبدیل شود."
+
+msgctxt "Languages::product_variations.error.generate_combinations_is_empty"
+msgid "Couldn't generate variations. Please specify the values of features to generate variations."
+msgstr "تغییرات ایجاد نشد. لطفاً مقادیر ویژگی ها را برای ایجاد تغییرات مشخص کنید."
+
+msgctxt "Languages::product_variations.error.generate_products_is_empty"
+msgid "No new products were created"
+msgstr "هیچ محصول جدیدی ایجاد نشد"
+
+msgctxt "Languages::product_variations.error.product_not_found"
+msgid "Product #[product_id] not found"
+msgstr "محصول شماره[product_id] یافت نشد"
+
+msgctxt "Languages::product_variations.error.group_not_found_by_product"
+msgid "Couldn't find variation group for #[product_id] \"[product]\""
+msgstr "گروه تنوع برای #[product_id] \"[product]\" یافت نشد"
+
+msgctxt "Languages::product_variations.error.feature_combination_is_invalid_for_product"
+msgid "Wrong combination of features for product #[product_id] \"[product]\""
+msgstr "ترکیب اشتباه از ویژگی ها برای محصول شماره[product_id] \"[product]\""
+
+msgctxt "Languages::product_variations.error.product_ids_empty"
+msgid "Products couldn't be found"
+msgstr "محصولات یافت نشد"
+
+msgctxt "Languages::product_variations.select_variation"
+msgid "Select a Variation"
+msgstr "یک Variation را انتخاب کنید"
+
+msgctxt "Languages::product_variations.error.group_code_is_required"
+msgid "Variation group code must be specified"
+msgstr "کد گروه تغییرات باید مشخص شود"
+
+msgctxt "Languages::product_variations.error.group_code_is_invalid"
+msgid "Couldn't set this code for variation group. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\""
+msgstr "این کد برای گروه تغییرات تنظیم نشد. یک کد گروه فقط می تواند شامل اعداد، نویسه های لاتین و علائم زیر باشد: \"-\" و \"_\""
+
+msgctxt "Languages::product_variations.error.group_code_is_duplicate"
+msgid "The specified variation group code is already in use"
+msgstr "کد گروه تغییرات مشخص شده در حال حاضر در حال استفاده است"
+
+msgctxt "Languages::product_variations.error.features_is_empty"
+msgid "Features couldn't be found"
+msgstr "ویژگی‌ها یافت نشد"
+
+msgctxt "Languages::product_variations.error.no_available_products"
+msgid "No suitable products were found"
+msgstr "هیچ محصول مناسبی یافت نشد"
+
+msgctxt "Languages::product_variations.error.product_has_not_required_features"
+msgid "Product #[product_id] \"[product]\" doesn't have the required features to become a variation. Please set feature values for that product."
+msgstr "محصول شماره[product_id] \"[product]\" ویژگی های لازم برای تبدیل شدن به یک تنوع را ندارد. لطفاً مقادیر ویژگی را برای آن محصول تنظیم کنید."
+
+msgctxt "Languages::product_variations.error.product_with_features_combination_exits"
+msgid "Product #[product_id] \"[product]\" has the exact same combination of feature values as a variation that already exists in the group."
+msgstr "محصول شماره[product_id] \"[product]\" دقیقاً همان ترکیبی از مقادیر ویژگی را با تغییراتی دارد که از قبل در گروه وجود دارد."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.ult"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same storefront."
+msgstr "محصول شماره[product_id] \"[product]\" را نمی توان به گروه تغییرات اضافه کرد زیرا همه محصولات در یک گروه تنوع باید به یک ویترین تعلق داشته باشند."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.mve"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same vendor."
+msgstr "محصول شماره[product_id] \"[product]\" را نمی توان به گروه تغییرات اضافه کرد زیرا همه محصولات در یک گروه تغییرات باید متعلق به یک فروشنده باشند."
+
+msgctxt "Languages::product_variations.variations_filling"
+msgid "Variations"
+msgstr "تغییرات"
+
+msgctxt "Languages::product_variations.variations_list"
+msgid "Variations"
+msgstr "تغییرات"
+
+msgctxt "Languages::variations_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "فقط محصولات \"در انبار\"."
+
+msgctxt "Languages::product_variations.hide_add_to_wishlist_button"
+msgid "Hide add to wish list button"
+msgstr "دکمه افزودن به لیست آرزوها را مخفی کنید"
+
+msgctxt "Languages::product_variations.variations_list_block_name"
+msgid "Variations list"
+msgstr "لیست تغییرات"
+
+msgctxt "Languages::product_variations.variations_list_tab_name"
+msgid "View all variations as list"
+msgstr "مشاهده تمام تغییرات به عنوان لیست"
+
+msgctxt "Languages::product_variations.show_variation_thumbnails"
+msgid "Show variation thumbnails"
+msgstr "نمایش ریز عکس های تنوع"
+
+msgctxt "Languages::product_variations.show_product_code"
+msgid "Show product code"
+msgstr "نمایش کد محصول"
+
+msgctxt "Languages::product_variations.exim.result_notice"
+msgid "Data is imported successfully.<br />New products - <b>[new]</b>;<br />Updated products - <b>[exist]</b>;<br />Skipped products - <b>[skipped]</b>;<br />Total - <b>[total]</b>;<br />Created variations - <b>[variation_created]</b>;<br />Updated variations - <b>[variation_updated]</b>;<br />Disbanded variations - <b>[variation_removed]</b>."
+msgstr "داده ها با موفقیت وارد شد.<br />محصول جدید - <b>[new]</b>;<br />محصول به روز شده - <b>[exist]</b>;<br />محصول حذف شده - <b>[skipped]</b>;<br />مجموع - <b>[total]</b>;<br />تغییرات ایجاد شده - <b>[variation_created]</b>;<br />تغییرات به روز شده - <b>[variation_updated]</b>;<br />تغییرات منحل شده - <b>[variation_removed]</b>."
+
+msgctxt "Languages::variation_group_id"
+msgid "Variation group ID"
+msgstr "شناسه گروه تنوع"
+
+msgctxt "Languages::variation_group_code"
+msgid "Variation group code"
+msgstr "کد گروه تنوع"
+
+msgctxt "Languages::variation_parent_product_id"
+msgid "Variation parent product ID"
+msgstr "شناسه محصول والد تنوع"
+
+msgctxt "Languages::variation_sub_group_id"
+msgid "Variation sub group ID"
+msgstr "شناسه زیر گروه تنوع"
+
+msgctxt "Languages::product_variations.feature_used_by_variation_group.tooltip"
+msgid "This feature is used by variation group [code]. To choose a different value of this feature for a product, switch to the \"Variations\" tab of the product editing page. New values can be added on the feature editing page."
+msgstr "این ویژگی توسط گروه تغییرات [code]استفاده می شود. برای انتخاب مقدار متفاوتی از این ویژگی برای یک محصول، به برگه «تغییرها» در صفحه ویرایش محصول بروید. می توان مقادیر جدیدی را در صفحه ویرایش ویژگی اضافه کرد."
+
+msgctxt "Languages::product_variations.variations_naming_strategy.key_value"
+msgid "Color: Red, Size: Small"
+msgstr "رنگ: قرمز، سایز: کوچک"
+
+msgctxt "Languages::product_variations.variations_naming_strategy.value"
+msgid "Red, Small"
+msgstr "قرمز، کوچک"
+
+msgctxt "Languages::product_variations.feature_can_be_deleted"
+msgid "Couldn't delete a feature or its variant because at least one variation group is based on it. Please delete <a href=\"[href]\">these products</a> or disband their product groups, and try again."
+msgstr "نمی توان یک ویژگی یا نوع آن را حذف کرد زیرا حداقل یک گروه تنوع بر اساس آن است. لطفاً <a href=\"[href]\">این محصولات</a> را حذف کنید یا گروه محصولات آنها را منحل کنید و دوباره امتحان کنید."
+
+msgctxt "Languages::product_variations.notice.old_product_variations_exists"
+msgid "Your store still has old product variations. They currently appear as separate products, without the ability to switch between them. To make them work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>. It's easy and automatic."
+msgstr "فروشگاه شما هنوز تنوع محصولات قدیمی دارد. آنها در حال حاضر به عنوان محصولات جداگانه ظاهر می شوند، بدون امکان جابجایی بین آنها. برای اینکه آنها مانند قبل از ارتقا کار کنند، <a href=\"[convert_url]\">تغییرات قدیمی را به تغییرات جدید تبدیل کنید</a>. آسان و خودکار است."
+
+msgctxt "Languages::product_variations.notice.is_old_product_variation"
+msgid "This product is an old variation that hasn't been converted yet. To make it work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>."
+msgstr "این محصول یک نسخه قدیمی است که هنوز تبدیل نشده است. برای اینکه مانند قبل از ارتقا کار کند، <a href=\"[convert_url]\">تغییرات قدیمی را به تغییرات جدید تبدیل کنید</a>."
+
+msgctxt "Languages::variation_set_as_default"
+msgid "Variation set as default"
+msgstr "تغییر به عنوان پیش فرض تنظیم شده است"
+
+msgctxt "Languages::product_variations.cant_edit_feature_categories"
+msgid "Couldn't restrict the feature's availability in categories. <a href=\"[href]\">Some product variations with that feature</a> are still available in the categories where you tried to restrict the feature. Please remove the variation groups from those categories and try again."
+msgstr "نمی‌توان در دسترس بودن ویژگی را در دسته‌ها محدود کرد. <a href=\"[href]\">برخی از تغییرات محصول با آن ویژگی</a> هنوز در دسته بندی هایی که سعی کردید این ویژگی را محدود کنید موجود است. لطفاً گروه‌های تغییرات را از آن دسته‌ها حذف کنید و دوباره امتحان کنید."
+
+msgctxt "Languages::product_variations.too_many_combinations"
+msgid "Sorry, there are too many possible variations that can be generated. To prevent heavy load, we won't display them here. Please create the products with the right feature values manually or via import, and add them to the group."
+msgstr "با عرض پوزش، تغییرات احتمالی زیادی وجود دارد که می توان ایجاد کرد. برای جلوگیری از بار سنگین، آنها را در اینجا نمایش نمی دهیم. لطفاً محصولات را با مقادیر مناسب ویژگی به صورت دستی یا از طریق import ایجاد کنید و آنها را به گروه اضافه کنید."
+
+msgctxt "Languages::product_variations.generator.features.placeholder"
+msgid "Search for features that can generate variations"
+msgstr "ویژگی هایی را جستجو کنید که می توانند تغییرات ایجاد کنند"
+
+msgctxt "Languages::product_variations.generator.warning.new_features_add"
+msgid "You can add a new feature if you disband the group in the actions menu and create variations again."
+msgstr "اگر گروه را در منوی اقدامات منحل کنید و دوباره تغییرات ایجاد کنید، می توانید یک ویژگی جدید اضافه کنید."
+
+msgctxt "Languages::product_variations.generator.feature_variants.placeholder"
+msgid "Type to search"
+msgstr "برای جستجو تایپ کنید"
+
+msgctxt "Languages::product_variations.generator.feature_variants.add_all_variants"
+msgid "Add all variants"
+msgstr "همه انواع را اضافه کنید"
+
+msgctxt "Languages::product_variations.generator.table.title"
+msgid "Modify the variations to be created:"
+msgstr "تغییرات ایجاد شده را تغییر دهید:"
+
+msgctxt "Languages::product_variations.generator.create_btn"
+msgid "Create [n] variation|Create [n] variations"
+msgstr "ایجاد [n] تنوع|ایجاد [n] تنوع"
+
+msgctxt "Languages::product_variations.allow_own_features_setting_changing"
+msgid "You've disabled the <b>Allow own feature values for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their feature values to existing child variations."
+msgstr "شما تنظیم <b>مجاز به مقادیر ویژگی برای تغییرات فرزند</b> را غیرفعال کرده اید. لطفاً <a href=\"[url]\">همه تغییرات پیش‌فرض خود را صادر کنید</a> (از \"صادر کردن محصولات یافت شده\" در دکمه چرخ دنده استفاده کنید) و آنها را دوباره وارد کنید. با این کار مقادیر ویژگی آن‌ها برای تغییرات فرزند موجود اعمال می‌شود."
+
+msgctxt "Languages::product_variations.allow_own_images_setting_changing"
+msgid "You've disabled the <b>Allow own images for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their images to existing child variations."
+msgstr "شما تنظیم <b>مجاز به تصاویر خود برای تغییرات کودک</b> را غیرفعال کرده اید. لطفاً <a href=\"[url]\">همه تغییرات پیش فرض خود را صادر کنید</a> (از «صادر کردن محصولات یافت شده» در دکمه چرخ دنده استفاده کنید) و دوباره آنها را وارد کنید. این تصاویر آنها را به تغییرات فرزند موجود اعمال می کند."
+
+msgctxt "Languages::product_variations.add_all_variants"
+msgid "Add all variants"
+msgstr "همه انواع را اضافه کنید"
+
+msgctxt "Languages::product_variations.error.not_available_feature_purpose"
+msgid "Couldn't create variation group based on these features; please use the features with the purpose that is eligible for creating variations (group_catalog_item or group_variation_catalog_item)."
+msgstr "بر اساس این ویژگی‌ها، گروه تغییرات ایجاد نشد. لطفاً از ویژگی‌ها با هدفی که برای ایجاد تغییرات واجد شرایط است (group_catalog_item یا group_variation_catalog_item) استفاده کنید."
+
+msgctxt "Languages::product_variations.error.cannot_set_as_default_out_of_stock"
+msgid "Couldn't set variation #[product_id] as default, because it is out of stock. A variation that is in stock was used as default instead."
+msgstr "تغییر شماره[product_id] به عنوان پیش فرض تنظیم نشد، زیرا موجود نیست. به جای آن، یک تغییر موجود در انبار به عنوان پیش‌فرض استفاده شد."
+

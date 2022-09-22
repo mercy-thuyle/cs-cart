@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /release-4.15.1/addons/alpha_bank.po\n"
+"X-Crowdin-File-ID: 6580\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::alpha_bank"
+msgid "Alpha bank payments"
+msgstr "Платежі Альфа-банку"
+
+msgctxt "Addons::description::alpha_bank"
+msgid "Allows you to accept payments via Alpha bank"
+msgstr "Дозволяє приймати платежі через Альфа-банк"
+
+msgctxt "Languages::alpha_bank.merchant_id"
+msgid "Merchant ID"
+msgstr "Ідентифікатор продавця"
+
+msgctxt "Languages::alpha_bank.shared_secret"
+msgid "Shared Secret"
+msgstr "Спільний секрет"
+

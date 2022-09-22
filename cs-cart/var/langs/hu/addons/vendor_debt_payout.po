@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Eladótól adminisztrátornak történő kifizetések"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "\"Korlátozza az eladók admin paneljeinek funkcionalitását bizonyos feltételek mellett, és lehetővé teszi, hogy az eladók az admin panel összefoglaló dashboardjáról fizessék ki a díjaikat és tartozásaikat. Ez olyan egyszerű, mint a termékvásárlás a piactérről.\n"
+"\""
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Felfüggeszti az eladók működését, ha egyenlegük az alábbi érték alatt marad."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Türelmi idő az egyenleg feltöltésére"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Az egyenleg feltöltésére kivetett adók"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Eladótól adminisztrátornak történő kifizetések"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Piactéri díjak"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Piactéri díjak (rendelés #[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Piactéri díjakra vonatkozó fizetési pótdíj (rendelés #[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Díjak kifizetése"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Adminisztrációs panel funkcióinak korlátozása, ha az eladó tartozása eléri  "
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "Ha egy eladó egyenlege negatív és eléri ezt a számot, az eladó adminisztrációs panelje nem engedi semmilyen művelet végrehajtását. Ha egy eladó negatív egyenlege eléri ennek a számnak a felét, az eladó a \"vendor_debt_payout.debt_near_limit_message\" nyelvi változatban megadott figyelmeztetést fogja látni."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Türelmi idő az eladói csomag díjaira"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "A tervek kifizetése az eladó számlaegyenlegéből történik. Ha az egyenleg a díj levonása után negatívvá válik, és ez az időszak lejár, az eladó adminisztrációs panelje nem enged semmilyen műveletet végrehajtani, amíg az eladó ki nem fizeti a tartozást."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "nap(ok)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "A [plan_name] csomag használatáért [fee_amount] díjat kell fizetned. Aktuális számlaegyenleged [current_balance]. Ha a díjat nem fizeted ki [overdue_date]-ig, akkor nem fogsz tudni dolgozni az adminisztrációs panelen, amíg <a href=\"[pay_url]\" target=\"_blank\">ki nem fizeti az összes piactéri díjat</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "A számlád egyenlege jelenleg [current_balance]. Ha eléri a [minimal_balance] értéket, akkor nem tudod használni az adminisztrációs panelt, amíg <a href=\"[pay_url]\" target=\"_blank\">nem fizeted ki az összes piactéri díjadat</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "  <p>Az adminisztrációs panelhez való hozzáférésed automatikusan korlátozásra került, mivel elérte a negatív számlaegyenleg határát, vagy nem fizetted be időben az eladói csomag díját.</p><p>Az aktuális számlaegyenleged [current_balance].</p><p>Kérlek <a href=\"[pay_url]\">fizesd be a piactéri díjakat</a>  amint a fizetés feldolgozása megtörtént, az adminisztrációs panelhez való hozzáférésed automatikusan helyreáll.</p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Az eladók felfüggesztése"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Felfüggeszti az eladók működését, ha egyenlegük az alábbi érték alatt marad."
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Türelmi idő az egyenleg feltöltésére"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "[amount] összegű tartozás, amelyet [date]-ig nem fizettek meg."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "A felfüggesztett működésű eladók kezelésének megkönnyítése érdekében ellenőrizd a <a href=\"[link]\">Vendor-to-admin payments</a> bővítmény beállításait."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "Az eladó működése felfüggesztésre kerülhet, ha a tartozása meghaladja a <a href=\"[link]\">eladói csomag</a> feltételeit."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "A felfüggesztett eladók termékeinek elrejtése"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Felfüggesztett eladók admin paneljének blokkolása"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Felfüggesztett eladók admin paneljének blokkolása"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Eladók értesítése a közelgő felfüggesztésről"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Adminisztrátor értesítése a felfüggesztett eladókról"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">Értesítések szerkesztése</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Heti összefoglaló küldése a felfüggesztett eladókról"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Felfüggesztett eladók letiltása egy idő után"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Napokban megadott idő, mielőtt egy felfüggesztett eladó letiltásra kerül."
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Az eladók értesítése a letiltott fiókjukról"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Az adminisztrátor értesítése  a letiltott eladókról"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Felfüggesztett eladókkal kapcsolatos műveletek"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Egyenleg feltöltése"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Adj meg egy összeget"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "Sajnos nem tudtuk folytatni a fizetési folyamatot. A megadott összegnek 0-nál nagyobbnak kell lennie."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "A számlád felfüggesztésre került. A felfüggesztés feloldásához kérjük, fizess be legalább [amount]-t, hogy az egyenlegét [vendor_plan_lowers_lowers_allowed_balance]-ig feltöltse. <a target=\"_blank\" href=\"[link]\">Egyenleg feltöltése</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Lehet, hogy hamarosan felfüggesztik a fiókodat. Kérjük, hogy a felfüggesztés elkerülése érdekében legalább [amount] befizetést teljesíts [date]-ig. <a target=\"_blank\" href=\"[link]\">Egyenleg feltöltése</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>A számlád automatikusan felfüggesztésre került.</p><p>Az ok: a jelenlegi egyenleged [balance], amely nem éri el a minimálisan megengedett [lowers_allowed_balance] egyenleget.</p><p>Kérjük, hogy legalább [amount] összeget fizess be. A befizetés feldolgozása után a felfüggesztés automatikusan feloldásra kerül.</p> "
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>A jelenlegi egyenleged [balance], amely a [lowers_allowed_balance] minimálisan megengedett egyenlege alatt van.</p><p>Kérjük, fizess be legalább [amount] összeget [date]-ig. Ellenkező esetben a számlád felfüggesztésre kerülhet."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "Felfüggesztett eladók"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Lehet, hogy hamarosan felfüggesztik a fiókodat"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Fiókod fel van függesztve"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Eladói bejelentkezés: Tartozás és türelmi idő"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Kérjük, hogy a felfüggesztés elkerülése érdekében teljesíts legalább [amount] összegű befizetést [date]-ig."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "A felfüggesztés megszüntetéséhez kérjük, fizess be legalább [amount] összeget, hogy az egyenleget a [vendor_plan_lowers_allowed_balance] mértékig feltöltsd."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Eladó és adminisztrátor közötti kifizetésekről szóló értesítések"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Eladó és adminisztrátor közötti kifizetésekről szóló értesítések"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Eladó és adminisztrátor közötti kifizetésekről szóló értesítések"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Eladó és adminisztrátor közötti kifizetésekről szóló értesítések"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Az eladó státusza Felfüggesztettre változott"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Eladó és adminisztrátor közötti kifizetésekről szóló értesítések"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Az eladó státusza Felfüggesztettről megváltozott"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Eladói bejelentkezés: Tartozás és türelmi idő"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Eladó és adminisztrátor közötti kifizetésekről szóló értesítések"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Az eladó státusza Letiltottra változott"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: Adósok heti összesítése"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "Ez egy heti jelentés a piactered adósairól. Tartalmazza azokat az eladókat, akik az utolsó jelentés óta adósokká váltak vagy kifizették tartozásukat. A piactereden esetleg <a href=\"[href]\">több felfüggesztett eladó</a> van."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Heti összefoglaló az adósokról"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Heti összefoglaló az adósokról"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: A státusz [status]-ra változott"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr " Az eladó [vendor_name] státusza [status]-ra változott."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Lehet, hogy hamarosan felfüggesztik a fiókodat"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr " A [marketplace]-en lévő fiókodat hamarosan felfüggeszthetik."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Információ a közelgő felfüggesztésről"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Jelenlegi egyenleged [balance], amely a minimálisan megengedett [lowers_allowed_balance] egyenleg alatt van. Kérjük, hogy a felfüggesztés elkerülése érdekében legalább [amount] összegű befizetést teljesíts [date]-ig. Az egyenleget a <a href=\"[link]\">eladói panelen</a> töltheted fel."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "A minimálisan megengedett egyenleget 0-ra állítottuk be. Mostantól kezdve, amikor egy eladó egyenlege 0 alá csökken, a türelmi idő megkezdődik, és az eladót felszólítjuk a tartozás kifizetésére."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Heti összefoglaló küldése a felfüggesztett eladókról"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "Tartozás mértéke"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Fiókegyenleg"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "Ezek az eladók a legutóbbi jelentés óta tartozásuk miatt automatikusan felfüggesztésre kerültek:"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "Ezek az eladók a legutóbbi jelentés óta kifizették tartozásukat, és felfüggesztésüket feloldották:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "A legutóbbi jelentés óta egyetlen eladót sem függesztettek fel automatikusan tartozás miatt."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "Egyetlen eladó sem fizette ki tartozását, és a felfüggesztést sem oldották fel a legutóbbi jelentés óta."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "A piactereden lévő összes eladó összes tartozása (beleértve azokat is, akik nem szerepelnek ebben a jelentésben) jelenleg [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Az eladók bizonyos piaci díjtermékek megvásárlásával törlesztik adósságukat. Itt szerkesztheti a termék adatait és a hozzá tartozó kategóriát."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Termék"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Kategória"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Szerkesztés</a>"
+

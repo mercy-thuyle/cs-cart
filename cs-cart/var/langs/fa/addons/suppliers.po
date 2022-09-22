@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/suppliers.po\n"
+"X-Crowdin-File-ID: 6634\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::suppliers"
+msgid "Suppliers [Deprecated]"
+msgstr "تامین کنندگان [Deprecated]"
+
+msgctxt "Addons::description::suppliers"
+msgid "We are planning to remove this add-on. If you are using it, <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">let us know how<\\/a>."
+msgstr "ما در حال برنامه ریزی برای حذف این افزونه هستیم. اگر از آن استفاده می کنید، <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">به ما اطلاع دهید که چگونه<\\/a>."
+
+msgctxt "Languages::search_by_supplier"
+msgid "Search by supplier"
+msgstr "جستجو با تامین کننده"
+
+msgctxt "Languages::notify_supplier"
+msgid "Notify supplier"
+msgstr "اطلاع تامین کننده"
+
+msgctxt "Languages::view_supplier_products"
+msgid "View supplier products"
+msgstr "نمایش محصولات تامین کننده"
+
+msgctxt "Languages::supplier"
+msgid "Supplier"
+msgstr "تامین کننده"
+
+msgctxt "Languages::supplier_email_header"
+msgid "The following products have been purchased in our store and need to be shipped."
+msgstr "محصولات زیر در فروشگاه خریداری شده اند و نیاز به حمل شود."
+
+msgctxt "Languages::suppliers_menu_description"
+msgid "List of supplier accounts registered in the store."
+msgstr "لیست حساب  تامین کنندگان در فروشگاه ثبت شده."
+
+msgctxt "Languages::dear_sirs"
+msgid "Dear Sirs"
+msgstr "آقایان محترم"
+
+msgctxt "Languages::add_supplier"
+msgid "Add supplier"
+msgstr "اضافه کردن تامین کننده"
+
+msgctxt "Languages::available_for_supplier"
+msgid "Available for supplier"
+msgstr "دردسترس برای تامین کننده"
+
+msgctxt "Languages::editing_supplier"
+msgid "Editing supplier"
+msgstr "ویرایش تامین کننده"
+
+msgctxt "Languages::supplier_deleted"
+msgid "Supplier has been deleted successfully."
+msgstr "تامین کننده با موفقیت حذف شده است."
+
+msgctxt "Languages::privileges.manage_suppliers"
+msgid "Can edit"
+msgstr "می تواند ویرایش کند"
+
+msgctxt "Languages::privilege_groups.suppliers"
+msgid "Suppliers"
+msgstr "تامین کنندگان"
+
+msgctxt "SettingsSections::suppliers::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsOptions::suppliers::display_supplier"
+msgid "Display product supplier company"
+msgstr "نمایش محصولات شرکت تولید کننده"
+
+msgctxt "SettingsOptions::suppliers::display_shipping_methods_separately"
+msgid "Display shipping methods to each supplier separately"
+msgstr "نمایش روش حمل و نقل به هر فروشنده به طور جداگانه"
+
+msgctxt "Languages::email_template.suppliers_notification"
+msgid "Supplier notification"
+msgstr "تامین کننده اطلاع رسانی"
+
+msgctxt "Languages::email_template.supplier_notification_with_status"
+msgid "Supplier notification: [name]"
+msgstr "اطلاع رسانی تامین کننده: [name]"
+
+msgctxt "Languages::email_template.suppliers_notification_default"
+msgid "Supplier notification: Default template for a new order status"
+msgstr "اطلاعیه تامین کننده: الگوی پیش فرض برای وضعیت سفارش جدید"
+
+msgctxt "Languages::template_document_supplier_order_invoice"
+msgid "Suppliers: invoice"
+msgstr "تامین کنندگان: فاکتور"
+
+msgctxt "Languages::document_preview_suppliers_not_found"
+msgid "Couldn't find a supplier. Preview only works with existing data. Please create a supplier and use Preview again."
+msgstr "نمی توانید یک تامین کننده پیدا کنید. پیش نمایش تنها با داده های موجود کار می کند. لطفا یک گزینه ایجاد و دوباره استفاده کنید پیش نمایش."
+
+msgctxt "Languages::suppliers.event.order.supplier_notified.name"
+msgid "Suppliers: order status changed to [status]"
+msgstr "تامین کنندگان: وضعیت سفارش به [status]تغییر یافت"
+
+msgctxt "Languages::event.receiver.s"
+msgid "Supplier"
+msgstr "تامین کننده"
+
+msgctxt "Languages::suppliers.supplier_notifications"
+msgid "Supplier notifications"
+msgstr "اطلاعیه های تامین کننده"
+

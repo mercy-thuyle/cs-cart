@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/ebay.po\n"
+"X-Crowdin-File-ID: 6716\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::ebay"
+msgid "eBay synchronization"
+msgstr "eBay 同步"
+
+msgctxt "Addons::description::ebay"
+msgid "Synchronizes products and orders with an eBay account."
+msgstr "与 eBay 帐户同步产品和订单。"
+
+msgctxt "Languages::paypal_required_and_selected"
+msgid "For the selected eBay category PayPal payment method is required. It is selected automatically."
+msgstr "所选的 eBay 类目，Paypal付款方式是必需的。它将自动选定。"
+
+msgctxt "Languages::wait_for_shippings_cached"
+msgid "Wait for shippings cached. Mean time to 3 minutes"
+msgstr "等待发送缓存。平均时间为3分钟"
+
+msgctxt "Languages::ebay_duration"
+msgid "Listing duration"
+msgstr "上市持续时间"
+
+msgctxt "Languages::list_products_on"
+msgid "List products on"
+msgstr "列出产品"
+
+msgctxt "Languages::private_listing"
+msgid "Private listing"
+msgstr "民营上市企业"
+
+msgctxt "Languages::use_as_default"
+msgid "Use as default"
+msgstr "用作默认设置"
+
+msgctxt "Languages::ebay_root_category"
+msgid "eBay Root category"
+msgstr "eBay根目录"
+
+msgctxt "Languages::ebay_root_sec_category"
+msgid "eBay Secondary root category"
+msgstr "eBay二级根目录"
+
+msgctxt "Languages::ebay_sec_category"
+msgid "eBay Secondary category"
+msgstr "eBay二级目录"
+
+msgctxt "Languages::quantity_to_sell"
+msgid "Quantity to sell"
+msgstr "可售数量"
+
+msgctxt "Languages::just_one"
+msgid "Just one"
+msgstr "只有一个"
+
+msgctxt "Languages::more_than_one"
+msgid "More than one"
+msgstr "不止一个"
+
+msgctxt "Languages::use_main_image"
+msgid "Export product images"
+msgstr "导出产品图像"
+
+msgctxt "Languages::selling_method"
+msgid "Selling method"
+msgstr "销售方法"
+
+msgctxt "Languages::online_auction"
+msgid "Online auction"
+msgstr "在线拍卖"
+
+msgctxt "Languages::buy_it_now"
+msgid "Buy it now"
+msgstr "现在购买"
+
+msgctxt "Languages::ebay_requests"
+msgid "eBay requests"
+msgstr "eBay 的请求"
+
+msgctxt "Languages::log_type_ebay_requests"
+msgid "eBay requests"
+msgstr "eBay 的请求"
+
+msgctxt "Languages::errors"
+msgid "Errors"
+msgstr "错误"
+
+msgctxt "Languages::log_action_all"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Languages::error_code"
+msgid "Error code"
+msgstr "错误代码"
+
+msgctxt "Languages::editing_ebay_template"
+msgid "Editing eBay template"
+msgstr "编辑易趣模板"
+
+msgctxt "Languages::new_ebay_template"
+msgid "New eBay template"
+msgstr "新易趣模板"
+
+msgctxt "Languages::ebay_templates"
+msgid "eBay templates"
+msgstr "易趣模板"
+
+msgctxt "Languages::ebay_registration_notice"
+msgid "In order to get this information you need first to register your Developer account <a href=\"https://developer.ebay.com/join/\">here</a>.<br /><br />After you registered, you will receive the \"DevID\", \"AppID\" and \"CertID\" keys. So you have to generate the special \"Token\" in order to use this API. In order to generate the \"Token\", please click the \"Get a User Token\" link at the bottom of \"My account\" page (tools box) or follow <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\">this link</a>.<br /><br />Please complete this form with the given credentials."
+msgstr "为了获得此信息, 您首先需要在此处 </a>. <br/> <br/> 注册您的开发人员帐户 <a href=\"https://developer.ebay.com/join/\">。 注册后, 您将收到 \"DevID\"、\"AppID\" 和 \"CertID\" 私钥。因此， 您必须生成特殊的 \"令牌\" 才能使用此 API。为了生成 \"令牌\"，请单击 \"我的帐户\" 页 (工具框) 底部的 \"获取用户令牌\" 链接， 或按照 <a href=\"https://developer.ebay.com/DevZone/account/tokens/default.aspx\"> 此链接 </a> 进行操作. <br/> <br/> 请填写此表单使用给定的凭据。"
+
+msgctxt "Languages::add_ebay_template"
+msgid "Add eBay template"
+msgstr "添加易趣模板"
+
+msgctxt "Languages::shipping_type"
+msgid "Shipping type"
+msgstr "装运类型"
+
+msgctxt "Languages::flat"
+msgid "Flat"
+msgstr "平"
+
+msgctxt "Languages::calculated"
+msgid "Calculated"
+msgstr "计算"
+
+msgctxt "Languages::domestic_shipping_service"
+msgid "Domestic shipping service"
+msgstr "国内海运服务"
+
+msgctxt "Languages::international_shipping_service"
+msgid "International shipping service"
+msgstr "国际海运服务"
+
+msgctxt "Languages::dispatch_days"
+msgid "Dispatch days"
+msgstr "派送天数"
+
+msgctxt "Languages::ebay_payment_methods"
+msgid "eBay payment methods"
+msgstr "易趣付款方式"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal email"
+msgstr "PayPal 电子邮件"
+
+msgctxt "Languages::ebay.paypal_email"
+msgid "PayPal email"
+msgstr "PayPal 电子邮件"
+
+msgctxt "Languages::ebay_category_condition"
+msgid "eBay category condition"
+msgstr "易趣分类条件"
+
+msgctxt "Languages::ebay_associated_category"
+msgid "Associated eBay category"
+msgstr "相关易趣类别"
+
+msgctxt "Languages::ebay_category_preferences"
+msgid "eBay Category <br> Preferences"
+msgstr "易趣类别 <br> 首选项"
+
+msgctxt "Languages::ebay_category_preferences_tooltip"
+msgid "Use the eBay category of the template, or assign a different eBay category to the products that fall under this category of your store"
+msgstr "使用该模板的易趣类别，或者为您的店铺中此类产品指定一个不同的易趣类别"
+
+msgctxt "Languages::ebay_template"
+msgid "eBay template"
+msgstr "易趣模板"
+
+msgctxt "Languages::ebay_orders"
+msgid "eBay orders"
+msgstr "易趣订单"
+
+msgctxt "Languages::get_ebay_orders"
+msgid "Get eBay orders"
+msgstr "获得 eBay 订单"
+
+msgctxt "Languages::ebay"
+msgid "eBay"
+msgstr "易趣"
+
+msgctxt "Languages::wait_for_categories_cached"
+msgid "Please wait for the categories to cache, it will take about 3 minutes. Before that, the Shippings, Payments, and Return Policy tabs will remain empty."
+msgstr "请等待类别缓存，它需要大约3分钟。在此之前，发送、付款和退货策略选项卡将保持为空。"
+
+msgctxt "Languages::Some_parameters_is_missing"
+msgid "Some parameters is missing. Please check ebay add-on settings"
+msgstr "缺少某些参数。请检查易趣扩展设置"
+
+msgctxt "Languages::ebay_success_products_notice"
+msgid "Products have been successfully exported."
+msgstr "产品已成功出口。"
+
+msgctxt "Languages::ebay_success_orders_notice"
+msgid "Orders have been successfully imported."
+msgstr "订单已成功导入。"
+
+msgctxt "Languages::ebay_failed_orders_notice"
+msgid "An error occurred during order import."
+msgstr "导入订单时出错。"
+
+msgctxt "Languages::exporting_products_to_ebay"
+msgid "Exporting products to eBay."
+msgstr "向 eBay 出口产品。"
+
+msgctxt "Languages::ebay_default_template_not_found"
+msgid "Default template for the [company_name] was not found."
+msgstr "未找到[company_name] 的默认模板。"
+
+msgctxt "Languages::delete_this_template"
+msgid "Delete this template"
+msgstr "删除此模板"
+
+msgctxt "Languages::test_version"
+msgid "You're using a test version of this module, the validity of which ended on December 7th, 2013. After the end of the test period, the functions of the module will not be available. You can purchase the full version via a <a href=\"http://www.cs-cart.com/ebay-synchronization.html\">HelpDesk</a>"
+msgstr "您使用的是本模块的测试版本, 其有效期至2013年12月7日。测试期结束后，模块的功能将不可用。您可以通过 <a href=\"http://www.cs-cart.com/ebay-synchronization.html\"> 帮助台 </a> 购买完整版本"
+
+msgctxt "Languages::ttc_list_products_on"
+msgid "Choose the region of the eBay auction for which your site will work"
+msgstr "为您的网站选择易趣拍卖区域,"
+
+msgctxt "Languages::ttc_use_as_default"
+msgid "Use this template for products with no template defined"
+msgstr "对没有定义模板的产品使用此模板"
+
+msgctxt "Languages::ttc_ebay_root_category"
+msgid "The product root category at eBay"
+msgstr "在 eBay 的产品根类别"
+
+msgctxt "Languages::ttc_ebay_root_sec_category"
+msgid "The additional product root category at eBay"
+msgstr "易趣额外的产品根类别"
+
+msgctxt "Languages::ebay_second_category_tooltip"
+msgid "The additional product subcategory at eBay"
+msgstr "在 eBay的附加产品子类别"
+
+msgctxt "Languages::ttc_shipping_type"
+msgid "Choose whether to use calculated or flat shipping type. Calculated - shipping will be calculated according to the customers ZIP address, the weight of the package, and the type of shipping services you offer; Flat - shipping rate will be fixed"
+msgstr "选择是使用计算的还是平面的装运类型。计算类航运的费用将根据客户的邮编地址、包裹重量，和航运服务类型来进行计算；平运类运输采用固定收费标准"
+
+msgctxt "Languages::ttc_domestic_shipping_service"
+msgid "Choose the shipping service that will be used for delivering products in the domestic region"
+msgstr "选择将用于在国内地区交付产品的送货服务"
+
+msgctxt "Languages::ttc_international_shipping_service"
+msgid "Choose the shipping service that will be used for delivering products worldwide"
+msgstr "选择将用于交付全球产品的送货服务"
+
+msgctxt "Languages::ttc_dispatch_days"
+msgid "The period of product delivery to a customer  (in days)"
+msgstr "向客户交付产品的期间 (天)"
+
+msgctxt "Languages::ttc_ebay_payment_methods"
+msgid "Payment method(s), available for a template"
+msgstr "付款方式，适用于模板"
+
+msgctxt "Languages::ttc_ebay.paypal_email"
+msgid "Define login of the PayPal account"
+msgstr "定义贝宝登陆帐户"
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "Define login of the PayPal account"
+msgstr "定义贝宝登录帐户"
+
+msgctxt "Languages::eBay_category_condition_tooltip"
+msgid "Define login of the PayPal account"
+msgstr "定义贝宝登录帐户"
+
+msgctxt "Languages::ttc_free_shipping"
+msgid "Choose, if you want free shipping to be applied to products in a template"
+msgstr "选择，如果您希望免费送货适用于模板中的产品"
+
+msgctxt "Languages::ttc_shipping_cost"
+msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
+msgstr "如果航运类型是平运 (在易趣中设计航运和处理方式)，则采用固定运费。"
+
+msgctxt "Languages::ttc_shipping_cost_additional"
+msgid "Shipping fee for each additional item in the order (the Each additional item setting on eBay)"
+msgstr "在订单中的每个附加商品的运费 (在易趣上设置每个附加项目)"
+
+msgctxt "Languages::shipping_cost_additional"
+msgid "Additional shipping fee"
+msgstr "附加运费"
+
+msgctxt "Languages::text_ult_ebay_template_store_field_tooltip"
+msgid "The storefront, for which a template will be created"
+msgstr "要为其创建模板的店面"
+
+msgctxt "Languages::shipping_cost_cannot_be_null"
+msgid "Shipping cost must be non-zero"
+msgstr "运输成本必须非零"
+
+msgctxt "Languages::ebay_title"
+msgid "eBay product title"
+msgstr "易趣产品标题"
+
+msgctxt "Languages::ebay_title_tooltip"
+msgid "eBay title the title of the product to be used at eBay"
+msgstr "易趣标题：产品将在易趣使用的标题"
+
+msgctxt "Languages::ebay_description"
+msgid "eBay product description"
+msgstr "易趣产品描述"
+
+msgctxt "Languages::ebay_description_tooltip"
+msgid "eBay description the description of the product to be used at eBay"
+msgstr "易趣描述：产品将在易趣的使用说明"
+
+msgctxt "Languages::override"
+msgid "Redefinition of the product name and description on eBay"
+msgstr "对易趣上的产品名称和描述的重新定义"
+
+msgctxt "Languages::override_tooltip"
+msgid "Choose, if you want the original product name and description to be replaced with that, specified in the eBay product title and the eBay product description fields"
+msgstr "选择，如果您希望原来的产品名称和说明被替换为在易趣产品描述区域指定的产品标题和产品描述"
+
+msgctxt "Languages::return_policy"
+msgid "Return Policy"
+msgstr "退货政策"
+
+msgctxt "Languages::ttc_return_policy"
+msgid "Choose whether returns are allowed or not for products grouped under this template"
+msgstr "选择是否允许对在此模板分组内的产品进行退货"
+
+msgctxt "Languages::returns_accepted"
+msgid "Returns Accepted"
+msgstr "返回接受"
+
+msgctxt "Languages::no_returns_accepted"
+msgid "No returns accepted"
+msgstr "未接受退货"
+
+msgctxt "Languages::contact_time"
+msgid "After receiving the item, your buyer should contact you within"
+msgstr "在收到该项目后，您的买家应与您联系"
+
+msgctxt "Languages::ttc_contact_time"
+msgid "Choose the period within which a buyer must contact you to confirm that he/she received the product"
+msgstr "选择买方必须与您联系的期间，以确认他/她收到了该产品"
+
+msgctxt "Languages::refund_method"
+msgid "Refund will be given as"
+msgstr "退款将作为"
+
+msgctxt "Languages::ttc_refund_method"
+msgid "Choose the action that will replace the return, if it is not allowed"
+msgstr "如果不允许，选择将替换返回的操作"
+
+msgctxt "Languages::money_back"
+msgid "Money Back"
+msgstr "退款"
+
+msgctxt "Languages::money_back_or_replace"
+msgid "Money back or replacement (buyer's choice)"
+msgstr "退款或更换（由买方选择）"
+
+msgctxt "Languages::money_back_or_exchange"
+msgid "Money back or exchange (buyer's choice)"
+msgstr "退款或更换（由买方选择）"
+
+msgctxt "Languages::cost_paid_by"
+msgid "Return shipping will be paid by"
+msgstr "退款运费将由... 支付"
+
+msgctxt "Languages::ttc_cost_paid_by"
+msgid "Choose, who will pay for the shipping of the return purchase — the seller or the buyer"
+msgstr "选择，谁将支付退货运费——卖方或买方"
+
+msgctxt "Languages::seller"
+msgid "Seller"
+msgstr "卖方"
+
+msgctxt "Languages::buyer"
+msgid "Buyer"
+msgstr "买方"
+
+msgctxt "Languages::return_policy_descr"
+msgid "Policy description"
+msgstr "政策说明"
+
+msgctxt "Languages::ttc_return_policy_descr"
+msgid "Write the detailed description of your return policy here"
+msgstr "请在此填写您的退货政策详细说明"
+
+msgctxt "Languages::large_envelope"
+msgid "Large envelope"
+msgstr "大信封"
+
+msgctxt "Languages::large_package"
+msgid "Large package"
+msgstr "大包裹"
+
+msgctxt "Languages::package_type_tooltip"
+msgid "If you don't know your package type, select the \"Large package\" option. To ensure the most accurate cost, you will be asked to enter exact package dimensions."
+msgstr "如果您不知道您的软件包类型，请选择 \"大包\" 选项。为了确保最准确的成本，您将被要求输入确切的包装尺寸。"
+
+msgctxt "Languages::product_out_of_weight"
+msgid "Products with the [ids] id were not exported because their weight equals zero."
+msgstr "因为重量为零， [ids] id 的产品没有导出。"
+
+msgctxt "Languages::exported_to_ebay"
+msgid "Exported to eBay"
+msgstr "出口到易趣"
+
+msgctxt "Languages::revised_after_the_latest_export"
+msgid "Revised after the latest export"
+msgstr "最新出口后修订"
+
+msgctxt "Languages::exporting_images_to_ebay"
+msgid "Exporting product \"[product]\" images to eBay"
+msgstr "将产品 \"[product]\" 图像导出到易趣"
+
+msgctxt "Languages::ebay_package"
+msgid "Package/thick envelope"
+msgstr "包裹/厚信封"
+
+msgctxt "Languages::ebay_cant_remove_template"
+msgid "You don't have permissions to remove some of the templates as they belong to another owner."
+msgstr "您没有权限删除某些模板， 因为它们属于其他所有者。"
+
+msgctxt "Languages::ebay_commercial_using_title"
+msgid "Activate add-on"
+msgstr "激活插件"
+
+msgctxt "Languages::ebay_templates_not_found"
+msgid "eBay templates not found"
+msgstr "找不到该eBay模板"
+
+msgctxt "SettingsSections::ebay::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::ebay::notice"
+msgid "Notice"
+msgstr "通知"
+
+msgctxt "SettingsOptions::ebay::dev_id"
+msgid "eBay DevID"
+msgstr "易趣 DevID"
+
+msgctxt "SettingsOptions::ebay::app_id"
+msgid "eBay AppID"
+msgstr "易趣 AppID"
+
+msgctxt "SettingsOptions::ebay::cert_id"
+msgid "eBay CertID"
+msgstr "易趣 CertID"
+
+msgctxt "SettingsOptions::ebay::token"
+msgid "eBay User Token"
+msgstr "eBay 用户Token"
+
+msgctxt "SettingsOptions::ebay::listing_mode"
+msgid "Sandbox / Production"
+msgstr "沙盒/生产"
+
+msgctxt "SettingsOptions::ebay::site_id"
+msgid "Default site"
+msgstr "默认站点"
+
+msgctxt "SettingsOptions::ebay::ebay_timestamp"
+msgid "eBay timestamp"
+msgstr "易趣时间戳"
+
+msgctxt "SettingsVariants::ebay::listing_mode::S"
+msgid "Sandbox"
+msgstr "沙盒"
+
+msgctxt "SettingsVariants::ebay::listing_mode::P"
+msgid "Production"
+msgstr "生产"
+
+msgctxt "Languages::wait_for_shippings_cached"
+msgid "Please wait, shipping information is loaded."
+msgstr "请稍候，装运信息已加载。"
+
+msgctxt "Languages::privileges.view_ebay_templates"
+msgid "Can view"
+msgstr "可以查看"
+
+msgctxt "Languages::privileges.manage_ebay_templates"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.ebay_templates"
+msgid "eBay templates"
+msgstr "易趣模板"
+
+msgctxt "Languages::ebay_price"
+msgid "eBay product price"
+msgstr "易趣产品价格"
+
+msgctxt "Languages::override_price"
+msgid "Redefine price on eBay"
+msgstr "重新定义易趣价格"
+
+msgctxt "Languages::ebay_product_status"
+msgid "eBay product status"
+msgstr "易趣产品状态"
+
+msgctxt "Languages::ebay_product_status_not_exported"
+msgid "Not exported"
+msgstr "没有导出的数据"
+
+msgctxt "Languages::ebay_product_status_active"
+msgid "Active"
+msgstr "启用"
+
+msgctxt "Languages::ebay_product_status_closed"
+msgid "Ended"
+msgstr "结束"
+
+msgctxt "Languages::ebay_success_exported_product_notice"
+msgid "Product was successfully exported to eBay"
+msgstr "产品成功出口到易趣"
+
+msgctxt "Languages::ebay_success_close_product_notice"
+msgid "Product successfully ended on eBay"
+msgstr "产品在易趣上成功结束"
+
+msgctxt "Languages::ebay_export_failed"
+msgid "Product export failed"
+msgstr "产品出口失败"
+
+msgctxt "Languages::ebay_export_success"
+msgid "Product export successful"
+msgstr "产品出口成功"
+
+msgctxt "Languages::ebay_export_failed_msg"
+msgid "Some of the products have not been exported to eBay.<br> Check the logs to see what products weren't exported and the reason why it happened."
+msgstr "有些产品还没有出口到易趣。<br> 检查日志以查看哪些产品未导出以及发生此事件的原因。"
+
+msgctxt "Languages::ebay_export_success_msg"
+msgid "All the selected products have been exported to eBay without errors."
+msgstr "所有选择的产品已成功出口到易趣。"
+
+msgctxt "Languages::ebay_end_summary_title"
+msgid "Product ending summary"
+msgstr "产品结束摘要"
+
+msgctxt "Languages::ebay_export_product"
+msgid "Exporting product \"[product]\" to eBay"
+msgstr "出口产品 \"[product]\" 到易趣"
+
+msgctxt "Languages::ebay_export_products"
+msgid "Exporting products \"[product]\" to eBay"
+msgstr "出口产品 \"[product]\" 到易趣"
+
+msgctxt "Languages::ebay_override"
+msgid "Redefinition of the product name and description on eBay"
+msgstr "对易趣上的产品名称和描述的重新定义"
+
+msgctxt "Languages::ebay_end_products"
+msgid "Ending products \"[product]\" on eBay"
+msgstr "在易趣上结束产品 \"[product]\""
+
+msgctxt "Languages::ebay_count_product_successfully_exported"
+msgid "Products successfully exported:"
+msgstr "产品已成功导出："
+
+msgctxt "Languages::ebay_count_product_fail_exported"
+msgid "Products export failed:"
+msgstr "产品导出失败："
+
+msgctxt "Languages::ebay_count_product_successfully_ended"
+msgid "Successfully ended products:"
+msgstr "成功结束产品："
+
+msgctxt "Languages::ebay_count_product_fail_ended"
+msgid "Products ending failed:"
+msgstr "产品结束失败："
+
+msgctxt "Languages::ebay_end_products_on_ebay"
+msgid "End eBay sales"
+msgstr "结束易趣销售"
+
+msgctxt "Languages::products_assigned"
+msgid "Products assigned"
+msgstr "分配的产品"
+
+msgctxt "Languages::ttc_products_assigned"
+msgid "You can also apply an eBay template to multiple products at once. Go to Products → Products, tick the checkboxes of the products you want to apply a template to, then press the gear button and choose Edit selected. In the pop-up window leave only the eBay Templates checkbox ticked and click Modify selected."
+msgstr "您也可以同时对多个产品应用易趣模板。转到产品→产品，勾选要应用模板的产品的复选框，然后按下齿轮按钮并选择“编辑”。在弹出窗口只留下易趣模板复选框打勾，并单击修改选择。"
+
+msgctxt "Languages::ebay_template_category_product"
+msgid "Use eBay template's category"
+msgstr "使用易趣模板类别"
+
+msgctxt "Languages::ebay_set_manualy"
+msgid "Assign a different eBay category"
+msgstr "分配一个不同的易趣类别"
+
+msgctxt "Languages::ebay_end_template_on_ebay"
+msgid "End eBay sales"
+msgstr "结束易趣销售"
+
+msgctxt "Languages::ebay_action_export_product"
+msgid "Export product"
+msgstr "出口产品"
+
+msgctxt "Languages::ebay_action_update_product"
+msgid "Update product"
+msgstr "更新产品"
+
+msgctxt "Languages::ebay_action_upload_image_product"
+msgid "Upload the product image"
+msgstr "上传产品图片"
+
+msgctxt "Languages::ebay_action_get_status_product"
+msgid "Get product status"
+msgstr "获取产品状态"
+
+msgctxt "Languages::ebay_action_end_product"
+msgid "Ending sale on eBay"
+msgstr "结束在 eBay 上的销售"
+
+msgctxt "Languages::ebay_show_logs"
+msgid "Show logs"
+msgstr "显示日志"
+
+msgctxt "Languages::ebay_international_shipping_cost"
+msgid "International shipping fee"
+msgstr "国际运费"
+
+msgctxt "Languages::ebay_international_shipping_cost_tooltip"
+msgid "Fixed shipping fee for one item if the shipping type is Flat (the Shipping and handling setting on eBay)."
+msgstr "如果一个产品的运输类型是平运 (在易趣上设计航运和处理方式)，则采用固定运费 。"
+
+msgctxt "Languages::ebay_international_shipping_cost_additional_tooltip"
+msgid "International shipping fee for each additional item in the order (the Each additional item setting on eBay)"
+msgstr "订单上的每个额外产品 (在易趣上设定每个额外产品) 的国际运费用为"
+
+msgctxt "Languages::ebay_international_shipping_cost_additional"
+msgid "Additional international shipping fee"
+msgstr "附加国际运输费"
+
+msgctxt "Languages::ebay_logs"
+msgid "eBay logs"
+msgstr "易趣日志"
+
+msgctxt "Languages::ebay_products"
+msgid "eBay products"
+msgstr "易趣产品"
+
+msgctxt "Languages::ebay_sync_products_status"
+msgid "Get product status from eBay"
+msgstr "从易趣获得产品状态"
+
+msgctxt "Languages::ebay_get_product_status"
+msgid "Getting product \"[product]\" status from eBay"
+msgstr "从易趣获得产品 \"[product]\" 状态"
+
+msgctxt "Languages::ebay_update_status_summary_title"
+msgid "Summary: Product status retrieval from eBay"
+msgstr "摘要：从易趣的产品状态检索"
+
+msgctxt "Languages::ebay_count_product_successfully_status_updated"
+msgid "Products with updated statuses:"
+msgstr "具有更新状态的产品："
+
+msgctxt "Languages::ebay_count_product_fail_status_updated"
+msgid "Products with status update errors:"
+msgstr "具有状态更新错误的产品："
+
+msgctxt "Languages::ebay_count_product_skip"
+msgid "Products skipped:"
+msgstr "已跳过的产品："
+
+msgctxt "Languages::ebay_product_not_exported"
+msgid "Product \"[product]\" was not exported on eBay"
+msgstr "产品 \"[product]\" 未在易趣上出口"
+
+msgctxt "Languages::ebay_product_already_sales_closed"
+msgid "Sales of product \"[product]\" were already completed on eBay"
+msgstr "产品 \"[product]\" 的销售已经在易趣上完成"
+
+msgctxt "Languages::ebay_failed_request"
+msgid "Failed request to [url]. Http status code: [code]"
+msgstr "请求[url] 失败。Http 状态代码:：[code]"
+
+msgctxt "Languages::ebay_package_type"
+msgid "eBay package type"
+msgstr "易趣包裹类型"
+
+msgctxt "Languages::ebay_category"
+msgid "eBay Category"
+msgstr "易趣分类"
+
+msgctxt "Languages::ebay_region"
+msgid "eBay region"
+msgstr "易趣地区"
+
+msgctxt "Languages::ebay_synchronization_title"
+msgid "Synchronizing eBay data"
+msgstr "同步易趣数据"
+
+msgctxt "Languages::ebay_synchronization_regions"
+msgid "Synchronizing eBay regions"
+msgstr "同步易趣区域"
+
+msgctxt "Languages::ebay_synchronization_categories"
+msgid "Synchronizing eBay categories (it may take around 3 minutes)"
+msgstr "同步易趣类别 (可能需要大约3分钟)"
+
+msgctxt "Languages::ebay_synchronization_shipping_services"
+msgid "Synchronizing eBay shipping services"
+msgstr "同步易趣运输服务"
+
+msgctxt "Languages::ebay_synchronization_category_features"
+msgid "Synchronizing eBay category features"
+msgstr "同步易趣类别功能"
+
+msgctxt "Languages::ebay_changed_region_message"
+msgid "After you change eBay region, please check other settings.<br>If your template's Shipping type is set to Calculated, change your primary currency (Administration → Currencies), company address (Settings → Company) and weight measurement units (Settings → General) accordingly.<br>If your template's Shipping type is set to Flat, change your primary currency (Administration → Currencies)."
+msgstr "在您更改易趣区域后，请检查其他设置。<br> 如果将您的模板的装运类型设置为 \"计算\"，请更改您的主要货币 (管理→货币)、公司地址 (设置→公司) 和权重度量单位 (设置→一般)。<br> 如果您的模板的装运类型设置为 \"单位\"，请更改您的主要货币 (管理→货币)。"
+
+msgctxt "Languages::export_products_to_ebay"
+msgid "Export/Revise products on eBay"
+msgstr "在易趣上出口/修改产品"
+
+msgctxt "Languages::ebay_product_identifier_upc"
+msgid "UPC"
+msgstr "通用产品代码"
+
+msgctxt "Languages::ebay_product_identifier_ean"
+msgid "EAN"
+msgstr "国际物品编码协会"
+
+msgctxt "Languages::ebay_product_identifier_isbn"
+msgid "ISBN"
+msgstr "国际标准图书编号"
+
+msgctxt "Languages::ebay_product_identifier_mpn"
+msgid "MPN"
+msgstr "最可能的数目"
+
+msgctxt "Languages::ebay_product_identifier_brand"
+msgid "Brand"
+msgstr "品牌"
+
+msgctxt "Languages::ebay_product_identifiers"
+msgid "Product identifiers"
+msgstr "产品标识符"
+
+msgctxt "Languages::ebay_product"
+msgid "Product"
+msgstr "产品"
+
+msgctxt "Languages::ebay_product_variation"
+msgid "Option combination"
+msgstr "选项组合"
+
+msgctxt "Languages::ebay_none"
+msgid "None"
+msgstr "无"
+
+msgctxt "Languages::ebay_does_not_apply"
+msgid "Does not apply"
+msgstr "不适用"
+
+msgctxt "Languages::ebay_product_code"
+msgid "Product code"
+msgstr "产品代码"
+
+msgctxt "Languages::ebay_product_feature"
+msgid "Product feature"
+msgstr "产品特征"
+
+msgctxt "Languages::ebay_combination_code"
+msgid "Combination code"
+msgstr "组合代码"
+
+msgctxt "Languages::ebay_synchronization_region_details"
+msgid "Synchronizing eBay region details"
+msgstr "同步易趣区域详细信息"
+
+msgctxt "Languages::ebay_feature_group_product_identifiers"
+msgid "eBay product identifiers"
+msgstr "易趣产品标识"
+

@@ -1,0 +1,329 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform"
+
+msgctxt "Addons::description::paypal_commerce_platform"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal."
+msgstr "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal."
+
+msgctxt "SettingsSections::paypal_commerce_platform::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::collect_payouts"
+msgid "Commission includes"
+msgstr "Commission includes"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::N"
+msgid "Order commission"
+msgstr "Order commission"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "Order commission and unpaid payouts"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::rma_refunded_order_status"
+msgid "Order status on refund"
+msgstr "Order status on refund"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform"
+
+msgctxt "Languages::paypal_commerce_platform.paypal"
+msgid "PayPal"
+msgstr "PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payer_id"
+msgid "Merchant account ID"
+msgstr "Merchant account ID"
+
+msgctxt "Languages::paypal_commerce_platform.client_id"
+msgid "App Client ID"
+msgstr "App Client ID"
+
+msgctxt "Languages::paypal_commerce_platform.secret"
+msgid "App Secret"
+msgstr "App Secret"
+
+msgctxt "Languages::paypal_commerce_platform.connect_with_paypal"
+msgid "Connect with PayPal"
+msgstr "Connect with PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.disconnect"
+msgid "Disconnect account"
+msgstr "Disconnect account"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account"
+msgid "PayPal account"
+msgstr "PayPal account"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account_short"
+msgid "PP a/c"
+msgstr "PP a/c"
+
+msgctxt "Languages::paypal_commerce_platform.connected"
+msgid "Connected"
+msgstr "Connected"
+
+msgctxt "Languages::paypal_commerce_platform.not_connected"
+msgid "Not connected"
+msgstr "Not connected"
+
+msgctxt "Languages::paypal_commerce_platform.account_connected"
+msgid "Your PayPal account has been successfully connected to the store"
+msgstr "Your PayPal account has been successfully connected to the store"
+
+msgctxt "Languages::paypal_commerce_platform.account_connection_failure"
+msgid "Unable to connect your PayPal account to the store"
+msgstr "Unable to connect your PayPal account to the store"
+
+msgctxt "Languages::paypal_commerce_platform.account_disconnected"
+msgid "Your PayPal account has been successfully disconnected from the store"
+msgstr "Your PayPal account has been successfully disconnected from the store"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Withdrawal for the order #[order_id]"
+
+msgctxt "Languages::paypal_commerce_platform.refund_id"
+msgid "Refund transaction ID in PayPal"
+msgstr "Refund transaction ID in PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal"
+msgid "Withdrawal amount"
+msgstr "Withdrawal amount"
+
+msgctxt "Languages::paypal_commerce_platform.rma.perform_refund"
+msgid "Give a refund via PayPal Commerce Platform"
+msgstr "Give a refund via PayPal Commerce Platform"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "A refund will be made once an administrator changes the return request status"
+
+msgctxt "Languages::paypal_commerce_platform.rma.refund_performed"
+msgid "The refund has been made via PayPal Commerce Platform"
+msgstr "The refund has been made via PayPal Commerce Platform"
+
+msgctxt "Languages::paypal_commerce_platform.order_id"
+msgid "Order ID in PayPal"
+msgstr "Order ID in PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.capture_id"
+msgid "Capture ID in PayPal"
+msgstr "Capture ID in PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payout_id"
+msgid "Payout transaction ID in PayPal"
+msgstr "Payout transaction ID in PayPal"
+
+msgctxt "Languages::paypal_commerce_platform.payout_failure_reason"
+msgid "Payout failure reason"
+msgstr "Payout failure reason"
+
+msgctxt "Languages::paypal_commerce_platform.own_account_cant_be_used_for_vendor"
+msgid "Your own PayPal account can't be used to connect a vendor to the store"
+msgstr "Your own PayPal account can't be used to connect a vendor to the store"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+
+msgctxt "Languages::paypal_commerce_platform.do_not_change"
+msgid "Do not change"
+msgstr "Do not change"
+
+msgctxt "Languages::paypal_commerce_platform.set_status_to"
+msgid "Set to:"
+msgstr "Set to:"
+
+msgctxt "Languages::paypal_commerce_platform.webhook_help_message"
+msgid "Specify the following URL when configuring a webhook for your REST application:"
+msgstr "Specify the following URL when configuring a webhook for your REST application:"
+
+msgctxt "Languages::paypal_commerce_platform.webhook"
+msgid "PayPal Commerce Platform webhook: [payload]"
+msgstr "PayPal Commerce Platform webhook: [payload]"
+
+msgctxt "Languages::paypal_commerce_platform.settings.account"
+msgid "Account settings"
+msgstr "Account settings"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_funding"
+msgid "Funding sources to show on checkout"
+msgstr "Funding sources to show on checkout"
+
+msgctxt "Languages::paypal_commerce_platform.funding.card"
+msgid "Credit or debit cards"
+msgstr "Credit or debit cards"
+
+msgctxt "Languages::paypal_commerce_platform.funding.credit"
+msgid "PayPal Credit"
+msgstr "PayPal Credit"
+
+msgctxt "Languages::paypal_commerce_platform.funding.venmo"
+msgid "Venmo"
+msgstr "Venmo"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sepa"
+msgid "SEPA-Lastschrift"
+msgstr "SEPA-Lastschrift"
+
+msgctxt "Languages::paypal_commerce_platform.funding.bancontact"
+msgid "Bancontact"
+msgstr "Bancontact"
+
+msgctxt "Languages::paypal_commerce_platform.funding.eps"
+msgid "eps"
+msgstr "eps"
+
+msgctxt "Languages::paypal_commerce_platform.funding.giropay"
+msgid "giropay"
+msgstr "giropay"
+
+msgctxt "Languages::paypal_commerce_platform.funding.ideal"
+msgid "iDEAL"
+msgstr "iDEAL"
+
+msgctxt "Languages::paypal_commerce_platform.funding.mybank"
+msgid "MyBank"
+msgstr "MyBank"
+
+msgctxt "Languages::paypal_commerce_platform.funding.p24"
+msgid "Przelewy24"
+msgstr "Przelewy24"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sofort"
+msgid "Sofort"
+msgstr "Sofort"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_cards"
+msgid "Cards to show on checkout"
+msgstr "Cards to show on checkout"
+
+msgctxt "Languages::paypal_commerce_platform.card.visa"
+msgid "Visa"
+msgstr "Visa"
+
+msgctxt "Languages::paypal_commerce_platform.card.mastercard"
+msgid "Mastercard"
+msgstr "Mastercard"
+
+msgctxt "Languages::paypal_commerce_platform.card.amex"
+msgid "American Express"
+msgstr "American Express"
+
+msgctxt "Languages::paypal_commerce_platform.card.discover"
+msgid "Discover"
+msgstr "Discover"
+
+msgctxt "Languages::paypal_commerce_platform.card.jcb"
+msgid "JCB"
+msgstr "JCB"
+
+msgctxt "Languages::paypal_commerce_platform.card.elo"
+msgid "Elo"
+msgstr "Elo"
+
+msgctxt "Languages::paypal_commerce_platform.card.hiper"
+msgid "Hiper"
+msgstr "Hiper"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.style"
+msgid "Button appearance"
+msgstr "Button appearance"
+
+msgctxt "Languages::paypal_commerce_platform.style.shape"
+msgid "Shape"
+msgstr "Shape"
+
+msgctxt "Languages::paypal_commerce_platform.shape.pill"
+msgid "Pill"
+msgstr "Pill"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "Rectangular"
+
+msgctxt "Languages::paypal_commerce_platform.style.color"
+msgid "Color"
+msgstr "Color"
+
+msgctxt "Languages::paypal_commerce_platform.color.gold"
+msgid "Gold"
+msgstr "Gold"
+
+msgctxt "Languages::paypal_commerce_platform.color.blue"
+msgid "Blue"
+msgstr "Blue"
+
+msgctxt "Languages::paypal_commerce_platform.color.silver"
+msgid "Silver"
+msgstr "Silver"
+
+msgctxt "Languages::paypal_commerce_platform.color.black"
+msgid "Black"
+msgstr "Black"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "Rectangular"
+
+msgctxt "Languages::paypal_commerce_platform.style.height"
+msgid "Height"
+msgstr "Height"
+
+msgctxt "Languages::paypal_commerce_platform.bn_code"
+msgid "Partner integration code"
+msgstr "Partner integration code"
+
+msgctxt "Languages::paypal_commerce_platform.debug_id"
+msgid "PayPal Debug ID"
+msgstr "PayPal Debug ID"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts"
+msgid "Delay transfer of funds"
+msgstr "Delay transfer of funds"
+
+msgctxt "Languages::paypal_commerce_platform.disburse_payouts_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "Transfer funds to vendors"
+
+msgctxt "Languages::paypal_commerce_platform.automatic_disburse"
+msgid "Automatic transfer"
+msgstr "Automatic transfer"
+
+msgctxt "Languages::paypal_commerce_platform.trigger_disburse_payouts.description"
+msgid "Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic disbursements to all vendors with a cron command. PayPal allows delays up to 28 days; after that, money will be disbursed to vendors automatically."
+msgstr "Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic disbursements to all vendors with a cron command. PayPal allows delays up to 28 days; after that, money will be disbursed to vendors automatically."
+
+msgctxt "Languages::paypal_commerce_platform.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number up to 28. PayPal will automatically disburse money to vendors after 28 days."
+msgstr "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number up to 28. PayPal will automatically disburse money to vendors after 28 days."
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "Delay transfer of funds to vendors"
+
+msgctxt "Languages::paypal_commerce_platform.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "Funds were transferred to vendor."
+
+msgctxt "Languages::paypal_commerce_platform.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "Funds have been transferred successfully."
+
+msgctxt "Languages::paypal_commerce_platform.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+
+msgctxt "Languages::paypal_commerce_platform.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "Reason (as provided by the payment processor): [error_text]"

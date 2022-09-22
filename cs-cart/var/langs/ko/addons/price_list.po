@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_list.po\n"
+"X-Crowdin-File-ID: 6642\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::price_list"
+msgid "Price list"
+msgstr "가격 리스트"
+
+msgctxt "Addons::description::price_list"
+msgid "Generates configurable price list in PDF or XLS"
+msgstr "설정가능한 가격리스트를 PDF 또는 XLS 로 만들기"
+
+msgctxt "Languages::price_list"
+msgid "Price list"
+msgstr "가격 리스트"
+
+msgctxt "Languages::generating_pdf"
+msgid "Generating PDF. Please, be patient..."
+msgstr "PDF 생성중. 잠시 기다려주세요..."
+
+msgctxt "Languages::generating_xls"
+msgid "Generating XLS. Please, be patient..."
+msgstr "XLS 생성중. 잠시 기다려주세요..."
+
+msgctxt "Languages::price_list_ziparchive_not_installed"
+msgid "Impossible to create XML price list. Please add zip support in PHP on your server. Follow <a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
+msgstr "XML 로 가격리스트를 만들 수 없습니다. 서버 PHP 에 zip support 를 추가해 주세요.\n"
+"아래 링크를 확인하세요.\n"
+"<a href=\"http://www.php.net/manual/en/zip.installation.php\">http://www.php.net/manual/en/zip.installation.php</a>."
+
+msgctxt "Languages::price_list.text_select_storefront"
+msgid "To generate a price list, please select storefront first."
+msgstr "가격 리스트를 생성하기 위해 쇼핑몰을 선택하세요."
+
+msgctxt "Languages::price_list.text_regenerate"
+msgid "<p>If products, categories or selected fields were added or changed, please regenerate a price list:<br />[buttons]</p><p>Generated price lists are available by these links<br/>[links]</p>"
+msgstr "<p>만약 상품, 카테고리, 선택된 필드가 추가되거나 변경되면, 가격리스트를 다시 생성하세요:<br />[buttons]</p><p>가격리스트는 여기에서 생성할 수 있습니다<br/>[links]</p>"
+
+msgctxt "SettingsSections::price_list::general"
+msgid "General"
+msgstr "일반사항"
+
+msgctxt "SettingsOptions::price_list::price_list_fields"
+msgid "Fields"
+msgstr "필드"
+
+msgctxt "SettingsOptions::price_list::price_list_sorting"
+msgid "Sort by"
+msgstr "정렬하기"
+
+msgctxt "SettingsOptions::price_list::group_by_category"
+msgid "Group by category"
+msgstr "카테고리로 그룹화"
+
+msgctxt "SettingsOptions::price_list::include_options"
+msgid "Include product options"
+msgstr "상품 옵션 포함하기"
+

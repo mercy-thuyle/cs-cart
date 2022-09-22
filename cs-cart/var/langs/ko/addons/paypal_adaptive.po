@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_adaptive.po\n"
+"X-Crowdin-File-ID: 6582\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::paypal_adaptive"
+msgid "PayPal Adaptive Payments [Deprecated]"
+msgstr "페이팔 적응형 결제 [Deprecated]"
+
+msgctxt "Addons::description::paypal_adaptive"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal. Only existing PayPal Adaptive clients can use this add-on. We recommend you to use the PayPal Commerce Platform add-on instead."
+msgstr "이 추가 기능은 루트 저장소 관리자가 PayPal을 통해 여러 공급업체에 자동으로 자금을 분배하는 데 도움이 됩니다. 기존 PayPal Adaptive 클라이언트만 이 추가 기능을 사용할 수 있습니다. 대신 PayPal Commerce Platform 추가 기능을 사용하는 것이 좋습니다."
+
+msgctxt "Languages::paypal_api_username"
+msgid "API username"
+msgstr "API 사용자 이름"
+
+msgctxt "Languages::paypal_api_password"
+msgid "API password"
+msgstr "API 비밀번호"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal Business Account email"
+msgstr "PayPal 비즈니스 계정 이메일"
+
+msgctxt "Languages::paypal_adaptive.paypal_email"
+msgid "PayPal Business Account email"
+msgstr "PayPal 비즈니스 계정 이메일"
+
+msgctxt "Languages::paypal_adaptive.vendor.paypal_email"
+msgid "PayPal Account email"
+msgstr "페이팔 계정 이메일"
+
+msgctxt "Languages::pp_adaptive_payments"
+msgid "PayPal Adaptive Payments"
+msgstr "페이팔 적응형 결제"
+
+msgctxt "Languages::primary_email"
+msgid "PayPal Primary account email"
+msgstr "PayPal 기본 계정 이메일"
+
+msgctxt "Languages::processing_payment_for_order"
+msgid "Processing Payment for order"
+msgstr "주문 결제 처리"
+
+msgctxt "Languages::paypal_adaptive_pay_orders"
+msgid "Pay order"
+msgstr "지불 주문"
+
+msgctxt "Languages::paypal_adaptive_pay_step"
+msgid "step pay"
+msgstr "단계 지불"
+
+msgctxt "Languages::paypal_adaptive_pay"
+msgid "Pay"
+msgstr "지불"
+
+msgctxt "Languages::paypal_adaptive_progress_payment_order"
+msgid "Progress pay orders"
+msgstr "지불 주문 진행"
+
+msgctxt "Languages::paypal_adaptive_paid"
+msgid "Paid"
+msgstr "유급의"
+
+msgctxt "Languages::paypal_adaptive_cancel"
+msgid "Return to checkout"
+msgstr "결제로 돌아가기"
+
+msgctxt "Languages::paypal_adaptive_type_payments"
+msgid "PayPal payments type"
+msgstr "페이팔 결제 유형"
+
+msgctxt "Languages::paypal_adaptive_papallel_payments"
+msgid "Parallel"
+msgstr "평행한"
+
+msgctxt "Languages::paypal_adaptive_chained_payments"
+msgid "Chained"
+msgstr "사슬로 묶인"
+
+msgctxt "Languages::order_subtotal"
+msgid "Order subtotal"
+msgstr "주문 소계"
+
+msgctxt "Languages::paypal_adaptive_payer_fees"
+msgid "Payer fees"
+msgstr "지불인 수수료"
+
+msgctxt "Languages::paypal_adaptive_fees_eachreceiver"
+msgid "Each receiver"
+msgstr "각 수신기"
+
+msgctxt "Languages::paypal_adaptive_fees_primaryreceiver"
+msgid "Primary receiver"
+msgstr "기본 수신기"
+
+msgctxt "Languages::paypal_adaptive_pending_payment"
+msgid "Pending payment"
+msgstr "결제 대기 중"
+
+msgctxt "Languages::block_paypal_adaptive"
+msgid "PayPal Adaptive"
+msgstr "페이팔 적응형"
+
+msgctxt "Languages::paypal_calc_comission_based_on"
+msgid "To calculate commission based on"
+msgstr "를 기준으로 수수료를 계산하려면"
+
+msgctxt "SettingsSections::paypal_adaptive::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "To calculate commission based on"
+msgstr "를 기준으로 수수료를 계산하려면"
+
+msgctxt "SettingsTooltips::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "Indicates the sum based on which commission will be calculated"
+msgstr "수수료를 계산할 기준 합계를 나타냅니다."
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::O"
+msgid "Order total"
+msgstr "주문 합계"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::S"
+msgid "Order subtotal"
+msgstr "주문 소계"
+
+msgctxt "SettingsOptions::paypal_adaptive::collect_payouts"
+msgid "Collect payouts on vendors"
+msgstr "공급업체에 대한 지불금 수집"
+
+msgctxt "SettingsTooltips::paypal_adaptive::collect_payouts"
+msgid "When creating a withdrawal for a vendor, the amount of unpaid payouts will be held back from the withdrawal amount."
+msgstr "벤더에 대한 출금을 생성할 때 미지급 금액은 출금 금액에서 보류됩니다."
+
+msgctxt "Languages::paypal_adaptive_override_with_secondary_currency"
+msgid "Use customer's choice of currency"
+msgstr "고객이 선택한 통화 사용"
+
+msgctxt "Languages::paypal_adaptive_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "상황별 체크아웃 사용"
+
+msgctxt "Languages::works_in_browsers"
+msgid "It doesn't work in Safari browser and ios devices"
+msgstr "Safari 브라우저 및 ios 기기에서는 작동하지 않습니다."
+
+msgctxt "Languages::paypal_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "PayPal 적응형 결제 수수료"
+
+msgctxt "Languages::paypal_commission_type"
+msgid "PayPal commission type"
+msgstr "페이팔 수수료 유형"
+
+msgctxt "Languages::paypal_adaptive.commission_type"
+msgid "Commission type"
+msgstr "수수료 유형"
+
+msgctxt "Languages::paypal_adaptive.tooltips.commission_type"
+msgid "The setting allows to select the way commission is charged to the vendor when using the PayPal Adaptive payment method. If Vendors commission is selected, commission will be charged in the amount that is specified in the corresponding field of the vendor. If PayPal Adaptive commission is selected, a separate field will be used to avoid confusion with standard commissions. It will be used only for the PayPal Adaptive payment method. If the 'Vendor commission' add-on is not installed/disabled, 'PayPal Adaptive Payments commission' will be used."
+msgstr "설정을 통해 PayPal 적응형 결제 방법을 사용할 때 공급업체에 수수료가 청구되는 방식을 선택할 수 있습니다. 판매자 수수료를 선택하면 판매자의 해당 필드에 지정된 금액만큼 수수료가 부과됩니다. PayPal 적응형 커미션을 선택한 경우 표준 커미션과의 혼동을 피하기 위해 별도의 필드가 사용됩니다. PayPal Adaptive 결제 수단에만 사용됩니다. '공급업체 수수료' 추가 기능이 설치/비활성화되지 않은 경우 'PayPal 적응형 결제 수수료'가 사용됩니다."
+
+msgctxt "Languages::paypal_adaptive.ppa_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "PayPal 적응형 결제 수수료"
+
+msgctxt "Languages::paypal_adaptive.vendor_plans"
+msgid "Vendor plans"
+msgstr "공급업체 계획"
+
+msgctxt "Languages::paypal_verification"
+msgid "PayPal verification"
+msgstr "페이팔 인증"
+
+msgctxt "Languages::paypal_verification_short"
+msgid "PP ver."
+msgstr "PP 버전"
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "확인되지 않은"
+
+msgctxt "Languages::not_verified"
+msgid "Not verified"
+msgstr "확인되지 않음"
+
+msgctxt "Languages::verified"
+msgid "Verified"
+msgstr "확인됨"
+
+msgctxt "Languages::paypal_adaptive_auto_info_data_verification"
+msgid "Use the following line to run the script to get E-mail verification status of your vendors according to schedule:"
+msgstr "다음 줄을 사용하여 스크립트를 실행하여 일정에 따라 공급업체의 전자 메일 확인 상태를 가져옵니다."
+
+msgctxt "Languages::paypal_adaptive_statuses_updated_successfully"
+msgid "PayPal verification statuses have been updated successfully."
+msgstr "PayPal 확인 상태가 성공적으로 업데이트되었습니다."
+
+msgctxt "SettingsOptions::paypal_adaptive::display_verification_status_on_storefront"
+msgid "Display verification status to customers"
+msgstr "고객에게 확인 상태 표시"
+
+msgctxt "SettingsTooltips::paypal_adaptive::display_verification_status_on_storefront"
+msgid "The setting allows to display verification status at the product details page on the storefront. If the vendor E-mail is not verified, the status will not be shown to the customers."
+msgstr "설정을 통해 상점 첫 화면의 제품 세부 정보 페이지에서 확인 상태를 표시할 수 있습니다. 판매자 이메일이 확인되지 않으면 고객에게 상태가 표시되지 않습니다."
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image"
+msgid "PayPal verification image"
+msgstr "PayPal 인증 이미지"
+
+msgctxt "Languages::paypal_ver_image"
+msgid "Verification image"
+msgstr "인증 이미지"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_width"
+msgid "Image width"
+msgstr "이미지 너비"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_height"
+msgid "Image height"
+msgstr "이미지 높이"
+
+msgctxt "Languages::verified_by_paypal"
+msgid "Verified by PayPal"
+msgstr "PayPal 인증"
+
+msgctxt "Languages::paypal_adaptive_error_wrong_cron_key"
+msgid "Error: Wrong cron key."
+msgstr "오류: 잘못된 cron 키입니다."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_width"
+msgid "The width of the verified image."
+msgstr "확인된 이미지의 너비입니다."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_height"
+msgid "The height of the verified image."
+msgstr "확인된 이미지의 높이입니다."
+
+msgctxt "Languages::paypal_adaptive.tooltips.paypal_ver_image"
+msgid "The setting allows to display verification image instead of the text status at the product details page on the storefront. If an image is not uploaded, the status will be shown as text."
+msgstr "설정을 통해 스토어프론트의 상품 상세 페이지에서 텍스트 상태 대신 인증 이미지를 표시할 수 있습니다. 이미지가 업로드되지 않은 경우 상태가 텍스트로 표시됩니다."
+
+msgctxt "Languages::paypal_emails_must_be_unique"
+msgid "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+msgstr "선택한 PayPal Adaptive E-mail 공급업체가 이미 존재합니다. 다른 업체를 시도해 보십시오."
+
+msgctxt "Languages::addons.paypal_adaptive.logo"
+msgid "PayPal Adaptive logo"
+msgstr "PayPal 적응 로고"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr ".gif, .jpg 또는 .png와 같은 유효한 그래픽 형식을 사용하십시오. 이미지를 너비 190픽셀, 높이 60픽셀로 제한합니다. PayPal은 더 큰 이미지를 자릅니다. PayPal은 장바구니 검토 영역 상단에 로고 이미지를 배치합니다."
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "PayPal 비즈니스 계정의 이메일. 개인 계정 이메일은 작동하지 않습니다."
+
+msgctxt "Languages::ttc_paypal_adaptive.paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "PayPal 비즈니스 계정의 이메일. 개인 계정 이메일은 작동하지 않습니다."
+
+msgctxt "Languages::ttc_paypal_adaptive.vendor.paypal_email"
+msgid "The email of your PayPal account."
+msgstr "PayPal 계정의 이메일."
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_workflow"
+msgid "PayPal workflow"
+msgstr "페이팔 워크플로"
+
+msgctxt "Languages::addons.paypal_adaptive.store_settings"
+msgid "Store settings"
+msgstr "스토어 설정"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_credentials"
+msgid "PayPal credentials"
+msgstr "PayPal 자격 증명"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] [sum]"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[sum]의 [amount]%"
+
+msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "주문 #[order_id]에 대한 철회"
+
+msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
+msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."
+msgstr "<a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> 추가 기능이 주문 수수료와 미지급 대금을 모두 징수하도록 구성된 경우 연쇄 결제를 사용할 수 없습니다."
+
+msgctxt "Languages::addons.paypal_adaptive.primary_email_notice"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "PayPal 비즈니스 계정의 이메일. 개인 계정 이메일은 작동하지 않습니다."
+
+msgctxt "Languages::addons.paypal_adaptive.commission_includes"
+msgid "Commission includes"
+msgstr "수수료 포함"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission"
+msgid "Order commission"
+msgstr "주문 수수료"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission_and_payouts"
+msgid "Order commission and unpaid payouts"
+msgstr "주문 수수료 및 미지급 대금"
+
+msgctxt "Languages::addons.paypal_adaptive.first_name"
+msgid "PayPal account holder's first name"
+msgstr "PayPal 계정 소유자의 이름"
+
+msgctxt "Languages::addons.paypal_adaptive.last_name"
+msgid "PayPal account holder's last name"
+msgstr "PayPal 계정 소유자의 성"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.first_name"
+msgid "Please enter the same first name as specified in your PayPal profile."
+msgstr "PayPal 프로필에 지정된 이름과 동일한 이름을 입력하세요."
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.last_name"
+msgid "Please enter the same last name as specified in your PayPal profile."
+msgstr "PayPal 프로필에 지정된 것과 동일한 성을 입력하세요."
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_title"
+msgid "Paypal Adaptive Payments"
+msgstr "페이팔 적응형 결제"
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_description"
+msgid "PayPal Adaptive Payments is a payment provider that allows you to buy products from multiple vendors while making a single payment. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal privacy statement.</a>"
+msgstr "PayPal Adaptive Payments는 단일 결제로 여러 공급업체의 제품을 구매할 수 있는 결제 제공업체입니다. 다음은 <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal 개인 정보 보호 정책입니다.</a>"
+

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/pay360.po\n"
+"X-Crowdin-File-ID: 6626\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "Plăți 360"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "Vă permite să acceptați plăți prin Pay360"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "Nume de utilizator API"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "Parola API"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "Casier găzduit"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "Numărul de cont utilizat pentru a identifica clientul sau împrumutul. Dacă acesta este un PAN, atunci furnizați primele șase și ultimele patru cifre ale PAN. În caz contrar, furnizați până la zece caractere ale numărului de cont."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "Prima parte a codului poștal al beneficiarului împrumutului; până la șase caractere. De exemplu, dacă codul poștal este „EC2A 1AE”, acesta ar fi „EC2A”."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "Numele beneficiarului creditului; până la șase caractere, excluzând numerele sau caracterele speciale. Dacă numele este mai lung de șase caractere, atunci furnizați primele șase. De exemplu, pentru „Smith”, acesta ar fi „Smith”; pentru „Williams”, acesta ar fi „Willia”."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "Vă rugăm, utilizați numai caractere alfabetice."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "Vă rugăm să utilizați numai caractere și numere alfabetice."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "Obligatoriu pentru comercianții MCC 6012, 6051 și aproximativ 7299 din Regatul Unit și Europa"
+

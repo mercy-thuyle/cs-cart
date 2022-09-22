@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "Άμεσες πληρωμές σε πωλητή"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "Αλλάζει τη διαδικασία πληρωμής: οι πελάτες πληρώνουν σε κάθε πωλητή ξεχωριστά, και τα χρήματα από παραγγελίες πηγαίνουν κατευθείαν στους πωλητές. Οι Πωλητές επίσης μπορουν να ρυθμίζουν τις δικές τους μεθόδους πληρωμής και προσφορές."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "Περίληψη Καλαθιου"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "Πληρωμη τωρα"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "Υπάρχουν προϊόντα στο καλάθι σας που δεν έχετε παραγγείλει ακόμα. <a href=\"[cart_url]\">δείτε το καλάθι σας</a> για να συνεχίσετε την ολοκλήρωση της παραγγελίας."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "Πληρωμή Προμήθειας για την παραγγελία #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "Δεν έχετε ενεργούς, δικούς σας τρόπους πληρωμής. Για αυτό τον λόγο, κατά το checkout, θα χρησιμοποιηθούν οι τρόποι πληρωμής που έχουν οριστεί από τον ιδιοκτήτη του marketplace. Για την αποφυγή καθυστέρησης στην λήψη των χρημάτων, παρακαλώ δημιουργήστε δικούς σας τρόπους πληρωμής."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "Αυτοί οι τρόποι πληρωμής θα είναι επιλέξιμοι από τον πελάτη μόνο όταν ο πωλητής δεν έχει δικούς του ενεργούς τρόπους πληρωμής. Τα λεφτά από τις παραγγελίες, θα μεταφερθούν αρχικά στον ιδιοκτήτη του marketplace, και αφού ενημερωθεί για την λήψη τους, θα πρέπει να μεταφέρει τα χρήματα στον πωλητή."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "Οι Τρόποι πληρωμής σας"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "Tρόποι πληρωμής του ιδιοκτήτη του marketplace"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "Δημιουργία τρόπου πληρωμής"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "Καλάθι από πωλητές"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "Το καλάθι του πελάτη χωρίζεται ανα πωλητές στο ταμείο"
+

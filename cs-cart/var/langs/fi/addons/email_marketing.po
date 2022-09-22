@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/email_marketing.po\n"
+"X-Crowdin-File-ID: 6718\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::email_marketing"
+msgid "E-mail marketing"
+msgstr "Sähköpostimarkkinointi"
+
+msgctxt "Addons::description::email_marketing"
+msgid "Synchronizes your newsletter subscriber lists with MailChimp and Mad Mimi"
+msgstr "Synkronoi uutiskirjeen tilaajat MailChimp ja Mad Mimi -palvelujen kanssa"
+
+msgctxt "Languages::subscribers_menu_description"
+msgid "Manage newsletter subscribers and settings."
+msgstr "Hallinnoi uutiskirjeen tilaajia ja asetuksia."
+
+msgctxt "Languages::email_marketing.subscription_confirmed"
+msgid "Thank you for subscribing to our newsletter"
+msgstr "Kiitos uutiskirjeemme tilauksesta"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed"
+msgid "Your subscription has been confirmed. No extra actions is required."
+msgstr "Tilauksesi on vahvistettu."
+
+msgctxt "Languages::email_marketing.subscription_pending"
+msgid "Email confirmation is required!"
+msgstr "Sähköpostivahvistus pakollinen!"
+
+msgctxt "Languages::email_marketing.text_subscription_pending"
+msgid "Thank you for subscribing to our newsletter.<p>A confirmation email has been sent to you. Please use the link in the email to confirm your subscription</p>"
+msgstr "Kiitos uutiskirjeemme tilauksesta.<p>Sinulle on lähetetty vahvistusviesti sähköpostitse. Käytä viestin mukana tulevaa linkkiä vahvistaaksesi tilauksesi.</p>"
+
+msgctxt "Languages::email_marketing.confirm_subscription"
+msgid "Please confirm subscription"
+msgstr "Ole hyvä ja vahvista tilaus"
+
+msgctxt "Languages::email_marketing.text_confirm_subscription"
+msgid "We received a subscription request from you. Please confirm it:<p><a href=\"[href]\">Click here to confirm your subscription to our newsletter</a></p>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above."
+msgstr "Saimme sinulta uutiskirjeen tilauspyynnön. <p><a href=\"[href]\">Käytä tätä linkkiä vahvistaaksesi tilauksen.</a></p> Mikäli tämä viesti on tullut sinulle virheellisesti, voit poistaa sen. Jos et klikkaa yllä olevaa linkkiä tilaus ei aktivoidu."
+
+msgctxt "Languages::email_marketing.subscription_confirmed_2"
+msgid "Subscription confirmed"
+msgstr "Tilaus vahvistettu"
+
+msgctxt "Languages::email_marketing.text_subscription_confirmed_2"
+msgid "Your subscription to our newsletter has been confirmed. Thank you for subscribing!"
+msgstr "Uutiskirjeemme tilaus on vahvistettu. Kiitos tilauksesta!"
+
+msgctxt "Languages::email_marketing.email_subscribed"
+msgid "You were subscribed to our newsletter"
+msgstr "Olet uutiskirjeemme tilaaja"
+
+msgctxt "Languages::email_marketing.text_email_subscribed"
+msgid "Thank you for subscribing to our newsletter. <p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Kiitos uutiskirjeemme tilauksesta. <p>Mikäli haluat päättää tilauksesi, <a href=\"[href]\">käytä tätä linkkiä</a>.</p>"
+
+msgctxt "Languages::email_marketing.email_subscribed_2optin"
+msgid "Subscription confirmed"
+msgstr "Tilaus vahvistettu"
+
+msgctxt "Languages::email_marketing.text_email_subscribed_2optin"
+msgid "Your subscription to our newsletter has been confirmed.<p>If at any time you wish to stop receiving our emails, <a href=\"[href]\">click on this link to unsubscribe</a>.</p>"
+msgstr "Uutiskirjeen tilaus vahvistettu.<p>Mikäli haluat päättää tilauksesi, <a href=\"[href]\">käytä tätä linkkiä</a>.</p>"
+
+msgctxt "Languages::email_marketing.unsubscribe_successful"
+msgid "Unsubscribe successful"
+msgstr "Tilaus päätetty"
+
+msgctxt "Languages::email_marketing.text_unsubscribe_successful"
+msgid "Your email has been removed from our list."
+msgstr "Sähköpostiosoitteesi on poistettu listaltamme."
+
+msgctxt "Languages::email_marketing.export_all"
+msgid "Export all"
+msgstr "Vie kaikki"
+
+msgctxt "Languages::email_marketing.enter_api_key_and_save"
+msgid "Enter API key and save first"
+msgstr "Anna ensin API -tunnus ja tallenna"
+
+msgctxt "Languages::email_marketing.warning_email_exists"
+msgid "[email] is already subscribed"
+msgstr "[email] on jo tilaaja"
+
+msgctxt "Languages::email_marketing.new_subscriber"
+msgid "New subscriber"
+msgstr "Uusi tilaaja"
+
+msgctxt "Languages::email_marketing.sync"
+msgid "Sync"
+msgstr "Synkronoi"
+
+msgctxt "Languages::email_marketing.text_subscribe"
+msgid "Subscribe to our newsletter"
+msgstr "Tilaa uutiskirjeemme"
+
+msgctxt "Languages::email_marketing.tmpl_subscription"
+msgid "Email marketing: Newsletter subscription form"
+msgstr "Sähköpostimarkkinointi: uutiskirjeen tilauslomake"
+
+msgctxt "Languages::privileges.manage_email_marketing"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privileges.view_email_marketing"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::privilege_groups.email_marketing"
+msgid "Email marketing"
+msgstr "Sähköpostimarkkinointi"
+
+msgctxt "Languages::email_marketing.error_no_list"
+msgid "Please select mailing list in add-on settings to start import"
+msgstr "Valitse lisäosan asetuksista postituslista tuonnin käynnistämiseksi"
+
+msgctxt "SettingsSections::email_marketing::general"
+msgid "General"
+msgstr "Yleiset"
+
+msgctxt "SettingsSections::email_marketing::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsSections::email_marketing::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "SettingsOptions::email_marketing::em_show_on_checkout"
+msgid "Newsletter checkbox on checkout"
+msgstr "Näytä uutiskirjeen valintaruutu tilausta tehtäessä"
+
+msgctxt "SettingsOptions::email_marketing::em_checkout_enabled"
+msgid "Tick off by default"
+msgstr "Poista rasti valintaruudusta oletuksena"
+
+msgctxt "SettingsOptions::email_marketing::em_double_opt_in"
+msgid "Double opt-in"
+msgstr "Tilaajan tulee vahvistaa tilaus sähköpostiviestin kautta"
+
+msgctxt "SettingsOptions::email_marketing::em_welcome_letter"
+msgid "Send a welcome letter with the unsubscribe link"
+msgstr "Lähetä vahvistusviesti, joka sisältää peruutuslinkin"
+
+msgctxt "SettingsOptions::email_marketing::em_service"
+msgid "Email integration provider"
+msgstr "Palvelu, joka integroidaan"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_api_key"
+msgid "API key"
+msgstr "API-tunnus"
+
+msgctxt "SettingsOptions::email_marketing::em_mailchimp_list"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_username"
+msgid "E-mail"
+msgstr "Sähköposti"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_api_key"
+msgid "API key"
+msgstr "API-tunnus"
+
+msgctxt "SettingsOptions::email_marketing::em_madmimi_list"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "SettingsVariants::email_marketing::em_service::dummy"
+msgid "--"
+msgstr "--"
+
+msgctxt "SettingsVariants::email_marketing::em_service::mailchimp"
+msgid "MailChimp"
+msgstr "MailChimp"
+
+msgctxt "SettingsVariants::email_marketing::em_service::madmimi"
+msgid "MadMimi"
+msgstr "MadMimi"
+
+msgctxt "Languages::email_template.email_marketing_confirmation"
+msgid "Email marketing: subscription confirmation"
+msgstr "Sähköpostimarkkinointi: tilausvahvistus"
+
+msgctxt "Languages::email_template.email_marketing_welcome"
+msgid "Email marketing: welcome letter"
+msgstr "Sähköpostimarkkinointi: tervetulokirje"
+
+msgctxt "Languages::email_template.email_marketing_welcome_2optin"
+msgid "Email marketing: welcome letter (2optin)"
+msgstr "Sähköpostimarkkinointi: tervetulokirje (2optin)"
+

@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/banners.po\n"
+"X-Crowdin-File-ID: 6552\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::banners"
+msgid "Banners management"
+msgstr "横幅管理"
+
+msgctxt "Addons::description::banners"
+msgid "Allows you to create text and visual banners"
+msgstr "允许您创建文本和形象的横幅"
+
+msgctxt "Languages::banners.new_banner"
+msgid "New banner"
+msgstr "新的横幅"
+
+msgctxt "Languages::banners.editing_banner"
+msgid "Editing banner"
+msgstr "编辑横幅"
+
+msgctxt "Languages::add_banner"
+msgid "Add banner"
+msgstr "添加横幅"
+
+msgctxt "Languages::banner"
+msgid "Banner"
+msgstr "横幅"
+
+msgctxt "Languages::banners"
+msgid "Banners"
+msgstr "横幅"
+
+msgctxt "Languages::banners_menu_description"
+msgid "Create graphic and text banners that can then be placed on the storefront."
+msgstr "创建版画和文字横幅然后可以放置在商店的前台."
+
+msgctxt "Languages::banner_code"
+msgid "Banner code"
+msgstr "横幅代码"
+
+msgctxt "Languages::banner_code_for_some_products"
+msgid "Banner code for some products"
+msgstr "横幅代码用于部分产品"
+
+msgctxt "Languages::manage_banners"
+msgid "Manage banners"
+msgstr "管理横幅"
+
+msgctxt "Languages::block_banners"
+msgid "Banners"
+msgstr "横幅"
+
+msgctxt "Languages::block_banners_description"
+msgid "Visual and text banners"
+msgstr "形象的和文本横幅"
+
+msgctxt "Languages::privileges.view_banners"
+msgid "Can view"
+msgstr "可以查看"
+
+msgctxt "Languages::privileges.manage_banners"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.banners"
+msgid "Banners"
+msgstr "横幅"
+
+msgctxt "Languages::add_banners"
+msgid "Add banners"
+msgstr "添加横幅"
+
+msgctxt "Languages::add_banners_and_close"
+msgid "Add banners and close"
+msgstr "添加横幅并关闭"
+
+msgctxt "Languages::graphic_banner"
+msgid "Graphic banner"
+msgstr "文本横幅"
+
+msgctxt "Languages::text_banner"
+msgid "Text banner"
+msgstr "文字横幅"
+
+msgctxt "Languages::views"
+msgid "Views"
+msgstr "查看"
+
+msgctxt "Languages::conversion"
+msgid "Conversion"
+msgstr "转换"
+
+msgctxt "Languages::banner_details_notes"
+msgid "After you create a banner here, you should use the <strong>Layout editor</strong> to add it to the storefront.<br /><br />Go to <a href=\"[layouts_href]\" target=\"_blank\">Design → Layouts</a>, switch to the location where you want the banner to appear, and add a new block with type <strong>Banners</strong>.<br /><br />In this block settings, go to the <strong>Content</strong> tab, pick the <strong>Manual</strong> filling, and click on the <strong>Add banners</strong> button.<br /><br />You will see the list of all the banners in your store. Pick the one(s) you need and click on the <strong>Add banners and close</strong> button.<br /><br />Finally, click on the <strong>Create</strong> button to save your changes."
+msgstr "在此添加横幅后，应该使用 <strong>布局编辑器</strong> 把它加入前台店铺页面。<br /><br />前往 <a href=\"[layouts_href]\" target=\"_blank\">设计 → 布局</a>，在准备显示横幅的地方，添加一个类型为 <strong>横幅</strong>的block。<br /><br />在这个block设置中，找到 <strong>Content</strong> 标签，选中 <strong>手动</strong> 选项，点击 <strong>添加横幅</strong> 按钮。<br /><br />你将看到店铺的所有横幅列表，选中一个(或多个) 后点击 <strong>添加横幅并关闭</strong>按钮，<br /><br />最后点击 <strong>创建</strong> 按钮保存刚才的修改。"
+
+msgctxt "SettingsSections::banners::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::banners::banner_multilang"
+msgid "Enable multi-language Images/URLs"
+msgstr "启用多语言的图像/Url"
+
+msgctxt "Languages::n_banners"
+msgid "[n] banner|[n] banners"
+msgstr "[n] 条横幅|[n] 条横幅"
+

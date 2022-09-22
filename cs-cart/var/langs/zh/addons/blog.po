@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/blog.po\n"
+"X-Crowdin-File-ID: 6558\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::blog"
+msgid "Blog"
+msgstr "博客"
+
+msgctxt "Addons::description::blog"
+msgid "Lets you start your blog easily"
+msgstr "让你轻松地开启自己的博客"
+
+msgctxt "Languages::blog_menu_description"
+msgid "Manage your blog posts."
+msgstr "管理博客文章"
+
+msgctxt "Languages::blog.new_post"
+msgid "New blog post"
+msgstr "新建博客文章"
+
+msgctxt "Languages::blog.editing_post"
+msgid "Editing blog post"
+msgstr "编辑博客文章"
+
+msgctxt "Languages::blog"
+msgid "Blog"
+msgstr "博客"
+
+msgctxt "Languages::blog.add_post"
+msgid "Add blog post"
+msgstr "添加博客文章"
+
+msgctxt "Languages::blog.recent_posts"
+msgid "Blog: recent posts"
+msgstr "博客：最近文章"
+
+msgctxt "Languages::blog.recent_posts_scroller"
+msgid "Blog: recent posts scroller"
+msgstr "博客：最近文章列表"
+
+msgctxt "Languages::blog.view_post"
+msgid "View post"
+msgstr "查看文章"
+
+msgctxt "Languages::recent_blog_posts"
+msgid "Recent blog posts"
+msgstr "最近博客文章"
+
+msgctxt "Languages::blog.posts"
+msgid "Posts"
+msgstr "文章"
+
+msgctxt "Languages::blog.post"
+msgid "Post"
+msgstr "文章"
+
+msgctxt "Languages::block_blog"
+msgid "Recent posts"
+msgstr "最近文章"
+
+msgctxt "Languages::block_vendor_blog"
+msgid "Vendor recent posts"
+msgstr "供应商最近的帖子"
+
+msgctxt "Languages::blog.text_links"
+msgid "Blog: text links"
+msgstr "博客：文本链接"
+
+msgctxt "Languages::blog.read_more"
+msgid "Read more"
+msgstr "查看更多"
+
+msgctxt "Languages::post_description"
+msgid "Post description"
+msgstr "文章概要"
+
+msgctxt "Languages::ttc_post_description"
+msgid "Use the &lt;!--CUT--&gt; tag (switch to source code to insert it) to hide part of the post. Only the part above the tag is shown in the list of all posts.<br /><br />Make sure to <strong>close all HTML tags</strong> above the &lt;!--CUT--&gt; tag!"
+msgstr "使用 &lt;!--CUT--&gt; 标签 (切换到源代码插入) 隐藏文章的内容，只有标签以上的内容才会显示在文章列表中。<br /><br />请确保 &lt;!--CUT--&gt; 标签以上的 <strong>所有HTML标签</strong> 是闭合的！"
+
+msgctxt "Languages::blog_functionality_notes"
+msgid "<p>Use this page to manage your blog. This is how you should organize your blog posts:</p><ul><li>Blog is a usual post that has the <b>Root level page</b> as the Parent page.</li><li>Choose <b>Blog</b> as the Parent page for your blog posts.</li></ul>"
+msgstr "<p>使用本页来管理你的博客，这是如何组织博客文章的正确方式：</p> <ul><li>Blog是一个具有<b>根级别页</b>的作为父页面的普通文章</li><li>选择 <b>Blog</b> 作为其他文章的父页面。</li></ul>"
+
+msgctxt "Languages::n_posts"
+msgid "[n] post|[n] posts"
+msgstr "[n] 个帖子|[n] 个帖子"
+

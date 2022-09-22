@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/access_restrictions.po\n"
+"X-Crowdin-File-ID: 6540\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::access_restrictions"
+msgid "Access restrictions"
+msgstr "Pääsyrajoitukset"
+
+msgctxt "Addons::description::access_restrictions"
+msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
+msgstr "Rajoita kaupan etusivulle ja ohjauspaneeliin pääsyä tietyistä IP-osoitteista erilaisin vaihtoehdoin"
+
+msgctxt "Languages::access_restrictions"
+msgid "Access restrictions"
+msgstr "Pääsyrajoitukset"
+
+msgctxt "Languages::add_ips"
+msgid "Add IPs"
+msgstr "Lisää IP-osoitteet"
+
+msgctxt "Languages::new_ips"
+msgid "New IPs"
+msgstr "Uusia IP-osoitteita"
+
+msgctxt "Languages::add_domains"
+msgid "Add domains"
+msgstr "Lisää verkkotunnuksia"
+
+msgctxt "Languages::new_domains"
+msgid "New domains"
+msgstr "Uusia verkkotunnuksia"
+
+msgctxt "Languages::add_emails"
+msgid "Add e-mail addresses"
+msgstr "Lisää sähköpostiosoitteita"
+
+msgctxt "Languages::new_emails"
+msgid "New e-mail addresses"
+msgstr "Uusia sähköpostiosoitteita"
+
+msgctxt "Languages::new_credit_card"
+msgid "New credit card"
+msgstr "Uusi luottokortti"
+
+msgctxt "Languages::add_credit_card"
+msgid "Add credit card"
+msgstr "Lisää luottokortti"
+
+msgctxt "Languages::privileges.manage_access_restrictions"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.access_restrictions"
+msgid "Access restrictions"
+msgstr "Pääsyrajoitukset"
+
+msgctxt "Languages::domain"
+msgid "Domain"
+msgstr "Verkkotunnus"
+
+msgctxt "Languages::warning_of_ip_adding"
+msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
+msgstr "Annettu IP-osoite <b>[entered_ip]</b> estää pääsyn hallintapaneeliin tietokoneeltasi (IP-osoitteesi on <b>[your_ip]</b>)."
+
+msgctxt "Languages::text_cc_number_is_blocked"
+msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "Ylläpito on estänyt luottokortin numero <b>[cc_number]</b>. Ota yhteyttä kaupan ylläpitäjään tai kokeile toista luottokorttia."
+
+msgctxt "Languages::text_not_valid_ip"
+msgid "<b>[ip]</b> is not a valid ip address."
+msgstr "<b>[ip]</b> ei ole kelvollinen IP-osoite."
+
+msgctxt "Languages::text_not_valid_domain"
+msgid "<b>[domain]</b> is not a valid domain name."
+msgstr "<b>[domain]</b> ei ole kelvollinen verkkotunnus."
+
+msgctxt "Languages::text_not_valid_cc_number"
+msgid "<b>[cc_number]</b> is not a valid credit card number."
+msgstr "<b>[cc_number]</b> ei ole kelvollinen luottokortin numero."
+
+msgctxt "Languages::text_email_is_blocked"
+msgid "The e-mail address <b>[email]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "Ylläpito on estänyt sähköpostiosoitteen <b>[email]</b>. Ota yhteyttä ylläpitoon tai kokeile toista sähköpostiosoitetta."
+
+msgctxt "Languages::text_ips_denied"
+msgid "You are not allowed to access this area"
+msgstr "Sinulla ei ole pääsyä tälle alueelle"
+
+msgctxt "Languages::text_ip_blocked_failed_login"
+msgid "The IP was blocked after [number] unsuccessful logins"
+msgstr "IP-osoite on estetty [number] epäonnistuneen kirjautumisyrityksen jälkeen"
+
+msgctxt "Languages::text_ip_is_blocked"
+msgid "Your IP address is blocked."
+msgstr "IP-osoitteesi on estetty."
+
+msgctxt "Languages::store_admin"
+msgid "Store administrator"
+msgstr "Kaupan ylläpitäjä"
+
+msgctxt "Languages::your_ip_added"
+msgid "Your IP address <b>[ip]</b> has been added to the access restrictions table."
+msgstr "IP-osoitteesi <b>[ip]</b> on lisätty pääsyrajoitustaulukkoon."
+
+msgctxt "Languages::your_ip_enabled"
+msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
+msgstr "IP-osoitteesi <b>[ip]</b> on kytketty käyttöön pääsyrajoitustaulukossa."
+
+msgctxt "Languages::your_ip_removed"
+msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
+msgstr "IP-osoitteesi <b>[ip]</b> on poistettu käytöstä pääsyrajoitustaulukossa."
+
+msgctxt "Languages::ip_from"
+msgid "IP from"
+msgstr "IP-osoitteet alkaen"
+
+msgctxt "Languages::ip_to"
+msgid "IP to"
+msgstr "IP-osoitteet päättyen"
+
+msgctxt "Languages::text_access_notice"
+msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
+msgstr "Voit käyttää jokerimerkkiä verkkotunnus-, sähköposti- ja luottokorttivälilehdillä: <br /><b>*</b> - vastaa mitä tahasa merkkijonoa, sisältäen nollan <br /><b>?</b> - vastaa yhtä merkkiä."
+
+msgctxt "Languages::ips"
+msgid "IPs"
+msgstr "IP-osoitteet"
+
+msgctxt "Languages::make_permanent"
+msgid "Make permanent"
+msgstr "Tee pysyväksi"
+
+msgctxt "Languages::credit_card_number"
+msgid "Credit card number"
+msgstr "Luottokortin numero"
+
+msgctxt "SettingsSections::access_restrictions::general"
+msgid "General"
+msgstr "Yleinen"
+
+msgctxt "SettingsOptions::access_restrictions::elm_administrator_area_settings"
+msgid "Administrator area settings"
+msgstr "Ylläpitoalueen asetukset"
+
+msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
+msgid "Allow login to the admin area from specified IPs only"
+msgstr "Salli ylläpitoalueen kirjautumiset vain tietyistä IP-osoitteista"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Estä IP-osoite useiden epäonnistuneiden kirjautumisyritysten jälkeen"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
+msgid "Number of unsuccessful attempts"
+msgstr "Epäonnistuneiden yritysten määrä"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Aika epäonnistuneiden yritysten välillä (sekuntia)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Kuinka pitkäksi aikaa IP-osoite estetään (tuntia)"
+
+msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
+msgid "Customer area settings"
+msgstr "Asiakasalueen asetukset"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Estä IP lukuisten epäonnistuneiden kirjautumisyritysten jälkeen"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
+msgid "Number of unsuccessful attempts"
+msgstr "Epäonnistuneiden kirjautumisyritysten määrä"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Epäonnistuneiden kirjautumisten aikaväli (sekuntia)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block_customer"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Kuinka pitkäksi aikaa IP-osoite estetään (tuntia)"
+

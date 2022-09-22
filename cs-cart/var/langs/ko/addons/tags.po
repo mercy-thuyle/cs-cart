@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/tags.po\n"
+"X-Crowdin-File-ID: 6680\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr "태그"
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr "상품 태그 허용하기"
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr "상품과 컨텐츠 페이지 태그 관리하기"
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr "태그를 설정하기 위해서 로그인"
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr "태그 클라우드"
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr "태그"
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr "태그"
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr "상품 태그"
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr "태그 추가하기"
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "아이템이 \"[tag]\" 로 태그 됨:"
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr "태그"
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr "태그 추가하기"
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr "일반사항"
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr "상품에 대한 태그"
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr "페이지에 대한 태그"
+
+msgctxt "Languages::n_tags"
+msgid "[n] tag|[n] tags"
+msgstr "[n] 태그|[n] 태그"
+

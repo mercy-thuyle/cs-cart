@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 6590\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "AVG-naleving (EU)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Helpt u te voldoen aan de AVG (een verordening van de Europese Unie over persoonlijke gegevens) door klanten informatie over hun persoonlijke gegevens te tonen, hun toestemming te vragen voor de verwerking ervan en door manieren aan te bieden om persoonlijke gegevens te verwijderen of te exporteren."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "AVG"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Toestemming voor cookies"
+
+msgctxt "SettingsOptions::gdpr::privacy_policy_page"
+msgid "Privacy policy page"
+msgstr "Privacybeleid pagina"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "\"Implicit consent\" is a simple notification that the site uses cookies. \"Explicit consent\" means that visitors can select the services that can or can't set cookies."
+msgstr "\"Impliciete toestemming\" is een eenvoudige melding dat de site cookies gebruikt. \"Expliciete toestemming\" betekent dat bezoekers de services kunnen selecteren die wel of geen cookies kunnen plaatsen."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Geen"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "Stilzwijgend"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Uitdrukkelijk"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "AVG gebruikersgegevens"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Persoonlijke gegevens van de gebruiker"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Persoonlijke gegevens uit gebruikersprofielen"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Persoonlijke gegevens van productabonnementen"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "Persoonsgegevens uit AVG-overeenkomsten"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "Anonimiseren"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Zodra u iemand anonimiseert, wordt al zijn persoonlijke informatie vervangen door willekeurig gegenereerde gegevens. Deze actie kan niet ongedaan worden gemaakt, tenzij u de database herstelt vanaf een back-up. Weet je zeker dat je verder wilt gaan?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Bekijken en bewerken"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Persoonsgegevens uit bestellingen"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Volledige overeenkomsttekst"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Korte overeenkomsttekst"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Afrekenen: Bestelling plaatsen: Verwerking persoonsgegevens"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Wij ([company]) sturen accountgerelateerde e-mails (zoals bestelstatusmeldingen, e-mails voor het opnieuw instellen van wachtwoorden en meer) naar het opgegeven e-mailadres. Om die reden moeten we uw e-mailadres opslaan terwijl u klant bij ons blijft.</p> <p>We gebruiken de informatie in het gedeelte met factuur-/verzendadres en kunnen deze naar een aanbieder van verzend- of betalingsmethoden sturen om:</p> <ul> <li>Bepaal welke verzend- en betalingsmethoden beschikbaar zijn voor uw locatie. </li> <li>Voltooi het betalings- of verzendproces via de aanbieder die u kiest bij het afrekenen wanneer u de bestelling plaatst.</li> </ul> <p>Sommige medewerkers en/of verkopers die producten in onze winkel verkopen en het administratiepaneel gebruiken, hebben mogelijk toegang tot uw gegevens. We waarderen uw privacy, dus de toegang tot gegevens wordt verstrekt op een 'need-to-know'-basis om de winkel te kunnen exploiteren. Een leverancier ontvangt bijvoorbeeld uw gegevens alleen als u iets bij hen heeft besteld, zodat de leverancier die bestelling kan uitvoeren.</p> <p>Als u besluit dat u onze winkel niet langer wilt gebruiken en uw persoonlijke gegevens uit onze database wilt laten verwijderen (of als u alle persoonlijke gegevens wilt hebben die aan uw account zijn gekoppeld), stuur dan een e-mail naar [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Klant: registratie"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>E-mailadressen onderscheiden klanten van elkaar. U logt in op de winkel door het e-mailadres en het wachtwoord dat u hier opgeeft in te voeren.</p> <p>Wij ([company]) sturen ook accountgerelateerde e-mails (zoals bestelstatusmeldingen, e-mails voor het opnieuw instellen van wachtwoorden en meer) naar het opgegeven e-mailadres. Om die reden moeten we uw e-mailadres opslaan terwijl u klant bij ons blijft.</p> <p>Andere profielvelden die al dan niet op deze pagina aanwezig zijn, worden naast uw e-mailadres bewaard. We kunnen deze informatie gebruiken om contact met u op te nemen, als de noodzaak zich voordoet.</p> <p>Sommige leden van ons personeel en/of verkopers die producten in onze winkel verkopen en het administratiepaneel gebruiken, hebben mogelijk toegang tot uw gegevens. We waarderen uw privacy, dus de toegang tot gegevens wordt verstrekt op een 'need-to-know'-basis om de winkel te kunnen exploiteren. Een leverancier ontvangt bijvoorbeeld uw gegevens alleen als u iets bij hen heeft besteld, zodat de leverancier die bestelling kan uitvoeren.</p> <p>Als u besluit dat u onze winkel niet langer wilt gebruiken en uw persoonlijke gegevens uit onze database wilt laten verwijderen (of als u alle persoonlijke gegevens wilt hebben die zijn gekoppeld aan uw account dat we hebben), stuur dan een e-mail naar [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Profielen: update"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>E-mailadressen onderscheiden klanten van elkaar. U logt in op de winkel door het e-mailadres en het wachtwoord dat u hier opgeeft in te voeren.</p> <p>Wij ([company]) sturen ook accountgerelateerde e-mails (zoals bestelstatusmeldingen, e-mails voor het opnieuw instellen van wachtwoorden en meer) naar het opgegeven e-mailadres. Om die reden moeten we uw e-mailadres opslaan terwijl u klant bij ons blijft.</p> <p>Andere profielvelden die al dan niet op deze pagina aanwezig zijn, worden naast uw e-mailadres bewaard. We kunnen deze informatie gebruiken om contact met u op te nemen, als de noodzaak zich voordoet.</p> <p>We gebruiken de informatie in het gedeelte met factuur-/verzendadres en kunnen deze naar een aanbieder van verzend- of betalingsmethoden sturen om:</p> <ul> <li>te bepalen welke verzend- en betalingsmethoden beschikbaar zijn voor uw locatie.</li> <li>Voltooi het betalings- of verzendproces via de aanbieder die u kiest bij het afrekenen wanneer u de bestelling plaatst.</li> </ul> <p>Sommige medewerkers en/of verkopers die producten in onze winkel verkopen en het administratiepaneel gebruiken, hebben mogelijk toegang tot uw gegevens. We waarderen uw privacy, dus de toegang tot gegevens wordt verstrekt op een 'need-to-know'-basis om de winkel te kunnen exploiteren. Een leverancier ontvangt bijvoorbeeld uw gegevens alleen als u iets bij hen heeft besteld, zodat de leverancier die bestelling kan uitvoeren.</p> <p>Als u besluit dat u onze winkel niet langer wilt gebruiken en uw persoonlijke gegevens uit onze database wilt laten verwijderen (of als u alle persoonlijke gegevens wilt hebben die zijn gekoppeld aan uw account dat we hebben), stuur dan een e-mail naar [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Verkoper: solliciteer voor leverancier"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Omdat verkopers producten op onze marktplaats verkopen, moeten we ([company]) bepaalde informatie over hen opvragen. De bedrijfsnaam en beschrijving van een leverancier worden bijvoorbeeld aan klanten getoond en dienen om leveranciers van elkaar te onderscheiden; het adres wordt gebruikt voor de berekening van de verzendkosten.</p> <p>We vragen echter ook enkele persoonsgegevens, zoals voornaam/achternaam en e-mailadres. Die zijn nodig voor het aanmaken van een beheerdersaccount van een leverancier in ons systeem. Verkopers werken via dergelijke accounts met de markt. E-mailadressen zijn nodig omdat ze beheerders van elkaar onderscheiden. U logt in op de winkel door het e-mailadres dat u hier opgeeft in te voeren. Namen zijn nodig omdat een enkele leverancier meerdere beheerders kan hebben. Op die manier is het gemakkelijker om verantwoording af te leggen.</p> <p>We sturen ook accountgerelateerde e-mails (zoals bestelstatusmeldingen, e-mails voor het opnieuw instellen van wachtwoorden en meer) naar het opgegeven e-mailadres. Om die reden moeten we uw e-mailadres opslaan terwijl u klant bij ons blijft. Als je besluit dat je niet langer met onze marktplaats wilt werken en je persoonlijke gegevens uit onze database wilt laten verwijderen (of als je alle persoonlijke gegevens wilt hebben die zijn gekoppeld aan je account dat we hebben), stuur dan een e-mail tot [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Producten: inschrijven"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Wij ([company]) zullen uw e-mailadres toevoegen aan een speciale mailinglijst voor dit product. Zodra het product op voorraad is, ontvang je er automatisch een e-mail over en wordt je e-mailadres verwijderd uit de mailinglijst van het product.</p> <p>De gegevens zullen voor een deel van onze medewerkers zichtbaar zijn. Als je je persoonsgegevens wilt laten verwijderen, stuur dan een e-mail naar [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Afrekenen: profiel update"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Wij ([company]) sturen accountgerelateerde e-mails (zoals bestelstatusmeldingen, e-mails voor het opnieuw instellen van wachtwoorden en meer) naar het opgegeven e-mailadres. Om die reden moeten we uw e-mailadres opslaan terwijl u klant bij ons blijft.</p> <p>We gebruiken de informatie in het gedeelte met factuur-/verzendadres en kunnen deze naar een aanbieder van verzend- of betalingsmethoden sturen om:</p> <ul> <li>Bepaal welke verzend- en betalingsmethoden beschikbaar zijn voor uw locatie. </li> <li>Voltooi het betalings- of verzendproces via de aanbieder die u kiest bij het afrekenen wanneer u de bestelling plaatst.</li> </ul> <p>Sommige medewerkers en/of verkopers die producten in onze winkel verkopen en het administratiepaneel gebruiken, hebben mogelijk toegang tot uw gegevens. We waarderen uw privacy, dus de toegang tot gegevens wordt verstrekt op een 'need-to-know'-basis om de winkel te kunnen exploiteren. Een leverancier ontvangt bijvoorbeeld uw gegevens alleen als u iets bij hen heeft besteld, zodat de leverancier die bestelling kan uitvoeren.</p> <p>Als u besluit dat u onze winkel niet langer wilt gebruiken en uw persoonlijke gegevens uit onze database wilt laten verwijderen (of als u alle persoonlijke gegevens wilt hebben die zijn gekoppeld aan uw account dat we hebben), stuur dan een e-mail naar [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "Exporteren naar XML"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Uw toestemming is vereist om door te gaan."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Gebruiker is geanonimiseerd."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p>Houd er rekening mee dat anonimisering geen invloed heeft op eventuele back-ups en logboeken die u mogelijk heeft. Doe indien nodig het volgende:</p><ol><li>Wis de logboeken onder <b>Beheer → Logboeken</b>.</li><li>Beveilig en verwijder de back-ups die u mogelijk hebt onder <b>Beheer → Back-up/herstel</b>.</li></ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Toestemming voor cookies"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p>Deze website maakt gebruik van cookies (kleine stukjes data die op uw computer worden opgeslagen). Sommige cookies worden door de website zelf toegevoegd: ze helpen u de inhoud van uw winkelwagentje te tonen, houden u ingelogd nadat u uw e-mailadres en wachtwoord hebt ingevoerd, bewaren uw voorkeuren en doen nog veel meer andere nuttige dingen. We gebruiken deze cookies alleen om de site goed voor je te laten werken. Zelfs uw akkoord met ons gebruik van cookies wordt opgeslagen als een cookie.</p><p>Andere cookies kunnen worden gebruikt door diensten van derden (zoals PayPal, YouTube, Google Maps, Facebook, enz.) om de gegevens op te slaan over hoe u die diensten van derden op de website gebruikt. Wij hebben geen controle over hoe derde partijen cookies gebruiken, maar die cookies zijn ook belangrijk voor het goed functioneren van de website. Sommige PayPal-functies werken bijvoorbeeld mogelijk niet zonder PayPal-cookies.</p><p>Zonder cookies kan er veel mis gaan. Daarom vragen we u om akkoord te gaan met het gebruik van cookies voordat u doorgaat. Als u geen cookies wilt, maar de website wel wilt blijven gebruiken, configureer dan uw browser om cookies te blokkeren, en dan kunt u \"instemmen\" met het gebruik ervan, terwijl we dat niet als uw toestemming beschouwen .</p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "Ik ga akkoord"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "Nee, haal me hier weg"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site."
+msgstr "Op deze site worden cookies gebruikt om de beste gebruikerservaring te bieden. Als u doorgaat, gaan we ervan uit dat u akkoord gaat met het ontvangen van cookies van deze site."
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "AVG"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "AVG"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Staat geregistreerde gebruikers toe om hun persoonlijke gegevens of anonimisering op te vragen"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p>Als klanten interactie hebben met de winkel, verstrekken ze persoonlijke gegevens voor verschillende doeleinden. Wanneer u een bestelling plaatst, moeten we weten waar deze naartoe moet worden verzonden; wanneer u zich aanmeldt voor een e-mailnieuwsbrief, moeten we weten waar we deze naartoe moeten sturen, enzovoort. Wij houden deze gegevens overzichtelijk, zodat u altijd:</p> <ol> <li>ons kunt verzoeken u al uw persoonsgegevens toe te sturen. In dat geval sturen we je een XML-bestand per e-mail. Dat bestand bevat al uw persoonlijke gegevens die we hebben.</li> <li>Verzoek om vergeten te worden. In dat geval wordt uw account gedeactiveerd en worden al uw persoonlijke gegevens verwijderd. Indien nodig kunt u in de toekomst een nieuw account met hetzelfde e-mailadres registreren.</li> </ol> <p>Houd er rekening mee dat we enige tijd nodig hebben om een van deze verzoeken te verwerken. We kunnen per e-mail of op een andere manier contact met u opnemen over uw verzoek.</p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "Stuur mij mijn gegevens"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>We sturen je een XML-bestand met al je persoonlijke gegevens die we hebben. Houd er rekening mee dat we enige tijd nodig hebben om dit verzoek te verwerken, dus de e-mail met uw XML-bestand wordt niet meteen verzonden. Als u opmerkingen heeft over uw verzoek, kunt u deze in het onderstaande veld achterlaten.</p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Kopie verzoek persoonsgegevens: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> met het e-mailadres [customer_email] heeft een kopie van persoonlijke gegevens aangevraagd met de volgende opmerking:</p> <p>[comment]</p> <p>Klik op de link aan het begin van dit bericht en gebruik de corresponderende knop op de klantprofielpagina in het Administratiepaneel om verkrijg de gegevens in het XML-formaat. Stuur daarna het XML-bestand naar de klant.</p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "Mijn gegevens verwijderen"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>We zullen uw account deactiveren en al uw persoonlijke gegevens eruit verwijderen. Daarna kunt u zich niet meer aanmelden. U kunt in de toekomst wel een nieuw account met hetzelfde e-mailadres registreren. Houd er rekening mee dat we enige tijd nodig hebben om dit verzoek te verwerken, dus uw account wordt niet onmiddellijk gedeactiveerd. Als u opmerkingen heeft over uw verzoek, kunt u deze in het onderstaande veld achterlaten.</p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Verzoek om verwijdering van persoonlijke gegevens: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> met het e-mailadres [customer_email] heeft verzocht om verwijdering van persoonlijke gegevens met de volgende opmerking:</p> <p>[comment]</p> <p>Klik op de link aan het begin van dit bericht en gebruik de overeenkomstige knop op de klantprofielpagina in het Administratie-paneel om de klant anonimiseren.</p> <p>Houd er rekening mee dat <b>deze actie alle persoonlijke gegevens van de klant</b> zal vervangen door willekeurig gegenereerde gegevens. Het is het beste om ervoor te zorgen dat alle zaken met de klant (zoals bestellingen en retourverzoeken) zijn afgerond voordat u dat doet.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "Uw aanvraag is succesvol verzonden."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "Er is een fout opgetreden tijdens de poging om uw verzoek te verzenden. Probeer het opnieuw of stuur een bericht naar het volgende e-mailadres: <a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>De teksten van onderstaande overeenkomsten kunnen <b>[email]</b> of <b>[company]</b> bevatten. Dat zijn tijdelijke aanduidingen die automatisch worden vervangen door actuele gegevens wanneer klanten de overeenkomsten zien. Als u slechts één etalage heeft, worden de gegevens voor de tijdelijke aanduidingen overgenomen uit <a href=\"[company_settings_url]\" target=\"_blank\">Instellingen → Bedrijf</a>. Als u meerdere etalages heeft, worden de gegevens overgenomen uit de instellingen van de etalage die een klant bezoekt:</p><ul><li><b>[company]</b> worden overgenomen uit <i>Bedrijfsnaam</i>.</li><li><b>[email]</b> wordt overgenomen van <i>E-mailadres gebruikersafdeling</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>De teksten van onderstaande overeenkomsten kunnen <b>[email]</b> of <b>[company]</b> bevatten. Dat zijn tijdelijke aanduidingen die automatisch worden vervangen door actuele gegevens wanneer klanten de overeenkomsten zien. De gegevens voor tijdelijke aanduidingen worden overgenomen uit <a href=\"[company_settings_url]\" target=\"_blank\">Instellingen → Bedrijf</a>:</p><ul><li><b>[company]</b> worden overgenomen uit <i>Bedrijfsnaam</i>.</li><li><b>[email]</b> wordt overgenomen van <i>E-mailadres gebruikersafdeling</i>.</li></ul>"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_title"
+msgid "Strictly necessary cookies"
+msgstr "Strikt noodzakelijke cookies"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_description"
+msgid "These cookies are essential for the website to work properly. For example, they let you place an order, or help the site remember that you've signed into your account. That's why they can't be disabled through the site. You can configure your browser to disable even these cookies, but important parts of the site won't work without them."
+msgstr "Deze cookies zijn essentieel om de website goed te laten werken. Ze laten u bijvoorbeeld een bestelling plaatsen of helpen de site onthouden dat u zich heeft aangemeld bij uw account. Daarom kunnen ze niet via de site worden uitgeschakeld. U kunt uw browser configureren om zelfs deze cookies uit te schakelen, maar belangrijke delen van de site werken niet zonder deze."
+
+msgctxt "Languages::gdpr.performance_cookies_title"
+msgid "Performance cookies"
+msgstr "Prestatiecookies"
+
+msgctxt "Languages::gdpr.performance_cookies_description"
+msgid "These cookies allow us to see how the website works. The information that these cookies help to collect is anonymous; it is typically presented in numbers. For example, these cookies help us see how often errors occur, how many unique visitors we have, or how long each page is viewed on average. Thanks to these cookies, we can improve the site for you."
+msgstr "Met deze cookies kunnen wij zien hoe de website werkt. De informatie die deze cookies helpen verzamelen is anoniem; het wordt meestal gepresenteerd in cijfers. Deze cookies helpen ons bijvoorbeeld te zien hoe vaak fouten optreden, hoeveel unieke bezoekers we hebben of hoe lang elke pagina gemiddeld wordt bekeken. Dankzij deze cookies kunnen wij de site voor u verbeteren."
+
+msgctxt "Languages::gdpr.functional_cookies_title"
+msgid "Functional cookies"
+msgstr "Functionele cookies"
+
+msgctxt "Languages::gdpr.functional_cookies_description"
+msgid "These cookies enable additional functionality at the website. They may be set by third-party providers whose services we've added to the website. Those services may include many things, like maps, geolocation for preliminary shipping rate calculation, or the ability to sign in with your social network account. Without functional cookies, the parts of the site associated with these services may not work properly."
+msgstr "Deze cookies zorgen voor extra functionaliteit op de website. Ze kunnen worden ingesteld door externe providers wiens services we aan de website hebben toegevoegd. Die services kunnen veel dingen omvatten, zoals kaarten, geolocatie voor voorlopige berekening van de verzendkosten of de mogelijkheid om in te loggen met uw sociale netwerkaccount. Zonder functionele cookies werken de delen van de site die aan deze diensten zijn gekoppeld mogelijk niet naar behoren."
+
+msgctxt "Languages::gdpr.marketing_cookies_title"
+msgid "Marketing cookies"
+msgstr "Marketing cookies"
+
+msgctxt "Languages::gdpr.marketing_cookies_description"
+msgid "These cookies are used by our advertising partners. They help them to measure promotion efficiency and serve you ads that are more relevant and less repetitive. This is usually achieved by remembering the browser and device that saw the ad. Turning these cookies off won't reduce the number of ads you see on the internet, but will make them less personalized."
+msgstr "Deze cookies worden gebruikt door onze advertentiepartners. Ze helpen hen de efficiëntie van promoties te meten en u advertenties te tonen die relevanter en minder repetitief zijn. Dit wordt meestal bereikt door de browser en het apparaat te onthouden die de advertentie hebben gezien. Als u deze cookies uitschakelt, vermindert het aantal advertenties dat u op internet ziet niet, maar worden ze minder gepersonaliseerd."
+
+msgctxt "Languages::gdpr.eway_cookies_title"
+msgid "eWAY"
+msgstr "eWAY"
+
+msgctxt "Languages::gdpr.eway_cookies_description"
+msgid "eWAY is a payment provider. It allows us to accept payments, if you choose a payment method powered by eWAY. Here is <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY privacy policy</a>."
+msgstr "eWAY is een betalingsprovider. Het stelt ons in staat om betalingen te accepteren, als u een betalingsmethode kiest die mogelijk is gemaakt door eWAY. Hier is <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY privacybeleid</a>."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_title"
+msgid "You can find out more in this document: {privacyPolicy}."
+msgstr "U vindt meer informatie in dit document: {privacyPolicy}."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_name"
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+msgctxt "Languages::gdpr.klaro_service"
+msgid "service"
+msgstr "onderhoud"
+
+msgctxt "Languages::gdpr.klaro_services"
+msgid "services"
+msgstr "Diensten"
+
+msgctxt "Languages::gdpr.klaro_accept_all"
+msgid "Accept all"
+msgstr "Accepteer alles"
+
+msgctxt "Languages::gdpr.klaro_accept_selected"
+msgid "Accept selected"
+msgstr "Geselecteerde accepteren"
+
+msgctxt "Languages::gdpr.klaro_close"
+msgid "Close"
+msgstr "Dichtbij"
+
+msgctxt "Languages::gdpr.klaro_consent_modal_description"
+msgid "Here you can assess and customize the services (and their respective cookies) that we'd like to use on this website. You're in charge! Enable or disable services as you see fit."
+msgstr "Hier kunt u de diensten (en hun respectievelijke cookies) die we op deze website willen gebruiken, beoordelen en aanpassen. Jij bent de baas! Schakel services naar eigen inzicht in of uit."
+
+msgctxt "Languages::gdpr.klaro_consent_modal_title"
+msgid "Cookies we would like to use"
+msgstr "Cookies die we graag willen gebruiken"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_change_description"
+msgid "There were changes since your last visit, please renew your consent."
+msgstr "Er zijn wijzigingen geweest sinds uw laatste bezoek, hernieuw uw toestemming."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_title"
+msgid "Cookie Consent"
+msgstr "Toestemming voor cookies"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_description"
+msgid "Hi! Could we please enable some additional services that require cookies? You can always change or withdraw your consent later."
+msgstr "Hoi! Kunnen we alstublieft enkele aanvullende diensten inschakelen waarvoor cookies nodig zijn? U kunt uw toestemming later altijd nog wijzigen of intrekken."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_learn_more"
+msgid "Let me choose"
+msgstr "Laat me kiezen"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_testing"
+msgid "Testing mode!"
+msgstr "Test modus!"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_always"
+msgid "Always"
+msgstr "Altijd"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_once"
+msgid "'Yes'"
+msgstr "'Ja'"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_description"
+msgid "Do you want to load external content supplied by {title}?"
+msgstr "Wilt u externe inhoud van {title}laden?"
+
+msgctxt "Languages::gdpr.klaro_decline"
+msgid "I decline"
+msgstr "ik weiger"
+
+msgctxt "Languages::gdpr.klaro_ok"
+msgid "That's ok"
+msgstr "Dat is prima"
+
+msgctxt "Languages::gdpr.klaro_powered_by"
+msgid "Realized with Klaro!"
+msgstr "Gerealiseerd met Klaro!"
+
+msgctxt "Languages::gdpr.klaro_service_purpose"
+msgid "purpose"
+msgstr "doel"
+
+msgctxt "Languages::gdpr.klaro_service_purposes"
+msgid "purposes"
+msgstr "doeleinden"
+
+msgctxt "Languages::gdpr.klaro_service_required_description"
+msgid "This service is always required"
+msgstr "Deze service is altijd vereist"
+
+msgctxt "Languages::gdpr.disable_all_description"
+msgid "Use this switch to enable or disable all services."
+msgstr "Gebruik deze schakelaar om alle services in of uit te schakelen."
+
+msgctxt "Languages::gdpr.disable_all_title"
+msgid "Enable or disable all services"
+msgstr "Alle services in- of uitschakelen"
+
+msgctxt "Languages::gdpr.opt_out_description"
+msgid "This service is enabled by default (but you can opt out)"
+msgstr "Deze service is standaard ingeschakeld (maar u kunt zich afmelden)"
+
+msgctxt "Languages::gdpr.opt_out_title"
+msgid "(opt-out)"
+msgstr "(afmelden)"
+
+msgctxt "Languages::gdpr.klaro_service_required_title"
+msgid "(always required)"
+msgstr "(altijd vereist)"
+

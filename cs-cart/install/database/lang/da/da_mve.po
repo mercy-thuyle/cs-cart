@@ -1,0 +1,1142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/editions/mve.po\n"
+"X-Crowdin-File-ID: 6734\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Languages::add_companies"
+msgid "Add vendors"
+msgstr "Tilføj forhandler"
+
+msgctxt "Languages::add_companies_and_close"
+msgid "Add vendors and close"
+msgstr "Tilføj forhandlere og luk"
+
+msgctxt "Languages::add_vendor"
+msgid "Add vendor"
+msgstr "Tilføj forhandler"
+
+msgctxt "Languages::add_vendor_administrator"
+msgid "Add vendor's administrator"
+msgstr "Tilføj forhandlers administrator"
+
+msgctxt "Languages::vendor_administrator"
+msgid "Vendor's administrator"
+msgstr "Forhandlers administrator"
+
+msgctxt "Languages::vendor_administrators"
+msgid "Vendor's administrators"
+msgstr "Leverandøres administrator"
+
+msgctxt "Languages::vendor_administrators_menu_description"
+msgid "List of vendor's administrators, registered users with a vendor account."
+msgstr "Liste over leverandørers administratorer, tilmeldte brugere med en leverandør konto."
+
+msgctxt "Languages::vendor_candidate_notification"
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "Hej, <br/> <br/> du har en ny leverandør kandidat i din butik. Denne leverandørkonto er ventende indtil du godkender den. Følg <a>denne URL for at se kontooplysninger</a>."
+
+msgctxt "Languages::new_vendor_notification"
+msgid "Hello,<br/><br/>A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor's account details.</a>"
+msgstr "Hej,<br/><br/>En ny leverandør har registreret sig og fået adgang til butiksfacade og admin panel. <a href=\"[link]\">Brug dette link til at se leverandørens kontooplysninger.</a>"
+
+msgctxt "Languages::demo_panel.go_vendor_panel"
+msgid "Go to Vendor panel"
+msgstr "Gå til leverandør panel"
+
+msgctxt "Languages::vendor_account_balance_menu_description"
+msgid "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "Indtægter og udgifter statistik (total, pr. leverandør, pr. periode)."
+
+msgctxt "Languages::merge_vendor"
+msgid "Merge vendor"
+msgstr "Flette leverandør"
+
+msgctxt "Languages::select_new_owner_company"
+msgid "Select a new owner of this company's profile data:"
+msgstr "Vælg en ny ejer af dette firma profildata:"
+
+msgctxt "Languages::warning_merging_companies"
+msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "Flette to regnskaber vil fjerne [company_name] fra databasen, og alle profildata (produkter, ordrer shipping metoder, brugere, kampagner, etc.) vil blive overført til dette regnskab"
+
+msgctxt "Languages::all_vendors"
+msgid "All vendors"
+msgstr "Alle leverandører"
+
+msgctxt "Languages::apply_for_vendor_account"
+msgid "Apply for a vendor account"
+msgstr "Ansøge om en leverandørkonto"
+
+msgctxt "Languages::available_for_vendor"
+msgid "Available for vendor"
+msgstr "Til rådighed for leverandør"
+
+msgctxt "Languages::balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Balance båret frem"
+
+msgctxt "Languages::block_vendors"
+msgid "Vendors"
+msgstr "Leverandører"
+
+msgctxt "Languages::charge_to_vendor_account"
+msgid "Charge to vendor account"
+msgstr "Opkræv på leverandør konto"
+
+msgctxt "Languages::companies"
+msgid "Vendors"
+msgstr "Leverandører"
+
+msgctxt "Languages::create_administrator_account"
+msgid "Create administrator account"
+msgstr "Oprette administrator konto"
+
+msgctxt "Languages::displayed_vendors"
+msgid "Displayed vendors"
+msgstr "Viste leverandører"
+
+msgctxt "Languages::editing_vendor"
+msgid "Editing vendor"
+msgstr "Redigering af leverandør"
+
+msgctxt "Languages::error_admin_not_created_email_already_used"
+msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
+msgstr "Administratorkonto blev ikke oprettet. E-mail-adressen tilhører en anden bruger. Du kan føje denne administrator til denne leverandør manuelt."
+
+msgctxt "Languages::error_admin_not_created_name_already_used"
+msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
+msgstr "Administratorkonto blev ikke oprettet. Brugernavnet tilhører en anden bruger. Du bør ændre navnet på administratorkontoen."
+
+msgctxt "Languages::error_vendor_exists"
+msgid "The vendor with e-mail you have chosen already exists, please try another."
+msgstr "Leverandøren med e-mail, du har valgt allerede findes, venligst prøv en anden."
+
+msgctxt "Languages::expenditure"
+msgid "Expenditure"
+msgstr "Udgifter"
+
+msgctxt "Languages::income"
+msgid "Income"
+msgstr "Indkomst"
+
+msgctxt "Languages::manage_vendors"
+msgid "Manage vendors"
+msgstr "Administrere leverandører"
+
+msgctxt "Languages::new_administrator_account_created"
+msgid "New administrator account has been successfully created."
+msgstr "Nye administratorkonto er blevet oprettet."
+
+msgctxt "Languages::new_vendor"
+msgid "New vendor"
+msgstr "Ny leverandør"
+
+msgctxt "Languages::notify_vendor"
+msgid "Notify vendor"
+msgstr "Underret kreditor"
+
+msgctxt "Languages::notify_vendors_by_email"
+msgid "Notify vendors by e-mail"
+msgstr "Underrette leverandører per e-mail"
+
+msgctxt "Languages::privileges.manage_payouts"
+msgid "Can edit"
+msgstr "Kan redigere"
+
+msgctxt "Languages::privileges.manage_vendors"
+msgid "Can edit"
+msgstr "Kan redigere"
+
+msgctxt "Languages::privilege_groups.vendor_payouts"
+msgid "Accounting"
+msgstr "Regnskab"
+
+msgctxt "Languages::privileges.view_payouts"
+msgid "Can view"
+msgstr "Kan se"
+
+msgctxt "Languages::privileges.view_vendors"
+msgid "Can view"
+msgstr "Kan se"
+
+msgctxt "Languages::privilege_sections.vendors"
+msgid "Vendors privileges"
+msgstr "Sælgers privilegier"
+
+msgctxt "Languages::privilege_groups.vendors"
+msgid "Vendors"
+msgstr "Sælgere"
+
+msgctxt "Languages::sales_period"
+msgid "Sales period"
+msgstr "Salgsperiode"
+
+msgctxt "Languages::sales_period_total"
+msgid "Sales period total"
+msgstr "Salgsperiode samlet"
+
+msgctxt "Languages::search_by_vendor"
+msgid "Search by vendor"
+msgstr "Søg efter leverandør"
+
+msgctxt "Languages::sort_by_company_asc"
+msgid "Sort by alphabetical: A to Z"
+msgstr "Sorter efter alfabetisk: A til Z"
+
+msgctxt "Languages::sort_by_company_desc"
+msgid "Sort by alphabetical: Z to A"
+msgstr "Sorter efter alfabetisk: A til Z"
+
+msgctxt "Languages::text_company_status_active_to_pending"
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "Din leverandør status er blevet ændret fra aktiv til ventende."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "Din leverandør status er blevet ændret fra aktiv til ventende."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "Statussen afventer kan du logge ind på admin panel, ændre dine firmaoplysninger og fylde din butik med produkter."
+
+msgctxt "Languages::text_company_status_new_to_active"
+msgid "Your request for vendor [company] was approved."
+msgstr "Din anmodning til leverandør [company] blev godkendt."
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_created"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "Ny administrator blev oprettet. Du kan få adgang til området administrator: <a href=\"[link]\">[link_text]</a> ved hjælp af de følgende: < br / > Login: [login] < br / > adgangskode: [password]"
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "Typen af din konto [login] ændret at administrator. Du kan logge ind i administrator-området: [link]"
+
+msgctxt "Languages::text_company_status_new_to_active_subj"
+msgid "Your request for vendor was approved."
+msgstr "Din anmodning om leverandør blev godkendt."
+
+msgctxt "Languages::text_company_status_new_to_disable"
+msgid "Your request for vendor [company] was rejected."
+msgstr "Din anmodning til leverandør [company] blev afvist."
+
+msgctxt "Languages::text_company_status_new_to_disable_subj"
+msgid "Your request for vendor was rejected."
+msgstr "Din anmodning om leverandør blev afvist."
+
+msgctxt "Languages::text_company_status_new_to_pending"
+msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "Tillykke, er din ansøgning om at få en forhandlerkonto er blevet godkendt. Når vi gennemgår dine kontooplysninger, vil vi offentliggøre det på vores hjemmeside."
+
+msgctxt "Languages::text_company_status_pending_subj"
+msgid "Your company is waiting for approval."
+msgstr "Din virksomhed afventer godkendelse."
+
+msgctxt "Languages::text_company_status_pending_to_active"
+msgid "Your profile changes for vendor [company] were approved."
+msgstr "Ændringerne profil for forhandler [company] blev godkendt."
+
+msgctxt "Languages::text_error_adding_request"
+msgid "Error while adding the request."
+msgstr "Fejl under tilføjelse af anmodningen."
+
+msgctxt "Languages::text_new_payment_was_created"
+msgid "New payment was created"
+msgstr "Ny betaling blev oprettet"
+
+msgctxt "Languages::text_not_approved_vendors"
+msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "Du har forhandler, der kræver din godkendelse. Venligst <a href=\"[link]\"> Følg dette link</a> for at gennemse disse forhandlere"
+
+msgctxt "Languages::text_created_new_vendors"
+msgid "A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor.</a> "
+msgstr "En ny leverandør har registreret sig og fået adgang til butiksfacade og admin panel. <a href=\"[link]\">Brug dette link til at se leverandøren.</a> "
+
+msgctxt "Languages::text_successful_request"
+msgid "Your request was successfully added. You will receive the email with the answer later."
+msgstr "Din anmodning blev tilføjet. Du vil modtage e-mail med svar senere."
+
+msgctxt "Languages::total_amount_due"
+msgid "Total amount due"
+msgstr "Samlede skyldige beløb"
+
+msgctxt "Languages::total_period_payout"
+msgid "Total sales period payout"
+msgstr "Samlet salgsperiode udbetaling"
+
+msgctxt "Languages::total_unpaid_balance"
+msgid "Total unpaid balance"
+msgstr "Ubetalt balance - total"
+
+msgctxt "Languages::tt_views_payments_update_taxes"
+msgid "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "Hvis betaling gebyr er taget fra forhandlerer, beregnes der ikke moms"
+
+msgctxt "Languages::unable_delete_vendor_orders_exists"
+msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "Kan ikke slette denne forhandlerkonto, fordi der er ordrer, som indeholder produkter af denne forhandler i databasen. Hvis du vil slette kontoen, skal du slette alle sådanne ordrer først."
+
+msgctxt "Languages::vendor"
+msgid "Vendor"
+msgstr "Forhandler"
+
+msgctxt "Languages::vendors"
+msgid "Vendors"
+msgstr "Forhandlere"
+
+msgctxt "Languages::vendors_menu_title"
+msgid "Vendors"
+msgstr "Sælgere"
+
+msgctxt "Languages::vendors_menu_description"
+msgid "Sorted list of vendor accounts registered in the store."
+msgstr "Sorteret liste over forhandlerkonti registreret i butikken."
+
+msgctxt "Languages::vendor_account_balance"
+msgid "Account balance"
+msgstr "Saldo"
+
+msgctxt "Languages::vendor_approval_pending"
+msgid "New vendor account application"
+msgstr "Ny forhandleransøgning om konto"
+
+msgctxt "Languages::vendor_id"
+msgid "Vendor ID"
+msgstr "Forhandler-ID"
+
+msgctxt "Languages::vendor_name"
+msgid "Vendor name"
+msgstr "Forhandlernavn"
+
+msgctxt "Languages::vendor_pages"
+msgid "Vendor pages"
+msgstr "Forhandlersider"
+
+msgctxt "Languages::vendor_panel"
+msgid "Vendor panel"
+msgstr "Forhandler panel"
+
+msgctxt "Languages::view_vendor_orders"
+msgid "View vendor orders"
+msgstr "Se forhandler ordrer"
+
+msgctxt "Languages::view_vendor_products"
+msgid "View vendor products"
+msgstr "Se forhandlerprodukter"
+
+msgctxt "Languages::view_vendor_users"
+msgid "View vendor users"
+msgstr "Vit forhandlerbrugere"
+
+msgctxt "Languages::view_vendor_admins"
+msgid "View vendor admins"
+msgstr "Se leverandøradministratorer"
+
+msgctxt "Languages::you_can_edit_account_details"
+msgid "You can edit the account details now."
+msgstr "Nu kan du redigere kontooplysninger."
+
+msgctxt "SettingsSections::Vendors"
+msgid "Vendors"
+msgstr "Forhandlere"
+
+msgctxt "SettingsOptions::vendors_per_page"
+msgid "Vendors per page"
+msgstr "Forhandlere per side"
+
+msgctxt "SettingsOptions::apply_for_vendor"
+msgid "Allow users to apply for vendor account"
+msgstr "Tillad brugere at ansøge om forhandlerkonto"
+
+msgctxt "SettingsOptions::create_vendor_administrator_account"
+msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "Automatisk oprette administratorkontoen for den nye godkendte forhandler. (Hvis \"Tillad brugere at anvende for forhandlerkonto\" indstilling er aktiveret)"
+
+msgctxt "SettingsOptions::display_vendor"
+msgid "Display product vendor"
+msgstr "Vis produktforhandler"
+
+msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
+msgid "Applying vendors must agree to the terms & conditions"
+msgstr "Anvende leverandører skal acceptere vilkår & betingelser"
+
+msgctxt "SettingsOptions::mailer_send_from_admin"
+msgid "Send vendor emails from marketplace email addresses"
+msgstr "Send leverandør-e-mails fra markedsplads-e-mail-adresser"
+
+msgctxt "SettingsOptions::allow_vendor_manage_features"
+msgid "Allow vendors to manage product features"
+msgstr "Tillad leverandører at administrere produktfunktioner"
+
+msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
+msgstr "Tekst af vilkår & betingelser bliver hentet fra \"vendor_terms_n_conditions_content\" sprog variabel."
+
+msgctxt "SettingsOptions::allow_approve_vendors_in_two_steps"
+msgid "Review new vendors before granting access to the admin panel"
+msgstr "Gennemgå nye leverandører, før du giver adgang til administrationspanelet"
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "Ansøge om en forhandlerkonto"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Forhandler kategorier"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Produktkategorier tilgængelige for en bestemt forhandler"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Forhandleroplysninger"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Forhandler logo"
+
+msgctxt "Languages::show_location"
+msgid "Show location"
+msgstr "Vis placering"
+
+msgctxt "Languages::show_products_count"
+msgid "Show products count"
+msgstr "Vis produkter tæller"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Søg forhandlerprodukter"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Forhandler produktfiltre"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Forhandlerprodukter"
+
+msgctxt "Languages::apply_shipping_for_all_vendors"
+msgid "Allow shipping for all vendors"
+msgstr "Tillad forsendelse til alle kreditorer"
+
+msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
+msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
+msgstr "Shipping metode vil blive anvendt til alle kreditorer. Vil du fortsætte?"
+
+msgctxt "Languages::shipping_applied_to_vendors"
+msgid "The shipping method was applied to [vendors] vendors"
+msgstr "Shipping metode blev anvendt til [vendors] leverandører"
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Forhandlerfiltre"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr "Anvend for kreditor"
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr "Virksomheden statusændring"
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr "Virksomhedsbetaling"
+
+msgctxt "Languages::email_template.vendor_invitation"
+msgid "Vendor invitation"
+msgstr "Sælger invitation"
+
+msgctxt "Languages::vendor_invitation_email_subject"
+msgid "Come Sell With [default_company_name]"
+msgstr "Kom Sælg med [default_company_name]"
+
+msgctxt "Languages::vendor_invitation_email_body"
+msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name].  You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
+msgstr "<p>Hej,</p><br/><p>Vi vil gerne invitere dig til at <a href=\"[create_account_url]\">oprette en konto</a> med [default_company_name]. Du vil være i stand til at udvide din kundebase ved at angive dine produkter på vores platform og sælge dem til vores besøgende.</p><br/><p>Med venlig hilsen</p><p>[default_company_name] hold</p>"
+
+msgctxt "Languages::vendor_terms_n_conditions"
+msgid "I accept the [terms_href]"
+msgstr "Jeg accepterer [terms_href]"
+
+msgctxt "Languages::vendor_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Vilkår og betingelser"
+
+msgctxt "Languages::vendor_terms_n_conditions_alert"
+msgid "In order to proceed, you need to accept our Terms and Conditions."
+msgstr "For at forsætte skal du godkende vores betingelser og vilkår"
+
+msgctxt "Languages::vendor_terms_n_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Læs venligst disse vilkår og betingelser (\"Vilkår\", \"Vilkår og betingelser\") grundigt inden ved hjælp af webstedet <a href=\"http://www.mywebsite.com\"> http://www.mywebsite.com</a> og min mobil App mobil applikation (\"tjenesten\") drives af min virksomhed (\"os\", \"vi\" eller \"vores\").</p> <p><strong>Ved at få adgang til eller bruge tjenesten accepterer du at være bundet af disse vilkår. Hvis du er uenig med nogen del af vilkårene, så du kan ikke få adgang til tjenesten.</strong></p> <p><strong>Køb</strong></p> <p>Hvis du ønsker at købe et produkt eller en tjeneste, der er tilgængelige gennem tjenesten (\"køb\"), kan du blive bedt om at afgive visse oplysninger, der er relevante for dine køb herunder, uden begrænsning, din...</p> <p><strong>Indhold</strong></p> <p>Vores Service tillader dig at sende, link, gemme, dele og anden måde gøre tilgængeligt, visse oplysninger, tekst, grafik, videoer eller andet materiale (\"indholdet\"). Du er ansvarlig for det...</p> <p><strong>Ændringer</strong></p> <p>Forbeholder vi os retten til, efter eget skøn at ændre eller erstatte disse vilkår til enhver tid. Hvis en revision er materiale vil vi forsøge at give mindst 30 dages varsel før eventuelle nye vilkår får virkning. Hvad der udgør en materiel ændring vil blive fastlagt efter vores skøn.</p> <p><strong>Kontakt os</strong></p> <p>Hvis du har spørgsmål om disse vilkår, bedes du kontakte os.</p>"
+
+msgctxt "Languages::mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus"
+msgstr "Denne handling kræver [product] Ultimate eller [product] Plus"
+
+msgctxt "Languages::mve_ultimate_license_required"
+msgid "[product] Ultimate is required for this"
+msgstr "[product] Ultimate er påkrævet til dette"
+
+msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
+msgstr "Denne handling kræver [product] Ultimate eller [product] Plus. Hvis du skifter til <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> eller <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, får du adgang til alle deres funktioner."
+
+msgctxt "Languages::max_storefronts_reached"
+msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
+msgstr "<p>Du har nået grænsen for tilgængelige butiksfacader til din licens. Tilføjelse af endnu en butiksfacade kræver køb af en <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, en udgave med et ubegrænset antal butiksfacader.</p>"
+
+msgctxt "Languages::mve_plus_license"
+msgid "[product] Plus"
+msgstr "[product] Plus"
+
+msgctxt "Languages::mve_ultimate_license"
+msgid "[product] Ultimate"
+msgstr "[product] Ultimativt"
+
+msgctxt "Languages::text_mve_plus_license_required"
+msgid "<p>Let your vendors receive money from customers directly via your marketplace.</p><p>Manage vendors' abilities via user groups, and allow your vendors to change the looks of their stores.</p><p>Create a unified catalog, where vendors can start selling any product in a matter of minutes.</p>"
+msgstr "<p>Lad dine leverandører modtage penge fra kunder direkte via din markedsplads.</p><p>Administrer leverandørers evner via brugergrupper, og lad dine leverandører ændre udseendet af deres butikker.</p><p>Opret et samlet katalog, hvor leverandører kan begynde at sælge ethvert produkt i løbet af få minutter.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license_required"
+msgid "<p>Branch out: get an unlimited number of storefronts for your marketplace.</p><p>A storefront is another domain created either for a specific country or city, or for a specific part of your product catalog.</p><p>Get all the other functionality of [product] Plus.</p>"
+msgstr "<p>Forgrening: Få et ubegrænset antal butiksfacader til din markedsplads.</p><p>En butiksfacade er et andet domæne, der er oprettet enten til et bestemt land eller by eller til en bestemt del af dit produktkatalog.</p><p>Få alle de andre funktioner i [product] Plus.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license"
+msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
+msgstr "En specialudgave på [product] , der tilbyder alle funktionerne i [product] Plus og et ubegrænset antal butiksfacader. Hvis du skifter til <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, vil du aldrig se beskeden om butiksfacadegrænsen igen."
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "Fuld ubegrænset adgang til alle funktioner. Angiv et gyldigt licensnummer aktivere. < br / > < br / > denne mode kan aktiveres på ethvert tidspunkt. < br / > < br / >"
+
+msgctxt "Languages::product_state_description.mve"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>Du har aktiveret din [product]. Du kan bruge det uden tidsbegrænsninger nu. Få <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus-licensen for avancerede funktioner (såsom separat betaling for hver leverandør og leverandørskabte kampagner).</a> For at bruge flere domæner til din markedsplads skal du få <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate-licensen.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>Adgang til al funktionalitet, bortset fra flere butiksfacader. For at have domæner til specifikke målgrupper, få <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate-licensen.</a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.enterprise"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p> <br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p> <br />"
+
+msgctxt "Languages::product_state_description.mve.ru"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>Du har aktiveret din [product]. Du kan bruge det uden tidsbegrænsninger nu. Få <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus-licensen for avancerede funktioner (såsom separat betaling for hver leverandør og leverandørskabte kampagner).</a> For at bruge flere domæner til din markedsplads skal du få <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate-licensen.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.ru.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>Adgang til al funktionalitet, bortset fra flere butiksfacader. For at have domæner til specifikke målgrupper, få <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate-licensen.</a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.enterprise"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "Din butik bruger nu aktiv licens. Med [product] -udgaven får du næsten alle de funktioner, vi tilbyder. De yderligere funktioner (såsom separat udbetaling for hver leverandør og leverandørskabte kampagner) er tilgængelige med <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus-udgaven</a>. Der er en endnu mere avanceret udgave, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, der lader dig bruge flere butiksfacader til forskellige målgrupper."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>Plus-tilstand</strong> er blevet aktiveret. Denne tilstand tilbyder alle de avancerede e-handelsfunktioner, bortset fra flere butiksfacader. Hvis din markedsplads nogensinde har brug for separate domæner til forskellige målgrupper, skal du opgradere din licens til <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Ultimativ tilstand</strong> er blevet aktiveret. I denne tilstand er alle de avancerede e-handelsfunktioner tilgængelige."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.enterprise"
+msgid "<strong>Enterprise mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Enterprise mode</strong> er blevet aktiveret. I denne tilstand er alle de avancerede e-handelsfunktioner tilgængelige."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "Din butik bruger nu aktiv licens. Med [product] -udgaven får du næsten alle de funktioner, vi tilbyder. De yderligere funktioner (såsom separat udbetaling for hver leverandør og leverandørskabte kampagner) er tilgængelige med <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus-udgaven</a>. Der er en endnu mere avanceret udgave, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, der lader dig bruge flere butiksfacader til forskellige målgrupper."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>Plus-tilstand</strong> er blevet aktiveret. Denne tilstand tilbyder alle de avancerede e-handelsfunktioner, bortset fra flere butiksfacader. Hvis din markedsplads nogensinde har brug for separate domæner til forskellige målgrupper, skal du opgradere din licens til <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Ultimativ tilstand</strong> er blevet aktiveret. I denne tilstand er alle de avancerede e-handelsfunktioner tilgængelige."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.enterprise"
+msgid "<strong>Enterprise mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Enterprise mode</strong> er blevet aktiveret. I denne tilstand er alle de avancerede e-handelsfunktioner tilgængelige."
+
+msgctxt "Languages::store_mode.plus"
+msgid "Plus"
+msgstr "Plus"
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr "Type"
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr "Andet"
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr "Andet"
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr "Ordre afgivet"
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr "Bestil <a href=\"[order_url]\"> #[order_id]</a> afgivet"
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr "Ordrer ændret"
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr "Bestil <a href=\"[order_url]\"> #[order_id]</a> ændret"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr "Ordre refunderet"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr "Bestil <a href=\"[order_url]\"> #[order_id]</a> refunderet"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr "Tilbagetrækning"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr "Tilbagetrækning"
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr "Udbetaling"
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr "Udbetaling"
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr "Transaktioner"
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr "Balance udbetalinger"
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr "Transaktionsværdien"
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr "Indkomst"
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr "Indkomst videreføres"
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr "Balance"
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Saldo fremført"
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr "Anmode om tilbagetrækning"
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr "Nye tilbagetrækning"
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr "Regnskabsmæssige"
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr "Indtægter og udgifter statistik (samlede indkomst, kreditorer, kreditor udbetalinger)."
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr "Nuværende saldo: [balance]"
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr "Nuværende saldo"
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr "Godkendelsesstatus"
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr "Afventende"
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr "Afsluttet"
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr "Afslået"
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr "Regnskab: Udbetaling er udstedt"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr "Ny udbetaling er udstedt"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr "En ny udbetaling af [amount] er blevet udstedt af [issuer]"
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr "Du kan se detaljer her"
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr "Udbetaling kommentarer"
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr "Regnskab: Tilbagetrækning er fremsat"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr "Nye tilbagetrækning er blevet anmodet om"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr "En ny tilbagetrækning af [amount] har anmodet om [requester]"
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr "Tilbagetrækning kommentarer"
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr "Regnskab: Udbetaling er afsluttet"
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr "Udbetaling er afsluttet"
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr "Udbetaling af [amount] udstedt på [date] er blevet markeret som <b>fuldført</b>"
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr "Regnskab: Udbetaling er ikke afsluttet"
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr "Regnskab: Udbetaling er ikke afsluttet"
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr "Udbetaling af [amount] udstedt på [date] er blevet markeret som <b>ikke afsluttet</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr "Regnskab: Udbetaling er afsluttet"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr "Regnskab: Udbetaling er afsluttet"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr "Tilbagetrækning af [amount] fremgå [date] er blevet markeret som <b>fuldført</b>"
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr "Regnskab: Tilbagetrækning er blevet afvist"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr "Tilbagetrækning er blevet afvist"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr "Tilbagetrækning af [amount] fremgå [date] er blevet markeret som <b>afslået</b>"
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr "Top sælgere"
+
+msgctxt "SettingsOptions::can_edit_blocks"
+msgid "Allow vendors to edit layouts"
+msgstr "Tillad leverandører at redigere layouts"
+
+msgctxt "Languages::mve.container_not_used"
+msgid "This container currently has default configuration. It looks exactly like the store owner configured it. Vendors can use custom configuration to change the blocks in this container."
+msgstr "Denne container har i øjeblikket standardkonfiguration. Det ser præcis ud som butiksejeren har konfigureret det. Leverandører kan bruge tilpasset konfiguration til at ændre blokkene i denne container."
+
+msgctxt "SettingsOptions::can_edit_styles"
+msgid "Allow vendors to manage styles of the theme"
+msgstr "Tillad leverandører at administrere stilarter af temaet"
+
+msgctxt "Languages::theme_editor.page_cant_be_configured"
+msgid "The appearance of this page can't be configured with the Theme editor."
+msgstr "Udseendet på denne side kan ikke konfigureres med temaeditoren."
+
+msgctxt "Languages::error_admin_registers_as_vendor"
+msgid "You can't become a vendor because you are currently signed in as an administrator. Please sign out and resubmit the form. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Sign out</a></p>"
+msgstr "Du kan ikke blive leverandør, fordi du i øjeblikket er logget ind som administrator. Log venligst ud og indsend formularen igen. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Log ud</a></p>"
+
+msgctxt "Languages::logo_for_the_customer_area"
+msgid "Logo for the customer area"
+msgstr "Logo for kundeområdet"
+
+msgctxt "Languages::logo_for_invoices"
+msgid "Logo for invoices"
+msgstr "Logo til fakturaer"
+
+msgctxt "Languages::vendor_language"
+msgid "Vendor language"
+msgstr "Leverandørens sprog"
+
+msgctxt "Languages::zipcode"
+msgid "Zipcode"
+msgstr "Postnummer"
+
+msgctxt "Languages::vendors_statistics"
+msgid "Vendor's statistics"
+msgstr "Sælgers statistik"
+
+msgctxt "Languages::vendors_activity"
+msgid "Vendor activity in the selected period"
+msgstr "Leverandøraktivitet i den valgte periode"
+
+msgctxt "Languages::vendors_activity.vendors_with_sales"
+msgid "Vendors with sales"
+msgstr "Sælgere med salg"
+
+msgctxt "Languages::vendors_activity.new_vendors"
+msgid "New vendors"
+msgstr "Nye leverandører"
+
+msgctxt "Languages::vendors_activity.vendors_with_new_products"
+msgid "Vendors with new products"
+msgstr "Leverandører med nye produkter"
+
+msgctxt "Languages::vendors_activity.not_logged_in_vendors"
+msgid "Vendors who haven't signed in"
+msgstr "Sælgere, der ikke er logget ind"
+
+msgctxt "Languages::vendors_activity.new_products"
+msgid "New products"
+msgstr "Nye produkter"
+
+msgctxt "Languages::vendors_activity.orders_created"
+msgid "Orders created"
+msgstr "Ordrer oprettet"
+
+msgctxt "Languages::vendor_names"
+msgid "Vendor names"
+msgstr "Leverandørnavne"
+
+msgctxt "Languages::vendor_logos_and_product_count"
+msgid "Vendor logos and product count"
+msgstr "Leverandørlogoer og produktantal"
+
+msgctxt "Languages::invite_vendors"
+msgid "Invite vendors"
+msgstr "Inviter leverandører"
+
+msgctxt "Languages::invite_vendors_title"
+msgid "Invite people to register as vendors in your marketplace"
+msgstr "Inviter folk til at registrere sig som leverandører på din markedsplads"
+
+msgctxt "Languages::invite_vendors_enter_emails"
+msgid "Emails where to send invitations"
+msgstr "E-mails, hvor man kan sende invitationer"
+
+msgctxt "Languages::separate_multiple_email_addresses"
+msgid "If you enter multiple emails, write each of them in a new line."
+msgstr "Hvis du indtaster flere e-mails, skal du skrive hver af dem i en ny linje."
+
+msgctxt "Languages::send_invitations"
+msgid "Invite"
+msgstr "Invitere"
+
+msgctxt "Languages::pending_vendor_invitations"
+msgid "Pending vendor invitations"
+msgstr "Afventende leverandørinvitationer"
+
+msgctxt "Languages::pending_vendor_invitations_menu_description"
+msgid "Manage invitations to your marketplace for potential vendors."
+msgstr "Administrer invitationer til din markedsplads for potentielle leverandører."
+
+msgctxt "Languages::vendor_invited_at"
+msgid "Date sent"
+msgstr "Dato sendt"
+
+msgctxt "Languages::vendor_invitations_sent_notification"
+msgid "Invitations sent: [sent_quantity]"
+msgstr "Sendte invitationer: [sent_quantity]"
+
+msgctxt "Languages::vendor_invitations_fail_notification"
+msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
+msgstr "Invitationer ikke sendt: [failed_quantity]<br/><b>[emails_list]</b><br/>En invitation vil ikke blive sendt, hvis den allerede er sendt til den e-mailadresse før. Men hvis ingen af dine invitationer bliver sendt, og du ikke har sendt invitationer til disse adresser før, skal du sørge for, at [product] overhovedet kan sende nogen e-mails. Hvis det ikke kan, så er problemet relateret til [product] eller serverkonfiguration. I så fald skal du kontakte din serveradministrator, hostingudbyder eller <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">vores tekniske support</a> for at undersøge sagen."
+
+msgctxt "Languages::vendor_edit_invitation_email_template"
+msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
+msgstr "<a href=\"[url]\">Rediger leverandørinvitations-e-mail-skabelon</a>"
+
+msgctxt "Languages::all_companies"
+msgid "All vendors"
+msgstr "Alle sælgere"
+
+msgctxt "Languages::is_default_storefront"
+msgid "Default storefront"
+msgstr "Standard butiksfacade"
+
+msgctxt "Languages::default_storefront_must_exist"
+msgid "Default storefront must exist in the store"
+msgstr "Standard butiksfacade skal eksistere i butikken"
+
+msgctxt "Languages::cant_remove_default_storefront"
+msgid "Default storefront <b>[url]</b> can't be removed"
+msgstr "Standard butiksfacade <b>[url]</b> kan ikke fjernes"
+
+msgctxt "Languages::copy_theme_from_another_storefront"
+msgid "Copy theme and its layouts from another storefront"
+msgstr "Kopier temaet og dets layouts fra en anden butiksfacade"
+
+msgctxt "Languages::n_vendors"
+msgid "[n] vendor|[n] vendors"
+msgstr "[n] leverandør|[n] sælgere"
+
+msgctxt "Languages::event.vendors_require_approval.name"
+msgid "Vendors require approval"
+msgstr "Sælgere kræver godkendelse"
+
+msgctxt "Languages::event.vendors_require_approval.title"
+msgid "Some vendors are pending approval"
+msgstr "Nogle leverandører afventer godkendelse"
+
+msgctxt "Languages::event.vendor_status_changed.name"
+msgid "Vendor status changed to [status]"
+msgstr "Leverandørstatus ændret til [status]"
+
+msgctxt "Languages::event.vendor_status_changed_from.name"
+msgid "Vendor status changed from [status]"
+msgstr "Leverandørstatus ændret fra [status]"
+
+msgctxt "Languages::email_template.company_status_suspended_notification"
+msgid "Company status change to Suspended"
+msgstr "Virksomhedsstatus ændres til Suspenderet"
+
+msgctxt "Languages::event.vendor_status_changed.title"
+msgid "Your status has been changed to [status]"
+msgstr "Din status er blevet ændret til [status]"
+
+msgctxt "Languages::event.vendor_status_changed.active.message"
+msgid "All your active products will now appear in the store"
+msgstr "Alle dine aktive produkter vises nu i butikken"
+
+msgctxt "Languages::event.vendor_status_changed.pending.message"
+msgid "You can work with the admin panel and manage your products, but they won't appear to customers until your status changes to Active."
+msgstr "Du kan arbejde med administrationspanelet og administrere dine produkter, men de vises ikke for kunderne, før din status ændres til Aktiv."
+
+msgctxt "Languages::vendor_notifications"
+msgid "Vendor notifications"
+msgstr "Leverandørmeddelelser"
+
+msgctxt "Languages::log_in_as_vendor"
+msgid "Log in as vendor"
+msgstr "Log ind som leverandør"
+
+msgctxt "Languages::vendor_owner"
+msgid "Vendor's main administrator"
+msgstr "Leverandørens hovedadministrator"
+
+msgctxt "Languages::owner_company"
+msgid "Vendor"
+msgstr "Sælger"
+
+msgctxt "Languages::block_manager.dynamic_entity_companies"
+msgid "vendor"
+msgstr "sælger"
+
+msgctxt "Languages::vendor_features_only"
+msgid "Features created by vendors"
+msgstr "Funktioner skabt af leverandører"
+
+msgctxt "Languages::any_vendor"
+msgid "Any vendor"
+msgstr "Enhver sælger"
+
+msgctxt "Languages::event.apply_for_vendor_notification.name"
+msgid "New vendor account application"
+msgstr "Ny leverandørkontoapplikation"
+
+msgctxt "Languages::event.new_vendor_notification.name"
+msgid "New vendor account created"
+msgstr "Ny leverandørkonto oprettet"
+
+msgctxt "Languages::event.new_vendor_notification.title"
+msgid "New vendor registration"
+msgstr "Ny leverandørregistrering"
+
+msgctxt "Languages::email_template.new_vendor_notification"
+msgid "New vendor account approved automatically"
+msgstr "Ny leverandørkonto godkendt automatisk"
+
+msgctxt "Languages::suspend_alert"
+msgid "<p>Your account is suspended. To lift the suspension, please contact us.</p>"
+msgstr "<p>Din konto er suspenderet. Kontakt os venligst for at ophæve suspensionen.</p>"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.title"
+msgid "Your account is suspended"
+msgstr "Din konto er suspenderet"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.message"
+msgid "To lift the suspension, please contact us."
+msgstr "Kontakt os venligst for at ophæve suspensionen."
+
+msgctxt "Languages::text_company_status_suspended_subj"
+msgid "Your account is suspended"
+msgstr "Din konto er suspenderet"
+
+msgctxt "Languages::logo_section.vendor"
+msgid "Default logo for new vendors"
+msgstr "Standardlogo for nye leverandører"
+
+msgctxt "ProfileFields::tax_number"
+msgid "Tax number"
+msgstr "Skattenummer"
+
+msgctxt "Languages::tax_number"
+msgid "Tax number"
+msgstr "Skattenummer"
+
+msgctxt "Languages::text_send_an_email_access_information"
+msgid "We'll send you an email with access information."
+msgstr "Vi sender dig en e-mail med adgangsoplysninger."
+
+msgctxt "Languages::storefront_all_common_categories"
+msgid "Storefront: All (Common categories)"
+msgstr "Butiksfacade: Alle (almindelige kategorier)"
+
+msgctxt "Languages::sw.vendor_registration_flow"
+msgid "Vendor registration flow"
+msgstr "Leverandørregistreringsflow"
+
+msgctxt "Languages::sw.vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Formoderering af leverandørdata"
+
+msgctxt "Languages::sw.access_to_admin_panel_and_storefront"
+msgid "Immediate access to admin panel and storefront"
+msgstr "Øjeblikkelig adgang til admin panel og butiksfacade"
+
+msgctxt "Languages::sw.access_to_admin_panel_and_storefront.description"
+msgid "Applying vendors get the \"Active\" status. They immediately appear on the storefront and gain access to their admin panel. At the same time, their first vendor plan fee also becomes due for payment."
+msgstr "Anvendende leverandører får statussen \"Aktiv\". De dukker straks op på butiksfronten og får adgang til deres adminpanel. Samtidig forfalder deres første leverandørplangebyr også til betaling."
+
+msgctxt "Languages::sw.access_to_admin_panel_approval_storefront"
+msgid "Immediate access to admin panel; approval for storefront"
+msgstr "Øjeblikkelig adgang til admin panel; godkendelse til butiksfacade"
+
+msgctxt "Languages::sw.access_to_admin_panel_approval_storefront.description"
+msgid "Applying vendors get the \"Pending\" status. They don't appear on the storefront yet, but gain access to their admin panel and can start working on their products. Once you change their status to \"Active\", their first vendor plan fee becomes due for payment."
+msgstr "Anvendende leverandører får statussen \"Afventer\". De dukker ikke op på butiksfronten endnu, men får adgang til deres adminpanel og kan begynde at arbejde på deres produkter. Når du ændrer deres status til \"Aktiv\", forfalder gebyret for deres første leverandørplan til betaling."
+
+msgctxt "Languages::sw.approval_access_to_admin_panel_and_storefront"
+msgid "Approval for access to admin panel and storefront"
+msgstr "Godkendelse af adgang til adminpanel og butiksfacade"
+
+msgctxt "Languages::sw.approval_access_to_admin_panel_and_storefront.description"
+msgid "Applying vendors get the \"New\" status. After you verify them, they'll get the \"Active\" status and gain access to their admin panel and the storefront. Their first vendor plan fee will also become due for payment."
+msgstr "Anvendende leverandører får statussen \"Ny\". Når du har bekræftet dem, får de statussen \"Aktiv\" og får adgang til deres administrationspanel og butiksfacade. Deres første leverandørplangebyr forfalder også til betaling."
+
+msgctxt "Languages::thank_you_for_registering_as_a_seller"
+msgid "Thank you for registering as a seller at [url]. We'll review your application and then grant you access to your admin panel in a separate email."
+msgstr "Tak fordi du registrerede dig som sælger på [url]. Vi gennemgår din ansøgning og giver dig derefter adgang til dit administrationspanel i en separat e-mail."
+
+msgctxt "Languages::sw.check_newly_registered_vendors"
+msgid "Check newly-registered vendors manually before they appear on the storefront"
+msgstr "Tjek nyregistrerede leverandører manuelt, før de vises på butiksfacade"
+
+msgctxt "Languages::vendor_emails"
+msgid "Vendor emails"
+msgstr "Leverandørens e-mails"
+
+msgctxt "Languages::product_state_description.mve.booking.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.booking.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.booking.ultimate"
+msgid "Your store now uses active license. All the advanced eCommerce features are available."
+msgstr "Din butik bruger nu aktiv licens. Alle de avancerede e-handelsfunktioner er tilgængelige."
+
+msgctxt "Languages::product_state_description.mve.booking_ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.booking_ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Fuld ubegrænset adgang til alle funktioner. Indtast et gyldigt licensnummer for at aktivere.</p><p>Denne tilstand kan aktiveres til enhver tid.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.booking_ru.ultimate"
+msgid "Your store now uses active license. All the advanced eCommerce features are available."
+msgstr "Din butik bruger nu aktiv licens. Alle de avancerede e-handelsfunktioner er tilgængelige."
+
+msgctxt "Languages::error_vendor_name_exists"
+msgid "A vendor with this company name already exists. Please use another name."
+msgstr "Der findes allerede en leverandør med dette firmanavn. Brug venligst et andet navn."
+
+msgctxt "Languages::privileges.merge_vendors"
+msgid "Can merge vendors (only if editing vendors is allowed)"
+msgstr "Kan flette leverandører (kun hvis redigering af leverandører er tilladt)"
+
+msgctxt "Languages::product_features_of_marketplace_are_not_selectable"
+msgid "This product feature belongs to the marketplace and couldn't be selected. You can only select or edit the features that belong to you."
+msgstr "Denne produktfunktion tilhører markedspladsen og kunne ikke vælges. Du kan kun vælge eller redigere de funktioner, der tilhører dig."
+
+msgctxt "Languages::product_features_groups_of_marketplace_are_not_selectable"
+msgid "This product feature group belongs to the marketplace and couldn't be selected. You can only select or edit the features that belong to you."
+msgstr "Denne produktgruppe tilhører markedspladsen og kunne ikke vælges. Du kan kun vælge eller redigere de funktioner, der tilhører dig."
+

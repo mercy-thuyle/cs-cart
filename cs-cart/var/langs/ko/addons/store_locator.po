@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 6728\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "매장 및 픽업 장소"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "지도에 실제 매장을 표시하고 해당 배송 방법이 구성된 경우 고객이 그곳에서 주문을 수령하도록 제안할 수 있습니다."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "지도에서 보기"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "API 키 얻기"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "매장 찾기"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "상점 및 픽업 장소"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "매장 로케이터 블록"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "주소를 찾을 수 없음"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "좌표 선택"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "세트"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "매장 위치 수정"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "새로운 매장 위치"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "매장 위치 추가"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "좌표"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "위도"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "긴"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "모든 매장"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "주문 관련 문서에 지도 표시"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "포장 명세서 및 청구서에 지도 인쇄"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "지도 대신 도시 목록 사용"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "고객 지리적 위치 블록에 영향을 줍니다. 목록은 상점과 픽업 지점이 있는 도시에서 생성됩니다."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "매장 찾기"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "\"고객 픽업\" 배송 방법은 고객이 제품을 픽업할 매장을 선택할 수 있도록 합니다. 상점은 \"상점 위치\" 추가 기능에서 생성할 수 있습니다.<br /><b>상점 생성:</b> <a href=\"[store_locator]\">상점 위치</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "매장 선택"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "승차 장소"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "상점 설정의 \"위치\" 필드"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "배송 방법 설정에서 선택한 주문"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "선택한 매장"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "이용 가능한 매장"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "지도 및 목록"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "목록"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "지도"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "결제 페이지의 위치 목록 보기"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "픽업"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "픽업 할 수 있음"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "근무시간"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "픽업"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "적당한 목적지를 찾지 못했습니다"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "검색된 매장이 없습니다"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "픽업"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "픽업 ID"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "픽업 어베일"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "픽업 추가 요금"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "픽업 주소"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "픽업 전화"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "데리러 갈 시간"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "픽업 목적지 ID"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "내 주문을 수령할 수 없는 장소 숨기기"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "매장 및 픽업 장소"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "이전 버전에서는 배송 방법에 대해 지정된 표준 요금에 추가 요금이 추가되었습니다. 이제 이 추가 요금은 배송비 계산 시 고려되지 않습니다. 고객님의 편의를 위해 여기에 남겨두었습니다. 배송 방법 수정 페이지에서 확인하고 그에 따라 요금을 조정할 수 있습니다."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "요금 지역에 위치"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "이 픽업 지점의 배송료를 결정합니다. 요금은 배송 방법 편집 페이지에서 지정됩니다. 픽업 장소의 요금 지역을 선택하지 않으면 체크아웃 시 픽업 장소가 표시되지 않습니다."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "표시"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "표시"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "체크아웃 시 다른 요금 지역의 거주자에게 이 픽업 지점을 제공할 수 있습니다."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "[price]부터"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "두 손가락을 사용하여 지도 이동"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "맨위로 스크롤"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "요금 영역 없음"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "이름"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "픽업 장소"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "모든 요금 영역"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "매장에서 픽업"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "모든 공급업체"
+
+msgctxt "Languages::store_locator.any"
+msgid "Any"
+msgstr "어느"
+
+msgctxt "Languages::store_locator.shipping_price_from_to"
+msgid "from [from_price] to [to_price]"
+msgstr "[from_price] 에서 [to_price]"
+

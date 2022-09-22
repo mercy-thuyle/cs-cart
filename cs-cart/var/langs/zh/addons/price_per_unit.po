@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_per_unit.po\n"
+"X-Crowdin-File-ID: 6732\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "每单位价格"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "允许您在目录和产品页面上显示单价。"
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "每单位价格"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "单位名称"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "例如，不带引号的 'ml' 或 'g'。"
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "产品中的单位"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "自动计算单价时需要。"
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "显示每 X 单位的价格"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "对于要显示价格“每 250 毫升”而不是“每毫升”的情况。"
+

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "Support pour affichage HiDPi"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Prise en charge pour les écrans Retina"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Général"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Considérez toutes les images téléchargées comme HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Considérez toutes les images téléchargées comme HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Faites en sorte que les cases à cocher \"Je télécharge une image HiDPI\" soient cochées par défaut partout où des images sont téléchargées. Vous pourrez décocher ces cases si nécessaire."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "Le support HiDPI est activé"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Je télécharge une image HiDPI."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Si cette case est cochée, l'image source sera affichée deux fois à échelle réduite. Ce paramètre n'affecte que l'affichage de l'image source et non de sa vignette. Si vous souhaitez qu'une image soit affichée dans sa taille originale, décochez cette case."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Restauration d'images"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "La version précédente du module complémentaire de prise en charge de l'affichage HiDPI réduisait les images téléchargées. Ce n'est plus nécessaire maintenant. Mais pour que vos images soient belles et nettes, vous devez cliquer sur Restaurer."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Restaurer"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>Attention !</strong> Cette procédure est irréversible : lorsque vous annulez la mise à jour, les manipulations de restauration de l'image ne seront pas annulées. Assurez-vous donc d'effectuer une sauvegarde. La procédure peut prendre un certain temps, cela dépend du nombre d'images dans votre magasin."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Certaines des anciennes images de votre magasin sont encore de mauvaise qualité. Pour utiliser la meilleure qualité possible, veuillez <a href=\"[convert_url]\">restaurer des images de haute qualité</a>. Le processus est automatique."
+

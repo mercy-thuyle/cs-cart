@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/required_products.po\n"
+"X-Crowdin-File-ID: 6652\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::required_products"
+msgid "Required products"
+msgstr "Paketprodukter"
+
+msgctxt "Addons::description::required_products"
+msgid "Makes it possible to specify products required for purchase"
+msgstr "Gör det möjligt att ange vilka enskilda produkter som skall ingå i en paketprodukt"
+
+msgctxt "Languages::required_products"
+msgid "Required products"
+msgstr "Paketprodukt"
+
+msgctxt "Languages::required_products_added"
+msgid "The following required product(s) were added to your cart"
+msgstr "Följande lades i din varukorg"
+
+msgctxt "Languages::required_products_out_of_stock"
+msgid "This product cannot be added to your cart, because following required product(s) are out of stock:"
+msgstr "Denna kunde inte läggas i din varukorg eftersom följande  produkter inte finns i lager:"
+

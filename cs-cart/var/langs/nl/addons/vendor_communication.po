@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_communication.po\n"
+"X-Crowdin-File-ID: 6690\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_communication"
+msgid "Message center"
+msgstr "Berichten centrum"
+
+msgctxt "Addons::description::vendor_communication"
+msgid "Allows customers, vendors, and administrators to contact each other via the built-in chat."
+msgstr "Hiermee kunnen klanten, leveranciers en beheerders contact met elkaar opnemen via de ingebouwde chat."
+
+msgctxt "SettingsSections::vendor_communication::general"
+msgid "General"
+msgstr "Algemeen"
+
+msgctxt "SettingsSections::vendor_communication::vendor_to_customer"
+msgid "For customers"
+msgstr "Voor klanten"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_product"
+msgid "Contact button on product pages"
+msgstr "Contactknop op productpagina's"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_vendor"
+msgid "Contact button in vendor microstore"
+msgstr "Contactknop in microstore van leverancier"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_messages"
+msgid "Contact button at \"Messages\" menu"
+msgstr "Contactknop bij \"Berichten\" menu"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_product"
+msgid "Show the \"Ask a question\" button on product pages."
+msgstr "Toon de \"Stel een vraag\"-knop op productpagina's."
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_vendor"
+msgid "Show the \"Ask a question\" button in vendors' microstores."
+msgstr "Toon de knop 'Stel een vraag' in de microstores van leveranciers."
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_customer_communication"
+msgid "Customer-to-seller communication"
+msgstr "Communicatie van klant tot verkoper"
+
+msgctxt "SettingsOptions::vendor_communication::vendor_to_admin_communication"
+msgid "Vendor-to-admin communication"
+msgstr "Communicatie tussen leverancier en beheerder"
+
+msgctxt "SettingsOptions::vendor_communication::show_on_order"
+msgid "Contact button on detailed order page"
+msgstr "Contactknop op gedetailleerde bestelpagina"
+
+msgctxt "SettingsTooltips::vendor_communication::show_on_order"
+msgid "Show the \"Start communication\" button on detailed order page."
+msgstr "Toon de knop \"Start communicatie\" op de gedetailleerde bestelpagina."
+
+msgctxt "Languages::vendor_communication.messages"
+msgid "Messages"
+msgstr "Berichten"
+
+msgctxt "Languages::vendor_communication.message_center"
+msgid "Message center"
+msgstr "Berichten centrum"
+
+msgctxt "Languages::vendor_communication.message_center_name"
+msgid "Message center"
+msgstr "Berichten centrum"
+
+msgctxt "Languages::vendor_communication.message_center_name_menu_description"
+msgid "Messages from customers"
+msgstr "Berichten van klanten"
+
+msgctxt "Languages::vendor_communication.message_center_menu_description"
+msgid "Customer-to-vendor messages"
+msgstr "Klant-naar-leverancier berichten"
+
+msgctxt "Languages::vendor_communication.author"
+msgid "Author"
+msgstr "Auteur"
+
+msgctxt "Languages::vendor_communication.date"
+msgid "Date"
+msgstr "Datum"
+
+msgctxt "Languages::vendor_communication.message"
+msgid "Message"
+msgstr "Bericht"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Neem contact op met leverancier"
+
+msgctxt "Languages::vendor_communication.ask_a_question"
+msgid "Ask a question"
+msgstr "Een vraag stellen"
+
+msgctxt "Languages::vendor_communication.contact_vendor_name"
+msgid "Contact [vendor_name]"
+msgstr "Contact [vendor_name]"
+
+msgctxt "Languages::vendor_communication.created_at"
+msgid "Created on"
+msgstr "Aangemaakt op"
+
+msgctxt "Languages::vendor_communication.new_thread_created"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Uw bericht is verzonden naar <b>[vendor_name]</b>.<br/><br/>Het antwoord van de leverancier wordt naar het e-mailadres van uw account gestuurd. Om uw berichtgeschiedenis te bekijken, <a href=\"[thread_url]\">gaat u naar het Berichtencentrum</a> in het gedeelte \"Berichten\" van het menu \"Mijn account\"."
+
+msgctxt "Languages::vendor_communication.message_sent"
+msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
+msgstr "Uw bericht is verzonden naar <b>[vendor_name]</b>.<br/><br/>Bij een reactie laten we je weten. Om uw berichtgeschiedenis te bekijken, <a href=\"[thread_url]\" target=\"_blank\">gaat u naar het Berichtencentrum</a> in het gedeelte \"Berichten\" van het menu \"Mijn account\"."
+
+msgctxt "Languages::vendor_communication.cannot_update_thread"
+msgid "Cannot update thread"
+msgstr "Kan thread niet updaten"
+
+msgctxt "Languages::vendor_communication.cannot_create_thread"
+msgid "Cannot create thread"
+msgstr "Kan geen thread maken"
+
+msgctxt "Languages::email_template.vendor_communication.notify_admin"
+msgid "Ask seller a question: Admin Notification"
+msgstr "Stel een vraag aan de verkoper: Admin Notification"
+
+msgctxt "Languages::email_template.vendor_communication.notify_customer"
+msgid "Ask seller a question: Customer Notification"
+msgstr "Stel een vraag aan de verkoper: Klantmelding"
+
+msgctxt "Languages::vendor_communication.you_have_new_message"
+msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
+msgstr "Je hebt een nieuw <a href=\"[thread_url]\">bericht</a> van [message_from]."
+
+msgctxt "Languages::vendor_communication.subject_email"
+msgid "You have a new message from [message_from]"
+msgstr "Je hebt een nieuw bericht van [message_from]"
+
+msgctxt "Languages::vendor_communication.thread"
+msgid "Thread #[thread_id]"
+msgstr "Draad #[thread_id]"
+
+msgctxt "Languages::vendor_communication.contact_with"
+msgid "#[thread_id]. Communication with [thread_company]"
+msgstr "#[thread_id]. Communicatie met [thread_company]"
+
+msgctxt "Languages::vendor_communication.ticket"
+msgid "Thread"
+msgstr "Draad"
+
+msgctxt "Languages::vendor_communication.no_messages_found"
+msgid "No messages found"
+msgstr "Geen berichten gevonden"
+
+msgctxt "Languages::vendor_communication.customer_name"
+msgid "Customer name"
+msgstr "Klantnaam"
+
+msgctxt "Languages::vendor_communication.error_message"
+msgid "Please enter your message"
+msgstr "Voer je bericht in"
+
+msgctxt "Languages::vendor_communication.type_message"
+msgid "Type a message..."
+msgstr "Type een bericht..."
+
+msgctxt "Languages::vendor_communication.you"
+msgid "You"
+msgstr "Jij"
+
+msgctxt "Languages::vendor_communication.order_details"
+msgid "Order details"
+msgstr "Bestel Details"
+
+msgctxt "Languages::vendor_communication.import_details"
+msgid "Import details"
+msgstr "Gegevens importeren"
+
+msgctxt "Languages::vendor_communication.thread_deleted"
+msgid "Thread has been deleted"
+msgstr "Onderwerp is verwijderd"
+
+msgctxt "Languages::vendor_communication.threads_deleted"
+msgid "Threads have been deleted"
+msgstr "Onderwerpen zijn verwijderd"
+
+msgctxt "Languages::vendor_communication.cannot_delete_thread"
+msgid "Cannot delete thread"
+msgstr "Kan thread niet verwijderen"
+
+msgctxt "Languages::vendor_communication.cannot_delete_threads"
+msgid "Cannot delete threads"
+msgstr "Kan discussielijnen niet verwijderen"
+
+msgctxt "Languages::vendor_communication.cannot_post_message"
+msgid "Cannot post message"
+msgstr "Kan bericht niet plaatsen"
+
+msgctxt "Languages::vendor_communication.no_threads_found"
+msgid "No threads found"
+msgstr "Geen onderwerpen gevonden"
+
+msgctxt "Languages::vendor_communication.required_field_is_missing"
+msgid "The [field_name] field is required"
+msgstr "Het veld [field_name] is verplicht"
+
+msgctxt "Languages::vendor_communication.invalid_thread_object_type"
+msgid "Provided thread object type is invalid"
+msgstr "Opgegeven thread-objecttype is ongeldig"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_contact_vendor"
+msgid "Please sign in to contact the vendor"
+msgstr "Gelieve in te loggen om contact op te nemen met de verkoper"
+
+msgctxt "Languages::privileges.manage_vendor_communication"
+msgid "Can edit"
+msgstr "Kan bewerken"
+
+msgctxt "Languages::privileges.view_vendor_communication"
+msgid "Can view"
+msgstr "Kan bekijken"
+
+msgctxt "Languages::privilege_groups.vendor_communication"
+msgid "Message center: customer-to-vendor communication"
+msgstr "Berichtencentrum: communicatie tussen klant en leverancier"
+
+msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
+msgid "Your message to [vendor_name]"
+msgstr "Uw bericht aan [vendor_name]"
+
+msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
+msgid "Please sign in so that we can notify you about a reply"
+msgstr "Gelieve in te loggen zodat we u op de hoogte kunnen stellen van een antwoord"
+
+msgctxt "Languages::vendor_communication"
+msgid "Message center"
+msgstr "Berichten centrum"
+
+msgctxt "Languages::vendor_communication.event.message_received.name"
+msgid "Customer-to-vendor: New message received"
+msgstr "Klant-naar-leverancier: Nieuw bericht ontvangen"
+
+msgctxt "Languages::vendor_communication.event.vendor_to_admin_message_received.name"
+msgid "Vendor-to-admin: New message received"
+msgstr "Vendor-to-admin: Nieuw bericht ontvangen"
+
+msgctxt "Languages::internal_template.vendor_communication_message_received"
+msgid "New message received"
+msgstr "Nieuw bericht ontvangen"
+
+msgctxt "Languages::vendor_communication.new_message.title"
+msgid "[company_name] has a new message from [customer]"
+msgstr "[company_name] heeft een nieuw bericht van [customer]"
+
+msgctxt "Languages::vendor_communication.new_message.message"
+msgid "Click this notification to see the message"
+msgstr "Klik op deze melding om het bericht te zien"
+
+msgctxt "Languages::vendor_communication.contact_admin"
+msgid "Contact administrator"
+msgstr "Neem contact op met beheerder"
+
+msgctxt "Languages::vendor_communication.contact_vendor"
+msgid "Contact vendor"
+msgstr "Neem contact op met leverancier"
+
+msgctxt "Languages::vendor_communication.communication"
+msgid "Communication"
+msgstr "Communicatie"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name"
+msgid "Message center"
+msgstr "Berichten centrum"
+
+msgctxt "Languages::vendor_communication.message_center_vendor_name_menu_description"
+msgid "Messages from vendor to administrator"
+msgstr "Berichten van leverancier aan beheerder"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin"
+msgid "Vendor communication"
+msgstr "Leverancierscommunicatie"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_customer"
+msgid "Customer communication"
+msgstr "Klantcommunicatie"
+
+msgctxt "Languages::vendor_communication.tab_vendor_to_admin_for_vendor_panel"
+msgid "Admin communication"
+msgstr "Beheerderscommunicatie"
+
+msgctxt "Languages::vendor_communication.your_message_to_admin"
+msgid "Your message to administrator"
+msgstr "Uw bericht aan de beheerder"
+
+msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
+msgid "Some threads have not been created: [count]"
+msgstr "Sommige threads zijn niet gemaakt: [count]"
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Uw bericht is verzonden naar <b>[name]</b>.<br/><br/>Om uw berichtgeschiedenis te bekijken, <a href=\"[thread_url]\">gaat u naar het Berichtencentrum</a> in het menu \"Verkopers\"."
+
+msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
+msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
+msgstr "Uw bericht is verzonden naar <b>[name]</b>.<br/><br/>Om uw berichtgeschiedenis te bekijken, <a href=\"[thread_url]\">gaat u naar het Berichtencentrum</a> in het menu \"Klanten\"."
+
+msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
+msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
+msgstr "Uw berichten zijn verzonden.<br/><br/>Om uw berichtgeschiedenis te bekijken, <a href=\"[thread_url]\">gaat u naar het Berichtencentrum</a> in het menu \"Verkopers\"."
+
+msgctxt "Languages::privilege_groups.admin_communication"
+msgid "Message center: vendor-to-admin communication"
+msgstr "Berichtencentrum: communicatie tussen leverancier en beheerder"
+
+msgctxt "Languages::customer_to_admin_communication.event.message_received.name"
+msgid "Customer-to-Admin: New message received"
+msgstr "Klant-naar-beheerder: nieuw bericht ontvangen"
+
+msgctxt "Languages::vendor_communication.start_communication"
+msgid "Start communication"
+msgstr "Communicatie starten"
+
+msgctxt "Languages::privilege_groups.order_communication"
+msgid "Message center: communication with customer"
+msgstr "Berichtencentrum: communicatie met klant"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin"
+msgid "Communication with vendor"
+msgstr "Communicatie met leverancier"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_customer"
+msgid "Communication with customer"
+msgstr "Communicatie met klant"
+
+msgctxt "Languages::vendor_communication.communication_vendor_to_admin_with_admin"
+msgid "Communication with administrator"
+msgstr "Communicatie met beheerder"
+
+msgctxt "Languages::vendor_communication.contact_customer"
+msgid "Contact customer"
+msgstr "Neem contact op met de klant:"
+
+msgctxt "Languages::vendor_communication.subject"
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgctxt "Languages::vendor_communication.admin"
+msgid "Admin"
+msgstr "beheerder"
+
+msgctxt "Languages::vendor_communication.your_message_to_customer"
+msgid "Your message to customer"
+msgstr "Uw bericht aan de klant"
+
+msgctxt "Languages::vendor_communication.event.order_message_received.name"
+msgid "Order communication: New message received"
+msgstr "Ordercommunicatie: Nieuw bericht ontvangen"
+
+msgctxt "Languages::vendor_communication.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Scroll naar boven"
+
+msgctxt "Languages::vendor_communication.send_message"
+msgid "Send message"
+msgstr "Bericht versturen"
+

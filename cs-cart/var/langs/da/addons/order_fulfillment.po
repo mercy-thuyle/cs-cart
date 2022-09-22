@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Ordreopfyldelse efter markedsplads"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Giver dig mulighed for at tilbyde leverandørplaner, hvor markedspladsen håndterer forsendelse for leverandører og beholder forsendelsesgebyrerne."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Forsendelsestype"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Håndter forsendelse for leverandører som en del af denne leverandørplan. Hvis markedspladsen håndterer forsendelse for flere leverandører, skal kunden kun vælge én forsendelsesmetode for alle disse leverandører ved kassen. Forsendelsesomkostninger vil også gå til markedspladsen. <ul><li>Leverandører, der har opfyldelse efter markedsplads som en del af deres leverandørplan, bruger KUN de forsendelsesmetoder, der hører til markedspladsen.</li><li>Leverandører, der ikke har opfyldt markedsplads, bruger KUN de forsendelsesmetoder, der specifikt tilhører dem.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "De forsendelsesmetoder, der ejes af markedspladsen, vil nu være tilgængelige for de leverandører, hvis leverandørplaner inkluderer opfyldelse af markedspladsen."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "De forsendelsesmetoder, der ejes af markedspladsen, vil nu være tilgængelige afhængigt af indstillingerne for hver leverandør. Gebyrerne for disse forsendelsesmetoder vil gå til leverandører, ikke til markedspladsen."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Leverandør [name] flyttede til en plan med ordreopfyldelse efter markedsplads. Sælgeren vil nu bruge forsendelsesmetoderne fra markedspladsen i stedet for deres egne."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Du er flyttet til en plan med ordreopfyldelse efter markedsplads. Fra nu af vil markedspladsens forsendelsesmetoder blive tilbudt dine kunder."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Leverandør [name] flyttede til en plan uden ordreopfyldelse efter markedsplads. Sælgeren skal nu tilbyde sine egne forsendelsesmetoder."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Du er flyttet til en plan uden ordreopfyldelse efter markedsplads. Sørg for at konfigurere dine egne forsendelsesmetoder."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Opfyldelse af markedsplads"
+

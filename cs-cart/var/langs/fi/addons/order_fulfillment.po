@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Tilausten toteutus markkinapaikalla"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Voit tarjota toimittajasuunnitelmia, joissa kauppapaikka hoitaa toimittajien toimitukset ja säilyttää toimituskulut."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Toimitustyyppi"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Käsittele toimittajien toimitukset osana tätä toimittajasuunnitelmaa. Jos kauppapaikka hoitaa useiden toimittajien toimitukset, asiakkaan on valittava kassalla vain yksi toimitustapa kaikille toimittajille. Myös toimituskulut menevät torille. <ul><li>Toimittajat, joilla on toimittajasuunnitelmansa täyttäminen markkinapaikalla, käyttävät VAIN markkinapaikalle kuuluvia toimitustapoja.</li><li>Toimittajat, joilla ei ole toimitusta markkinapaikan mukaan, käyttävät VAIN heille nimenomaan kuuluvia toimitustapoja.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "Markkinapaikan omistamat toimitustavat ovat nyt niiden toimittajien käytettävissä, joiden toimittajasuunnitelmiin sisältyy toimitus kauppapaikan toimesta."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "Marketplacen omistamat toimitustavat ovat nyt saatavilla kunkin toimittajan asetuksista riippuen. Näiden toimitustapojen maksut menevät myyjille, eivät markkinoille."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Toimittaja [name] siirtyi suunnitelmaan, jossa tilaus täytetään markkinapaikalla. Toimittaja käyttää nyt markkinapaikan tarjoamia toimitustapoja omien toimitustapojensa sijaan."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Olet siirtynyt suunnitelmaan, joka sisältää tilauksen toteuttamisen markkinapaikalla. Tästä eteenpäin markkinapaikan toimitustapoja tarjotaan asiakkaillesi."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Toimittaja [name] siirtyi suunnitelmaan ilman tilauksen täyttämistä markkinapaikalla. Myyjän on nyt tarjottava omat toimitustavat."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Olet siirtynyt suunnitelmaan, jossa tilaus ei ole suoritettu kauppapaikalla. Muista määrittää omat toimitustavat."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Toteutus markkinapaikan mukaan"
+

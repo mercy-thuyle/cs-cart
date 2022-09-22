@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Vormoderation von Lieferantendaten"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "Ermöglicht Ihnen, die Aktivitäten von Anbietern vorab zu moderieren"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "Das Add-on „Vendor Data Premoderation“ wurde deaktiviert. Produkte mit den Status „Genehmigung erforderlich“ oder „Abgelehnt“ haben keinen Status mehr. Diese Produkte werden Kunden erst angezeigt, wenn Sie oder Ihre Lieferanten einen anderen Status für sie festlegen. Wenn Sie das Add-On erneut aktivieren, erhalten die statuslosen Produkte ihren Status zurück. Wenn Sie das Add-On deinstallieren, erhalten alle Produkte automatisch einen korrekten Status."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "Verwalten Sie einzelne Produkte oder Produktgruppen, die von den Ladenanbietern geliefert werden."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Vormoderation von Lieferantendaten"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "Produktzulassung"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "Anbieter per E-Mail benachrichtigen"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "Ihr Produkt [product] wurde von der Geschäftsverwaltung genehmigt und dem Produktkatalog hinzugefügt. Jetzt können Käufer dieses Produkt im Geschäft bestellen."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "Ihr Produkt [product] wurde von der Geschäftsverwaltung abgelehnt"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "Vielen Dank für das Einreichen neuer Produkte. Die folgenden Produkte wurden von der Geschäftsverwaltung genehmigt und dem Produktkatalog hinzugefügt"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "Jetzt können Käufer diese Produkte im Geschäft bestellen."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "Vielen Dank für das Einreichen neuer Produkte. Die folgenden Produkte wurden von der Geschäftsverwaltung abgelehnt"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "Genehmigen ausgewählt"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "Ablehnen ausgewählt"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "Erfordern Sie eine Genehmigung für neue Produkte"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "Erfordern Sie die Genehmigung für aktualisierte Produkte"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "Fordern Sie die Genehmigung für Änderungen des Lieferantenprofils an"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "Sie haben Produkte, die Ihrer Genehmigung bedürfen. Bitte <a href=\"[link]\">folgen Sie diesem Link</a> , um diese Produkte zu bewerten."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "Ihre Produkte waren [status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "Die Genehmigung"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "Sind Sie sicher, dass Sie das Profil aktualisieren möchten? Informationen über Ihr Unternehmen sind im Kundenbereich erst verfügbar, wenn der Administrator sie genehmigt hat."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "Kann verwalten"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "Produktzulassung"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "Lieferantenkonto"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "Anbieterprodukte"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "Freigabe neu erstellter Produkte"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "Genehmigung von Aktualisierungen der Produktinformationen"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "Genehmigung von Anbieterprofilaktualisierungen"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "Benachrichtigen Sie Anbieter über die Ergebnisse der Produktmoderation"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "Genehmigung für Updates von erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "Ist nicht erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Für einige Anbieter erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Erforderlich für alle Anbieter"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "Ist nicht erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "Für einige Anbieter erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Erforderlich für alle Anbieter"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "Ist nicht erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Für einige Anbieter erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Erforderlich für alle Anbieter"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "Nicht benachrichtigen"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "E-Mail senden"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "Zeigen Sie eine Benachrichtigung im Benachrichtigungscenter an"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "Senden Sie eine E-Mail und zeigen Sie eine Benachrichtigung im Benachrichtigungscenter an"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "Anbieter-Vormoderation"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "Abgelehnte Produkte ausschließen"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "Genehmigung erforderlich"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "Abgelehnt"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "Produkte in Maßen"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "Abgelehnte Produkte"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "Abgelehnt"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "Produkt genehmigen"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "Genehmigen \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "Produkt ablehnen"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "Ablehnen \"[product]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "Produkte ablehnen"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "Ablehnungsgrund"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "Geben Sie den Grund für die Ablehnung ein und speichern Sie die Änderungen."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "Sie haben [n] Produkte, die Ihrer Genehmigung bedürfen|Sie haben [n] Produkte, die Ihrer Genehmigung bedürfen"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "Dieses Produkt wartet seit [since]auf Ihre Genehmigung. Klicken Sie hier, um dieses Produkt anzuzeigen.|Diese Produkte stehen seit dem [since]zur Genehmigung aus. Klicken Sie hier, um diese Produkte anzuzeigen."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "Ihr Produkt wurde genehmigt|Ihre Produkte wurden genehmigt"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "\"[product]\" wurde von der Geschäftsverwaltung genehmigt und dem Produktkatalog hinzugefügt. Klicken Sie hier, um dieses Produkt anzuzeigen.|[n] Produkte wurden von der Geschäftsverwaltung genehmigt und dem Produktkatalog hinzugefügt. Klicken Sie hier, um diese Produkte anzuzeigen."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "Ihr Produkt wurde abgelehnt|Ihre Produkte wurden abgelehnt"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "\"[product]\" wurde von der Geschäftsverwaltung abgelehnt. Klicken Sie hier, um dieses Produkt anzuzeigen.|[n] Produkte wurden von der Geschäftsverwaltung abgelehnt. Klicken Sie hier, um diese Produkte anzuzeigen."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "Ihre Änderungen wurden gespeichert. Bevor Ihr Produkt in den Produktkatalog aufgenommen wird, muss es von der Geschäftsverwaltung genehmigt werden. Folgen Sie <a href=\"[product_approval_url]\">diesem Link</a> , um Produkte anzuzeigen, die eine Genehmigung erfordern.|Ihre Änderungen wurden gespeichert. Bevor Ihre Produkte zum Produktkatalog hinzugefügt werden, müssen sie von der Geschäftsverwaltung genehmigt werden. Folgen Sie <a href=\"[product_approval_url]\">diesem Link</a> , um Produkte anzuzeigen, die eine Genehmigung erfordern."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Lieferantendaten-Vormoderation: Ihr Produkt wurde genehmigt"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Vorabmoderation von Anbieterdaten: Ihr Produkt wurde abgelehnt"
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "Wenn nur für einige Anbieter eine Genehmigung erforderlich ist, können Sie auf der Registerkarte „Add-Ons“ auf der Bearbeitungsseite für Anbieter festlegen, welche Anbieter moderiert werden müssen."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Vormoderation von Lieferantendaten: Ihr Produkt wurde genehmigt"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Vorabmoderation von Anbieterdaten: Ihr Produkt wurde abgelehnt"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "Mäßigung"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "Genehmigung neu erstellter Lieferanten"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "Ist nicht erforderlich"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Erforderlich für alle Anbieter"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "Wenn Sie die Lieferantenregistrierung vollständig verhindern möchten, aktivieren Sie bitte <a href=\"[url]\" target=\"_blank\">Einstellungen → Lieferanten</a>."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "Vor [date]"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "Gelöscht"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "Hinzugefügt"
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /release-4.15.1/addons/attachments.po\n"
+"X-Crowdin-File-ID: 6548\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::attachments"
+msgid "Attachments"
+msgstr "Bilagor"
+
+msgctxt "Addons::description::attachments"
+msgid "Makes it possible to attach files to products"
+msgstr "Gör det möjligt att bifoga filer till produkter"
+
+msgctxt "Languages::attachments"
+msgid "Attachments"
+msgstr "Bilagor"
+
+msgctxt "Languages::new_attachment"
+msgid "New attachment"
+msgstr "Ny bilaga"
+
+msgctxt "Languages::add_attachment"
+msgid "Add attachment"
+msgstr "Lägg till bilaga"
+
+msgctxt "Languages::editing_attachment"
+msgid "Editing attachment"
+msgstr "Redigerar bilaga"
+
+msgctxt "Languages::attachments.attachments_need_located_root_dir"
+msgid "Please specify the attachments directory within the store root directory. Put the attachments to import in this directory."
+msgstr "Vänligen ange katalogen för bilagor i butikens rotkatalog. Lägg de bilagor som ska importeras i den här katalogen."
+
+msgctxt "Languages::attachments.error_exim_get_attachments_for_products"
+msgid "Could not import attachments for some of the products. Either those attachments don't exist (or can't be accessed), or the paths to those attachments in the imported file are incorrect."
+msgstr "Det gick inte att importera bilagor för vissa av produkterna. Antingen existerar inte dessa bilagor (eller kan inte nås), eller så är sökvägarna till dessa bilagor i den importerade filen felaktiga."
+
+msgctxt "Languages::advanced_import_attachments"
+msgid "Product attachments"
+msgstr "Produktbilagor"
+
+msgctxt "Languages::attachments.attachments_delimiter"
+msgid "Attachments delimiter"
+msgstr "Avgränsare för bilagor"
+
+msgctxt "Languages::attachments.attachments_delimiter.description"
+msgid "Delimiter between attachments of a product."
+msgstr "Avgränsare mellan bilagor av en produkt."
+
+msgctxt "Languages::attachments.delete_attachments"
+msgid "Delete existing attachments"
+msgstr "Ta bort befintliga bilagor"
+
+msgctxt "Languages::attachments.delete_attachments_tooltip"
+msgid "If you enable this setting, then the existing attachments of the imported products will be replaced with the attachments specified in the imported file (if no attachments are specified, the old attachments will remain). If the setting is disabled, the new attachments will simply be added to the existing attachments."
+msgstr "Om du aktiverar den här inställningen kommer de befintliga bilagorna för de importerade produkterna att ersättas med de bilagor som anges i den importerade filen (om inga bilagor anges kommer de gamla bilagorna att finnas kvar). Om inställningen är inaktiverad kommer de nya bilagorna helt enkelt att läggas till de befintliga bilagorna."
+
+msgctxt "Languages::attachments.attachments_directory"
+msgid "Attachments directory"
+msgstr "Bilagor katalog"
+
+msgctxt "SettingsSections::attachments::general"
+msgid "General"
+msgstr "Allmän"
+
+msgctxt "SettingsOptions::attachments::allow_save_attachments_to_server"
+msgid "Save attachments to your server"
+msgstr "Spara bilagor på din server"
+
+msgctxt "SettingsTooltips::attachments::allow_save_attachments_to_server"
+msgid "Attachments listed as URLs in the imported file will be downloaded to your server."
+msgstr "Bilagor listade som URL:er i den importerade filen kommer att laddas ner till din server."
+
+msgctxt "Languages::attachments.cant_upload_file"
+msgid "Couldn't load file [url] for product [product]"
+msgstr "Det gick inte att ladda fil [url] för produkt [product]"
+

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Onorarea comenzilor pe piață"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Vă permite să oferiți planuri pentru furnizori în care piața se ocupă de expedierea vânzătorilor și păstrează taxele de expediere."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "Tip de livrare"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Gestionați expedierea pentru furnizori ca parte a acestui plan de furnizor. Dacă piața se ocupă de expedierea pentru mai mulți furnizori, atunci clientul va trebui să selecteze o singură metodă de livrare pentru toți acești furnizori la finalizarea comenzii. Costurile de transport vor merge și pe piață. <ul><li>Vânzătorii care au onorare pe piață ca parte a planului lor de furnizor utilizează NUMAI metodele de expediere care aparțin pieței.</li><li>Furnizorii care nu au onorare prin marketplace folosesc NUMAI metodele de expediere care le aparțin în mod specific.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "Metodele de expediere deținute de piață vor fi acum disponibile pentru vânzătorii ale căror planuri de furnizor includ îndeplinirea de către piață."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "Metodele de expediere deținute de piață vor fi acum disponibile în funcție de setările fiecărui furnizor. Taxele pentru acele metode de expediere vor merge către vânzători, nu către piață."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Furnizorul [name] a trecut la un plan cu onorarea comenzilor pe piață. Vânzătorul va folosi acum metodele de expediere furnizate de piață în loc de propriile lor."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Ați trecut la un plan cu onorarea comenzilor pe piață. De acum înainte, metodele de expediere pe piață vor fi oferite clienților dumneavoastră."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Furnizorul [name] a trecut la un plan fără onorarea comenzii de către piață. Vânzătorul trebuie acum să ofere propriile metode de expediere."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Ați trecut la un plan fără onorarea comenzii de către piață. Asigurați-vă că vă configurați propriile metode de expediere."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Realizare de către piață"
+

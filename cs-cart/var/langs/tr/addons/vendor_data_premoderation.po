@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Satıcı verisi ön moderasyonu"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "Satıcı etkinliğinin ön moderasyonunu yapmanıza izin verir"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "Satıcı Veri Önmoderation eklentisi devre dışı bırakıldı. \"Onay gerektirir\" veya \"Onaylanmadı\" durumlarına sahip ürünlerin artık herhangi bir durumu yoktur. Siz veya satıcılarınız onlar için başka bir durum belirleyene kadar bu ürünler müşterilere görünmez. Eklentiyi yeniden etkinleştirirseniz, durum bilgisi olmayan ürünler durumlarını geri alır. Eklentiyi kaldırırsanız, tüm ürünler otomatik olarak doğru bir durum alır."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "Mağaza satıcıları tarafından tedarik edilen tek ürünleri veya ürün gruplarını yönetin."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Satıcı verisi ön moderasyonu"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "Ürün onayı"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "Satıcıya e-postayla bildirimde bulun"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "Ürününüz [product] mağaza yönetimi tarafından onaylanmış ve ürün kataloğuna eklenmiştir. Müşteriler artık bu ürünü mağazadan sipariş edebileceklerdir."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "Ürünününz [product] mağaza yönetimi tarafından kabul edilmemiştir"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "Yeni ürünler sunduğunuz için teşekkür ederiz. Aşağıdaki ürünler mağaza yönetimi tarafından onaylanmış ve ürün kataloğuna eklenmiştir"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "Müşteriler artık bu ürünleri mağazadan sipariş edebilirler."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "Yeni ürünler sunduğunuz için teşekkür ederiz. Aşağıdaki ürünler mağaza yönetimi tarafından kabul edilmemiştir"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "Seçileni onayla"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "Seçileni kabul etme"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "Yeni ürünler için onay gerektir"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "Güncelleştirilmiş ürünler için onay gerektir"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "Satıcı profili değişiklikleri için onay gerektir"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "Sizin onayınızı gerektiren ürünleriniz bulunuyor. Lütfen <a href=\"[link]\">bu linki takip edin</a> ve bu ürünleri inceleyin."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "Ürünlerinizin durumu [status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "Onay"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "Profili güncelleştirmek istediğinizden emin misiniz? Yönetici onayı alana kadar firmanızla ilgili bilgiler müşteri alanında yer almayacaktır."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "Yönetebilir"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "Ürün onayı"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "Satıcı hesabı"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "Satıcı ürünleri"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "Yeni oluşturulan ürünlerin onayı"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "Ürün bilgisi güncellemelerinin onayı"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "Satıcı profili güncellemelerinin onayı"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "Satıcıları ürün denetleme sonuçları hakkında bilgilendirin"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "güncellemeleri için onay iste"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "gerekli değil"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Bazı satıcılar için gerekli"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Tüm satıcılar için gerekli"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "gerekli değil"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "Bazı satıcılar için gerekli"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Tüm satıcılar için gerekli"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "gerekli değil"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "Bazı satıcılar için gerekli"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "Tüm satıcılar için gerekli"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "bildirme"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "Eposta gönder"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "Bildirim merkezinde bir bildirim görüntüleyin"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "E-posta gönderin ve Bildirim merkezinde bir bildirim görüntüleyin"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "Satıcı ön moderasyonu"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "Onaylanmamış ürünleri hariç tut"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "Onay gerektirir"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "onaylanmadı"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "Ölçülü ürünler"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "onaylanmayan ürünler"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "onaylanmadı"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "Ürünü onayla"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "\"[product]\"ı onayla"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "Ürünü onaylama"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "\"[product]\" ı onaylama"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "Ürünleri onaylama"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "onaylanmama nedeni"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "Onaylanmama nedenini girin ve değişiklikleri kaydedin."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "Onayınızı gerektiren [n] ürününüz var|Onayınızı gerektiren [n] ürününüz var"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "Bu ürün [since]beri onayınızı bekliyor. Bu ürünü görmek için buraya tıklayın.|Bu ürünler [since]beri onayınızı bekliyor. Bu ürünleri incelemek için buraya tıklayın."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "Ürününüz onaylandı|Ürünleriniz onaylandı"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "\"[product]\" mağaza yönetimi tarafından onaylanarak ürün kataloğuna eklenmiştir. Bu ürünü görmek için buraya tıklayın.|[n] adet ürün mağaza yönetimi tarafından onaylanarak ürün kataloğuna eklenmiştir. Bu ürünleri incelemek için buraya tıklayın."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "Ürününüz onaylanmadı|Ürünleriniz onaylanmadı"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "\"[product]\" mağaza yönetimi tarafından onaylanmadı. Bu ürünü görmek için buraya tıklayın.|[n] ürün mağaza yönetimi tarafından onaylanmadı. Bu ürünleri incelemek için buraya tıklayın."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "Değişiklikleriniz kaydedildi. Ürününüzün ürün kataloğuna eklenmeden önce mağaza yönetimi tarafından onaylanması gerekmektedir. Onay gerektiren ürünleri görüntülemek için <a href=\"[product_approval_url]\">bu bağlantıyı</a> takip edin.|Değişiklikleriniz kaydedildi. Ürünleriniz ürün kataloğuna eklenmeden önce mağaza yönetimi tarafından onaylanmalıdır. Onay gerektiren ürünleri görüntülemek için <a href=\"[product_approval_url]\">bu bağlantıyı</a> izleyin."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Satıcı verilerinin ön denetimi: ürününüz onaylandı"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Satıcı verilerinin ön denetimi: ürününüz onaylanmadı"
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "Yalnızca bazı satıcılar için onay gerekiyorsa, satıcı düzenleme sayfasının Eklentiler sekmesinde hangi satıcıların denetlenmesi gerektiğini ayarlayabilirsiniz."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "Satıcı verilerinin ön denetimi: ürününüz onaylandı"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "Satıcı verilerinin ön denetimi: ürününüz onaylanmadı"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "moderasyon"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "Yeni oluşturulan satıcıların onayı"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "gerekli değil"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "Tüm satıcılar için gerekli"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "Satıcı kaydını tamamen engellemek istiyorsanız, lütfen <a href=\"[url]\" target=\"_blank\">Ayarlar → Satıcılar</a>işaretleyin."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "[date]önce"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "silindi"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "Katma"
+

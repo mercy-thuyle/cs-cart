@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_analytics.po\n"
+"X-Crowdin-File-ID: 6596\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::google_analytics"
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+msgctxt "Addons::description::google_analytics"
+msgid "Integrates a Google Analytics service with the store"
+msgstr "Integra o serviço do Google Analytics com a loja"
+
+msgctxt "SettingsSections::google_analytics::general"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "SettingsOptions::google_analytics::tracking_code"
+msgid "Google Analytics account number"
+msgstr "Número de conta do Google Analytics"
+
+msgctxt "SettingsOptions::google_analytics::track_ecommerce"
+msgid "Track e-commerce transactions"
+msgstr "Rastrear transações do ecommerce"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_title"
+msgid "Google Tag Manager"
+msgstr "Gerenciador de tags do Google"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_description"
+msgid "Google Tag Manager is a service that provides us with website analytics: the number of unique visitors, the most and least popular pages, etc. Here is <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">Google Tag Manager statement on privacy</a>."
+msgstr "O Gerenciador de tags do Google é um serviço que nos fornece análises de sites: o número de visitantes únicos, as páginas mais e menos populares, etc. Aqui está <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">declaração de privacidade do Gerenciador de tags do Google</a>."
+

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/bestsellers.po\n"
+"X-Crowdin-File-ID: 6556\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::bestsellers"
+msgid "Bestsellers & On-Sale Products"
+msgstr "最佳卖家 & 促销商品"
+
+msgctxt "Addons::description::bestsellers"
+msgid "Collects best selling & on sale product data and adds block fillings to show such products"
+msgstr "收集热卖商品和促销商品信息，并添加模块显示这些商品。"
+
+msgctxt "Languages::sort_by_bestsellers_asc"
+msgid "Sort by Bestselling: Low to High"
+msgstr "按畅销排序: 低到高"
+
+msgctxt "Languages::sort_by_bestsellers_desc"
+msgid "Sort by Bestselling"
+msgstr "按畅销排序"
+
+msgctxt "Languages::sort_by_on_sale_asc"
+msgid "Sort by discount: Low to High"
+msgstr "按折扣排序：从低到高"
+
+msgctxt "Languages::sort_by_on_sale_desc"
+msgid "Sort by discount: High to Low"
+msgstr "按折扣排序：从高到低"
+
+msgctxt "Languages::sales_amount"
+msgid "Sales amount"
+msgstr "销售金额"
+
+msgctxt "Languages::bestselling"
+msgid "Bestselling"
+msgstr "热销产品"
+
+msgctxt "Languages::on_sale"
+msgid "On sale"
+msgstr "促销"
+
+msgctxt "Languages::similar"
+msgid "Similar"
+msgstr "相似"
+
+msgctxt "Languages::percent_range"
+msgid "Price range (in % of the main product's price)"
+msgstr "价格范围 (商品价格的百分比)"
+
+msgctxt "Languages::similar_category"
+msgid "Of the same category"
+msgstr "在同一分类"
+
+msgctxt "Languages::similar_subcats"
+msgid "Consider subcategories"
+msgstr "包含子分类"
+
+msgctxt "Languages::similar_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "仅 \"在售\" 商品"
+
+msgctxt "Languages::final_sale"
+msgid "Final sale"
+msgstr "清仓甩卖"
+
+msgctxt "SettingsSections::bestsellers::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsSections::bestsellers::newest"
+msgid "Newest"
+msgstr "最新"
+
+msgctxt "SettingsOptions::bestsellers::final_sale_from"
+msgid "Minimum final sale discount (%)"
+msgstr "最小清仓甩卖折扣 (%)"
+
+msgctxt "SettingsOptions::bestsellers::sales_amount_from"
+msgid "Minimum sales amount to define bestsellers"
+msgstr "最佳卖家的最小销售额"
+
+msgctxt "SettingsOptions::bestsellers::period"
+msgid "Period"
+msgstr "周期"
+
+msgctxt "SettingsOptions::bestsellers::last_days"
+msgid "Last days"
+msgstr "最后几天"
+
+msgctxt "SettingsVariants::bestsellers::period::all"
+msgid "All days"
+msgstr "所有时间"
+
+msgctxt "SettingsVariants::bestsellers::period::today"
+msgid "Today"
+msgstr "今天"
+
+msgctxt "SettingsVariants::bestsellers::period::last_days"
+msgid "Last days"
+msgstr "最后几天"
+

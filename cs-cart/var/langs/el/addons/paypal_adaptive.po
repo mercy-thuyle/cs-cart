@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_adaptive.po\n"
+"X-Crowdin-File-ID: 6582\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::paypal_adaptive"
+msgid "PayPal Adaptive Payments [Deprecated]"
+msgstr "PayPal Adaptive Payments [Υπο καταργηση]"
+
+msgctxt "Addons::description::paypal_adaptive"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal. Only existing PayPal Adaptive clients can use this add-on. We recommend you to use the PayPal Commerce Platform add-on instead."
+msgstr "Αυτό το πρόσθετο θα βοηθήσει τους διαχειριστές του βασικου καταστηματος να κατανέμουν αυτόματα χρήματα σε πολλούς προμηθευτές μέσω του PayPal. Μόνο οι υπάρχοντες PayPal Adaptive πελάτες μπορούν να χρησιμοποιήσουν αυτό το πρόσθετο. Σας προτείνουμε να χρησιμοποιήσετε το πρόσθετο PayPal Commerce Platform."
+
+msgctxt "Languages::paypal_api_username"
+msgid "API username"
+msgstr "Όνομα χρήστη API"
+
+msgctxt "Languages::paypal_api_password"
+msgid "API password"
+msgstr "Κωδικός πρόσβασης API"
+
+msgctxt "Languages::paypal_email"
+msgid "PayPal Business Account email"
+msgstr "PayPal Business Account email"
+
+msgctxt "Languages::paypal_adaptive.paypal_email"
+msgid "PayPal Business Account email"
+msgstr "PayPal Business Account email"
+
+msgctxt "Languages::paypal_adaptive.vendor.paypal_email"
+msgid "PayPal Account email"
+msgstr "PayPal Account email"
+
+msgctxt "Languages::pp_adaptive_payments"
+msgid "PayPal Adaptive Payments"
+msgstr "PayPal Adaptive πληρωμές"
+
+msgctxt "Languages::primary_email"
+msgid "PayPal Primary account email"
+msgstr "Πρωταρχικός Λογαριασμός email PayPal"
+
+msgctxt "Languages::processing_payment_for_order"
+msgid "Processing Payment for order"
+msgstr "Επεξεργασία πληρωμών για παραγγελία"
+
+msgctxt "Languages::paypal_adaptive_pay_orders"
+msgid "Pay order"
+msgstr "Πληρωμή παραγγελίας"
+
+msgctxt "Languages::paypal_adaptive_pay_step"
+msgid "step pay"
+msgstr "βήμα πληρωμής"
+
+msgctxt "Languages::paypal_adaptive_pay"
+msgid "Pay"
+msgstr "Πληρωστε"
+
+msgctxt "Languages::paypal_adaptive_progress_payment_order"
+msgid "Progress pay orders"
+msgstr "Προώθηση Πληρωμών Παραγγελιών"
+
+msgctxt "Languages::paypal_adaptive_paid"
+msgid "Paid"
+msgstr "Πληρώθηκε"
+
+msgctxt "Languages::paypal_adaptive_cancel"
+msgid "Return to checkout"
+msgstr "Επιστροφή στο ταμείο"
+
+msgctxt "Languages::paypal_adaptive_type_payments"
+msgid "PayPal payments type"
+msgstr "Τύπος Πληρωμών PayPal "
+
+msgctxt "Languages::paypal_adaptive_papallel_payments"
+msgid "Parallel"
+msgstr "Παράλληλα"
+
+msgctxt "Languages::paypal_adaptive_chained_payments"
+msgid "Chained"
+msgstr "Αλυσιδωτή"
+
+msgctxt "Languages::order_subtotal"
+msgid "Order subtotal"
+msgstr "Υποσύνολο παραγγελίας"
+
+msgctxt "Languages::paypal_adaptive_payer_fees"
+msgid "Payer fees"
+msgstr "Τέλη καταβολής"
+
+msgctxt "Languages::paypal_adaptive_fees_eachreceiver"
+msgid "Each receiver"
+msgstr "Κάθε δέκτης"
+
+msgctxt "Languages::paypal_adaptive_fees_primaryreceiver"
+msgid "Primary receiver"
+msgstr "Κύριο δέκτης"
+
+msgctxt "Languages::paypal_adaptive_pending_payment"
+msgid "Pending payment"
+msgstr "Πληρωμή που εκκρεμεί"
+
+msgctxt "Languages::block_paypal_adaptive"
+msgid "PayPal Adaptive"
+msgstr "PayPal Adaptive"
+
+msgctxt "Languages::paypal_calc_comission_based_on"
+msgid "To calculate commission based on"
+msgstr "Για τον υπολογισμό της προμήθειας βάσει"
+
+msgctxt "SettingsSections::paypal_adaptive::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "To calculate commission based on"
+msgstr "Για τον υπολογισμό της προμήθειας βάσει"
+
+msgctxt "SettingsTooltips::paypal_adaptive::count_vendor_commission_on_basis"
+msgid "Indicates the sum based on which commission will be calculated"
+msgstr "Δηλώνει το άθροισμα βάσει του οποίου θα υπολογιστέι η Προμήθεια"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::O"
+msgid "Order total"
+msgstr "Σύνολο παραγγελίας"
+
+msgctxt "SettingsVariants::paypal_adaptive::count_vendor_commission_on_basis::S"
+msgid "Order subtotal"
+msgstr "Υποσύνολο παραγγελίας"
+
+msgctxt "SettingsOptions::paypal_adaptive::collect_payouts"
+msgid "Collect payouts on vendors"
+msgstr "Συλλογή πληρωμώνσε πωλητές"
+
+msgctxt "SettingsTooltips::paypal_adaptive::collect_payouts"
+msgid "When creating a withdrawal for a vendor, the amount of unpaid payouts will be held back from the withdrawal amount."
+msgstr "Όταν δημιουργείτε μια ανάληψη για έναν πωλητή, το ποσό των καταβλημένων πληρωμών θα κρατηθεί από το ποσό της ανάληψης."
+
+msgctxt "Languages::paypal_adaptive_override_with_secondary_currency"
+msgid "Use customer's choice of currency"
+msgstr "Χρησιμοποιήστε την επιλογή νομίσματος του πελάτη του "
+
+msgctxt "Languages::paypal_adaptive_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "Χρήση στο πλαίσιο Checkout"
+
+msgctxt "Languages::works_in_browsers"
+msgid "It doesn't work in Safari browser and ios devices"
+msgstr "Δεν λειτουργεί σε Safari και σε συσκευές ios"
+
+msgctxt "Languages::paypal_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Προμήθεια Πληρωμών PayPal Adaptive"
+
+msgctxt "Languages::paypal_commission_type"
+msgid "PayPal commission type"
+msgstr "Τυπος Προμήθειας PayPal"
+
+msgctxt "Languages::paypal_adaptive.commission_type"
+msgid "Commission type"
+msgstr "Τύπος προμήθειας"
+
+msgctxt "Languages::paypal_adaptive.tooltips.commission_type"
+msgid "The setting allows to select the way commission is charged to the vendor when using the PayPal Adaptive payment method. If Vendors commission is selected, commission will be charged in the amount that is specified in the corresponding field of the vendor. If PayPal Adaptive commission is selected, a separate field will be used to avoid confusion with standard commissions. It will be used only for the PayPal Adaptive payment method. If the 'Vendor commission' add-on is not installed/disabled, 'PayPal Adaptive Payments commission' will be used."
+msgstr "Η ρύθμιση σας επιτρέπει να επιλέξετε τον τρόποπρομήθειας που χρεώνεται στον πωλητή κατά τη χρήση της μεθόδου πληρωμής PayPal Adaptive. Εάν είναι επιλεγμένη η Προμήθεια θα χρεωθει με το ποσό που καθορίζεται στο αντίστοιχο πεδίο του προμηθευτή. Εάν έχει επιλεγεί Προμήθεια PayPal adaptive, ένα ξεχωριστό πεδίο θα χρησιμοποιηθεί για να αποφευχθεί η σύγχυση με τις συνηθησμένες προμήθειες. Θα χρησιμοποιηθεί μόνο για τη μέθοδος πληρωμής PayPal Adaptive. Εάν το πρόσθετο «Προμήθεια Πωλητή» δεν εχει εγκατασταθεί ή ειναι απενεργοποιημένο, τοτε θα χρησιμοποιηθεί η «Προμήθεια πληρωμής PayPal Adaptive»."
+
+msgctxt "Languages::paypal_adaptive.ppa_commission"
+msgid "PayPal Adaptive Payments commission"
+msgstr "Προμήθεια Πληρωμών PayPal Adaptive"
+
+msgctxt "Languages::paypal_adaptive.vendor_plans"
+msgid "Vendor plans"
+msgstr "Σχέδια πωλητων"
+
+msgctxt "Languages::paypal_verification"
+msgid "PayPal verification"
+msgstr "Επαλήθευση PayPal"
+
+msgctxt "Languages::paypal_verification_short"
+msgid "PP ver."
+msgstr "PP εκδ."
+
+msgctxt "Languages::not_checked"
+msgid "Not checked"
+msgstr "Δεν ελέγχθηκε"
+
+msgctxt "Languages::not_verified"
+msgid "Not verified"
+msgstr "Δεν εχει επαληθευθεί"
+
+msgctxt "Languages::verified"
+msgid "Verified"
+msgstr "Επαληθευμένο"
+
+msgctxt "Languages::paypal_adaptive_auto_info_data_verification"
+msgid "Use the following line to run the script to get E-mail verification status of your vendors according to schedule:"
+msgstr "Χρησιμοποιήστε την παρακάτω γραμμή για να εκτελέσετε το σενάριο για να λάβετε την κατάσταση επαλήθευσης ηλεκτρονικού ταχυδρομείου των πωλητών σας σύμφωνα με το χρονοδιάγραμμα:"
+
+msgctxt "Languages::paypal_adaptive_statuses_updated_successfully"
+msgid "PayPal verification statuses have been updated successfully."
+msgstr "Οι καταστάσεις επαλήθευσης PayPal έχουν ενημερωθεί με επιτυχία."
+
+msgctxt "SettingsOptions::paypal_adaptive::display_verification_status_on_storefront"
+msgid "Display verification status to customers"
+msgstr "Εμφάνιση κατάστασης επαλήθευσης σε πελάτες"
+
+msgctxt "SettingsTooltips::paypal_adaptive::display_verification_status_on_storefront"
+msgid "The setting allows to display verification status at the product details page on the storefront. If the vendor E-mail is not verified, the status will not be shown to the customers."
+msgstr "Η ρύθμιση σας επιτρέπει να εμφανίσετε την κατάσταση επαλήθευσης στη σελίδα Λεπτομερειών του προϊόντος στο κατάστημα. Αν τον mail του πωλητη δεν έχει επαληθευτεί, η κατασταση δεν θα εμφανιστεί στους πελάτες."
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image"
+msgid "PayPal verification image"
+msgstr "Εικόνα επαλήθευσης του PayPal"
+
+msgctxt "Languages::paypal_ver_image"
+msgid "Verification image"
+msgstr "Εικόνα Επαλήθευσης"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_width"
+msgid "Image width"
+msgstr "Πλάτος εικόνας"
+
+msgctxt "SettingsOptions::paypal_adaptive::paypal_verified_image_height"
+msgid "Image height"
+msgstr "Υψος εικόνας"
+
+msgctxt "Languages::verified_by_paypal"
+msgid "Verified by PayPal"
+msgstr "Επιβεβαιώθηκε από το PayPal"
+
+msgctxt "Languages::paypal_adaptive_error_wrong_cron_key"
+msgid "Error: Wrong cron key."
+msgstr "Σφάλμα: Λάθος cron κλειδί."
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_width"
+msgid "The width of the verified image."
+msgstr "Το πλάτος της εικόνας επαληθευσης"
+
+msgctxt "SettingsTooltips::paypal_adaptive::paypal_verified_image_height"
+msgid "The height of the verified image."
+msgstr "Το ύψος της  εικόνας επαληθευσης"
+
+msgctxt "Languages::paypal_adaptive.tooltips.paypal_ver_image"
+msgid "The setting allows to display verification image instead of the text status at the product details page on the storefront. If an image is not uploaded, the status will be shown as text."
+msgstr "Η ρύθμιση σας επιτρέπει να εμφανίσετε την εικόνα επαλήθευσης αντί της κατάστασης κειμένου στη σελίδα του προϊόντος στο κατάστημα.. Αν δεν έχει σηκωθει μια εικόνα , η κατάσταση θα εμφανίζεται ως κείμενο."
+
+msgctxt "Languages::paypal_emails_must_be_unique"
+msgid "The vendor with PayPal Adaptive E-mail you have chosen already exists, please try another."
+msgstr "Ο Πωλητης με το PayPal Adaptive E-mail που έχετε επιλέξει υπάρχει ήδη, δοκιμάστε έναν άλλο."
+
+msgctxt "Languages::addons.paypal_adaptive.logo"
+msgid "PayPal Adaptive logo"
+msgstr "PayPal Adaptive λογότυπο"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "Χρησιμοποιήστε μια έγκυρη  μορφή γραφικών, όπως .gif, .jpg ή .png. Περιορίστε την εικόνα σε 190 pixels πλάτος και 60 pixels ύψος. Το PayPal περικόπτει εικόνες που είναι μεγαλύτερες. Το PayPal τοποθετεί το λογότυπό σας στην κορυφή της περιοχής περίληψης του καλαθιού."
+
+msgctxt "Languages::ttc_paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "Το e-mail του λογαριασμού σας PayPal Business. Ένας προσωπικός λογαριασμός e-mail δεν θα λειτουργήσει."
+
+msgctxt "Languages::ttc_paypal_adaptive.paypal_email"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "Το e-mail του λογαριασμού σας PayPal Business. Ένας προσωπικός λογαριασμός e-mail δεν θα λειτουργήσει."
+
+msgctxt "Languages::ttc_paypal_adaptive.vendor.paypal_email"
+msgid "The email of your PayPal account."
+msgstr "To email του PayPal λογαριασμoύ σας."
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_workflow"
+msgid "PayPal workflow"
+msgstr "Ροή PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.store_settings"
+msgid "Store settings"
+msgstr "Ρυθμίσεις Καταστήματος"
+
+msgctxt "Languages::addons.paypal_adaptive.paypal_credentials"
+msgid "PayPal credentials"
+msgstr "PayPal στοιχεια συνδεσης"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] από [sum]"
+
+msgctxt "Languages::addons.paypal_adaptive.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]% από [sum]"
+
+msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Ανάληψη για την παραγγελία #[order_id]"
+
+msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
+msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."
+msgstr "Δεν μπορούν να χρησιμοποιηθούν Αλυσηδωτές πληρωμές εάν το πρόσθετο <a href=\"[url]\" target=\"_blank\"> πληρωμές PayPal Adaptive</a> έχει ρυθμιστεί να συλλέgei τόσο προμήθεια της παραγελίας αλλα και τις μη καταβλημένες πληρωμές."
+
+msgctxt "Languages::addons.paypal_adaptive.primary_email_notice"
+msgid "The email of your PayPal Business Account. A Personal Account email won't work."
+msgstr "Το e-mail του λογαριασμού σας PayPal Business. Ένας προσωπικός λογαριασμός e-mail δεν θα λειτουργήσει."
+
+msgctxt "Languages::addons.paypal_adaptive.commission_includes"
+msgid "Commission includes"
+msgstr "Η Προμήθεια  περιλαμβάνει"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission"
+msgid "Order commission"
+msgstr "Προμήθεια παραγγελίας"
+
+msgctxt "Languages::addons.paypal_adaptive.order_commission_and_payouts"
+msgid "Order commission and unpaid payouts"
+msgstr "Προμήεθια παραγγελίας και μη καταβλημένες πληρωμές"
+
+msgctxt "Languages::addons.paypal_adaptive.first_name"
+msgid "PayPal account holder's first name"
+msgstr "Όνομα του κατόχου του λογαριασμού PayPal"
+
+msgctxt "Languages::addons.paypal_adaptive.last_name"
+msgid "PayPal account holder's last name"
+msgstr "Επώνυμο του κατόχου του λογαριασμού PayPal"
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.first_name"
+msgid "Please enter the same first name as specified in your PayPal profile."
+msgstr "Παρακαλούμε εισάγετε το ίδιο όνομα όπως καθορίζεται στο προφίλ σας στο PayPal."
+
+msgctxt "Languages::ttc_addons.paypal_adaptive.last_name"
+msgid "Please enter the same last name as specified in your PayPal profile."
+msgstr "Παρακαλούμε εισάγετε το ίδιο επώνυμο όπως καθορίζεται στο προφίλ σας στο PayPal."
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_title"
+msgid "Paypal Adaptive Payments"
+msgstr "PayPal Adaptive πληρωμές"
+
+msgctxt "Languages::paypal_adaptive.paypal_adaptive_cookies_description"
+msgid "PayPal Adaptive Payments is a payment provider that allows you to buy products from multiple vendors while making a single payment. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">PayPal privacy statement.</a>"
+msgstr "Το PayPal Adaptive Payments είναι ένας πάροχος πληρωμών που επιτρέπει την αγορά ροϊόντων από πολλούς πωλητές με μία μόνο πληρωμή. Ακολουθεί η <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full/\" target=\"_blank\">Δήλωση απορρήτου του PayPal.</a>"
+

@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_plans.po\n"
+"X-Crowdin-File-ID: 6688\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_plans"
+msgid "Vendor plans"
+msgstr "برنامه های فروشنده"
+
+msgctxt "Addons::description::vendor_plans"
+msgid "Create plans with different restrictions and prices for your vendors"
+msgstr "طرح هایی با محدودیت ها و قیمت های مختلف برای فروشندگان خود ایجاد کنید"
+
+msgctxt "SettingsOptions::vendor_plans::commissions_header"
+msgid "Commissions"
+msgstr "کمیسیون ها"
+
+msgctxt "SettingsOptions::vendor_plans::include_shipping"
+msgid "Include shipping cost in vendor commissions"
+msgstr "هزینه حمل و نقل را در کمیسیون فروشنده لحاظ کنید"
+
+msgctxt "SettingsOptions::vendor_plans::include_taxes_in_commission"
+msgid "Include taxes in vendor commissions"
+msgstr "مالیات را در کمیسیون فروشنده لحاظ کنید"
+
+msgctxt "SettingsTooltips::vendor_plans::include_taxes_in_commission"
+msgid "Calculate vendor commissions without subtracting taxes from the order total beforehand."
+msgstr "کمیسیون فروشنده را بدون کم کردن مالیات از کل سفارش از قبل محاسبه کنید."
+
+msgctxt "SettingsOptions::vendor_plans::allow_vendors_to_change_plan"
+msgid "Allow vendors to change their current plan"
+msgstr "به فروشندگان اجازه دهید طرح فعلی خود را تغییر دهند"
+
+msgctxt "SettingsOptions::vendor_plans::collect_taxes_from_vendors"
+msgid "Collect taxes from vendors"
+msgstr "از فروشندگان مالیات بگیرید"
+
+msgctxt "SettingsTooltips::vendor_plans::collect_taxes_from_vendors"
+msgid "Send collected taxes to the account of the marketplace."
+msgstr "مالیات های جمع آوری شده را به حساب بازار ارسال کنید."
+
+msgctxt "Languages::vendor_plans.vendor_plans"
+msgid "Vendor plans"
+msgstr "برنامه های فروشنده"
+
+msgctxt "Languages::block_vendor_plan_info"
+msgid "Vendor plan info"
+msgstr "اطلاعات طرح فروشنده"
+
+msgctxt "Languages::block_vendor_plan_info_description"
+msgid "Shows information about the selected vendor plan"
+msgstr "اطلاعات مربوط به طرح فروشنده انتخاب شده را نشان می دهد"
+
+msgctxt "Languages::vendor_plans.plan"
+msgid "Plan"
+msgstr "طرح"
+
+msgctxt "Languages::vendor_plans.plan_short"
+msgid "Plan"
+msgstr "طرح"
+
+msgctxt "Languages::vendor_plans.commission"
+msgid "Commission"
+msgstr "کمیسیون"
+
+msgctxt "Languages::vendor_plans.restrictions"
+msgid "Restrictions"
+msgstr "محدودیت های"
+
+msgctxt "Languages::vendor_plans.vendor_plans_menu_description"
+msgid "Create plans for your vendors, with different restrictions and prices"
+msgstr "با محدودیت ها و قیمت های مختلف برای فروشندگان خود طرح هایی ایجاد کنید"
+
+msgctxt "Languages::vendor_plans.periodicity_month"
+msgid "per month"
+msgstr "هر ماه"
+
+msgctxt "Languages::vendor_plans.periodicity_year"
+msgid "per year"
+msgstr "در سال"
+
+msgctxt "Languages::vendor_plans.periodicity_onetime"
+msgid "one time"
+msgstr "سر وقت"
+
+msgctxt "Languages::vendor_plans.products_limit"
+msgid "Max. products"
+msgstr "حداکثر محصولات"
+
+msgctxt "Languages::vendor_plans.products_limit_tooltip"
+msgid "Set the maximum number of products a vendor can have on this plan. Leave empty to allow unlimited number of products."
+msgstr "حداکثر تعداد محصولاتی که یک فروشنده می تواند در این طرح داشته باشد را تنظیم کنید. خالی بگذارید تا تعداد نامحدودی از محصولات مجاز باشد."
+
+msgctxt "Languages::vendor_plans.vendor_store_tooltip"
+msgid "A vendor can have his or her own microstore at a separate address like <i>example.com/vendor/</i>. A microstore only contains products of the vendor who owns this microstore. Also, search results in a vendor's microstore only include products of this vendor."
+msgstr "یک فروشنده می تواند ریز استور خود را در یک آدرس جداگانه مانند <i>example.com/vendor/</i>داشته باشد. یک میکرو استور فقط حاوی محصولات فروشنده ای است که مالک این فروشگاه کوچک است. همچنین نتایج جستجو در ریز استور فروشنده فقط شامل محصولات این فروشنده می شود."
+
+msgctxt "Languages::vendor_plans.add_vendor_plan"
+msgid "Add vendor plan"
+msgstr "طرح فروشنده را اضافه کنید"
+
+msgctxt "Languages::vendor_plans.new_vendor_plan"
+msgid "New vendor plan"
+msgstr "طرح فروشنده جدید"
+
+msgctxt "Languages::vendor_plans.editing_vendor_plan"
+msgid "Editing vendor plan"
+msgstr "در حال ویرایش طرح فروشنده"
+
+msgctxt "Languages::vendor_plans.delete_plan_vendor_exists_text"
+msgid "Couldn't delete the plan: some vendors use it"
+msgstr "طرح حذف نشد: برخی از فروشندگان از آن استفاده می کنند"
+
+msgctxt "Languages::vendor_plans.disable_plan_vendor_exists_text"
+msgid "Couldn't disable the plan: some vendors use it"
+msgstr "نمی‌توان طرح را غیرفعال کرد: برخی از فروشندگان از آن استفاده می‌کنند"
+
+msgctxt "Languages::vendor_plans.transaction_fee"
+msgid "Transaction fee"
+msgstr "هزینه معامله"
+
+msgctxt "Languages::vendor_plans.fixed_transaction_fee"
+msgid "Transaction fee (abs)"
+msgstr "کارمزد تراکنش (ABS)"
+
+msgctxt "Languages::vendor_plans.revenue"
+msgid "Revenue"
+msgstr "درآمد"
+
+msgctxt "Languages::vendor_plans.revenue_up_to"
+msgid "Revenue up to"
+msgstr "درآمد تا"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_tooltip"
+msgid "The maximum monthly revenue allowed for the vendors who use this plan. Leave this field empty to allow unlimited revenue."
+msgstr "حداکثر درآمد ماهانه مجاز برای فروشندگانی که از این طرح استفاده می کنند. این قسمت را خالی بگذارید تا درآمد نامحدود مجاز باشد."
+
+msgctxt "Languages::vendor_plans.vendor_store"
+msgid "Vendor microstore"
+msgstr "ریزفروشگاه فروشنده"
+
+msgctxt "Languages::vendor_plans.best_choise"
+msgid "Offer as the best choice"
+msgstr "پیشنهاد به عنوان بهترین انتخاب"
+
+msgctxt "Languages::vendor_plans.best_choise_short"
+msgid "Best choice"
+msgstr "بهترین انتخاب"
+
+msgctxt "Languages::vendor_plans.select_plan_text"
+msgid "You will be charged for the plan after the admin approves your vendor account"
+msgstr "پس از تایید ادمین حساب فروشنده شما، هزینه طرح از شما کسر می شود"
+
+msgctxt "Languages::vendor_plans.current_plan"
+msgid "Current plan"
+msgstr "نقشه جاری"
+
+msgctxt "Languages::vendor_plans.current_plan_usage"
+msgid "Current plan usage"
+msgstr "استفاده از طرح فعلی"
+
+msgctxt "Languages::vendor_plans.best_choice"
+msgid "Best choice"
+msgstr "بهترین انتخاب"
+
+msgctxt "Languages::vendor_plans.choose_your_plan"
+msgid "Choose your plan"
+msgstr "طرح خود را انتخاب کنید"
+
+msgctxt "Languages::vendor_plans.choose"
+msgid "Choose"
+msgstr "انتخاب کنید"
+
+msgctxt "Languages::vendor_plans.month"
+msgid "Month"
+msgstr "ماه"
+
+msgctxt "Languages::vendor_plans.year"
+msgid "Year"
+msgstr "سال"
+
+msgctxt "Languages::vendor_plans.plan_name"
+msgid "Plan name"
+msgstr "نام طرح"
+
+msgctxt "Languages::vendor_plans.products_limit_value"
+msgid "<strong>[n]</strong> product|<strong>[n]</strong> products"
+msgstr "<strong>[n]</strong> محصول|<strong>[n]</strong> محصول"
+
+msgctxt "Languages::vendor_plans.unlimited"
+msgid "Unlimited"
+msgstr "نامحدود"
+
+msgctxt "Languages::vendor_plans.products_limit_unlimited"
+msgid "<strong>Unlimited</strong> products"
+msgstr "<strong>نامحدود</strong> محصول"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_value"
+msgid "Revenue up to <strong>[revenue]</strong>"
+msgstr "درآمد تا <strong>[revenue]</strong>"
+
+msgctxt "Languages::vendor_plans.revenue_up_to_unlimited"
+msgid "<strong>Unlimited</strong> revenue"
+msgstr "<strong>نامحدود</strong> درآمد"
+
+msgctxt "Languages::vendor_plans.transaction_fee_value"
+msgid "Transaction fee: <strong>[value]</strong>"
+msgstr "کارمزد تراکنش: <strong>[value]</strong>"
+
+msgctxt "Languages::vendor_plans.vendor_commission"
+msgid "Vendor commission"
+msgstr "کمیسیون فروشنده"
+
+msgctxt "Languages::vendor_plans.category_is_empty"
+msgid "Please specify a category."
+msgstr "لطفا یک دسته بندی را مشخص کنید."
+
+msgctxt "Languages::vendor_plans.vendor_approved_text"
+msgid "Your plan has been set to [plan]. See the details of your plan below."
+msgstr "طرح شما روی [plan]تنظیم شده است. جزئیات طرح خود را در زیر مشاهده کنید."
+
+msgctxt "Languages::vendor_plans.plan_payment"
+msgid "Payment for Your Plan"
+msgstr "پرداخت برای طرح شما"
+
+msgctxt "Languages::vendor_plans.plan_payment_text"
+msgid "A sum of [price] has been withdrawn from your account for using the [plan] plan. Follow the link to <a href=\"[href]\">view your account balance</a> or see the details of your plan below."
+msgstr "برای استفاده از طرح [plan] مبلغ [price] از حساب شما برداشت شده است. پیوند <a href=\"[href]\">را دنبال کنید تا موجودی حساب خود را مشاهده کنید</a> یا جزئیات طرح خود را در زیر مشاهده کنید."
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed"
+msgid "Your Plan Has Been Changed"
+msgstr "برنامه شما تغییر کرده است"
+
+msgctxt "Languages::vendor_plans.plan_has_been_changed_text"
+msgid "Your plan has been changed to [plan]. See the details of your new plan below."
+msgstr "طرح شما به [plan]تغییر یافته است. جزئیات طرح جدید خود را در زیر مشاهده کنید."
+
+msgctxt "Languages::vendor_plans.products_exceeded_text"
+msgid "Cannot add more products: you have reached the maximum number of products allowed by your plan. To change your plan, please <a href=\"[href]\">follow this link</a>."
+msgstr "نمی توان محصولات بیشتری اضافه کرد: شما به حداکثر تعداد مجاز محصولات توسط طرح خود رسیده اید. برای تغییر طرح خود، لطفاً <a href=\"[href]\">این پیوند را دنبال کنید</a>."
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_subj"
+msgid "Maximum Revenue Exceeded"
+msgstr "از حداکثر درآمد فراتر رفت"
+
+msgctxt "Languages::vendor_plans.revenue_exceeded_text"
+msgid "<a href=\"[href]\">[vendor]</a> exceeded the maximum revenue allowed by the [plan] plan."
+msgstr "<a href=\"[href]\">[vendor]</a> از حداکثر درآمد مجاز طرح [plan] فراتر رفت."
+
+msgctxt "Languages::vendor_plans.not_available"
+msgid "Not available"
+msgstr "در دسترس نیست"
+
+msgctxt "Languages::vendor_plans.many_products_text"
+msgid "Too many products ([actual]/[allowed])"
+msgstr "محصولات بسیار زیاد ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.much_revenue_text"
+msgid "Too much revenue ([actual]/[allowed])"
+msgstr "درآمد بسیار زیاد ([actual]/[allowed])"
+
+msgctxt "Languages::vendor_plans.plan_not_available_text"
+msgid "Sorry, this plan is not available for you. Please choose an available plan."
+msgstr "با عرض پوزش، این طرح برای شما در دسترس نیست. لطفاً یک طرح موجود را انتخاب کنید."
+
+msgctxt "Languages::vendor_plans.plan_will_be_change_text"
+msgid "You are switching to another vendor plan. You will be charged the full price of the plan. Are you sure you want to continue?"
+msgstr "شما در حال تغییر به طرح فروشنده دیگری هستید. قیمت کامل طرح از شما دریافت خواهد شد. آیا مطمئن هستید که میخواهید ادامه دهید؟"
+
+msgctxt "Languages::email_template.vendor_plans_plan_changed"
+msgid "Vendor plans: plan changed notification"
+msgstr "برنامه های فروشنده: اعلان تغییر برنامه"
+
+msgctxt "Languages::email_template.vendor_plans_payment"
+msgid "Vendor plans: payment notification"
+msgstr "برنامه های فروشنده: اطلاع رسانی پرداخت"
+
+msgctxt "Languages::email_template.vendor_plans_revenue"
+msgid "Vendor plans: revenue notification"
+msgstr "برنامه های فروشنده: اطلاع رسانی درآمد"
+
+msgctxt "Languages::privileges.view_vendor_plans"
+msgid "Can view"
+msgstr "می تواند مشاهده کند"
+
+msgctxt "Languages::privileges.manage_vendor_plans"
+msgid "Can edit"
+msgstr "می تواند ویرایش کند"
+
+msgctxt "Languages::privilege_groups.vendor_plans"
+msgid "Vendor plans"
+msgstr "برنامه های فروشنده"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_absolute"
+msgid "[amount] out of [sum]"
+msgstr "[amount] از [sum]"
+
+msgctxt "Languages::vendor_plans.out_of_amount"
+msgid "out of [amount]"
+msgstr "از [amount]"
+
+msgctxt "Languages::addons.vendor_plans.commission_description_percent"
+msgid "[amount]% of [sum]"
+msgstr "[amount]درصد از [sum]"
+
+msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
+msgid "Payout for the vendor plan: [plan]"
+msgstr "پرداخت برای طرح فروشنده: [plan]"
+
+msgctxt "Languages::vendor_plan"
+msgid "Vendor plan"
+msgstr "طرح فروشنده"
+
+msgctxt "Languages::vendor_plans.update_for_plan.title"
+msgid "Should your changes affect existing vendors?"
+msgstr "آیا تغییرات شما باید بر فروشندگان موجود تأثیر بگذارد؟"
+
+msgctxt "Languages::vendor_plans.update_for_plan.general_message"
+msgid "What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendor </a> who is using this plan now?|What should we do about <a href=\"[search_url]\" target=\"_blank\">[n] vendors </a> who are using this plan now?"
+msgstr "در مورد <a href=\"[search_url]\" target=\"_blank\">[n] فروشنده </a> که اکنون از این طرح استفاده می کند چه کنیم؟|در مورد <a href=\"[search_url]\" target=\"_blank\">[n] فروشندگان </a> که اکنون از این طرح استفاده می کنند چه باید بکنیم؟"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.add_storefronts_message"
+msgid "Add the vendor to the storefronts that got added to the plan|Add the vendors to the storefronts that got added to the plan"
+msgstr "افزودن فروشنده به ویترین هایی که به طرح اضافه شده اند|فروشندگان را به ویترین هایی که به طرح اضافه شده اند اضافه کنید"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_plan.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts that got removed from this plan|Remove the vendors from the storefronts that got removed from this plan"
+msgstr "حذف فروشنده از ویترین فروشگاهی که از این طرح حذف شده است|فروشندگان را از ویترین هایی که از این طرح حذف شده اند حذف کنید"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.title"
+msgid "The vendor got moved to another plan"
+msgstr "فروشنده به طرح دیگری منتقل شد"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.general_message"
+msgid "What should we do about the storefronts that are available to this vendor?"
+msgstr "در مورد ویترین هایی که در اختیار این فروشنده است چه باید بکنیم؟"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.add_storefronts_message"
+msgid "Add the vendor to the storefronts available in the new vendor plan"
+msgstr "فروشنده را به ویترین های موجود در طرح فروشنده جدید اضافه کنید"
+
+msgctxt "Languages::vendor_plans.storefronts_update_for_vendor.remove_storefronts_message"
+msgid "Remove the vendor from the storefronts available in his previous plan"
+msgstr "فروشنده را از ویترین های موجود در طرح قبلی او حذف کنید"
+
+msgctxt "Languages::vendor_plans.advanced_vendor_plan_creation"
+msgid "Advanced vendor plan creation"
+msgstr "ایجاد طرح فروشنده پیشرفته"
+
+msgctxt "Languages::vendor_plans.text_vendor_plan_created"
+msgid "A new vendor plan \"[plan_name]\" has been created. You can now <a href=\"[link]\">set restrictions for vendors using this plan</a>."
+msgstr "یک طرح فروشنده جدید \"[plan_name]\" ایجاد شده است. اکنون می‌توانید <a href=\"[link]\">را برای فروشندگانی که از این طرح استفاده می‌کنند، تنظیم</a>."
+
+msgctxt "Languages::vendor_plans.commission_fee"
+msgid "[commission]% fee"
+msgstr "کارمزد [commission]درصد"
+
+msgctxt "Languages::vendor_plans.default_vendor_plan"
+msgid "Default plan"
+msgstr "طرح پیش فرض"
+
+msgctxt "Languages::vendor_plans.event.plan_changed"
+msgid "Vendor plan was changed"
+msgstr "طرح فروشنده تغییر کرد"
+
+msgctxt "Languages::vendor_plans"
+msgid "Vendor plans"
+msgstr "برنامه های فروشنده"
+
+msgctxt "Languages::email_template.vendor_plans_vendor_plan_changed_info_for_admin"
+msgid "Vendor plans: vendor plan was changed"
+msgstr "برنامه های فروشنده: طرح فروشنده تغییر کرد"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed"
+msgid "Vendor \"[vendor]\" moved to \"[plan]\""
+msgstr "فروشنده \"[vendor]\" به \"[plan]\" منتقل شد"
+
+msgctxt "Languages::vendor_plans.vendor_plan_has_been_changed_text"
+msgid "The plan of vendor \"[vendor]\" was changed from \"[old_plan]\" to \"[new_plan]\"."
+msgstr "طرح فروشنده \"[vendor]\" از \"[old_plan]\" به \"[new_plan]\" تغییر یافت."
+
+msgctxt "Languages::vendor_plans.old_plan"
+msgid "Old plan"
+msgstr "طرح قدیمی"
+
+msgctxt "Languages::vendor_plans.new_plan"
+msgid "New plan"
+msgstr "طرح جدید"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.add_usergroups_message"
+msgid "Add vendor administrators to the user groups added to the plan"
+msgstr "مدیران فروشنده را به گروه های کاربری اضافه شده به طرح اضافه کنید"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan.remove_usergroups_message"
+msgid "Remove vendor administrators from the user groups removed from the plan"
+msgstr "مدیران فروشنده را از گروه های کاربری حذف شده از طرح حذف کنید"
+
+msgctxt "Languages::vendor_plans.usergroups_update_for_plan"
+msgid "These are the user groups that vendor's administrators will get when a vendor gets this plan"
+msgstr "اینها گروه‌های کاربری هستند که وقتی فروشنده این طرح را دریافت می‌کند، مدیران فروشنده دریافت می‌کنند"
+
+msgctxt "Languages::vendor_plans.category_is_not_available"
+msgid "Sorry, this category is not available for the vendor. Please check the configuration of the vendor plan."
+msgstr "با عرض پوزش، این دسته برای فروشنده در دسترس نیست. لطفاً پیکربندی طرح فروشنده را بررسی کنید."
+
+msgctxt "Languages::vendor_plans.all_storefronts_included"
+msgid "All storefronts included"
+msgstr "تمامی ویترین ها گنجانده شده است"
+
+msgctxt "Languages::vendor_plans.all_categories_included"
+msgid "All categories included"
+msgstr "همه دسته ها گنجانده شده است"
+
+msgctxt "Languages::vendor_plans.disable_plan_is_default_text"
+msgid "Couldn't disable the vendor plan. At least one active or hidden vendor plan must exist."
+msgstr "طرح فروشنده غیرفعال نشد. حداقل یک برنامه فروشنده فعال یا پنهان باید وجود داشته باشد."
+

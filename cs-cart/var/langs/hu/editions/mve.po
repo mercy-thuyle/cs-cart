@@ -1,0 +1,1142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/editions/mve.po\n"
+"X-Crowdin-File-ID: 6734\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Languages::add_companies"
+msgid "Add vendors"
+msgstr "Eladók hozzáadása"
+
+msgctxt "Languages::add_companies_and_close"
+msgid "Add vendors and close"
+msgstr "Eladók hozzáadása és bezárás"
+
+msgctxt "Languages::add_vendor"
+msgid "Add vendor"
+msgstr "Eladó hozzáadása"
+
+msgctxt "Languages::add_vendor_administrator"
+msgid "Add vendor's administrator"
+msgstr "Eladói adminisztrátor hozzáadása"
+
+msgctxt "Languages::vendor_administrator"
+msgid "Vendor's administrator"
+msgstr "Eladói adminisztrátor"
+
+msgctxt "Languages::vendor_administrators"
+msgid "Vendor's administrators"
+msgstr "Eladói adminisztrátorok"
+
+msgctxt "Languages::vendor_administrators_menu_description"
+msgid "List of vendor's administrators, registered users with a vendor account."
+msgstr "Az eladó adminisztrátorainak, az eladói fiókkal rendelkező regisztrált felhasználók listája."
+
+msgctxt "Languages::vendor_candidate_notification"
+msgid "Hello,<br/><br/>You have a new vendor candidate in your store. This vendor account is pending until you approve it. Follow <a href=\"[href]\">this URL</a> to view the account details</a>."
+msgstr "Hello,<br/><br/>Új eladójelölted van a piactereden. Ez az eladói fiók a jóváhagyásodig függőben van. Kövesd <a href=\"[href]\">ezt az URL-t</a> a fiók részleteinek megtekintéséhez</a>."
+
+msgctxt "Languages::new_vendor_notification"
+msgid "Hello,<br/><br/>A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor's account details.</a>"
+msgstr "Helló!<br/><br/>Új szállító regisztrált, és hozzáférést kapott a kirakathoz és az adminisztrációs panelhez. <a href=\"[link]\">Használja ezt a hivatkozást a szállító fiók adatainak megtekintéséhez.</a>"
+
+msgctxt "Languages::demo_panel.go_vendor_panel"
+msgid "Go to Vendor panel"
+msgstr "Tovább az eladói felületre"
+
+msgctxt "Languages::vendor_account_balance_menu_description"
+msgid "Income and expenditure statistics (total, per vendor, per period)."
+msgstr "Bevételi és kiadási statisztikák (összesen, eladónként, időszakonként)."
+
+msgctxt "Languages::merge_vendor"
+msgid "Merge vendor"
+msgstr "Eladó egyesítése"
+
+msgctxt "Languages::select_new_owner_company"
+msgid "Select a new owner of this company's profile data:"
+msgstr "Válaszd ki a vállalat profiladatainak új tulajdonosát:"
+
+msgctxt "Languages::warning_merging_companies"
+msgid "Merging two company accounts will remove [company_name] from the database, and all the profile data (products, orders, shipping methods, users, promotions, etc.) will be transferred to this company's account"
+msgstr "Két cégfiók összevonásával a [company_name] törlődik az adatbázisból, és az összes profiladat (termékek, megrendelések, szállítási módok, felhasználók, promóciók stb.) átkerül ennek a cégnek a fiókjába."
+
+msgctxt "Languages::all_vendors"
+msgid "All vendors"
+msgstr "Minden eladó"
+
+msgctxt "Languages::apply_for_vendor_account"
+msgid "Apply for a vendor account"
+msgstr "Eladói fiók igénylése"
+
+msgctxt "Languages::available_for_vendor"
+msgid "Available for vendor"
+msgstr "Elérhető a eladó számára"
+
+msgctxt "Languages::balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Átvitt egyenleg"
+
+msgctxt "Languages::block_vendors"
+msgid "Vendors"
+msgstr "Eladók"
+
+msgctxt "Languages::charge_to_vendor_account"
+msgid "Charge to vendor account"
+msgstr "Eladói fiók feltöltése"
+
+msgctxt "Languages::companies"
+msgid "Vendors"
+msgstr "Eladók"
+
+msgctxt "Languages::create_administrator_account"
+msgid "Create administrator account"
+msgstr "Adminisztrátori fiók létrehozása"
+
+msgctxt "Languages::displayed_vendors"
+msgid "Displayed vendors"
+msgstr "Megjelenített eladók"
+
+msgctxt "Languages::editing_vendor"
+msgid "Editing vendor"
+msgstr "Eladó szerkesztése"
+
+msgctxt "Languages::error_admin_not_created_email_already_used"
+msgid "Administrator account was not created. The email address belongs to another user. You can add the administrator for this vendor manually."
+msgstr "Az adminisztrátori fiók nem készült el. Az e-mail cím más felhasználóhoz tartozik. Manuálisan hozzá lehet adni adminisztrátorokat ehhez az eladóhoz."
+
+msgctxt "Languages::error_admin_not_created_name_already_used"
+msgid "Administrator account was not created. The user name belongs to another user. You should change the administrator account's name."
+msgstr "Az adminisztrátori fiók nem jött létre. A felhasználónév egy másik felhasználóé. Meg kell változtatnod az adminisztrátori fiók nevét."
+
+msgctxt "Languages::error_vendor_exists"
+msgid "The vendor with e-mail you have chosen already exists, please try another."
+msgstr "A kiválasztott email címhez tartozó eladó már létezik, kérjük válassz másikat."
+
+msgctxt "Languages::expenditure"
+msgid "Expenditure"
+msgstr "Kiadás"
+
+msgctxt "Languages::income"
+msgid "Income"
+msgstr "Bevétel"
+
+msgctxt "Languages::manage_vendors"
+msgid "Manage vendors"
+msgstr "Eladók kezelése"
+
+msgctxt "Languages::new_administrator_account_created"
+msgid "New administrator account has been successfully created."
+msgstr "Az új adminisztrátori fiók sikeresen létrejött."
+
+msgctxt "Languages::new_vendor"
+msgid "New vendor"
+msgstr "Új eladó"
+
+msgctxt "Languages::notify_vendor"
+msgid "Notify vendor"
+msgstr "Eladó értesítése"
+
+msgctxt "Languages::notify_vendors_by_email"
+msgid "Notify vendors by e-mail"
+msgstr "Eladók értesítése e-mailen"
+
+msgctxt "Languages::privileges.manage_payouts"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privileges.manage_vendors"
+msgid "Can edit"
+msgstr "Szerkeszthető"
+
+msgctxt "Languages::privilege_groups.vendor_payouts"
+msgid "Accounting"
+msgstr "Könyvelés"
+
+msgctxt "Languages::privileges.view_payouts"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::privileges.view_vendors"
+msgid "Can view"
+msgstr "Megtekinthető"
+
+msgctxt "Languages::privilege_sections.vendors"
+msgid "Vendors privileges"
+msgstr "Eladók kiváltságai"
+
+msgctxt "Languages::privilege_groups.vendors"
+msgid "Vendors"
+msgstr "Eladók"
+
+msgctxt "Languages::sales_period"
+msgid "Sales period"
+msgstr "Eladási időszak"
+
+msgctxt "Languages::sales_period_total"
+msgid "Sales period total"
+msgstr "Teljes eladási időszak"
+
+msgctxt "Languages::search_by_vendor"
+msgid "Search by vendor"
+msgstr "Keresés eladó alapján"
+
+msgctxt "Languages::sort_by_company_asc"
+msgid "Sort by alphabetical: A to Z"
+msgstr "Rendezés ábécé szerint: A-tól Z-ig"
+
+msgctxt "Languages::sort_by_company_desc"
+msgid "Sort by alphabetical: Z to A"
+msgstr "Rendezés ábécé szerint: A-tól Z-ig"
+
+msgctxt "Languages::text_company_status_active_to_pending"
+msgid "Your vendor status has been changed from Active to Pending."
+msgstr "Eladói státuszod aktívról függőben lévőre változott."
+
+msgctxt "Languages::text_company_status_disabled_to_pending"
+msgid "Your vendor status has been changed from Disabled to Pending."
+msgstr "Eladói státuszod Letiltottról Függőre változott."
+
+msgctxt "Languages::text_company_status_pending"
+msgid "The Pending status allows you to log in to you admin panel, change your company information, and fill your store with products."
+msgstr "A Függő státusz lehetővé teszi, hogy bejelentkezz az adminisztrációs felületre, megváltoztasd a cégadatokat, és feltöltsd a piactered termékekkel."
+
+msgctxt "Languages::text_company_status_new_to_active"
+msgid "Your request for vendor [company] was approved."
+msgstr "A [company] vállalat eladói kérelmét jóváhagytuk."
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_created"
+msgid "New administrator was created. You can access to the administrator area: <a href=\"[link]\">[link_text]</a> by using the following credentials:<br />Login: [login]<br />Password: [password]"
+msgstr "Új adminisztrátor lett létrehozva. Hozzáférhetsz az adminisztrátori területhez: <a href=\"[link]\">[link_text]</a> a következő hitelesítő adatokkal:<br />Felhasználónév: [login]<br />Jelszó: [password]"
+
+msgctxt "Languages::text_company_status_new_to_active_administrator_updated"
+msgid "Type of your account [login] changed to administrator. You may login into the administrator area: <a href=\"[link]\">[link_text]</a>"
+msgstr "A fiókod típusa [login] adminisztrátorira változott. Bejelentkezhetsz az adminisztrátori területre: <a href=\"[link]\">[link_text]</a>"
+
+msgctxt "Languages::text_company_status_new_to_active_subj"
+msgid "Your request for vendor was approved."
+msgstr "Az eladói kérelmed jóváhagytuk."
+
+msgctxt "Languages::text_company_status_new_to_disable"
+msgid "Your request for vendor [company] was rejected."
+msgstr "A [company] vállalat eladói kérelmét elutasítottuk."
+
+msgctxt "Languages::text_company_status_new_to_disable_subj"
+msgid "Your request for vendor was rejected."
+msgstr "Eladói kérelmed elutasítottuk."
+
+msgctxt "Languages::text_company_status_new_to_pending"
+msgid "Congratulations, your application for getting a vendor account has been approved. Once we review you accont information, we will publish it on our website."
+msgstr "Gratulálunk, az eladói fiók megszerzésére vonatkozó kérelmed jóváhagytuk. Amint átnéztük fiókadataidat, közzé fogjuk tenni a weboldalunkon."
+
+msgctxt "Languages::text_company_status_pending_subj"
+msgid "Your company is waiting for approval."
+msgstr "Vállalata jóváhagyásra vár."
+
+msgctxt "Languages::text_company_status_pending_to_active"
+msgid "Your profile changes for vendor [company] were approved."
+msgstr "A [company] vállalat eladói profiljának módosítását jóváhagytuk."
+
+msgctxt "Languages::text_error_adding_request"
+msgid "Error while adding the request."
+msgstr "Hiba történt a kérelem hozzáadása során."
+
+msgctxt "Languages::text_new_payment_was_created"
+msgid "New payment was created"
+msgstr "Új fizetés sikeresen létrehozva"
+
+msgctxt "Languages::text_not_approved_vendors"
+msgid "You have vendors that require your approval. Please <a href=\"[link]\">follow this link</a> to review these vendors."
+msgstr "Eladók várnak jóváhagyásodra. Az <a href=\"[link]\">alábbi linken</a> megtekintheted őket."
+
+msgctxt "Languages::text_created_new_vendors"
+msgid "A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor.</a> "
+msgstr "Egy új szállító regisztrált, és hozzáférést kapott a kirakathoz és az adminisztrációs panelhez. <a href=\"[link]\">Használja ezt a hivatkozást a szállító megtekintéséhez.</a> "
+
+msgctxt "Languages::text_successful_request"
+msgid "Your request was successfully added. You will receive the email with the answer later."
+msgstr "Kérésed sikeresen elküldted. Hamarosan megválaszoljuk e-mailben."
+
+msgctxt "Languages::total_amount_due"
+msgid "Total amount due"
+msgstr "Teljes összeg"
+
+msgctxt "Languages::total_period_payout"
+msgid "Total sales period payout"
+msgstr "Teljes értékesítési időszak kifizetése"
+
+msgctxt "Languages::total_unpaid_balance"
+msgid "Total unpaid balance"
+msgstr "Ki nem fizetett egyenleg összesen"
+
+msgctxt "Languages::tt_views_payments_update_taxes"
+msgid "If payment surcharge is taken from vendors, taxes are not calculated"
+msgstr "Amennyiben felár kerül felszámolásra az eladókhoz, adókat nem kalkulál a rendszer"
+
+msgctxt "Languages::unable_delete_vendor_orders_exists"
+msgid "Unable to delete this vendor account because there are orders containing the products of this vendor in the store database. To delete the account, please delete all such orders first."
+msgstr "Nem lehet törölni ezt az eladót, mert az adatbázisban vannak olyan termékek, melyek ennek az eladónak a termékeit tartalmazzák. A fiók törléséhez először törölj minden ilyen rendelést."
+
+msgctxt "Languages::vendor"
+msgid "Vendor"
+msgstr "Eladó"
+
+msgctxt "Languages::vendors"
+msgid "Vendors"
+msgstr "Eladók"
+
+msgctxt "Languages::vendors_menu_title"
+msgid "Vendors"
+msgstr "Eladók"
+
+msgctxt "Languages::vendors_menu_description"
+msgid "Sorted list of vendor accounts registered in the store."
+msgstr "A piactéren regisztrált eladói fiókok rendezett listája."
+
+msgctxt "Languages::vendor_account_balance"
+msgid "Account balance"
+msgstr "Fiókegyenleg"
+
+msgctxt "Languages::vendor_approval_pending"
+msgid "New vendor account application"
+msgstr "Új eladói kérelem"
+
+msgctxt "Languages::vendor_id"
+msgid "Vendor ID"
+msgstr "Eladó azonosító"
+
+msgctxt "Languages::vendor_name"
+msgid "Vendor name"
+msgstr "Eladó neve"
+
+msgctxt "Languages::vendor_pages"
+msgid "Vendor pages"
+msgstr "Eladó oldalai"
+
+msgctxt "Languages::vendor_panel"
+msgid "Vendor panel"
+msgstr "Eladói panel"
+
+msgctxt "Languages::view_vendor_orders"
+msgid "View vendor orders"
+msgstr "Eladói rendelések megtekintése"
+
+msgctxt "Languages::view_vendor_products"
+msgid "View vendor products"
+msgstr "Eladó termékeinek megtekintése"
+
+msgctxt "Languages::view_vendor_users"
+msgid "View vendor users"
+msgstr "Eladó felhasználóinak megtekintése"
+
+msgctxt "Languages::view_vendor_admins"
+msgid "View vendor admins"
+msgstr "Eladó adminjainak megtekintése"
+
+msgctxt "Languages::you_can_edit_account_details"
+msgid "You can edit the account details now."
+msgstr "Itt szerkesztheted a felhasználói fiók adatait."
+
+msgctxt "SettingsSections::Vendors"
+msgid "Vendors"
+msgstr "Eladók"
+
+msgctxt "SettingsOptions::vendors_per_page"
+msgid "Vendors per page"
+msgstr "Eladó/oldal"
+
+msgctxt "SettingsOptions::apply_for_vendor"
+msgid "Allow users to apply for vendor account"
+msgstr "Engedélyezés felhasználóknak, hogy eladói fiókot igényeljenek"
+
+msgctxt "SettingsOptions::create_vendor_administrator_account"
+msgid "Automatically create the administrator account for the new approved vendor. (If the \"Allow users to apply for vendor account\" setting is enabled)"
+msgstr "Adminisztrációs fiók automatikusan létrehozása az újonnan jóváhagyott eladó számára. (Amennyiben a \"Engedélyezés felhasználóknak, hogy eladói fiókot igényeljenek\" beállítás engedélyezett)"
+
+msgctxt "SettingsOptions::display_vendor"
+msgid "Display product vendor"
+msgstr "Termék eladójának megjelenítése"
+
+msgctxt "SettingsOptions::need_agree_with_terms_n_conditions"
+msgid "Applying vendors must agree to the terms & conditions"
+msgstr "A jelentkező eladóknak el kell fogadniuk az általános szerződési feltételeket."
+
+msgctxt "SettingsOptions::mailer_send_from_admin"
+msgid "Send vendor emails from marketplace email addresses"
+msgstr "Eladói e-mailek küldése a piactéri e-mail címekről"
+
+msgctxt "SettingsOptions::allow_vendor_manage_features"
+msgid "Allow vendors to manage product features"
+msgstr "Az eladók számára lehetővé teszi a termékjellemzők kezelését"
+
+msgctxt "SettingsTooltips::need_agree_with_terms_n_conditions"
+msgid "The text of terms & conditions will be retrieved from the \"vendor_terms_n_conditions_content\" language variable."
+msgstr "Az Általános Szerződési Feltételek szövege a \"terms_n_conditions_content\" nyelvi változóban található."
+
+msgctxt "SettingsOptions::allow_approve_vendors_in_two_steps"
+msgid "Review new vendors before granting access to the admin panel"
+msgstr "Ellenőrizd az új eladókat, mielőtt hozzáférést adsz az admin panelhoz"
+
+msgctxt "Languages::use_for_apply_for_vendor_account"
+msgid "Apply for a vendor account form"
+msgstr "Eladói regisztrációs űrlap igénylése"
+
+msgctxt "Languages::block_vendor_categories"
+msgid "Vendor categories"
+msgstr "Eladó kategóriái"
+
+msgctxt "Languages::block_vendor_categories_description"
+msgid "Product categories available to a particular vendor"
+msgstr "Kategóriák, melyek bizonyos eladók számára engedélyezettek"
+
+msgctxt "Languages::block_vendor_information"
+msgid "Vendor information"
+msgstr "Eladói információ"
+
+msgctxt "Languages::block_vendor_logo"
+msgid "Vendor logo"
+msgstr "Eladó logója"
+
+msgctxt "Languages::show_location"
+msgid "Show location"
+msgstr "Tartózkodási hely megjelenítése  "
+
+msgctxt "Languages::show_products_count"
+msgid "Show products count"
+msgstr "Termékek számának megjelenítése"
+
+msgctxt "Languages::block_vendor_search"
+msgid "Search by vendor products"
+msgstr "Keresés eladó termékei alapján"
+
+msgctxt "Languages::vendor_filters"
+msgid "Vendor Product filters"
+msgstr "Eladó termékszűrői"
+
+msgctxt "Languages::vendor_products"
+msgid "Vendor products"
+msgstr "Eladó termékei"
+
+msgctxt "Languages::apply_shipping_for_all_vendors"
+msgid "Allow shipping for all vendors"
+msgstr "Szállítás engedélyezése minden eladó számára"
+
+msgctxt "Languages::apply_shipping_for_all_vendors_confirm"
+msgid "The shipping method will be applied to all the vendors. Are you sure you want to proceed?"
+msgstr "A szállítási módot a valamennyi eladóra alkalmazni fogja. Biztos, hogy folytatni szeretnéd?"
+
+msgctxt "Languages::shipping_applied_to_vendors"
+msgid "The shipping method was applied to [vendors] vendors"
+msgstr "A szállítási módot a [vendors] eladókra alkalmaztuk."
+
+msgctxt "Languages::block_vendor_filters"
+msgid "Vendor filters"
+msgstr "Eladó szűrői"
+
+msgctxt "Languages::email_template.apply_for_vendor_notification"
+msgid "Apply for vendor"
+msgstr "Jelentkezz eladónak"
+
+msgctxt "Languages::email_template.company_status_notification"
+msgid "Company status change"
+msgstr "Vállalat státuszának változása"
+
+msgctxt "Languages::email_template.company_payment_notification"
+msgid "Company payment"
+msgstr "Vállalati fizetés"
+
+msgctxt "Languages::email_template.vendor_invitation"
+msgid "Vendor invitation"
+msgstr "Eladói meghívó"
+
+msgctxt "Languages::vendor_invitation_email_subject"
+msgid "Come Sell With [default_company_name]"
+msgstr "Gyere, értékesíts a [default_company_name] vállalattal együtt"
+
+msgctxt "Languages::vendor_invitation_email_body"
+msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name].  You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
+msgstr "<p>Hello,</p><br/><p>Meghívunk, hogy <a href=\"[create_account_url]\">fiókot hozz létre</a> a [default_company_name]-nál. Lehetőséged lesz bővíteni ügyfélköröd azzal, hogy termékeidet belistázod a platformunkra, és értékesíted azokat látogatóinknak.</p><br/><p>Üdvözlettel,</p><p>[default_company_name] </p> csapata"
+
+msgctxt "Languages::vendor_terms_n_conditions"
+msgid "I accept the [terms_href]"
+msgstr "Elfogadom a [terms_href] feltételeit"
+
+msgctxt "Languages::vendor_terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Általános Szerződési Feltételek"
+
+msgctxt "Languages::vendor_terms_n_conditions_alert"
+msgid "In order to proceed, you need to accept our Terms and Conditions."
+msgstr "A továbblépéshez el kell fogadnod Általános Szerződési Feltételeket."
+
+msgctxt "Languages::vendor_terms_n_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Kérjük, olvasd el figyelmesen jelen Általános Szerződési Feltételeket (\"Feltételek\", \"ÁSZF\"), mielőtt a My Company (\"bennünket\", \"mi\" vagy \"a miénk\") által üzemeltetett <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> weboldal és a My Mobile App mobilalkalmazás (a \"Szolgáltatás\") használatát megkezdené.</p><p><strong>A Szolgáltatáshoz való hozzáféréssel vagy annak használatával elfogadod, hogy a jelen Feltételek kötelező érvényűek. Ha nem értesz egyet a Feltételek bármely részével, akkor nem férhetsz hozzá a Szolgáltatáshoz.</strong></p><p><strong>Vásárlások</strong></p><p>Ha a Szolgáltatáson keresztül elérhetővé tett terméket vagy szolgáltatást (\"Vásárlás\") kívánsz vásárolni, akkor megkérhetünk arra, hogy adj meg bizonyos, a Vásárlással kapcsolatos információkat, beleértve, de nem kizárólag . ..</p><p><strong>Tartalom</strong></p><p>Szolgáltatásunk lehetővé teszi, hogy bizonyos információkat, szövegeket, grafikákat, videókat vagy egyéb anyagokat (\"Tartalom\") tégy közzé, linkelj, tárolj, ossz meg és más módon tégy elérhetővé. Felelős vagy a ...</p><p><p><strong>Változások</strong></p><p> bekövetkeztéért. Fenntartjuk magunknak a jogot arra, hogy saját belátásunk szerint bármikor módosítsuk vagy helyettesítsük jelen Feltételeket. Ha a módosítás lényeges, igyekszünk legalább 30 nappal az új feltételek hatályba lépése előtt értesítést küldeni. Azt, hogy mi minősül lényeges módosításnak, saját belátásunk szerint határozzuk meg.</p><p><strong>Kapcsolatfelvétel</strong></p><p>Ha bármilyen kérdésed van a jelen Feltételekkel kapcsolatban, kérjük, vedd fel velünk a kapcsolatot.</p> "
+
+msgctxt "Languages::mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus"
+msgstr "Ehhez a művelethez [product] Ultimate vagy [product] Plus szükséges."
+
+msgctxt "Languages::mve_ultimate_license_required"
+msgid "[product] Ultimate is required for this"
+msgstr "Ehhez [product] Ultimate szükséges"
+
+msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
+msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
+msgstr "Ehhez a művelethez [product] Ultimate vagy [product] Plus szükséges. Ha <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> vagy <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a> termékre váltasz, hozzáférsz ezek valamennyi funkciójához."
+
+msgctxt "Languages::max_storefronts_reached"
+msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
+msgstr "<p>Elérted a licencedhez rendelkezésre álló piacterek számának limitjét. Újabb piactér hozzáadásához <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, azaz korlátlan számú piacteret tartalmazó kiadás megvásárlására van szükség.</p>"
+
+msgctxt "Languages::mve_plus_license"
+msgid "[product] Plus"
+msgstr "[product] Plus"
+
+msgctxt "Languages::mve_ultimate_license"
+msgid "[product] Ultimate"
+msgstr "[product] Ultimate"
+
+msgctxt "Languages::text_mve_plus_license_required"
+msgid "<p>Let your vendors receive money from customers directly via your marketplace.</p><p>Manage vendors' abilities via user groups, and allow your vendors to change the looks of their stores.</p><p>Create a unified catalog, where vendors can start selling any product in a matter of minutes.</p>"
+msgstr "<p>Hagyd, hogy az eladók közvetlenül a piactereden keresztül kapjanak pénzt a vásárlóktól.</p><p>Kezeld az eladók képességeit felhasználói csoportokon keresztül, és tedd lehetővé az eladóid számára, hogy megváltoztathassák a piacterek megjelenését.</p><p>Egységes katalógust hozhatsz létre, ahol az eladók percek alatt elkezdhetik bármely termék értékesítését.</p>"
+
+msgctxt "Languages::text_mve_ultimate_license_required"
+msgid "<p>Branch out: get an unlimited number of storefronts for your marketplace.</p><p>A storefront is another domain created either for a specific country or city, or for a specific part of your product catalog.</p><p>Get all the other functionality of [product] Plus.</p>"
+msgstr "<p>Lépj új utakra: korlátlan számú kirakatot kaphatsz piacteréhez.</p><p>A kirakat egy másik domain, amelyet vagy egy adott országhoz vagy városhoz, vagy a termékkatalógusod adott részéhez hozhatsz létre.</p><p>A [product] Plus összes többi funkcióját is rendelkezésedre bocsátjuk.</p> "
+
+msgctxt "Languages::text_mve_ultimate_license"
+msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
+msgstr "A [product] speciális kiadása, amely a [product] Plus összes funkcióját és korlátlan számú kirakatot kínál. Ha <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>-ra váltasz, soha többé nem fogod látni a kirakatok korlátozásáról szóló üzenetet."
+
+msgctxt "Languages::product_state_description.mve.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adj meg érvényes licenszkódot.</p><p>Bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>A [product] terméket aktiváltad. Mostantól időbeli korlátozás nélkül használhatod. A haladó funkciókhoz (például külön pénztár minden egyes eladóhoz és az eladók által létrehozott promóciókhoz) szerezd be a <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus licenszet.</a> Ha többszörös domaint szeretnél használni piacteredhez, szerezd be a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate licenszet.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>Elérés az összes funkcióhoz, kivéve a többszöri piactéri felületet. Ha meghatározott célközönséghez tartozó domaineket szeretnél, szerezd be a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate licensz.</a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adj meg érvényes licenszkódot.</p><p>Bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.enterprise"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Teljes korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg egy érvényes licencszámot.</p><p>Ez az üzemmód bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p> <br />"
+msgstr "<p>Korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg érvényes licenszkódot.</p><p>Bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru"
+msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
+msgstr "<p>A [product] terméket aktiváltad. Mostantól időbeli korlátozás nélkül használhatod. A haladó funkciókhoz (például külön pénztár minden egyes eladóhoz és az eladók által létrehozott promóciókhoz) szerezd be a <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus licenszet.</a> Ha többszörös domaint szeretnél használni piacteredhez, szerezd be a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate licenszet.</a></p><br>"
+
+msgctxt "Languages::product_state_description.mve.ru.plus"
+msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
+msgstr "<p>Elérés az összes funkcióhoz, kivéve a többszöri piactéri felületet. Ha meghatározott célközönséghez tartozó domaineket szeretnél, szerezd be a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate licensz.</a></p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adj meg érvényes licenszkódot.</p><p>Bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.ru.enterprise"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Teljes korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg egy érvényes licencszámot.</p><p>Ez az üzemmód bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr " A piactered mostantól aktív licencet használ. A [product] kiadással szinte az összes általunk kínált funkciót megkapod. A további funkciók (mint például a külön pénztár minden egyes eladó számára, és az eladók által létrehozott promóciók) a <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus kiadás</a> esetén érhetőek el. Létezik egy még haladóbb kiadás, a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, amely lehetővé teszi számodra többszöri piactéri felület használatát különböző célközönségek számára."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>Az <strong>Plus mód</strong> aktiválásra került. Ez az üzemmód a többszöri kirakat kivételével az összes fejlett e-kereskedelmi funkciót kínálja. Ha piacterednek valaha is szüksége lesz külön domainekre a különböző célközönségek számára, frissítsd licenszed <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>-ra."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Az <strong>Ultimate mód</strong> aktiválásra került. Ebben az üzemmódban az összes fejlett e-kereskedelmi funkció elérhető."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.enterprise"
+msgid "<strong>Enterprise mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Az</strong> vállalati mód aktiválva. Ebben a módban az összes fejlett e-kereskedelmi funkció elérhető."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru"
+msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
+msgstr "A piactered mostantól aktív licencet használ. A [product] kiadással szinte az összes általunk kínált funkciót megkapod. A további funkciók (például külön pénztár minden egyes eladó számára, és az eladók által létrehozott promóciók) a <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus kiadás</a> segítségével érhetők el. Létezik egy még fejlettebb kiadás, a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, amely lehetővé teszi többszöri piactéri felület használatát különböző célközönségek számára."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
+msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
+msgstr "<strong>Az <strong>Plus mód</strong> aktiválásra került. Ez az üzemmód a többszöri kirakat kivételével az összes fejlett e-kereskedelmi funkciót kínálja. Ha piacterednek valaha is szüksége lesz külön domainekre a különböző célközönségek számára, frissítsd licenszed <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>-ra."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
+msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Az <strong>Ultimate mód</strong> aktiválásra került. Ebben az üzemmódban az összes fejlett e-kereskedelmi funkció elérhető."
+
+msgctxt "Languages::text_store_mode_changed_to_mve.ru.enterprise"
+msgid "<strong>Enterprise mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
+msgstr "<strong>Az</strong> vállalati mód aktiválva. Ebben a módban az összes fejlett e-kereskedelmi funkció elérhető."
+
+msgctxt "Languages::store_mode.plus"
+msgid "Plus"
+msgstr "Plus"
+
+msgctxt "Languages::vendor_payouts.type"
+msgid "Type"
+msgstr "Típus"
+
+msgctxt "Languages::vendor_payouts.type.other"
+msgid "Other"
+msgstr "Egyéb"
+
+msgctxt "Languages::vendor_payouts.type.other.description"
+msgid "Other"
+msgstr "Egyéb"
+
+msgctxt "Languages::vendor_payouts.type.order_placed"
+msgid "Order placed"
+msgstr "Rendelés sikeresen feladva!"
+
+msgctxt "Languages::vendor_payouts.type.order_placed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> placed"
+msgstr "Rendelés <a href=\"[order_url]\">#[order_id]</a> sikeresen feladva"
+
+msgctxt "Languages::vendor_payouts.type.order_changed"
+msgid "Order changed"
+msgstr "Rendelés módosítva"
+
+msgctxt "Languages::vendor_payouts.type.order_changed.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> changed"
+msgstr "Rendelés <a href=\"[order_url]\">#[order_id]</a> módosítva"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded"
+msgid "Order refunded"
+msgstr "Rendelés összege visszatérítve"
+
+msgctxt "Languages::vendor_payouts.type.order_refunded.description"
+msgid "Order <a href=\"[order_url]\">#[order_id]</a> refunded"
+msgstr "Rendelés <a href=\"[order_url]\">#[order_id]</a> összege visszatérítve"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal"
+msgid "Withdrawal"
+msgstr "Levonás"
+
+msgctxt "Languages::vendor_payouts.type.withdrawal.description"
+msgid "Withdrawal"
+msgstr "Levonás"
+
+msgctxt "Languages::vendor_payouts.type.payout"
+msgid "Payout"
+msgstr "Kifizetés"
+
+msgctxt "Languages::vendor_payouts.type.payout.description"
+msgid "Payout"
+msgstr "Kifizetés"
+
+msgctxt "Languages::vendor_payouts.transactions"
+msgid "Transactions"
+msgstr "Tranzakciók"
+
+msgctxt "Languages::vendor_payouts.withdrawals"
+msgid "Balance withdrawals"
+msgstr "Levonás az egyenlegből"
+
+msgctxt "Languages::vendor_payouts.transaction_value"
+msgid "Transaction value"
+msgstr "Tranzakció értéke"
+
+msgctxt "Languages::vendor_payouts.income"
+msgid "Income"
+msgstr "Bevétel"
+
+msgctxt "Languages::vendor_payouts.income_carried_forward"
+msgid "Income carried forward"
+msgstr "Átvitt jövedelem"
+
+msgctxt "Languages::vendor_payouts.balance"
+msgid "Balance"
+msgstr "Egyenleg"
+
+msgctxt "Languages::vendor_payouts.balance_carried_forward"
+msgid "Balance carried forward"
+msgstr "Átvitt egyenleg"
+
+msgctxt "Languages::add_withdrawal"
+msgid "Request withdrawal"
+msgstr "Levonási kérelem"
+
+msgctxt "Languages::new_withdrawal"
+msgid "New withdrawal"
+msgstr "Új levonás"
+
+msgctxt "Languages::vendor_accounting"
+msgid "Accounting"
+msgstr "Könyvelés"
+
+msgctxt "Languages::vendor_accounting_menu_description"
+msgid "Income and expenditure statistics (total income, vendor balance, vendor withdrawals)."
+msgstr "Bevételi és kiadási statisztikák (összes bevétel, eladói egyenleg, eladói levonások)."
+
+msgctxt "Languages::vendor_payouts.current_balance"
+msgid "Current balance: [balance]"
+msgstr "Jelenlegi egyenleg: [balance]"
+
+msgctxt "Languages::vendor_payouts.current_balance_text"
+msgid "Current balance"
+msgstr "Jelenlegi egyenleg"
+
+msgctxt "Languages::vendor_payouts.approval_status"
+msgid "Approval status"
+msgstr "Jóváhagyás státusza"
+
+msgctxt "Languages::vendor_payouts.approval_status.P"
+msgid "Pending"
+msgstr "Függőben"
+
+msgctxt "Languages::vendor_payouts.approval_status.C"
+msgid "Completed"
+msgstr "Befejeződött"
+
+msgctxt "Languages::vendor_payouts.approval_status.D"
+msgid "Declined"
+msgstr "Elutasított"
+
+msgctxt "Languages::email_template.accounting_new_payout"
+msgid "Accounting: Payout has been issued"
+msgstr "Könyvelés: Kifizetés indult"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued"
+msgid "New payout has been issued"
+msgstr "Új kifizetés indult"
+
+msgctxt "Languages::vendor_payouts.new_payout_issued_text"
+msgid "A new payout of [amount] has been issued by [issuer]"
+msgstr " A(z) [issuer] új [amount] összegű kifizetést indított"
+
+msgctxt "Languages::vendor_payouts.view_details"
+msgid "You can view the details here"
+msgstr "A részleteket itt tekintheted meg"
+
+msgctxt "Languages::vendor_payouts.payout_comments"
+msgid "Payout comments"
+msgstr "Kifizetéssel kapcsolatos megjegyzések"
+
+msgctxt "Languages::email_template.accounting_new_withdrawal"
+msgid "Accounting: Withdrawal has been requested"
+msgstr " Könyvelés: Levonást kértek "
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested"
+msgid "New withdrawal has been requested"
+msgstr "Új levonást kértek"
+
+msgctxt "Languages::vendor_payouts.new_withdrawal_requested_text"
+msgid "A new withdrawal of [amount] has been requested by [requester]"
+msgstr "Újabb [amount] összegű levonást kért [requester]."
+
+msgctxt "Languages::vendor_payouts.withdrawal_comments"
+msgid "Withdrawal comments"
+msgstr "Levonással kapcsolatos megjegyzések"
+
+msgctxt "Languages::email_template.accounting_payout_approved"
+msgid "Accounting: Payout has been completed"
+msgstr "Könyvelés: A kifizetés teljesült"
+
+msgctxt "Languages::vendor_payouts.payout_approved"
+msgid "Payout has been completed"
+msgstr "A kifizetés teljesült"
+
+msgctxt "Languages::vendor_payouts.payout_approved_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Completed</b>"
+msgstr "A [date]-án/-én kiállított [amount] összegű kifizetés <b>Teljesült</b>-ként lett megjelölve."
+
+msgctxt "Languages::email_template.accounting_payout_declined"
+msgid "Accounting: Payout hasn't been completed"
+msgstr "Könyvelés: A kifizetés nem teljesült"
+
+msgctxt "Languages::vendor_payouts.payout_declined"
+msgid "Payout hasn't been completed"
+msgstr "A kifizetés nem teljesült"
+
+msgctxt "Languages::vendor_payouts.payout_declined_text"
+msgid "The payout of [amount] issued on [date] has been marked as <b>Not completed</b>"
+msgstr "A [date]-án/-én kiadott [amount] összegű kifizetés <b>nem teljesült</b>-ként lett megjelölve."
+
+msgctxt "Languages::email_template.accounting_withdrawal_approved"
+msgid "Accounting: Withdrawal has been completed"
+msgstr "Könyvelés: A levonás teljesült"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved"
+msgid "Withdrawal has been completed"
+msgstr "A levonás teljesült"
+
+msgctxt "Languages::vendor_payouts.withdrawal_approved_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Completed</b>"
+msgstr "A [date]-án/én kért [amount] összeg levonása <b>Teljesült</b>-ként lett megjelölve."
+
+msgctxt "Languages::email_template.accounting_withdrawal_declined"
+msgid "Accounting: Withdrawal has been declined"
+msgstr "Könyvelés: A levonás elutasításra került"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined"
+msgid "Withdrawal has been declined"
+msgstr "A levonás elutasításra került"
+
+msgctxt "Languages::vendor_payouts.withdrawal_declined_text"
+msgid "The withdrawal of [amount] requested on [date] has been marked as <b>Declined</b>"
+msgstr "A [date]-án/én kért [amount] összeg levonása <b>elutasított</b>-ként lett megjelölve."
+
+msgctxt "Languages::top_sellers"
+msgid "Top sellers"
+msgstr "Top eladók"
+
+msgctxt "SettingsOptions::can_edit_blocks"
+msgid "Allow vendors to edit layouts"
+msgstr "Lehetővé teszi az eladók számára az elrendezések szerkesztését"
+
+msgctxt "Languages::mve.container_not_used"
+msgid "This container currently has default configuration. It looks exactly like the store owner configured it. Vendors can use custom configuration to change the blocks in this container."
+msgstr "Ez a konténer jelenleg alapértelmezett konfigurációval rendelkezik. Pontosan úgy néz ki, ahogy a piactér tulajdonosa konfigurálta. Az eladók egyéni konfigurációval módosíthatják a blokkokat ebben a konténerben."
+
+msgctxt "SettingsOptions::can_edit_styles"
+msgid "Allow vendors to manage styles of the theme"
+msgstr "Lehetővé teszi az eladók számára a téma stílusainak kezelését"
+
+msgctxt "Languages::theme_editor.page_cant_be_configured"
+msgid "The appearance of this page can't be configured with the Theme editor."
+msgstr "Az oldal megjelenése nem konfigurálható a Témaszerkesztővel."
+
+msgctxt "Languages::error_admin_registers_as_vendor"
+msgid "You can't become a vendor because you are currently signed in as an administrator. Please sign out and resubmit the form. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Sign out</a></p>"
+msgstr "Nem válhatsz eladóvá, mert jelenleg adminisztrátorként vagy bejelentkezve. Kérjük, jelentkezz ki, és küldd el újra az űrlapot. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Kijelentkezés</a></p>"
+
+msgctxt "Languages::logo_for_the_customer_area"
+msgid "Logo for the customer area"
+msgstr "Logo a vásárlói felülethez"
+
+msgctxt "Languages::logo_for_invoices"
+msgid "Logo for invoices"
+msgstr "Logo a számlákhoz"
+
+msgctxt "Languages::vendor_language"
+msgid "Vendor language"
+msgstr "Eladó által használt nyelv"
+
+msgctxt "Languages::zipcode"
+msgid "Zipcode"
+msgstr "Irányítószám"
+
+msgctxt "Languages::vendors_statistics"
+msgid "Vendor's statistics"
+msgstr "Eladói statisztikák"
+
+msgctxt "Languages::vendors_activity"
+msgid "Vendor activity in the selected period"
+msgstr "Eladó tevékenysége a kiválasztott időszakban"
+
+msgctxt "Languages::vendors_activity.vendors_with_sales"
+msgid "Vendors with sales"
+msgstr "Értékesítést végző eladók"
+
+msgctxt "Languages::vendors_activity.new_vendors"
+msgid "New vendors"
+msgstr "Új eladók"
+
+msgctxt "Languages::vendors_activity.vendors_with_new_products"
+msgid "Vendors with new products"
+msgstr "Új termékekkel rendelkező eladók"
+
+msgctxt "Languages::vendors_activity.not_logged_in_vendors"
+msgid "Vendors who haven't signed in"
+msgstr "Nem bejelentkezett eladók"
+
+msgctxt "Languages::vendors_activity.new_products"
+msgid "New products"
+msgstr "Új termékek"
+
+msgctxt "Languages::vendors_activity.orders_created"
+msgid "Orders created"
+msgstr "Létrehozott rendelések"
+
+msgctxt "Languages::vendor_names"
+msgid "Vendor names"
+msgstr "Eladók neve"
+
+msgctxt "Languages::vendor_logos_and_product_count"
+msgid "Vendor logos and product count"
+msgstr "Eladói logók és termékmennyiség"
+
+msgctxt "Languages::invite_vendors"
+msgid "Invite vendors"
+msgstr "Eladók meghívása"
+
+msgctxt "Languages::invite_vendors_title"
+msgid "Invite people to register as vendors in your marketplace"
+msgstr "Hívj meg másokat is, hogy regisztráljanak eladóként a piactereden."
+
+msgctxt "Languages::invite_vendors_enter_emails"
+msgid "Emails where to send invitations"
+msgstr "E-mail címek, ahová meghívókat küldhetsz"
+
+msgctxt "Languages::separate_multiple_email_addresses"
+msgid "If you enter multiple emails, write each of them in a new line."
+msgstr "Ha több e-mail címet adsz meg, mindegyiket új sorba írd."
+
+msgctxt "Languages::send_invitations"
+msgid "Invite"
+msgstr "Meghívás"
+
+msgctxt "Languages::pending_vendor_invitations"
+msgid "Pending vendor invitations"
+msgstr "Függőben lévő eladói meghívások"
+
+msgctxt "Languages::pending_vendor_invitations_menu_description"
+msgid "Manage invitations to your marketplace for potential vendors."
+msgstr "A potenciális eladóknak szánt, piacteredre szóló meghívások kezelése."
+
+msgctxt "Languages::vendor_invited_at"
+msgid "Date sent"
+msgstr "Elküldés dátuma"
+
+msgctxt "Languages::vendor_invitations_sent_notification"
+msgid "Invitations sent: [sent_quantity]"
+msgstr "Elküldött meghívók: [sent_quantity]"
+
+msgctxt "Languages::vendor_invitations_fail_notification"
+msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
+msgstr "El nem küldött meghívók: [failed_quantity]<br/><b>[emails_list]</b><br/>A meghívó nem kerül elküldésre, ha már korábban elküldték az adott e-mail címre. Ha azonban egyik meghívó sem megy el, és korábban nem küldtél meghívókat ezekre a címekre, kérjük, győződj meg arról, hogy a [product] tud-e egyáltalán e-maileket küldeni. Ha nem tud, akkor a probléma a [product] termékkel vagy a kiszolgáló konfigurációjával kapcsolatos. Ebben az esetben kérjük, fordulj a szerver adminisztrátorához, a tárhelyszolgáltatóhoz vagy <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">technikai támogató csapatunkhoz</a>, hogy kivizsgálják a problémát."
+
+msgctxt "Languages::vendor_edit_invitation_email_template"
+msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
+msgstr "<a href=\"[url]\">Eladói meghívó e-mail sablonjának a szerkesztése</a>"
+
+msgctxt "Languages::all_companies"
+msgid "All vendors"
+msgstr "Minden eladó"
+
+msgctxt "Languages::is_default_storefront"
+msgid "Default storefront"
+msgstr "Alapértelmezett kirakat"
+
+msgctxt "Languages::default_storefront_must_exist"
+msgid "Default storefront must exist in the store"
+msgstr "Alapértelmezett kirakatnak lennie kell a piactéren"
+
+msgctxt "Languages::cant_remove_default_storefront"
+msgid "Default storefront <b>[url]</b> can't be removed"
+msgstr "Alapértelmezett kirakat <b>[url]</b> nem távolítható el"
+
+msgctxt "Languages::copy_theme_from_another_storefront"
+msgid "Copy theme and its layouts from another storefront"
+msgstr "Téma és elrendezéseinek másolása másik kirakatból"
+
+msgctxt "Languages::n_vendors"
+msgid "[n] vendor|[n] vendors"
+msgstr "[n] eladó|[n] eladók"
+
+msgctxt "Languages::event.vendors_require_approval.name"
+msgid "Vendors require approval"
+msgstr "Az eladók jóváhagyásra várnak"
+
+msgctxt "Languages::event.vendors_require_approval.title"
+msgid "Some vendors are pending approval"
+msgstr "Néhány eladó jóváhagyása függőben van"
+
+msgctxt "Languages::event.vendor_status_changed.name"
+msgid "Vendor status changed to [status]"
+msgstr "Az eladó státusza [status] státuszra változott"
+
+msgctxt "Languages::event.vendor_status_changed_from.name"
+msgid "Vendor status changed from [status]"
+msgstr "Az eladó eddigi státusza [status] megváltozott "
+
+msgctxt "Languages::email_template.company_status_suspended_notification"
+msgid "Company status change to Suspended"
+msgstr "A vállalat státusza Felfüggesztettre változott"
+
+msgctxt "Languages::event.vendor_status_changed.title"
+msgid "Your status has been changed to [status]"
+msgstr "Státuszod [status] státuszra változott"
+
+msgctxt "Languages::event.vendor_status_changed.active.message"
+msgid "All your active products will now appear in the store"
+msgstr "Most már az összes aktív terméked megjelenik a piactéren."
+
+msgctxt "Languages::event.vendor_status_changed.pending.message"
+msgid "You can work with the admin panel and manage your products, but they won't appear to customers until your status changes to Active."
+msgstr "Dolgozhatsz az adminisztrációs panelen és kezelheted a termékeidet, de azok nem jelennek meg a vásárlók számára, amíg a státuszod nem változik Aktívra."
+
+msgctxt "Languages::vendor_notifications"
+msgid "Vendor notifications"
+msgstr "Eladó értesítései"
+
+msgctxt "Languages::log_in_as_vendor"
+msgid "Log in as vendor"
+msgstr "Jelentkezz be eladóként"
+
+msgctxt "Languages::vendor_owner"
+msgid "Vendor's main administrator"
+msgstr "Az eladó vezető adminisztrátora"
+
+msgctxt "Languages::owner_company"
+msgid "Vendor"
+msgstr "Eladó"
+
+msgctxt "Languages::block_manager.dynamic_entity_companies"
+msgid "vendor"
+msgstr "eladó"
+
+msgctxt "Languages::vendor_features_only"
+msgid "Features created by vendors"
+msgstr "Az eladók által létrehozott funkciók"
+
+msgctxt "Languages::any_vendor"
+msgid "Any vendor"
+msgstr "Bármelyik eladó"
+
+msgctxt "Languages::event.apply_for_vendor_notification.name"
+msgid "New vendor account application"
+msgstr "Új eladói kérelem"
+
+msgctxt "Languages::event.new_vendor_notification.name"
+msgid "New vendor account created"
+msgstr "Új szállítói fiók létrehozva"
+
+msgctxt "Languages::event.new_vendor_notification.title"
+msgid "New vendor registration"
+msgstr "Új szállító regisztráció"
+
+msgctxt "Languages::email_template.new_vendor_notification"
+msgid "New vendor account approved automatically"
+msgstr "Az új szállítói fiók automatikusan jóváhagyva"
+
+msgctxt "Languages::suspend_alert"
+msgid "<p>Your account is suspended. To lift the suspension, please contact us.</p>"
+msgstr "<p>A fiókodat felfüggesztettük. A felfüggesztés feloldásához kérjük, lépj kapcsolatba velünk.</p>"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.title"
+msgid "Your account is suspended"
+msgstr "A fiókodat felfüggesztettük"
+
+msgctxt "Languages::event.vendor_status_changed.suspended.message"
+msgid "To lift the suspension, please contact us."
+msgstr "A felfüggesztés feloldásához kérjük, lépj kapcsolatba velünk."
+
+msgctxt "Languages::text_company_status_suspended_subj"
+msgid "Your account is suspended"
+msgstr "A fiókodat felfüggesztettük"
+
+msgctxt "Languages::logo_section.vendor"
+msgid "Default logo for new vendors"
+msgstr "Alapértelmezett logó új eladók számára"
+
+msgctxt "ProfileFields::tax_number"
+msgid "Tax number"
+msgstr "Adószám"
+
+msgctxt "Languages::tax_number"
+msgid "Tax number"
+msgstr "Adószám"
+
+msgctxt "Languages::text_send_an_email_access_information"
+msgid "We'll send you an email with access information."
+msgstr "Küldeni fogunk egy emailt neked a hozzáférési adatokkal"
+
+msgctxt "Languages::storefront_all_common_categories"
+msgid "Storefront: All (Common categories)"
+msgstr "Piactéri kirakat: (Közös kategóriák)"
+
+msgctxt "Languages::sw.vendor_registration_flow"
+msgid "Vendor registration flow"
+msgstr "Eladói regisztrációs flow"
+
+msgctxt "Languages::sw.vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "Eladói adatok előzetes ellenőrzése"
+
+msgctxt "Languages::sw.access_to_admin_panel_and_storefront"
+msgid "Immediate access to admin panel and storefront"
+msgstr "Azonnali hozzáférés az admin panelhez és a piactérhez"
+
+msgctxt "Languages::sw.access_to_admin_panel_and_storefront.description"
+msgid "Applying vendors get the \"Active\" status. They immediately appear on the storefront and gain access to their admin panel. At the same time, their first vendor plan fee also becomes due for payment."
+msgstr "A jelentkező eladók \"Aktív\" státuszt kapnak. Rögtön meg fognak jelenni a piactér felületén és hozzá fognak férni az admin paneljükhöz. Egyidőben ezzel, az első eladói havidíj esedékes lesz számukra."
+
+msgctxt "Languages::sw.access_to_admin_panel_approval_storefront"
+msgid "Immediate access to admin panel; approval for storefront"
+msgstr "Azonnali hozzáférés az admin panelhez, jóváhagyás a piactéren"
+
+msgctxt "Languages::sw.access_to_admin_panel_approval_storefront.description"
+msgid "Applying vendors get the \"Pending\" status. They don't appear on the storefront yet, but gain access to their admin panel and can start working on their products. Once you change their status to \"Active\", their first vendor plan fee becomes due for payment."
+msgstr "A jelentkező eladók \"Függőben\" státuszt kapnak. Nem jelennek meg rögtön a piactér felületén, de hozzá fognak férni az admin paneljükhöz, melyben elkezdhetnek dolgozni a termékeiken. Amint a státuszuk \"Aktív\"-ra változik, az első eladói havidíj esedékes lesz számukra."
+
+msgctxt "Languages::sw.approval_access_to_admin_panel_and_storefront"
+msgid "Approval for access to admin panel and storefront"
+msgstr "Jóváhagyás az admin panel elérést és a piactéren való megjelenést illetően"
+
+msgctxt "Languages::sw.approval_access_to_admin_panel_and_storefront.description"
+msgid "Applying vendors get the \"New\" status. After you verify them, they'll get the \"Active\" status and gain access to their admin panel and the storefront. Their first vendor plan fee will also become due for payment."
+msgstr "A jelentkező eladók \"Új\" státuszt kapnak. Amint jóváhagyod őket, \"Aktív\" státuszba lépnek és hozzá fognak férni az admin paneljükhöz és a piactér felületéhez. Egyidőben ezzel, az első eladói havidíj esedékes lesz számukra."
+
+msgctxt "Languages::thank_you_for_registering_as_a_seller"
+msgid "Thank you for registering as a seller at [url]. We'll review your application and then grant you access to your admin panel in a separate email."
+msgstr "Köszönjük, hogy jelentkeztél eladónak az [url]-n. Átnézzük a jelentkezésedet és amint jóváhagytuk, elküldjük a hozzáférésedet az admin panelhez egy emailben."
+
+msgctxt "Languages::sw.check_newly_registered_vendors"
+msgid "Check newly-registered vendors manually before they appear on the storefront"
+msgstr "Manuálisan ellenőrizze az újonnan regisztrált szállítókat, mielőtt megjelennének a kirakatban"
+
+msgctxt "Languages::vendor_emails"
+msgid "Vendor emails"
+msgstr "Eladói e-mailek"
+
+msgctxt "Languages::product_state_description.mve.booking.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Teljes korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg egy érvényes licencszámot.</p><p>Ez az üzemmód bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.booking.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Teljes korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg egy érvényes licencszámot.</p><p>Ez az üzemmód bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.booking.ultimate"
+msgid "Your store now uses active license. All the advanced eCommerce features are available."
+msgstr "Az üzlete mostantól aktív licencet használ. Az összes fejlett e-kereskedelmi funkció elérhető."
+
+msgctxt "Languages::product_state_description.mve.booking_ru.new"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Teljes korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg egy érvényes licencszámot.</p><p>Ez az üzemmód bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::product_state_description.mve.booking_ru.ultimate"
+msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
+msgstr "<p>Teljes korlátlan hozzáférés az összes funkcióhoz. Az aktiváláshoz adjon meg egy érvényes licencszámot.</p><p>Ez az üzemmód bármikor aktiválható.</p><br />"
+
+msgctxt "Languages::text_store_mode_changed_to_mve.booking_ru.ultimate"
+msgid "Your store now uses active license. All the advanced eCommerce features are available."
+msgstr "Az üzlete mostantól aktív licencet használ. Az összes fejlett e-kereskedelmi funkció elérhető."
+
+msgctxt "Languages::error_vendor_name_exists"
+msgid "A vendor with this company name already exists. Please use another name."
+msgstr "Már létezik ilyen cégnévvel rendelkező szállító. Kérjük, használjon másik nevet."
+
+msgctxt "Languages::privileges.merge_vendors"
+msgid "Can merge vendors (only if editing vendors is allowed)"
+msgstr "Összevonhatja a szállítókat (csak ha a szállítók szerkesztése engedélyezett)"
+
+msgctxt "Languages::product_features_of_marketplace_are_not_selectable"
+msgid "This product feature belongs to the marketplace and couldn't be selected. You can only select or edit the features that belong to you."
+msgstr "Ez a termékfunkció a piactérhez tartozik, és nem választható ki. Csak az Önhöz tartozó funkciókat választhatja ki vagy szerkesztheti."
+
+msgctxt "Languages::product_features_groups_of_marketplace_are_not_selectable"
+msgid "This product feature group belongs to the marketplace and couldn't be selected. You can only select or edit the features that belong to you."
+msgstr "Ez a termékfunkciócsoport a piactérhez tartozik, ezért nem lehetett kiválasztani. Csak az Önhöz tartozó funkciókat választhatja ki vagy szerkesztheti."
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_panel_configurator.po\n"
+"X-Crowdin-File-ID: 6696\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "Myyjäpaneelin konfiguraattori"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "Yksinkertaistaa toimittajapaneelia näyttämällä toimittajille vain kentät ja valikot, jotka heidän täytyy nähdä."
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "Tuotesivun asetukset"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "Myyjäpaneelityyli"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "Tällä välilehdellä ei ole määritettäviä kenttiä, ja se näytetään sellaisenaan"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "Tuotesivun asetukset"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "Logot ja tyylit"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "Hallitse paikan päällä ja sähköpostiviesteissä käytettyjä logoja ja määritä mikrokaupan ja tuotesivujen ulkoasu"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "Sivuasettelut"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "Hallitse mikrokaupan ja tuotesivujen asetteluja"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "Hallinnoi, kuinka saat maksuja asiakkailta"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "Käyttöönoton helpottamiseksi toimittajat eivät näe kaikkia valikon kohtia ja joitakin kenttiä tuotteen muokkaussivulla. Voit määrittää, mitä toimittajat näkevät ja mitä eivät näe <a href=\"[config_url]\" target=\"_blank\">:n \"Vendor panel Configurator\" -lisäosan asetuksissa</a>. Jos poistat lisäosan käytöstä, valikot ja itse toimittajapaneeli muuttuvat markkinapaikan hallintapaneelin kaltaisiksi."
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "Sivupalkin väri"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "Elementin väri"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "Sivupalkin taustakuva"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "Jos lataat taustakuvan, se näytetään sivupalkin värin sijaan. Jos lataat sen, suosittelemme valitsemaan taustakuvaa vastaavan sivupalkin värin."
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "Myyjän tiedot"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "Tämä asetus ei näy tuotteen muokkaussivulla juuri nyt, koska se on asetettu maailmanlaajuisesti kaikille tuotteille. Tarkista <a href=\"[settings_url]\" target=\"_blank\">\"Asetukset\"-valikko</a> löytääksesi sen."
+

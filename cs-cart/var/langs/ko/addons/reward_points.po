@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/reward_points.po\n"
+"X-Crowdin-File-ID: 6654\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::reward_points"
+msgid "Reward points"
+msgstr "보상 점수"
+
+msgctxt "Addons::description::reward_points"
+msgid "Lets customers earn and spend points for purchases"
+msgstr "고객이 구매에 대해 포인트를 적립하고 사용할 수 있습니다."
+
+msgctxt "Languages::reward_points"
+msgid "Reward points"
+msgstr "보상 점수"
+
+msgctxt "Languages::reward_points_log"
+msgid "Reward points log"
+msgstr "보상 포인트 로그"
+
+msgctxt "Languages::reward_points_menu_description"
+msgid "Assign global reward points in your store."
+msgstr "매장에 글로벌 보상 포인트를 할당하세요."
+
+msgctxt "Languages::promotion_cond_reward_points"
+msgid "Points on user account"
+msgstr "사용자 계정의 포인트"
+
+msgctxt "Languages::points"
+msgid "Points"
+msgstr "포인트들"
+
+msgctxt "Languages::points_in_use"
+msgid "Points in use"
+msgstr "사용 포인트"
+
+msgctxt "Languages::points_in_use_lower"
+msgid "points in use"
+msgstr "사용 포인트"
+
+msgctxt "Languages::points_lower"
+msgid "points"
+msgstr "포인트들"
+
+msgctxt "Languages::points_in_use_lowercase"
+msgid "[n] point in use|[n] points in use"
+msgstr "[n] 점 사용|[n] 포인트 사용"
+
+msgctxt "Languages::points_lowercase"
+msgid "[n] point|[n] points"
+msgstr "[n] 점|[n] 점"
+
+msgctxt "Languages::points_to_use"
+msgid "Points to use"
+msgstr "사용 포인트"
+
+msgctxt "Languages::point_payment"
+msgid "Point payment"
+msgstr "포인트 결제"
+
+msgctxt "Languages::point_price"
+msgid "Price in points"
+msgstr "가격(포인트)"
+
+msgctxt "Languages::text_increase_points_in_use"
+msgid "The points used in the order were added to user account."
+msgstr "주문에 사용된 포인트가 사용자 계정에 추가되었습니다."
+
+msgctxt "Languages::text_points_used_in_order"
+msgid "Points were used in order"
+msgstr "포인트는 순서대로 사용"
+
+msgctxt "Languages::text_point_in_account"
+msgid "You have"
+msgstr "당신은"
+
+msgctxt "Languages::pay_by_points"
+msgid "Allow payment by points"
+msgstr "포인트 결제 허용"
+
+msgctxt "Languages::override_per"
+msgid "Override global PER"
+msgstr "글로벌 PER 무시"
+
+msgctxt "Languages::override_gc_points_brief"
+msgid "Override global/category points"
+msgstr "전역/범주 포인트 재정의"
+
+msgctxt "Languages::text_points_exceed_points_on_account"
+msgid "The number of the points entered by you exceeds the number of points at your account."
+msgstr "귀하가 입력한 포인트 수가 귀하의 계정에 있는 포인트 수를 초과합니다."
+
+msgctxt "Languages::text_points_exceed_points_that_can_be_applied"
+msgid "The number of points entered by you exceeds the number of points that can be applied to this order."
+msgstr "귀하가 입력한 포인트 수가 이 주문에 적용할 수 있는 포인트 수를 초과합니다."
+
+msgctxt "Languages::text_points_cannot_applied_because_subtotal_redeemed"
+msgid "Points cannot be applied because the subtotal is completely redeemed."
+msgstr "소계가 완전히 상환되어 포인트를 적용할 수 없습니다."
+
+msgctxt "Languages::text_cannot_apply_points_to_this_order_because_total"
+msgid "Unfortunately, you cannot apply points to this order, because the total cost is zero."
+msgstr "유감스럽게도 총 비용이 0이므로 이 주문에 포인트를 적용할 수 없습니다."
+
+msgctxt "Languages::text_cannot_apply_points_to_this_order_because_user"
+msgid "Unfortunately, you cannot apply points to this order, because you do not have enough points at the account."
+msgstr "죄송합니다. 계정에 충분한 포인트가 없기 때문에 이 주문에 포인트를 적용할 수 없습니다."
+
+msgctxt "Languages::text_order_status_has_not_been_changed"
+msgid "The order status has not been changed, because the user did not have enough points."
+msgstr "사용자의 포인트가 부족하여 주문 상태가 변경되지 않았습니다."
+
+msgctxt "Languages::price_in_points_increased"
+msgid "Price in points has been increased by"
+msgstr "포인트 가격이 인상되었습니다."
+
+msgctxt "Languages::price_in_points_decreased"
+msgid "Price in points has been decreased by"
+msgstr "포인트 가격이 인하되었습니다."
+
+msgctxt "Languages::earned_points"
+msgid "Points earned per product"
+msgstr "상품별 적립 포인트"
+
+msgctxt "Languages::override_g_points"
+msgid "Override global point value for all products in this category"
+msgstr "이 카테고리의 모든 제품에 대한 글로벌 포인트 값 무시"
+
+msgctxt "Languages::amount_type"
+msgid "Amount type"
+msgstr "금액 유형"
+
+msgctxt "Languages::maximum"
+msgid "Maximum"
+msgstr "최고"
+
+msgctxt "Languages::earned_point_modifier"
+msgid "Earned point modifier"
+msgstr "획득 포인트 수정자"
+
+msgctxt "Languages::override_gc_points"
+msgid "Override global/category point value for this product"
+msgstr "이 제품에 대한 글로벌/카테고리 포인트 값 재정의"
+
+msgctxt "Languages::view_user_points"
+msgid "View user points"
+msgstr "사용자 포인트 보기"
+
+msgctxt "Languages::log"
+msgid "Log"
+msgstr "통나무"
+
+msgctxt "Languages::subtract"
+msgid "Subtract"
+msgstr "덜다"
+
+msgctxt "Languages::change_points"
+msgid "Change points"
+msgstr "포인트 변경"
+
+msgctxt "Languages::add_subtract_points"
+msgid "Add & subtract points"
+msgstr "포인트 더하기 및 빼기"
+
+msgctxt "Languages::cleanup_log"
+msgid "Cleanup log"
+msgstr "정리 로그"
+
+msgctxt "Languages::we_would_like_to_inform"
+msgid "We would like to inform you that"
+msgstr "우리는 당신에게 그것을 알리고 싶습니다"
+
+msgctxt "Languages::reward_points_subj_added_to"
+msgid "[n] point have been added to your account.|[n] points have been added to your account."
+msgstr "계정에 [n] 포인트가 추가되었습니다.| 귀하의 계정에[n] 포인트가 추가되었습니다."
+
+msgctxt "Languages::reward_points_subj_subtracted_from"
+msgid "[n] point have been subtracted from your account.|[n] points have been subtracted from your account."
+msgstr "귀하의 계정에서 [n] 포인트가 차감되었습니다.| 귀하의 계정에서[n] 포인트가 차감되었습니다."
+
+msgctxt "Languages::privileges.manage_reward_points"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.reward_points"
+msgid "Reward points"
+msgstr "보상 점수"
+
+msgctxt "SettingsSections::reward_points::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::reward_points::point_rate"
+msgid "Points Exchange Rate (PER - the number of points equal to 1 conventional unit)"
+msgstr "포인트환율(PER - 기존 1단위에 해당하는 포인트수)"
+
+msgctxt "SettingsOptions::reward_points::auto_price_in_points"
+msgid "\"Price in points\" is calculated automatically on PER basis"
+msgstr "\"포인트 가격\"은 PER 기준으로 자동 계산됩니다."
+
+msgctxt "SettingsOptions::reward_points::price_in_points_with_discounts"
+msgid "\"Price in points\" is recalculated taking into account discounts"
+msgstr "\"포인트 가격\"은 할인을 고려하여 다시 계산됩니다."
+
+msgctxt "SettingsOptions::reward_points::points_with_discounts"
+msgid "\"Points\" is recalculated taking into account discounts"
+msgstr "\"포인트\"는 할인을 고려하여 다시 계산됩니다."
+
+msgctxt "SettingsOptions::reward_points::price_in_points_order_discount"
+msgid "\"Price in points\" is recalculated taking into account order discounts"
+msgstr "\"포인트 가격\"은 주문 할인을 고려하여 다시 계산됩니다."
+
+msgctxt "SettingsOptions::reward_points::reward_points_order_discount"
+msgid "\"Points\" is recalculated taking into account order discounts"
+msgstr "\"포인트\"는 주문 할인을 고려하여 다시 계산됩니다."
+
+msgctxt "SettingsOptions::reward_points::higher_level_extract"
+msgid "If the product and the product category do not have defined reward points but the higher level category has such reward points, extract data from it"
+msgstr "상품 및 상품 카테고리에 보상 포인트가 정의되어 있지 않지만 상위 카테고리에 보상 포인트가 있는 경우 해당 상품에서 데이터를 추출합니다."
+
+msgctxt "SettingsOptions::reward_points::several_points_action"
+msgid "If several reward points can be applied, set"
+msgstr "여러 보상 포인트를 적용할 수 있는 경우 설정"
+
+msgctxt "SettingsOptions::reward_points::consider_zero_values"
+msgid "Apply zero reward point values"
+msgstr "제로 보상 포인트 값 적용"
+
+msgctxt "SettingsOptions::reward_points::log_per_page"
+msgid "Log lines per page"
+msgstr "페이지당 로그 라인"
+
+msgctxt "SettingsTooltips::reward_points::consider_zero_values"
+msgid "The reward points rules with the zero values should be considered"
+msgstr "값이 0인 보상 포인트 규칙을 고려해야 합니다."
+
+msgctxt "SettingsVariants::reward_points::several_points_action::minimal_absolute"
+msgid "Absolute minimal value"
+msgstr "절대 최소값"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::minimal_percentage"
+msgid "Minimal percentage value"
+msgstr "최소 백분율 값"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::maximal_absolute"
+msgid "Absolute maximal value"
+msgstr "절대 최대값"
+
+msgctxt "SettingsVariants::reward_points::several_points_action::maximal_percentage"
+msgid "Maximal percentage value"
+msgstr "최대 백분율 값"
+
+msgctxt "Languages::email_template.reward_points_notification"
+msgid "Reward points"
+msgstr "보상 점수"
+
+msgctxt "Languages::grant_point"
+msgid "Grant reward points"
+msgstr "보상 포인트 부여"
+

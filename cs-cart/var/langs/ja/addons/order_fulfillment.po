@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "マーケットプレイスによるオーダーフルフィルメント"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "マーケットプレイスが出品者のために配送を行い、配送料を保持する出品者プランを提供することが可能です。"
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "配送タイプ"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "この出品者プランの一部として、出品者のための配送を処理します。マーケットプレイスが複数の出品者の配送を担当する場合、お客様は注文手続きト時にそれらすべての出品者の配送方法を1つだけ選択する必要があります。配送料はマーケットプレイスにも支払われます。<ul><li>出品者プランの一部としてマーケットプレイスによるフルフィルメントを選択している出品者は、マーケットプレイスに属する配送方法のみを使用します。</li><li>\"マーケットプレイスによるオーダーフルフィルメントを導入していない出品者は、出品者専用の配送方法のみを使用します。</li></ul> "
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "マーケットプレイスが所有する配送方法は、出品者プランにマーケットプレイスでのフルフィルメントが含まれている出品者が利用できるようになります。"
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "マーケットプレイスが所有する配送方法は、各出品者の設定によって利用できるようになります。これらの配送方法の料金は、マーケットプレイスではなく、出品者に支払われます。"
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "出品者 [name] は、注文フルフィルメントをマーケットプレイスで行うプランに移行しました。これにより、出品者は独自の配送方法ではなく、マーケットプレイスが提供する配送方法を利用することになります。"
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "マーケットプレイスによる注文フルフィルメントのあるプランに移行しました。今後は、マーケットプレイスでの配送方法がお客様に提供されます。"
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "出品者 [name] は、オーダーフルフィルメントをマーケットプレイスで行うプランに移行しました。これにより、出品者は独自の配送方法ではなく、マーケットプレイスが提供する配送方法を利用することになります。"
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "出品者 [name] は、マーケットプレイスによる注文フルフィルメントを行わないプランに移行しました。出品者は独自の配送方法を提供しなければなりません。"
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "マーケットプレイスによるフルフィルメント"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/shopify_import.po\n"
+"X-Crowdin-File-ID: 6800\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::shopify_import"
+msgid "Import from Shopify"
+msgstr "Shopify에서 가져오기"
+
+msgctxt "Addons::description::shopify_import"
+msgid "Allows you to import products from Shopify."
+msgstr "Shopify에서 제품을 가져올 수 있습니다."
+
+msgctxt "Languages::shopify_import.shopify_products_import"
+msgid "Shopify products"
+msgstr "쇼피파이 제품"
+
+msgctxt "Languages::shopify_import.sync_data_name"
+msgid "Import products from Shopify"
+msgstr "Shopify에서 제품 가져오기"
+
+msgctxt "Languages::shopify_import.choose_import_mode"
+msgid "Choose import mode"
+msgstr "가져오기 모드 선택"
+
+msgctxt "Languages::shopify_import.import_for_all_vendors"
+msgid "I'm launching my marketplace and setting up products for all vendors to use"
+msgstr "내 마켓플레이스를 시작하고 모든 공급업체가 사용할 제품을 설정하고 있습니다."
+
+msgctxt "Languages::shopify_import.import_for_specific_vendor"
+msgid "I'm importing these products for a specific vendor"
+msgstr "특정 공급업체를 위해 이 제품을 수입하고 있습니다."
+
+msgctxt "Languages::shopify_import.depends_on_common_products_addon"
+msgid "This option needs <a href=\"[link]\">Common products for vendors</a> add-on to be installed"
+msgstr "이 옵션에는 <a href=\"[link]\">공급업체용 공통 제품</a> 애드온이 설치되어야 합니다."
+
+msgctxt "Languages::shopify_import.invalid_csv_file_format"
+msgid "Uploaded CSV-file has invalid format or empty. Only files exported from Shopify supported."
+msgstr "업로드된 CSV 파일의 형식이 잘못되었거나 비어 있습니다. Shopify에서 내보낸 파일만 지원됩니다."
+
+msgctxt "Languages::shopify_import.products_without_sku"
+msgid "The SKU value is missing for some products. These products are always imported as new objects."
+msgstr "일부 제품의 SKU 값이 누락되었습니다. 이러한 제품은 항상 새 개체로 가져옵니다."
+
+msgctxt "Languages::shopify_import.last_status.S"
+msgid "Success"
+msgstr "성공"
+
+msgctxt "Languages::shopify_import.last_status.F"
+msgid "Failure"
+msgstr "실패"
+

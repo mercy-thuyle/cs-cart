@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_categories_fee.po\n"
+"X-Crowdin-File-ID: 6686\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_categories_fee"
+msgid "Vendor plans: Commissions by category"
+msgstr "Planos de fornecedor: Comissões por categoria"
+
+msgctxt "Addons::description::vendor_categories_fee"
+msgid "Allows you to set the transaction fees that vendors must pay for selling products from specific categories."
+msgstr "Permite que você defina as taxas de transação que os fornecedores devem pagar por vender produtos de categorias específicas."
+
+msgctxt "Languages::vendor_categories_fee.vendor_fee"
+msgid "Transaction fee (%)"
+msgstr "Taxa de transação (%)"
+
+msgctxt "Languages::vendor_categories_fee.absolute_fee"
+msgid "Absolute fee"
+msgstr "Taxa fixa"
+
+msgctxt "Languages::vendor_categories_fee.percent_fee"
+msgid "Percent fee"
+msgstr "Taxa percentual"
+

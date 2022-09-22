@@ -1,0 +1,4666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/mobile_app.po\n"
+"X-Crowdin-File-ID: 6546\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::mobile_app"
+msgid "Mobile application"
+msgstr "모바일 애플리케이션"
+
+msgctxt "Addons::description::mobile_app"
+msgid "Configure your mobile app for Android and iOS, download the config, and send it to us via Help Desk. We'll build and publish the app; for a fee, we can put you as the app developer. With access to the source code, you can publish the app yourself."
+msgstr "Android 및 iOS용 모바일 앱을 구성하고 구성을 다운로드한 다음 헬프 데스크를 통해 보내주십시오. 우리는 앱을 만들고 게시할 것입니다. 유료로 귀하를 앱 개발자로 지정할 수 있습니다. 소스 코드에 액세스하여 앱을 직접 게시할 수 있습니다."
+
+msgctxt "Languages::app_params"
+msgid "Application"
+msgstr "애플리케이션"
+
+msgctxt "Languages::mobile_app.mobile_apply"
+msgid "Apply"
+msgstr "적용하다"
+
+msgctxt "Languages::mobile_app.section.category"
+msgid "Categories"
+msgstr "카테고리"
+
+msgctxt "Languages::mobile_app.section.drawer"
+msgid "Drawer (sidebar menu)"
+msgstr "서랍(사이드바 메뉴)"
+
+msgctxt "Languages::mobile_app.section.navbar"
+msgid "Navigation bar"
+msgstr "탐색 모음"
+
+msgctxt "Languages::mobile_app.section.product_screen"
+msgid "Product screen"
+msgstr "제품 화면"
+
+msgctxt "Languages::mobile_app.section.main"
+msgid "Main screen"
+msgstr "메인 화면"
+
+msgctxt "Languages::mobile_app.section.profile"
+msgid "Profile"
+msgstr "프로필"
+
+msgctxt "Languages::mobile_app.settings.access_key"
+msgid "Access key:"
+msgstr "액세스 키:"
+
+msgctxt "Languages::mobile_app.mobile_account_delete_fail"
+msgid "Account delete fail"
+msgstr "계정 삭제 실패"
+
+msgctxt "Languages::mobile_app.appname"
+msgid "App Name"
+msgstr "앱 이름"
+
+msgctxt "Languages::mobile_app.mobile_settings"
+msgid "Settings"
+msgstr "설정"
+
+msgctxt "Languages::mobile_app.mobile_select_language"
+msgid "Select Language"
+msgstr "언어 선택"
+
+msgctxt "Languages::mobile_app.mobile_pages"
+msgid "Pages"
+msgstr "페이지"
+
+msgctxt "Languages::mobile_app.mobile_currency"
+msgid "Currency"
+msgstr "통화"
+
+msgctxt "Languages::mobile_app.mobile_language"
+msgid "Language"
+msgstr "언어"
+
+msgctxt "Languages::mobile_app.mobile_favorite"
+msgid "Favorite"
+msgstr "가장 좋아하는"
+
+msgctxt "Languages::mobile_app.appshortdescription"
+msgid "Short description"
+msgstr "간단한 설명"
+
+msgctxt "Languages::mobile_app.appfulldescription"
+msgid "Full description"
+msgstr "전체 설명"
+
+msgctxt "Languages::mobile_app.mobile_full_product_description"
+msgid "Full description"
+msgstr "전체 설명"
+
+msgctxt "Languages::mobile_app.supportemail"
+msgid "Support email"
+msgstr "지원 이메일"
+
+msgctxt "Languages::mobile_app.privacypolicyurl"
+msgid "Privacy Policy URL"
+msgstr "개인정보 보호정책 URL"
+
+msgctxt "Languages::ttc_mobile_app.appname"
+msgid "Application name (up to 30 symbols)"
+msgstr "애플리케이션 이름(최대 30자)"
+
+msgctxt "Languages::ttc_mobile_app.appshortdescription"
+msgid "Application short description (up to 80 symbols)"
+msgstr "애플리케이션 간단한 설명(최대 80개 기호)"
+
+msgctxt "Languages::ttc_mobile_app.appfulldescription"
+msgid "Application full description (up to 4000 symbols)"
+msgstr "애플리케이션 전체 설명(최대 4000개 기호)"
+
+msgctxt "Languages::ttc_mobile_app.supportemail"
+msgid "Will be displayed in 'about app' section"
+msgstr "'앱 정보' 섹션에 표시됩니다."
+
+msgctxt "Languages::ttc_mobile_app.privacypolicyurl"
+msgid "URL of the Privacy Policy page of your store"
+msgstr "스토어의 개인정보 보호정책 페이지 URL"
+
+msgctxt "Languages::mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "푸시 알림"
+
+msgctxt "Languages::ttc_mobile_app.pushnotifications"
+msgid "Push notifications"
+msgstr "푸시 알림"
+
+msgctxt "Languages::mobile_app.mobile_buyer"
+msgid "Buyer"
+msgstr "사는 사람"
+
+msgctxt "Languages::bundleid"
+msgid "Bundle Id"
+msgstr "번들 ID"
+
+msgctxt "Languages::apikey"
+msgid "API Key"
+msgstr "API 키"
+
+msgctxt "Languages::baseurl"
+msgid "Base URL"
+msgstr "기본 URL"
+
+msgctxt "Languages::siteurl"
+msgid "Site URL"
+msgstr "사이트 URL"
+
+msgctxt "Languages::mobile_app.shopname"
+msgid "Shop Name"
+msgstr "가게 이름"
+
+msgctxt "Languages::ttc_mobile_app.shopname"
+msgid "Shop Name"
+msgstr "가게 이름"
+
+msgctxt "Languages::layoutid"
+msgid "Layout Id"
+msgstr "레이아웃 ID"
+
+msgctxt "Languages::images_params"
+msgid "Images"
+msgstr "이미지"
+
+msgctxt "Languages::mobile_app.m_app_icon"
+msgid "App Icon"
+msgstr "앱 아이콘"
+
+msgctxt "Languages::tt_mobile_app.m_app_icon"
+msgid "1024 x 1024 (the big one is because it's Apple requirement, please note that it should look fine even if resized to 256x256)"
+msgstr "1024 x 1024 (큰 것은 Apple 요구 사항이기 때문에 256x256으로 크기를 조정해도 잘 보일 것입니다.)"
+
+msgctxt "Languages::mobile_app.m_app_splash_portrait"
+msgid "Splash Screen (portrait)"
+msgstr "스플래시 화면(세로)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_portrait"
+msgid "Recommended image size 2778x2778. It is displayed when you start the application on your mobile phone. For the best look on all devices, use the logo of your store. The logo shouldn't occupy the full width of the image, and should be in the center. We recommend a single-color or gradient background without small details."
+msgstr "권장 이미지 크기는 2778x2778입니다. 휴대폰에서 애플리케이션을 시작할 때 표시됩니다. 모든 기기에서 가장 잘 보이도록 하려면 매장 로고를 사용하세요. 로고는 이미지의 전체 너비를 차지해서는 안 되며 중앙에 있어야 합니다. 작은 디테일이 없는 단색 또는 그라데이션 배경을 권장합니다."
+
+msgctxt "Languages::mobile_app.m_app_splash_landscape"
+msgid "Splash Screen (landscape)"
+msgstr "스플래시 화면(가로)"
+
+msgctxt "Languages::tt_mobile_app.m_app_splash_landscape"
+msgid "Recommended image size 2208x1536. It is displayed when you start the application on your mobile phone"
+msgstr "권장 이미지 크기는 2208x1536입니다. 휴대전화에서 애플리케이션을 시작할 때 표시됩니다."
+
+msgctxt "Languages::mobile_app.m_app_store_logo"
+msgid "Feature Graphic image"
+msgstr "그래픽 이미지"
+
+msgctxt "Languages::tt_mobile_app.m_app_store_logo"
+msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
+msgstr "(1024 x 500). 애플리케이션의 Google Play 페이지에 표시되는 이미지입니다. \"추천 그래픽\" 섹션 <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">여기</a>참조"
+
+msgctxt "Languages::mobile_app.download_config"
+msgid "Download config"
+msgstr "구성 다운로드"
+
+msgctxt "Languages::mobile_app.preparing_config"
+msgid "Preparing config"
+msgstr "구성 준비 중"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Android 이미지 준비"
+
+msgctxt "Languages::mobile_app.preparing_android_images"
+msgid "Preparing Android images"
+msgstr "Android 이미지 준비"
+
+msgctxt "Languages::mobile_app.preparing_ios_icons"
+msgid "Preparing iOS icons"
+msgstr "iOS 아이콘 준비"
+
+msgctxt "Languages::mobile_app.preparing_ios_images"
+msgid "Preparing iOS images"
+msgstr "iOS 이미지 준비"
+
+msgctxt "Languages::mobile_app.preparing_archive"
+msgid "Preparing archive"
+msgstr "아카이브 준비 중"
+
+msgctxt "SettingsSections::mobile_app::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsSections::mobile_app::service"
+msgid "Configure"
+msgstr "구성"
+
+msgctxt "Languages::mobile_app.configure_colors"
+msgid "Colors"
+msgstr "그림 물감"
+
+msgctxt "Languages::mobile_app.fcm_api_key"
+msgid "API key for push notifications"
+msgstr "푸시 알림용 API 키"
+
+msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
+msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
+msgstr "번들 ID: [bundle_id]를 사용하여 <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase 콘솔</a> 에서 클라우드 메시징 <b>레거시 서버 키</b> 을 얻습니다."
+
+msgctxt "Languages::mobile_app.services_config"
+msgid "Firebase config file (Android)"
+msgstr "Firebase 구성 파일(Android)"
+
+msgctxt "Languages::tt_mobile_app.services_config"
+msgid "Upload the google-services.json file that was generated when you added an Android application in Firebase."
+msgstr "Firebase에 Android 애플리케이션을 추가할 때 생성된 google-services.json 파일을 업로드합니다."
+
+msgctxt "Languages::mobile_app.crop_when_resize"
+msgid "Crop image"
+msgstr "이미지 자르기"
+
+msgctxt "Languages::tt_mobile_app.crop_when_resize"
+msgid "If ticked, some part of an image might be lost (cut out) when it's resized, otherwise transparent borders might be added."
+msgstr "이 옵션을 선택하면 크기를 조정할 때 이미지의 일부가 손실(잘라내기)될 수 있으며 그렇지 않으면 투명한 테두리가 추가될 수 있습니다."
+
+msgctxt "Languages::mobile_app.apple_pay"
+msgid "Apple Pay"
+msgstr "애플 페이"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier"
+msgid "Merchant identifier"
+msgstr "판매자 식별자"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
+msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
+msgstr "<a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">개발자 계정 도움말</a>에 설명된 대로 <b>Merchant Identifier</b> 을 얻습니다."
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name"
+msgid "Merchant name"
+msgstr "판매자 이름"
+
+msgctxt "Languages::mobile_app.apple_pay_merchant_name_tooltip"
+msgid "Enter the Merchant ID Description that you used when registering your Merchant ID at the Apple Developer website."
+msgstr "Apple 개발자 웹 사이트에서 판매자 ID를 등록할 때 사용한 판매자 ID 설명을 입력합니다."
+
+msgctxt "Languages::mobile_app.apple_pay_supported_networks"
+msgid "Payment networks"
+msgstr "결제 네트워크"
+
+msgctxt "Languages::mobile_app.app_translations"
+msgid "Mobile application translations"
+msgstr "모바일 애플리케이션 번역"
+
+msgctxt "Languages::mobile_app.edit_app_translations"
+msgid "Edit mobile application texts"
+msgstr "모바일 애플리케이션 텍스트 편집"
+
+msgctxt "Languages::mobile_app.upload_existing_translations"
+msgid "Update texts using existing locale files"
+msgstr "기존 로케일 파일을 사용하여 텍스트 업데이트"
+
+msgctxt "Languages::mobile_app.invalid_locale_file"
+msgid "Locale file selected for the \"[language]\" language is not a valid JSON file"
+msgstr "\"[language]\" 언어에 대해 선택한 로케일 파일은 유효한 JSON 파일이 아닙니다."
+
+msgctxt "Languages::mobile_app.app_translation_updated.item"
+msgid "[language]: [n] texts|[language]: [n] texts"
+msgstr "[language]: [n] 텍스트|[language]: [n] 텍스트"
+
+msgctxt "Languages::mobile_app.app_translation_updated"
+msgid "Mobile application translations have been updated"
+msgstr "모바일 애플리케이션 번역이 업데이트되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_optional"
+msgid "(Optional)"
+msgstr "(선택 과목)"
+
+msgctxt "Languages::mobile_app.mobile_aberdeenshire"
+msgid "Aberdeenshire"
+msgstr "애버딘셔"
+
+msgctxt "Languages::mobile_app.mobile_afghanistan"
+msgid "Afghanistan"
+msgstr "아프가니스탄"
+
+msgctxt "Languages::mobile_app.mobile_aisne"
+msgid "Aisne"
+msgstr "아이즈네"
+
+msgctxt "Languages::mobile_app.mobile_aland_islands"
+msgid "Aland Islands"
+msgstr "올란드 제도"
+
+msgctxt "Languages::mobile_app.mobile_alaska"
+msgid "Alaska"
+msgstr "알래스카"
+
+msgctxt "Languages::mobile_app.mobile_albacete"
+msgid "Albacete"
+msgstr "알바세테"
+
+msgctxt "Languages::mobile_app.mobile_albania"
+msgid "Albania"
+msgstr "알바니아"
+
+msgctxt "Languages::mobile_app.mobile_alessandria"
+msgid "Alessandria"
+msgstr "알레산드리아"
+
+msgctxt "Languages::mobile_app.mobile_algeria"
+msgid "Algeria"
+msgstr "알제리"
+
+msgctxt "Languages::mobile_app.mobile_alicante"
+msgid "Alicante"
+msgstr "알리칸테"
+
+msgctxt "Languages::mobile_app.mobile_allier"
+msgid "Allier"
+msgstr "알리에"
+
+msgctxt "Languages::mobile_app.mobile_almeria"
+msgid "Almería"
+msgstr "알메리아"
+
+msgctxt "Languages::mobile_app.mobile_alpes_maritimes"
+msgid "Alpes-Maritimes"
+msgstr "알프스 마리팀"
+
+msgctxt "Languages::mobile_app.mobile_alpes_de_haute_provence"
+msgid "Alpes-de-Haute-Provence"
+msgstr "알프 드 오트 프로방스"
+
+msgctxt "Languages::mobile_app.mobile_altajskij_kraj"
+msgid "Altajskij kraj"
+msgstr "알타이스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_american_samoa"
+msgid "American Samoa"
+msgstr "아메리칸 사모아"
+
+msgctxt "Languages::mobile_app.mobile_amurskaja_oblast"
+msgid "Amurskaja oblast'"
+msgstr "아무르스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_ancona"
+msgid "Ancona"
+msgstr "안코나"
+
+msgctxt "Languages::mobile_app.mobile_andorra"
+msgid "Andorra"
+msgstr "안도라"
+
+msgctxt "Languages::mobile_app.mobile_anglesey"
+msgid "Anglesey"
+msgstr "앵글시"
+
+msgctxt "Languages::mobile_app.mobile_angola"
+msgid "Angola"
+msgstr "앙골라"
+
+msgctxt "Languages::mobile_app.mobile_anguilla"
+msgid "Anguilla"
+msgstr "앵귈라"
+
+msgctxt "Languages::mobile_app.mobile_angus"
+msgid "Angus"
+msgstr "앵거스"
+
+msgctxt "Languages::mobile_app.mobile_antarctica"
+msgid "Antarctica"
+msgstr "남극"
+
+msgctxt "Languages::mobile_app.mobile_anonymous"
+msgid "Anonymous"
+msgstr "익명의"
+
+msgctxt "Languages::mobile_app.mobile_antigua_and_barbuda"
+msgid "Antigua and Barbuda"
+msgstr "앤티가 바부다"
+
+msgctxt "Languages::mobile_app.mobile_aosta"
+msgid "Aosta"
+msgstr "아오스타"
+
+msgctxt "Languages::mobile_app.mobile_appenzell_rhodes_interieures"
+msgid "Appenzell Rhodes-Intérieures"
+msgstr "Appenzell Rhodes-Intérieures"
+
+msgctxt "Languages::mobile_app.mobile_ardennes"
+msgid "Ardennes"
+msgstr "아르덴"
+
+msgctxt "Languages::mobile_app.mobile_ardeche"
+msgid "Ardèche"
+msgstr "아르데슈"
+
+msgctxt "Languages::mobile_app.mobile_delete_account_alert"
+msgid "Are you sure you want to delete your account?"
+msgstr "계정을 삭제하시겠습니까?"
+
+msgctxt "Languages::mobile_app.mobile_arezzo"
+msgid "Arezzo"
+msgstr "아레초"
+
+msgctxt "Languages::mobile_app.mobile_argentina"
+msgid "Argentina"
+msgstr "아르헨티나"
+
+msgctxt "Languages::mobile_app.mobile_argovie"
+msgid "Argovie"
+msgstr "아르고비"
+
+msgctxt "Languages::mobile_app.mobile_argyll_and_bute"
+msgid "Argyll and Bute"
+msgstr "아가일과 뷰트"
+
+msgctxt "Languages::mobile_app.mobile_arhangelskaja_oblast"
+msgid "Arhangel'skaja oblast'"
+msgstr "아르한겔스카야주'"
+
+msgctxt "Languages::mobile_app.mobile_arizona"
+msgid "Arizona"
+msgstr "애리조나"
+
+msgctxt "Languages::mobile_app.mobile_ariege"
+msgid "Ariège"
+msgstr "아리에주"
+
+msgctxt "Languages::mobile_app.mobile_arkansas"
+msgid "Arkansas"
+msgstr "아칸소"
+
+msgctxt "Languages::mobile_app.mobile_armenia"
+msgid "Armenia"
+msgstr "아르메니아"
+
+msgctxt "Languages::mobile_app.mobile_aruba"
+msgid "Aruba"
+msgstr "아루바"
+
+msgctxt "Languages::mobile_app.mobile_ascoli_piceno"
+msgid "Ascoli Piceno"
+msgstr "아스콜리 피체노"
+
+msgctxt "Languages::mobile_app.mobile_asia_pacific"
+msgid "Asia-Pacific"
+msgstr "아시아 태평양"
+
+msgctxt "Languages::mobile_app.mobile_asti"
+msgid "Asti"
+msgstr "아스티"
+
+msgctxt "Languages::mobile_app.mobile_astrahanskaja_oblast"
+msgid "Astrahanskaja oblast'"
+msgstr "아스트라한스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_asturias"
+msgid "Asturias"
+msgstr "아스투리아스"
+
+msgctxt "Languages::mobile_app.mobile_aube"
+msgid "Aube"
+msgstr "오브"
+
+msgctxt "Languages::mobile_app.mobile_aude"
+msgid "Aude"
+msgstr "오드"
+
+msgctxt "Languages::mobile_app.mobile_australia"
+msgid "Australia"
+msgstr "호주"
+
+msgctxt "Languages::mobile_app.mobile_australian_capital_territory"
+msgid "Australian Capital Territory"
+msgstr "호주 수도 특별구"
+
+msgctxt "Languages::mobile_app.mobile_austria"
+msgid "Austria"
+msgstr "오스트리아"
+
+msgctxt "Languages::mobile_app.mobile_avellino"
+msgid "Avellino"
+msgstr "아벨리노"
+
+msgctxt "Languages::mobile_app.mobile_aveyron"
+msgid "Aveyron"
+msgstr "아베론"
+
+msgctxt "Languages::mobile_app.mobile_avon"
+msgid "Avon"
+msgstr "에이본"
+
+msgctxt "Languages::mobile_app.mobile_awaiting_call"
+msgid "Awaiting call"
+msgstr "통화 대기 중"
+
+msgctxt "Languages::mobile_app.mobile_azerbaijan"
+msgid "Azerbaijan"
+msgstr "아제르바이잔"
+
+msgctxt "Languages::mobile_app.mobile_backordered"
+msgid "Backordered"
+msgstr "이월 주문됨"
+
+msgctxt "Languages::mobile_app.mobile_badajoz"
+msgid "Badajoz"
+msgstr "바다호스"
+
+msgctxt "Languages::mobile_app.mobile_bad_request_repeat_ip"
+msgid "Bad Request: You have posted in this review already"
+msgstr "잘못된 요청: 이 리뷰에 이미 게시했습니다."
+
+msgctxt "Languages::mobile_app.mobile_bad_request_only_buyers_can_write_review"
+msgid "Bad Request: You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "잘못된 요청: 이 제품에 대한 리뷰를 작성할 수 없습니다. 고객은 구매한 제품에 대해서만 리뷰를 작성할 수 있습니다. 실제로 이 제품을 구매했지만 이 메시지가 계속 표시되는 경우 당사에 문의하십시오."
+
+msgctxt "Languages::mobile_app.mobile_bahamas"
+msgid "Bahamas"
+msgstr "바하마"
+
+msgctxt "Languages::mobile_app.mobile_bahrain"
+msgid "Bahrain"
+msgstr "바레인"
+
+msgctxt "Languages::mobile_app.mobile_baleares"
+msgid "Baleares"
+msgstr "발레아레스"
+
+msgctxt "Languages::mobile_app.mobile_banffshire"
+msgid "Banffshire"
+msgstr "밴프셔"
+
+msgctxt "Languages::mobile_app.mobile_bangladesh"
+msgid "Bangladesh"
+msgstr "방글라데시"
+
+msgctxt "Languages::mobile_app.mobile_barbados"
+msgid "Barbados"
+msgstr "바베이도스"
+
+msgctxt "Languages::mobile_app.mobile_barcelona"
+msgid "Barcelona"
+msgstr "바르셀로나"
+
+msgctxt "Languages::mobile_app.mobile_bari"
+msgid "Bari"
+msgstr "바리"
+
+msgctxt "Languages::mobile_app.mobile_bas_rhin"
+msgid "Bas-Rhin"
+msgstr "바스린"
+
+msgctxt "Languages::mobile_app.mobile_bayern"
+msgid "Bayern"
+msgstr "바이에른"
+
+msgctxt "Languages::mobile_app.mobile_bedfordshire"
+msgid "Bedfordshire"
+msgstr "베드퍼드셔"
+
+msgctxt "Languages::mobile_app.mobile_belarus"
+msgid "Belarus"
+msgstr "벨라루스"
+
+msgctxt "Languages::mobile_app.mobile_belgium"
+msgid "Belgium"
+msgstr "벨기에"
+
+msgctxt "Languages::mobile_app.mobile_belgorodskaja_oblast"
+msgid "Belgorodskaja oblast'"
+msgstr "벨고로드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_belize"
+msgid "Belize"
+msgstr "벨리즈"
+
+msgctxt "Languages::mobile_app.mobile_belluno"
+msgid "Belluno"
+msgstr "벨루노"
+
+msgctxt "Languages::mobile_app.mobile_benevento"
+msgid "Benevento"
+msgstr "베네벤토"
+
+msgctxt "Languages::mobile_app.mobile_benin"
+msgid "Benin"
+msgstr "베냉"
+
+msgctxt "Languages::mobile_app.mobile_bergamo"
+msgid "Bergamo"
+msgstr "베르가모"
+
+msgctxt "Languages::mobile_app.mobile_berkshire"
+msgid "Berkshire"
+msgstr "버크셔"
+
+msgctxt "Languages::mobile_app.mobile_berlin"
+msgid "Berlin"
+msgstr "베를린"
+
+msgctxt "Languages::mobile_app.mobile_bermuda"
+msgid "Bermuda"
+msgstr "버뮤다"
+
+msgctxt "Languages::mobile_app.mobile_berne"
+msgid "Berne"
+msgstr "베른"
+
+msgctxt "Languages::mobile_app.mobile_berwickshire"
+msgid "Berwickshire"
+msgstr "버윅셔"
+
+msgctxt "Languages::mobile_app.mobile_bhutan"
+msgid "Bhutan"
+msgstr "부탄"
+
+msgctxt "Languages::mobile_app.mobile_biella"
+msgid "Biella"
+msgstr "비엘라"
+
+msgctxt "Languages::mobile_app.mobile_blaenau_gwent"
+msgid "Blaenau Gwent"
+msgstr "블레나우 궨트"
+
+msgctxt "Languages::mobile_app.mobile_bolivia"
+msgid "Bolivia"
+msgstr "볼리비아"
+
+msgctxt "Languages::mobile_app.mobile_bologna"
+msgid "Bologna"
+msgstr "볼로냐"
+
+msgctxt "Languages::mobile_app.mobile_bolzano"
+msgid "Bolzano"
+msgstr "볼차노"
+
+msgctxt "Languages::mobile_app.mobile_bosnia_and_herzegovina"
+msgid "Bosnia and Herzegovina"
+msgstr "보스니아 헤르체고비나"
+
+msgctxt "Languages::mobile_app.mobile_botswana"
+msgid "Botswana"
+msgstr "보츠와나"
+
+msgctxt "Languages::mobile_app.mobile_bouches_du_rhone"
+msgid "Bouches-du-Rhône"
+msgstr "부슈 뒤 론"
+
+msgctxt "Languages::mobile_app.mobile_bouvet_island"
+msgid "Bouvet Island"
+msgstr "부베 아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_branderburg"
+msgid "Branderburg"
+msgstr "브란더부르크"
+
+msgctxt "Languages::mobile_app.mobile_brazil"
+msgid "Brazil"
+msgstr "브라질"
+
+msgctxt "Languages::mobile_app.mobile_bremen"
+msgid "Bremen"
+msgstr "브레멘"
+
+msgctxt "Languages::mobile_app.mobile_brescia"
+msgid "Brescia"
+msgstr "브레시아"
+
+msgctxt "Languages::mobile_app.mobile_bridgend"
+msgid "Bridgend"
+msgstr "브리젠드"
+
+msgctxt "Languages::mobile_app.mobile_brindisi"
+msgid "Brindisi"
+msgstr "브린디시"
+
+msgctxt "Languages::mobile_app.mobile_bristol"
+msgid "Bristol"
+msgstr "브리스톨"
+
+msgctxt "Languages::mobile_app.mobile_british_columbia"
+msgid "British Columbia"
+msgstr "브리티시 컬럼비아"
+
+msgctxt "Languages::mobile_app.mobile_british_indian_ocean_territory"
+msgid "British Indian Ocean Territory"
+msgstr "영국령 인도양 영토"
+
+msgctxt "Languages::mobile_app.mobile_british_virgin_islands"
+msgid "British Virgin Islands"
+msgstr "영국령 버진 아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_brjanskaja_oblast"
+msgid "Brjanskaja oblast'"
+msgstr "브랸스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_brunei_darussalam"
+msgid "Brunei Darussalam"
+msgstr "브루나이 다루살람"
+
+msgctxt "Languages::mobile_app.mobile_buckinghamshire"
+msgid "Buckinghamshire"
+msgstr "버킹엄셔"
+
+msgctxt "Languages::mobile_app.mobile_bulgaria"
+msgid "Bulgaria"
+msgstr "불가리아"
+
+msgctxt "Languages::mobile_app.mobile_burgos"
+msgid "Burgos"
+msgstr "부르고스"
+
+msgctxt "Languages::mobile_app.mobile_burkina_faso"
+msgid "Burkina Faso"
+msgstr "부키 나 파소"
+
+msgctxt "Languages::mobile_app.mobile_burundi"
+msgid "Burundi"
+msgstr "부룬디"
+
+msgctxt "Languages::mobile_app.mobile_bale_campagne"
+msgid "Bâle-Campagne"
+msgstr "발-캄파뉴"
+
+msgctxt "Languages::mobile_app.mobile_bale_ville"
+msgid "Bâle-Ville"
+msgstr "발빌"
+
+msgctxt "Languages::mobile_app.mobile_caerphilly"
+msgid "Caerphilly"
+msgstr "카에필리"
+
+msgctxt "Languages::mobile_app.mobile_cagliari"
+msgid "Cagliari"
+msgstr "칼리아리"
+
+msgctxt "Languages::mobile_app.mobile_caithness"
+msgid "Caithness"
+msgstr "믿음"
+
+msgctxt "Languages::mobile_app.mobile_california"
+msgid "California"
+msgstr "캘리포니아"
+
+msgctxt "Languages::mobile_app.mobile_caltanissetta"
+msgid "Caltanissetta"
+msgstr "칼타니세타"
+
+msgctxt "Languages::mobile_app.mobile_calvados"
+msgid "Calvados"
+msgstr "칼바도스"
+
+msgctxt "Languages::mobile_app.mobile_cambodia"
+msgid "Cambodia"
+msgstr "캄보디아"
+
+msgctxt "Languages::mobile_app.mobile_cambridgeshire"
+msgid "Cambridgeshire"
+msgstr "케임브리지셔"
+
+msgctxt "Languages::mobile_app.mobile_cameroon"
+msgid "Cameroon"
+msgstr "카메룬"
+
+msgctxt "Languages::mobile_app.mobile_campobasso"
+msgid "Campobasso"
+msgstr "캄포바소"
+
+msgctxt "Languages::mobile_app.mobile_canada"
+msgid "Canada"
+msgstr "캐나다"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "취소"
+
+msgctxt "Languages::mobile_app.mobile_canceled"
+msgid "Canceled"
+msgstr "취소 된"
+
+msgctxt "Languages::mobile_app.mobile_cantabria"
+msgid "Cantabria"
+msgstr "칸타브리아"
+
+msgctxt "Languages::mobile_app.mobile_cantal"
+msgid "Cantal"
+msgstr "칸탈"
+
+msgctxt "Languages::mobile_app.mobile_cape_verde"
+msgid "Cape Verde"
+msgstr "카보베르데"
+
+msgctxt "Languages::mobile_app.mobile_carbonia_iglesias"
+msgid "Carbonia-Iglesias"
+msgstr "카르보니아-이글레시아스"
+
+msgctxt "Languages::mobile_app.mobile_cardiff"
+msgid "Cardiff"
+msgstr "카디프"
+
+msgctxt "Languages::mobile_app.mobile_carmarthenshire"
+msgid "Carmarthenshire"
+msgstr "카마텐셔"
+
+msgctxt "Languages::mobile_app.mobile_cart"
+msgid "Cart"
+msgstr "카트"
+
+msgctxt "Languages::mobile_app.mobile_caserta"
+msgid "Caserta"
+msgstr "카세르타"
+
+msgctxt "Languages::mobile_app.mobile_castellon"
+msgid "Castellón"
+msgstr "카스테욘"
+
+msgctxt "Languages::mobile_app.mobile_catania"
+msgid "Catania"
+msgstr "카타니아"
+
+msgctxt "Languages::mobile_app.mobile_catanzaro"
+msgid "Catanzaro"
+msgstr "카탄자로"
+
+msgctxt "Languages::mobile_app.mobile_cayman_islands"
+msgid "Cayman Islands"
+msgstr "케이맨 제도"
+
+msgctxt "Languages::mobile_app.mobile_central_african_republic"
+msgid "Central African Republic"
+msgstr "중앙 아프리카 공화국"
+
+msgctxt "Languages::mobile_app.mobile_ceredigion"
+msgid "Ceredigion"
+msgstr "세레디기온"
+
+msgctxt "Languages::mobile_app.mobile_ceuta"
+msgid "Ceuta"
+msgstr "세우타"
+
+msgctxt "Languages::mobile_app.mobile_chad"
+msgid "Chad"
+msgstr "차드"
+
+msgctxt "Languages::mobile_app.mobile_charente"
+msgid "Charente"
+msgstr "샤랑테"
+
+msgctxt "Languages::mobile_app.mobile_charente_maritime"
+msgid "Charente-Maritime"
+msgstr "샤랑트-마리타임"
+
+msgctxt "Languages::mobile_app.mobile_chechenskaja_respublika"
+msgid "Chechenskaja respublika"
+msgstr "체첸스카야 레스푸블리카"
+
+msgctxt "Languages::mobile_app.mobile_checkout"
+msgid "Checkout"
+msgstr "점검"
+
+msgctxt "Languages::mobile_app.mobile_cheljabinskaja_oblast"
+msgid "Cheljabinskaja oblast'"
+msgstr "첼야빈스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_cher"
+msgid "Cher"
+msgstr "셰어"
+
+msgctxt "Languages::mobile_app.mobile_cheshire"
+msgid "Cheshire"
+msgstr "체셔"
+
+msgctxt "Languages::mobile_app.mobile_chieti"
+msgid "Chieti"
+msgstr "키에티"
+
+msgctxt "Languages::mobile_app.mobile_chile"
+msgid "Chile"
+msgstr "칠레"
+
+msgctxt "Languages::mobile_app.mobile_china"
+msgid "China"
+msgstr "중국"
+
+msgctxt "Languages::mobile_app.mobile_christmas_island"
+msgid "Christmas Island"
+msgstr "크리스마스 섬"
+
+msgctxt "Languages::mobile_app.mobile_chukotskij_avtonomnyj_okrug"
+msgid "Chukotskij avtonomnyj okrug"
+msgstr "Chukotskij avtonomnyj okrug"
+
+msgctxt "Languages::mobile_app.mobile_chuvashskaja_respublika"
+msgid "Chuvashskaja Respublika"
+msgstr "추바시스카야 레스푸블리카"
+
+msgctxt "Languages::mobile_app.mobile_city"
+msgid "City"
+msgstr "도시"
+
+msgctxt "Languages::mobile_app.mobile_ciudad_real"
+msgid "Ciudad Real"
+msgstr "시우다드 레알"
+
+msgctxt "Languages::mobile_app.mobile_clackmannanshire"
+msgid "Clackmannanshire"
+msgstr "클락만난셔"
+
+msgctxt "Languages::mobile_app.mobile_cleveland"
+msgid "Cleveland"
+msgstr "클리블랜드"
+
+msgctxt "Languages::mobile_app.mobile_clwyd"
+msgid "Clwyd"
+msgstr "클와이드"
+
+msgctxt "Languages::mobile_app.mobile_cocos_keeling_islands"
+msgid "Cocos (Keeling) Islands"
+msgstr "코코스(킬링) 제도"
+
+msgctxt "Languages::mobile_app.mobile_colombia"
+msgid "Colombia"
+msgstr "콜롬비아"
+
+msgctxt "Languages::mobile_app.mobile_colorado"
+msgid "Colorado"
+msgstr "콜로라도"
+
+msgctxt "Languages::mobile_app.mobile_como"
+msgid "Como"
+msgstr "꼬모"
+
+msgctxt "Languages::mobile_app.mobile_comoros"
+msgid "Comoros"
+msgstr "코모로"
+
+msgctxt "Languages::mobile_app.mobile_complete"
+msgid "Complete"
+msgstr "완벽한"
+
+msgctxt "Languages::mobile_app.mobile_congo"
+msgid "Congo"
+msgstr "콩고"
+
+msgctxt "Languages::mobile_app.mobile_connecticut"
+msgid "Connecticut"
+msgstr "코네티컷"
+
+msgctxt "Languages::mobile_app.mobile_contact_us_for_a_price"
+msgid "Contact us for a price"
+msgstr "가격 문의"
+
+msgctxt "Languages::mobile_app.mobile_conwy"
+msgid "Conwy"
+msgstr "콘위"
+
+msgctxt "Languages::mobile_app.mobile_cook_islands"
+msgid "Cook Islands"
+msgstr "쿡 제도"
+
+msgctxt "Languages::mobile_app.mobile_cornwall"
+msgid "Cornwall"
+msgstr "콘월"
+
+msgctxt "Languages::mobile_app.mobile_correze"
+msgid "Corrèze"
+msgstr "코레즈"
+
+msgctxt "Languages::mobile_app.mobile_corse_du_sud"
+msgid "Corse-du-Sud"
+msgstr "꼬르뒤쥐"
+
+msgctxt "Languages::mobile_app.mobile_cosenza"
+msgid "Cosenza"
+msgstr "코센자"
+
+msgctxt "Languages::mobile_app.mobile_costa_rica"
+msgid "Costa Rica"
+msgstr "코스타리카"
+
+msgctxt "Languages::mobile_app.mobile_cote_divoire"
+msgid "Cote D'ivoire"
+msgstr "코트디부아르"
+
+msgctxt "Languages::mobile_app.mobile_country"
+msgid "Country"
+msgstr "국가"
+
+msgctxt "Languages::mobile_app.mobile_county_antrim"
+msgid "County Antrim"
+msgstr "카운티 앤트림"
+
+msgctxt "Languages::mobile_app.mobile_county_armagh"
+msgid "County Armagh"
+msgstr "카운티 아마그"
+
+msgctxt "Languages::mobile_app.mobile_county_down"
+msgid "County Down"
+msgstr "카운티 다운"
+
+msgctxt "Languages::mobile_app.mobile_county_fermanagh"
+msgid "County Fermanagh"
+msgstr "카운티 페르마나"
+
+msgctxt "Languages::mobile_app.mobile_county_londonderry"
+msgid "County Londonderry"
+msgstr "카운티 런던데리"
+
+msgctxt "Languages::mobile_app.mobile_county_tyrone"
+msgid "County Tyrone"
+msgstr "카운티 타이론"
+
+msgctxt "Languages::mobile_app.mobile_coupon_code"
+msgid "Coupon code"
+msgstr "쿠폰 코드"
+
+msgctxt "Languages::mobile_app.mobile_cremona"
+msgid "Cremona"
+msgstr "크레모나"
+
+msgctxt "Languages::mobile_app.mobile_creuse"
+msgid "Creuse"
+msgstr "크루즈"
+
+msgctxt "Languages::mobile_app.mobile_croatia"
+msgid "Croatia"
+msgstr "크로아티아"
+
+msgctxt "Languages::mobile_app.mobile_crotone"
+msgid "Crotone"
+msgstr "크로톤"
+
+msgctxt "Languages::mobile_app.mobile_cuba"
+msgid "Cuba"
+msgstr "쿠바"
+
+msgctxt "Languages::mobile_app.mobile_cuenca"
+msgid "Cuenca"
+msgstr "쿠엥카"
+
+msgctxt "Languages::mobile_app.mobile_cumbria"
+msgid "Cumbria"
+msgstr "컴브리아"
+
+msgctxt "Languages::mobile_app.mobile_cuneo"
+msgid "Cuneo"
+msgstr "쿠네오"
+
+msgctxt "Languages::mobile_app.mobile_curacao"
+msgid "Curaçao"
+msgstr "퀴라소"
+
+msgctxt "Languages::mobile_app.mobile_cyprus"
+msgid "Cyprus"
+msgstr "키프로스"
+
+msgctxt "Languages::mobile_app.mobile_czech_republic"
+msgid "Czech Republic"
+msgstr "체코 공화국"
+
+msgctxt "Languages::mobile_app.mobile_caceres"
+msgid "Cáceres"
+msgstr "카세레스"
+
+msgctxt "Languages::mobile_app.mobile_cadiz"
+msgid "Cádiz"
+msgstr "카디스"
+
+msgctxt "Languages::mobile_app.mobile_cordoba"
+msgid "Córdoba"
+msgstr "코르도바"
+
+msgctxt "Languages::mobile_app.mobile_cote_dor"
+msgid "Côte-d'Or"
+msgstr "코트도르"
+
+msgctxt "Languages::mobile_app.mobile_cotes_darmor"
+msgid "Côtes-d'Armor"
+msgstr "코트다르모르"
+
+msgctxt "Languages::mobile_app.mobile_declined"
+msgid "Declined"
+msgstr "거부됨"
+
+msgctxt "Languages::mobile_app.mobile_delaware"
+msgid "Delaware"
+msgstr "델라웨어"
+
+msgctxt "Languages::mobile_app.mobile_denbighshire"
+msgid "Denbighshire"
+msgstr "덴비셔"
+
+msgctxt "Languages::mobile_app.mobile_denmark"
+msgid "Denmark"
+msgstr "덴마크"
+
+msgctxt "Languages::mobile_app.mobile_derbyshire"
+msgid "Derbyshire"
+msgstr "더비셔"
+
+msgctxt "Languages::mobile_app.mobile_deux_sevres"
+msgid "Deux-Sèvres"
+msgstr "듀세브르"
+
+msgctxt "Languages::mobile_app.mobile_devon"
+msgid "Devon"
+msgstr "데본"
+
+msgctxt "Languages::mobile_app.mobile_discount"
+msgid "Discount"
+msgstr "할인"
+
+msgctxt "Languages::mobile_app.mobile_district_of_columbia"
+msgid "District of Columbia"
+msgstr "컬럼비아 특별구"
+
+msgctxt "Languages::mobile_app.mobile_djibouti"
+msgid "Djibouti"
+msgstr "지부티"
+
+msgctxt "Languages::mobile_app.mobile_dominica"
+msgid "Dominica"
+msgstr "도미니카"
+
+msgctxt "Languages::mobile_app.mobile_dominican_republic"
+msgid "Dominican Republic"
+msgstr "도미니카 공화국"
+
+msgctxt "Languages::mobile_app.mobile_dordogne"
+msgid "Dordogne"
+msgstr "도르도뉴"
+
+msgctxt "Languages::mobile_app.mobile_dorset"
+msgid "Dorset"
+msgstr "도싯"
+
+msgctxt "Languages::mobile_app.mobile_doubs"
+msgid "Doubs"
+msgstr "두브스"
+
+msgctxt "Languages::mobile_app.mobile_drome"
+msgid "Drôme"
+msgstr "드롬"
+
+msgctxt "Languages::mobile_app.mobile_dumfries_and_galloway"
+msgid "Dumfries and Galloway"
+msgstr "덤프리스와 갤러웨이"
+
+msgctxt "Languages::mobile_app.mobile_dumfries_shire"
+msgid "Dumfries-shire"
+msgstr "덤프리스-셔"
+
+msgctxt "Languages::mobile_app.mobile_dundee"
+msgid "Dundee"
+msgstr "던디"
+
+msgctxt "Languages::mobile_app.mobile_durham"
+msgid "Durham"
+msgstr "더럼"
+
+msgctxt "Languages::mobile_app.mobile_dyfed"
+msgid "Dyfed"
+msgstr "염색"
+
+msgctxt "Languages::mobile_app.mobile_e_mail"
+msgid "E-mail"
+msgstr "이메일"
+
+msgctxt "Languages::mobile_app.mobile_east_ayrshire"
+msgid "East Ayrshire"
+msgstr "이스트 에어셔"
+
+msgctxt "Languages::mobile_app.mobile_east_dunbartonshire"
+msgid "East Dunbartonshire"
+msgstr "이스트 던바튼셔"
+
+msgctxt "Languages::mobile_app.mobile_east_lothian"
+msgid "East Lothian"
+msgstr "이스트 로시안"
+
+msgctxt "Languages::mobile_app.mobile_east_renfrewshire"
+msgid "East Renfrewshire"
+msgstr "이스트 렌프루셔"
+
+msgctxt "Languages::mobile_app.mobile_east_riding_of_yorkshire"
+msgid "East Riding of Yorkshire"
+msgstr "이스트 라이딩 오브 요크셔"
+
+msgctxt "Languages::mobile_app.mobile_east_sussex"
+msgid "East Sussex"
+msgstr "이스트 서식스"
+
+msgctxt "Languages::mobile_app.mobile_east_timor"
+msgid "East Timor"
+msgstr "동 티모르"
+
+msgctxt "Languages::mobile_app.mobile_ecuador"
+msgid "Ecuador"
+msgstr "에콰도르"
+
+msgctxt "Languages::mobile_app.mobile_edinburgh"
+msgid "Edinburgh"
+msgstr "에든버러"
+
+msgctxt "Languages::mobile_app.mobile_egypt"
+msgid "Egypt"
+msgstr "이집트"
+
+msgctxt "Languages::mobile_app.mobile_el_salvador"
+msgid "El Salvador"
+msgstr "엘살바도르"
+
+msgctxt "Languages::mobile_app.mobile_enna"
+msgid "Enna"
+msgstr "엔나"
+
+msgctxt "Languages::mobile_app.mobile_equatorial_guinea"
+msgid "Equatorial Guinea"
+msgstr "적도 기니"
+
+msgctxt "Languages::mobile_app.mobile_eritrea"
+msgid "Eritrea"
+msgstr "에리트레아"
+
+msgctxt "Languages::mobile_app.mobile_essex"
+msgid "Essex"
+msgstr "에식스"
+
+msgctxt "Languages::mobile_app.mobile_essonne"
+msgid "Essonne"
+msgstr "에손"
+
+msgctxt "Languages::mobile_app.mobile_estonia"
+msgid "Estonia"
+msgstr "에스토니아"
+
+msgctxt "Languages::mobile_app.mobile_ethiopia"
+msgid "Ethiopia"
+msgstr "에티오피아"
+
+msgctxt "Languages::mobile_app.mobile_eure"
+msgid "Eure"
+msgstr "유레"
+
+msgctxt "Languages::mobile_app.mobile_eure_et_loir"
+msgid "Eure-et-Loir"
+msgstr "Eure-et-Loir"
+
+msgctxt "Languages::mobile_app.mobile_europe"
+msgid "Europe"
+msgstr "유럽"
+
+msgctxt "Languages::mobile_app.mobile_evrejskaja_avtonomnaja_oblast"
+msgid "Evrejskaja avtonomnaja oblast'"
+msgstr "Evrejskaja avtonomnaja oblast'"
+
+msgctxt "Languages::mobile_app.mobile_failed"
+msgid "Failed"
+msgstr "실패한"
+
+msgctxt "Languages::mobile_app.mobile_falkirk"
+msgid "Falkirk"
+msgstr "폴커크"
+
+msgctxt "Languages::mobile_app.mobile_falkland_islands_malvinas"
+msgid "Falkland Islands (Malvinas)"
+msgstr "포클랜드 제도(말비나스)"
+
+msgctxt "Languages::mobile_app.mobile_faroe_islands"
+msgid "Faroe Islands"
+msgstr "페로 제도"
+
+msgctxt "Languages::mobile_app.mobile_ferrara"
+msgid "Ferrara"
+msgstr "페라라"
+
+msgctxt "Languages::mobile_app.mobile_fife"
+msgid "Fife"
+msgstr "파이프"
+
+msgctxt "Languages::mobile_app.mobile_fiji"
+msgid "Fiji"
+msgstr "피지"
+
+msgctxt "Languages::mobile_app.mobile_filter"
+msgid "Filter"
+msgstr "필터"
+
+msgctxt "Languages::mobile_app.mobile_finistere"
+msgid "Finistère"
+msgstr "피니스테르"
+
+msgctxt "Languages::mobile_app.mobile_finland"
+msgid "Finland"
+msgstr "핀란드"
+
+msgctxt "Languages::mobile_app.mobile_firenze"
+msgid "Firenze"
+msgstr "피렌체"
+
+msgctxt "Languages::mobile_app.mobile_first_name"
+msgid "First name"
+msgstr "이름"
+
+msgctxt "Languages::mobile_app.mobile_flevoland"
+msgid "Flevoland"
+msgstr "플레볼란트"
+
+msgctxt "Languages::mobile_app.mobile_flintshire"
+msgid "Flintshire"
+msgstr "플린트셔"
+
+msgctxt "Languages::mobile_app.mobile_florida"
+msgid "Florida"
+msgstr "플로리다"
+
+msgctxt "Languages::mobile_app.mobile_foggia"
+msgid "Foggia"
+msgstr "포기아"
+
+msgctxt "Languages::mobile_app.mobile_forgot_password"
+msgid "Forgot your password?"
+msgstr "비밀번호를 잊어 버렸습니까?"
+
+msgctxt "Languages::mobile_app.mobile_forli_cesena"
+msgid "Forli-Cesena"
+msgstr "포를리-체세나"
+
+msgctxt "Languages::mobile_app.mobile_france"
+msgid "France"
+msgstr "프랑스"
+
+msgctxt "Languages::mobile_app.mobile_france_metropolitan"
+msgid "France, Metropolitan"
+msgstr "프랑스, 메트로폴리탄"
+
+msgctxt "Languages::mobile_app.mobile_french_guiana"
+msgid "French Guiana"
+msgstr "프랑스령 기아나"
+
+msgctxt "Languages::mobile_app.mobile_french_polynesia"
+msgid "French Polynesia"
+msgstr "프랑스 령 폴리네시아의"
+
+msgctxt "Languages::mobile_app.mobile_french_southern_territories"
+msgid "French Southern Territories"
+msgstr "프랑스 남부 지역"
+
+msgctxt "Languages::mobile_app.mobile_fribourg"
+msgid "Fribourg"
+msgstr "프리부르"
+
+msgctxt "Languages::mobile_app.mobile_friesland"
+msgid "Friesland"
+msgstr "프리슬란트"
+
+msgctxt "Languages::mobile_app.mobile_frosinone"
+msgid "Frosinone"
+msgstr "프로시논"
+
+msgctxt "Languages::mobile_app.mobile_gabon"
+msgid "Gabon"
+msgstr "가봉"
+
+msgctxt "Languages::mobile_app.mobile_gambia"
+msgid "Gambia"
+msgstr "감비아"
+
+msgctxt "Languages::mobile_app.mobile_gard"
+msgid "Gard"
+msgstr "가드"
+
+msgctxt "Languages::mobile_app.mobile_gelderland"
+msgid "Gelderland"
+msgstr "겔더랜드"
+
+msgctxt "Languages::mobile_app.mobile_genova"
+msgid "Genova"
+msgstr "제노바"
+
+msgctxt "Languages::mobile_app.mobile_geneve"
+msgid "Genève"
+msgstr "제네바"
+
+msgctxt "Languages::mobile_app.mobile_georgia"
+msgid "Georgia"
+msgstr "그루지야"
+
+msgctxt "Languages::mobile_app.mobile_germany"
+msgid "Germany"
+msgstr "독일"
+
+msgctxt "Languages::mobile_app.mobile_gers"
+msgid "Gers"
+msgstr "게르"
+
+msgctxt "Languages::mobile_app.mobile_ghana"
+msgid "Ghana"
+msgstr "가나"
+
+msgctxt "Languages::mobile_app.mobile_gibraltar"
+msgid "Gibraltar"
+msgstr "지브롤터"
+
+msgctxt "Languages::mobile_app.mobile_girona"
+msgid "Girona"
+msgstr "지로나"
+
+msgctxt "Languages::mobile_app.mobile_gironde"
+msgid "Gironde"
+msgstr "지롱드"
+
+msgctxt "Languages::mobile_app.mobile_glaris"
+msgid "Glaris"
+msgstr "글라리스"
+
+msgctxt "Languages::mobile_app.mobile_glasgow"
+msgid "Glasgow"
+msgstr "글래스고"
+
+msgctxt "Languages::mobile_app.mobile_gloucestershire"
+msgid "Gloucestershire"
+msgstr "글로스터셔"
+
+msgctxt "Languages::mobile_app.mobile_gorizia"
+msgid "Gorizia"
+msgstr "고리치아"
+
+msgctxt "Languages::mobile_app.mobile_granada"
+msgid "Granada"
+msgstr "그라나다"
+
+msgctxt "Languages::mobile_app.mobile_greater_london"
+msgid "Greater London"
+msgstr "그레이터런던"
+
+msgctxt "Languages::mobile_app.mobile_greater_manchester"
+msgid "Greater Manchester"
+msgstr "그레이터 맨체스터"
+
+msgctxt "Languages::mobile_app.mobile_greece"
+msgid "Greece"
+msgstr "그리스"
+
+msgctxt "Languages::mobile_app.mobile_greenland"
+msgid "Greenland"
+msgstr "그린란드"
+
+msgctxt "Languages::mobile_app.mobile_grenada"
+msgid "Grenada"
+msgstr "그레나다"
+
+msgctxt "Languages::mobile_app.mobile_grisons"
+msgid "Grisons"
+msgstr "그리손"
+
+msgctxt "Languages::mobile_app.mobile_groningen"
+msgid "Groningen"
+msgstr "흐로닝언"
+
+msgctxt "Languages::mobile_app.mobile_grosseto"
+msgid "Grosseto"
+msgstr "그로세토"
+
+msgctxt "Languages::mobile_app.mobile_guadalajara"
+msgid "Guadalajara"
+msgstr "과달라하라"
+
+msgctxt "Languages::mobile_app.mobile_guadeloupe"
+msgid "Guadeloupe"
+msgstr "과들루프"
+
+msgctxt "Languages::mobile_app.mobile_guam"
+msgid "Guam"
+msgstr "괌"
+
+msgctxt "Languages::mobile_app.mobile_guatemala"
+msgid "Guatemala"
+msgstr "과테말라"
+
+msgctxt "Languages::mobile_app.mobile_guernsey"
+msgid "Guernsey"
+msgstr "건지"
+
+msgctxt "Languages::mobile_app.mobile_guinea"
+msgid "Guinea"
+msgstr "기니"
+
+msgctxt "Languages::mobile_app.mobile_guinea_bissau"
+msgid "Guinea-Bissau"
+msgstr "기니비사우"
+
+msgctxt "Languages::mobile_app.mobile_guipuzcoa"
+msgid "Guipúzcoa"
+msgstr "기푸스코아"
+
+msgctxt "Languages::mobile_app.mobile_guyana"
+msgid "Guyana"
+msgstr "가이아나"
+
+msgctxt "Languages::mobile_app.mobile_gwynedd"
+msgid "Gwynedd"
+msgstr "귀네드"
+
+msgctxt "Languages::mobile_app.mobile_habarovskij_kraj"
+msgid "Habarovskij kraj"
+msgstr "하바롭스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_haiti"
+msgid "Haiti"
+msgstr "아이티"
+
+msgctxt "Languages::mobile_app.mobile_hamburg"
+msgid "Hamburg"
+msgstr "함부르크"
+
+msgctxt "Languages::mobile_app.mobile_hampshire"
+msgid "Hampshire"
+msgstr "햄프셔"
+
+msgctxt "Languages::mobile_app.mobile_hanty_mansijskij_avtonomnyj_okrug___jugra"
+msgid "Hanty-Mansijskij avtonomnyj okrug - Jugra"
+msgstr "Hanty-Mansijskij avtonomnyj okrug - Jugra"
+
+msgctxt "Languages::mobile_app.mobile_haut_rhin"
+msgid "Haut-Rhin"
+msgstr "오랭"
+
+msgctxt "Languages::mobile_app.mobile_haute_corse"
+msgid "Haute-Corse"
+msgstr "오트 꼬르스"
+
+msgctxt "Languages::mobile_app.mobile_haute_garonne"
+msgid "Haute-Garonne"
+msgstr "오트가론"
+
+msgctxt "Languages::mobile_app.mobile_haute_loire"
+msgid "Haute-Loire"
+msgstr "오트루아르"
+
+msgctxt "Languages::mobile_app.mobile_haute_marne"
+msgid "Haute-Marne"
+msgstr "오트 마른"
+
+msgctxt "Languages::mobile_app.mobile_haute_savoie"
+msgid "Haute-Savoie"
+msgstr "오트사부아"
+
+msgctxt "Languages::mobile_app.mobile_haute_saone"
+msgid "Haute-Saône"
+msgstr "오트손"
+
+msgctxt "Languages::mobile_app.mobile_haute_vienne"
+msgid "Haute-Vienne"
+msgstr "오트비엔느"
+
+msgctxt "Languages::mobile_app.mobile_hautes_alpes"
+msgid "Hautes-Alpes"
+msgstr "오트알프"
+
+msgctxt "Languages::mobile_app.mobile_hautes_pyrenees"
+msgid "Hautes-Pyrénées"
+msgstr "오트피레네"
+
+msgctxt "Languages::mobile_app.mobile_hauts_de_seine"
+msgid "Hauts-de-Seine"
+msgstr "오드센"
+
+msgctxt "Languages::mobile_app.mobile_hawaii"
+msgid "Hawaii"
+msgstr "하와이"
+
+msgctxt "Languages::mobile_app.mobile_heard_and_mcdonald_islands"
+msgid "Heard and McDonald Islands"
+msgstr "허드와 맥도날드 제도"
+
+msgctxt "Languages::mobile_app.mobile_herefordshire"
+msgid "Herefordshire"
+msgstr "헤리퍼드셔"
+
+msgctxt "Languages::mobile_app.mobile_hertfordshire"
+msgid "Hertfordshire"
+msgstr "하트퍼드셔"
+
+msgctxt "Languages::mobile_app.mobile_hessen"
+msgid "Hessen"
+msgstr "헤센"
+
+msgctxt "Languages::mobile_app.mobile_highlands"
+msgid "Highlands"
+msgstr "고원"
+
+msgctxt "Languages::mobile_app.mobile_honduras"
+msgid "Honduras"
+msgstr "온두라스"
+
+msgctxt "Languages::mobile_app.mobile_hong_kong"
+msgid "Hong Kong"
+msgstr "홍콩"
+
+msgctxt "Languages::mobile_app.mobile_huelva"
+msgid "Huelva"
+msgstr "우엘바"
+
+msgctxt "Languages::mobile_app.mobile_huesca"
+msgid "Huesca"
+msgstr "우에스카"
+
+msgctxt "Languages::mobile_app.mobile_humberside"
+msgid "Humberside"
+msgstr "험버사이드"
+
+msgctxt "Languages::mobile_app.mobile_hungary"
+msgid "Hungary"
+msgstr "헝가리"
+
+msgctxt "Languages::mobile_app.mobile_herault"
+msgid "Hérault"
+msgstr "에로"
+
+msgctxt "Languages::mobile_app.mobile_iceland"
+msgid "Iceland"
+msgstr "아이슬란드"
+
+msgctxt "Languages::mobile_app.mobile_idaho"
+msgid "Idaho"
+msgstr "아이다호"
+
+msgctxt "Languages::mobile_app.mobile_ille_et_vilaine"
+msgid "Ille-et-Vilaine"
+msgstr "일레빌렌"
+
+msgctxt "Languages::mobile_app.mobile_illinois"
+msgid "Illinois"
+msgstr "일리노이"
+
+msgctxt "Languages::mobile_app.mobile_imperia"
+msgid "Imperia"
+msgstr "임페리아"
+
+msgctxt "Languages::mobile_app.mobile_india"
+msgid "India"
+msgstr "인도"
+
+msgctxt "Languages::mobile_app.mobile_indiana"
+msgid "Indiana"
+msgstr "인디애나"
+
+msgctxt "Languages::mobile_app.mobile_indonesia"
+msgid "Indonesia"
+msgstr "인도네시아"
+
+msgctxt "Languages::mobile_app.mobile_indre"
+msgid "Indre"
+msgstr "인드레"
+
+msgctxt "Languages::mobile_app.mobile_indre_et_loire"
+msgid "Indre-et-Loire"
+msgstr "앵드르에루아르"
+
+msgctxt "Languages::mobile_app.mobile_inverclyde"
+msgid "Inverclyde"
+msgstr "인버클라이드"
+
+msgctxt "Languages::mobile_app.mobile_inverness_shire"
+msgid "Inverness-shire"
+msgstr "인버네스-셔"
+
+msgctxt "Languages::mobile_app.mobile_iowa"
+msgid "Iowa"
+msgstr "아이오와"
+
+msgctxt "Languages::mobile_app.mobile_iraq"
+msgid "Iraq"
+msgstr "이라크"
+
+msgctxt "Languages::mobile_app.mobile_ireland"
+msgid "Ireland"
+msgstr "아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_irkutskaja_oblast"
+msgid "Irkutskaja oblast'"
+msgstr "이르쿠츠카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_isernia"
+msgid "Isernia"
+msgstr "이세르니아"
+
+msgctxt "Languages::mobile_app.mobile_islamic_republic_of_iran"
+msgid "Islamic Republic of Iran"
+msgstr "이란 이슬람 공화국"
+
+msgctxt "Languages::mobile_app.mobile_isle_of_man"
+msgid "Isle of Man"
+msgstr "맨 섬"
+
+msgctxt "Languages::mobile_app.mobile_isle_of_wight"
+msgid "Isle of Wight"
+msgstr "와이트 섬"
+
+msgctxt "Languages::mobile_app.mobile_isles_of_scilly"
+msgid "Isles of Scilly"
+msgstr "실리 섬"
+
+msgctxt "Languages::mobile_app.mobile_israel"
+msgid "Israel"
+msgstr "이스라엘"
+
+msgctxt "Languages::mobile_app.mobile_isere"
+msgid "Isère"
+msgstr "이세르"
+
+msgctxt "Languages::mobile_app.mobile_italy"
+msgid "Italy"
+msgstr "이탈리아"
+
+msgctxt "Languages::mobile_app.mobile_ivanovskaja_oblast"
+msgid "Ivanovskaja oblast'"
+msgstr "이바노프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_jamaica"
+msgid "Jamaica"
+msgstr "자메이카"
+
+msgctxt "Languages::mobile_app.mobile_jamalo_neneckij_avtonomnyj_okrug"
+msgid "Jamalo-Neneckij avtonomnyj okrug"
+msgstr "Jamalo-Neneckij avtonomnyj okrug"
+
+msgctxt "Languages::mobile_app.mobile_japan"
+msgid "Japan"
+msgstr "일본"
+
+msgctxt "Languages::mobile_app.mobile_jaroslavskaja_oblast"
+msgid "Jaroslavskaja oblast'"
+msgstr "야로슬라브스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_jaen"
+msgid "Jaén"
+msgstr "하엔"
+
+msgctxt "Languages::mobile_app.mobile_jersey"
+msgid "Jersey"
+msgstr "저지"
+
+msgctxt "Languages::mobile_app.mobile_jordan"
+msgid "Jordan"
+msgstr "요르단"
+
+msgctxt "Languages::mobile_app.mobile_jura"
+msgid "Jura"
+msgstr "쥐라"
+
+msgctxt "Languages::mobile_app.mobile_kabardino_balkarskaja_respublika"
+msgid "Kabardino-Balkarskaja Respublika"
+msgstr "카바르디노-발카르스카야 레스푸블리카"
+
+msgctxt "Languages::mobile_app.mobile_kaliningradskaja_oblast"
+msgid "Kaliningradskaja oblast'"
+msgstr "칼리닌그라드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_kaluzhskaja_oblast"
+msgid "Kaluzhskaja oblast'"
+msgstr "칼루즈스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_kamchatskiy_kraj"
+msgid "Kamchatskiy kraj"
+msgstr "캄차츠키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_kansas"
+msgid "Kansas"
+msgstr "캔자스"
+
+msgctxt "Languages::mobile_app.mobile_karachaevo_cherkesskaja_respublika"
+msgid "Karachaevo-Cherkesskaja respublika"
+msgstr "Karachaevo-Cherkesskaja respublika"
+
+msgctxt "Languages::mobile_app.mobile_kazakhstan"
+msgid "Kazakhstan"
+msgstr "카자흐스탄"
+
+msgctxt "Languages::mobile_app.mobile_kemerovskaja_oblast"
+msgid "Kemerovskaja oblast'"
+msgstr "케메로브스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_kent"
+msgid "Kent"
+msgstr "켄트"
+
+msgctxt "Languages::mobile_app.mobile_kentucky"
+msgid "Kentucky"
+msgstr "켄터키"
+
+msgctxt "Languages::mobile_app.mobile_kenya"
+msgid "Kenya"
+msgstr "케냐"
+
+msgctxt "Languages::mobile_app.mobile_kincardineshire"
+msgid "Kincardineshire"
+msgstr "킨카딘셔"
+
+msgctxt "Languages::mobile_app.mobile_kiribati"
+msgid "Kiribati"
+msgstr "키리바시"
+
+msgctxt "Languages::mobile_app.mobile_kirovskaja_oblast"
+msgid "Kirovskaja oblast'"
+msgstr "키로브스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_korea"
+msgid "Korea"
+msgstr "한국"
+
+msgctxt "Languages::mobile_app.mobile_korea_republic_of"
+msgid "Korea, Republic of"
+msgstr "대한민국"
+
+msgctxt "Languages::mobile_app.mobile_kostromskaja_oblast"
+msgid "Kostromskaja oblast'"
+msgstr "코스트롬스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_krasnodarskij_kraj"
+msgid "Krasnodarskij kraj"
+msgstr "크라스노다르스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_krasnojarskij_kraj"
+msgid "Krasnojarskij kraj"
+msgstr "크라스노야르스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_kurganskaja_oblast"
+msgid "Kurganskaja oblast'"
+msgstr "쿠르간스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_kurskaja_oblast"
+msgid "Kurskaja oblast'"
+msgstr "쿠르스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_kuwait"
+msgid "Kuwait"
+msgstr "쿠웨이트"
+
+msgctxt "Languages::mobile_app.mobile_kyrgyzstan"
+msgid "Kyrgyzstan"
+msgstr "키르기스스탄"
+
+msgctxt "Languages::mobile_app.mobile_laquila"
+msgid "L'Aquila"
+msgstr "라퀼라"
+
+msgctxt "Languages::mobile_app.mobile_la_rioja"
+msgid "La Rioja"
+msgstr "라 리오하"
+
+msgctxt "Languages::mobile_app.mobile_la_spezia"
+msgid "La Spezia"
+msgstr "라스페치아"
+
+msgctxt "Languages::mobile_app.mobile_lancashire"
+msgid "Lancashire"
+msgstr "랭커셔"
+
+msgctxt "Languages::mobile_app.mobile_landes"
+msgid "Landes"
+msgstr "란데스"
+
+msgctxt "Languages::mobile_app.mobile_laos"
+msgid "Laos"
+msgstr "라오스"
+
+msgctxt "Languages::mobile_app.mobile_las_palmas"
+msgid "Las Palmas"
+msgstr "라스팔마스"
+
+msgctxt "Languages::mobile_app.mobile_last_name"
+msgid "Last name"
+msgstr "성"
+
+msgctxt "Languages::mobile_app.mobile_latina"
+msgid "Latina"
+msgstr "라티나"
+
+msgctxt "Languages::mobile_app.mobile_latvia"
+msgid "Latvia"
+msgstr "라트비아"
+
+msgctxt "Languages::mobile_app.mobile_lebanon"
+msgid "Lebanon"
+msgstr "레바논"
+
+msgctxt "Languages::mobile_app.mobile_lecce"
+msgid "Lecce"
+msgstr "레체"
+
+msgctxt "Languages::mobile_app.mobile_lecco"
+msgid "Lecco"
+msgstr "레코"
+
+msgctxt "Languages::mobile_app.mobile_leicestershire"
+msgid "Leicestershire"
+msgstr "레스터셔"
+
+msgctxt "Languages::mobile_app.mobile_leningradskaja_oblast"
+msgid "Leningradskaja oblast'"
+msgstr "레닌그라드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_lesotho"
+msgid "Lesotho"
+msgstr "레소토"
+
+msgctxt "Languages::mobile_app.mobile_leon"
+msgid "León"
+msgstr "레온"
+
+msgctxt "Languages::mobile_app.mobile_liberia"
+msgid "Liberia"
+msgstr "라이베리아"
+
+msgctxt "Languages::mobile_app.mobile_libyan_arab_jamahiriya"
+msgid "Libyan Arab Jamahiriya"
+msgstr "리비아 아랍 자마히리야"
+
+msgctxt "Languages::mobile_app.mobile_liechtenstein"
+msgid "Liechtenstein"
+msgstr "리히텐슈타인"
+
+msgctxt "Languages::mobile_app.mobile_limburg"
+msgid "Limburg"
+msgstr "림부르크"
+
+msgctxt "Languages::mobile_app.mobile_lincolnshire"
+msgid "Lincolnshire"
+msgstr "링컨셔"
+
+msgctxt "Languages::mobile_app.mobile_lipeckaja_oblast"
+msgid "Lipeckaja oblast'"
+msgstr "리페카하주'"
+
+msgctxt "Languages::mobile_app.mobile_list_price"
+msgid "List price"
+msgstr "정가"
+
+msgctxt "Languages::mobile_app.mobile_lithuania"
+msgid "Lithuania"
+msgstr "리투아니아"
+
+msgctxt "Languages::mobile_app.mobile_livorno"
+msgid "Livorno"
+msgstr "리보르노"
+
+msgctxt "Languages::mobile_app.mobile_lleida"
+msgid "Lleida"
+msgstr "예이다"
+
+msgctxt "Languages::mobile_app.mobile_lodi"
+msgid "Lodi"
+msgstr "로디"
+
+msgctxt "Languages::mobile_app.mobile_loir_et_cher"
+msgid "Loir-et-Cher"
+msgstr "루아르에셰르"
+
+msgctxt "Languages::mobile_app.mobile_loire"
+msgid "Loire"
+msgstr "루아르"
+
+msgctxt "Languages::mobile_app.mobile_loire_atlantique"
+msgid "Loire-Atlantique"
+msgstr "루아르-아틀란티크"
+
+msgctxt "Languages::mobile_app.mobile_loiret"
+msgid "Loiret"
+msgstr "루와레"
+
+msgctxt "Languages::mobile_app.mobile_lot"
+msgid "Lot"
+msgstr "많은"
+
+msgctxt "Languages::mobile_app.mobile_lot_et_garonne"
+msgid "Lot-et-Garonne"
+msgstr "로에가론"
+
+msgctxt "Languages::mobile_app.mobile_louisiana"
+msgid "Louisiana"
+msgstr "루이지애나"
+
+msgctxt "Languages::mobile_app.mobile_lozere"
+msgid "Lozère"
+msgstr "로제르"
+
+msgctxt "Languages::mobile_app.mobile_lucca"
+msgid "Lucca"
+msgstr "루카"
+
+msgctxt "Languages::mobile_app.mobile_lucerne"
+msgid "Lucerne"
+msgstr "루체른"
+
+msgctxt "Languages::mobile_app.mobile_lugo"
+msgid "Lugo"
+msgstr "루고"
+
+msgctxt "Languages::mobile_app.mobile_luxembourg"
+msgid "Luxembourg"
+msgstr "룩셈부르크"
+
+msgctxt "Languages::mobile_app.mobile_macau"
+msgid "Macau"
+msgstr "마카오"
+
+msgctxt "Languages::mobile_app.mobile_macedonia"
+msgid "Macedonia"
+msgstr "마케도니아"
+
+msgctxt "Languages::mobile_app.mobile_macerata"
+msgid "Macerata"
+msgstr "마세라타"
+
+msgctxt "Languages::mobile_app.mobile_madagascar"
+msgid "Madagascar"
+msgstr "마다가스카르"
+
+msgctxt "Languages::mobile_app.mobile_madrid"
+msgid "Madrid"
+msgstr "마드리드"
+
+msgctxt "Languages::mobile_app.mobile_magadanskaja_oblast"
+msgid "Magadanskaja oblast'"
+msgstr "마가단스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_maine"
+msgid "Maine"
+msgstr "메인"
+
+msgctxt "Languages::mobile_app.mobile_maine_et_loire"
+msgid "Maine-et-Loire"
+msgstr "메인에 루아르"
+
+msgctxt "Languages::mobile_app.mobile_malawi"
+msgid "Malawi"
+msgstr "말라위"
+
+msgctxt "Languages::mobile_app.mobile_malaysia"
+msgid "Malaysia"
+msgstr "말레이시아"
+
+msgctxt "Languages::mobile_app.mobile_maldives"
+msgid "Maldives"
+msgstr "몰디브"
+
+msgctxt "Languages::mobile_app.mobile_mali"
+msgid "Mali"
+msgstr "말리"
+
+msgctxt "Languages::mobile_app.mobile_malta"
+msgid "Malta"
+msgstr "몰타"
+
+msgctxt "Languages::mobile_app.mobile_manche"
+msgid "Manche"
+msgstr "만체"
+
+msgctxt "Languages::mobile_app.mobile_manitoba"
+msgid "Manitoba"
+msgstr "매니토바"
+
+msgctxt "Languages::mobile_app.mobile_mantova"
+msgid "Mantova"
+msgstr "만토바"
+
+msgctxt "Languages::mobile_app.mobile_marne"
+msgid "Marne"
+msgstr "마른"
+
+msgctxt "Languages::mobile_app.mobile_marshall_islands"
+msgid "Marshall Islands"
+msgstr "마셜 제도"
+
+msgctxt "Languages::mobile_app.mobile_martinique"
+msgid "Martinique"
+msgstr "마르티니크"
+
+msgctxt "Languages::mobile_app.mobile_maryland"
+msgid "Maryland"
+msgstr "메릴랜드"
+
+msgctxt "Languages::mobile_app.mobile_massa_carrara"
+msgid "Massa-Carrara"
+msgstr "마사카라라"
+
+msgctxt "Languages::mobile_app.mobile_massachusetts"
+msgid "Massachusetts"
+msgstr "매사추세츠 주"
+
+msgctxt "Languages::mobile_app.mobile_matera"
+msgid "Matera"
+msgstr "마테라"
+
+msgctxt "Languages::mobile_app.mobile_mauritania"
+msgid "Mauritania"
+msgstr "모리타니"
+
+msgctxt "Languages::mobile_app.mobile_mauritius"
+msgid "Mauritius"
+msgstr "모리셔스"
+
+msgctxt "Languages::mobile_app.mobile_mayenne"
+msgid "Mayenne"
+msgstr "마옌"
+
+msgctxt "Languages::mobile_app.mobile_mayotte"
+msgid "Mayotte"
+msgstr "마요트"
+
+msgctxt "Languages::mobile_app.mobile_mecklenburg_vorpommern"
+msgid "Mecklenburg-Vorpommern"
+msgstr "메클렌부르크포어포메른"
+
+msgctxt "Languages::mobile_app.mobile_medio_campidano"
+msgid "Medio Campidano"
+msgstr "메디오 캄피다노"
+
+msgctxt "Languages::mobile_app.mobile_melilla"
+msgid "Melilla"
+msgstr "멜리야"
+
+msgctxt "Languages::mobile_app.mobile_merionethshire"
+msgid "Merionethshire"
+msgstr "메리오네스셔"
+
+msgctxt "Languages::mobile_app.mobile_merseyside"
+msgid "Merseyside"
+msgstr "머지사이드"
+
+msgctxt "Languages::mobile_app.mobile_merthyr_tydfil"
+msgid "Merthyr Tydfil"
+msgstr "머시르 타이드필"
+
+msgctxt "Languages::mobile_app.mobile_messina"
+msgid "Messina"
+msgstr "메시나"
+
+msgctxt "Languages::mobile_app.mobile_meurthe_et_moselle"
+msgid "Meurthe-et-Moselle"
+msgstr "메르트에모젤"
+
+msgctxt "Languages::mobile_app.mobile_meuse"
+msgid "Meuse"
+msgstr "뮤즈"
+
+msgctxt "Languages::mobile_app.mobile_mexico"
+msgid "Mexico"
+msgstr "멕시코"
+
+msgctxt "Languages::mobile_app.mobile_michigan"
+msgid "Michigan"
+msgstr "미시간"
+
+msgctxt "Languages::mobile_app.mobile_micronesia"
+msgid "Micronesia"
+msgstr "미크로네시아"
+
+msgctxt "Languages::mobile_app.mobile_middlesex"
+msgid "Middlesex"
+msgstr "미들섹스"
+
+msgctxt "Languages::mobile_app.mobile_midlothian"
+msgid "Midlothian"
+msgstr "미들로시안"
+
+msgctxt "Languages::mobile_app.mobile_milano"
+msgid "Milano"
+msgstr "밀라노"
+
+msgctxt "Languages::mobile_app.mobile_minnesota"
+msgid "Minnesota"
+msgstr "미네소타"
+
+msgctxt "Languages::mobile_app.mobile_mississippi"
+msgid "Mississippi"
+msgstr "미시시피"
+
+msgctxt "Languages::mobile_app.mobile_missouri"
+msgid "Missouri"
+msgstr "미주리"
+
+msgctxt "Languages::mobile_app.mobile_modena"
+msgid "Modena"
+msgstr "모데나"
+
+msgctxt "Languages::mobile_app.mobile_moldova_republic_of"
+msgid "Moldova, Republic of"
+msgstr "몰도바, 공화국"
+
+msgctxt "Languages::mobile_app.mobile_monaco"
+msgid "Monaco"
+msgstr "모나코"
+
+msgctxt "Languages::mobile_app.mobile_mongolia"
+msgid "Mongolia"
+msgstr "몽골리아"
+
+msgctxt "Languages::mobile_app.mobile_monmouthshire"
+msgid "Monmouthshire"
+msgstr "몬머스셔"
+
+msgctxt "Languages::mobile_app.mobile_montana"
+msgid "Montana"
+msgstr "몬태나"
+
+msgctxt "Languages::mobile_app.mobile_montenegro"
+msgid "Montenegro"
+msgstr "몬테네그로"
+
+msgctxt "Languages::mobile_app.mobile_montserrat"
+msgid "Montserrat"
+msgstr "몬세라트"
+
+msgctxt "Languages::mobile_app.mobile_moray"
+msgid "Moray"
+msgstr "모레이"
+
+msgctxt "Languages::mobile_app.mobile_morbihan"
+msgid "Morbihan"
+msgstr "모르비한"
+
+msgctxt "Languages::mobile_app.mobile_morocco"
+msgid "Morocco"
+msgstr "모로코"
+
+msgctxt "Languages::mobile_app.mobile_moselle"
+msgid "Moselle"
+msgstr "모젤 강"
+
+msgctxt "Languages::mobile_app.mobile_moskovskaja_oblast"
+msgid "Moskovskaja oblast'"
+msgstr "모스코프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_moskva"
+msgid "Moskva"
+msgstr "모스크바"
+
+msgctxt "Languages::mobile_app.mobile_mozambique"
+msgid "Mozambique"
+msgstr "모잠비크"
+
+msgctxt "Languages::mobile_app.mobile_murcia"
+msgid "Murcia"
+msgstr "무르시아"
+
+msgctxt "Languages::mobile_app.mobile_murmanskaja_oblast"
+msgid "Murmanskaja oblast'"
+msgstr "무르만스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_myanmar"
+msgid "Myanmar"
+msgstr "미얀마"
+
+msgctxt "Languages::mobile_app.mobile_malaga"
+msgid "Málaga"
+msgstr "말라가"
+
+msgctxt "Languages::mobile_app.mobile_nairnshire"
+msgid "Nairnshire"
+msgstr "네언셔"
+
+msgctxt "Languages::mobile_app.mobile_namibia"
+msgid "Namibia"
+msgstr "나미비아"
+
+msgctxt "Languages::mobile_app.mobile_napoli"
+msgid "Napoli"
+msgstr "나폴리"
+
+msgctxt "Languages::mobile_app.mobile_nauru"
+msgid "Nauru"
+msgstr "나우루"
+
+msgctxt "Languages::mobile_app.mobile_navarra"
+msgid "Navarra"
+msgstr "나바라"
+
+msgctxt "Languages::mobile_app.mobile_neath_port_talbot"
+msgid "Neath Port Talbot"
+msgstr "니스 포트 탤벗"
+
+msgctxt "Languages::mobile_app.mobile_nebraska"
+msgid "Nebraska"
+msgstr "네브래스카"
+
+msgctxt "Languages::mobile_app.mobile_neneckij_avtonomnyj_okrug"
+msgid "Neneckij avtonomnyj okrug"
+msgstr "네네키 아브토놈니 오크루그"
+
+msgctxt "Languages::mobile_app.mobile_nepal"
+msgid "Nepal"
+msgstr "네팔"
+
+msgctxt "Languages::mobile_app.mobile_netherlands"
+msgid "Netherlands"
+msgstr "네덜란드"
+
+msgctxt "Languages::mobile_app.mobile_neuchatel"
+msgid "Neuchâtel"
+msgstr "뇌샤텔"
+
+msgctxt "Languages::mobile_app.mobile_nevada"
+msgid "Nevada"
+msgstr "네바다"
+
+msgctxt "Languages::mobile_app.mobile_new_brunswick"
+msgid "New Brunswick"
+msgstr "뉴브런즈윅"
+
+msgctxt "Languages::mobile_app.mobile_new_caledonia"
+msgid "New Caledonia"
+msgstr "뉴 칼레도니아"
+
+msgctxt "Languages::mobile_app.mobile_new_hampshire"
+msgid "New Hampshire"
+msgstr "뉴햄프셔"
+
+msgctxt "Languages::mobile_app.mobile_new_jersey"
+msgid "New Jersey"
+msgstr "뉴저지"
+
+msgctxt "Languages::mobile_app.mobile_new_mexico"
+msgid "New Mexico"
+msgstr "뉴 멕시코"
+
+msgctxt "Languages::mobile_app.mobile_new_south_wales"
+msgid "New South Wales"
+msgstr "뉴사우스웨일즈"
+
+msgctxt "Languages::mobile_app.mobile_new_york"
+msgid "New York"
+msgstr "뉴욕"
+
+msgctxt "Languages::mobile_app.mobile_new_zealand"
+msgid "New Zealand"
+msgstr "뉴질랜드"
+
+msgctxt "Languages::mobile_app.mobile_newfoundland_and_labrador"
+msgid "Newfoundland and Labrador"
+msgstr "뉴펀들랜드와 래브라도"
+
+msgctxt "Languages::mobile_app.mobile_newport"
+msgid "Newport"
+msgstr "뉴포트"
+
+msgctxt "Languages::mobile_app.mobile_nicaragua"
+msgid "Nicaragua"
+msgstr "니카라과"
+
+msgctxt "Languages::mobile_app.mobile_nidwald"
+msgid "Nidwald"
+msgstr "니드발트"
+
+msgctxt "Languages::mobile_app.mobile_niedersachsen"
+msgid "Niedersachsen"
+msgstr "니더작센"
+
+msgctxt "Languages::mobile_app.mobile_niger"
+msgid "Niger"
+msgstr "니제르"
+
+msgctxt "Languages::mobile_app.mobile_nigeria"
+msgid "Nigeria"
+msgstr "나이지리아"
+
+msgctxt "Languages::mobile_app.mobile_niue"
+msgid "Niue"
+msgstr "니우에"
+
+msgctxt "Languages::mobile_app.mobile_nizhegorodskaja_oblast"
+msgid "Nizhegorodskaja oblast'"
+msgstr "니즈고로드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_nievre"
+msgid "Nièvre"
+msgstr "니에브르"
+
+msgctxt "Languages::mobile_app.mobile_noord_brabant"
+msgid "Noord Brabant"
+msgstr "노르드 브라반트"
+
+msgctxt "Languages::mobile_app.mobile_noord_holland"
+msgid "Noord Holland"
+msgstr "노르트 홀랜드"
+
+msgctxt "Languages::mobile_app.mobile_nord"
+msgid "Nord"
+msgstr "노드"
+
+msgctxt "Languages::mobile_app.mobile_nordrhein_westfalen"
+msgid "Nordrhein-Westfalen"
+msgstr "Nordrhein-Westfalen"
+
+msgctxt "Languages::mobile_app.mobile_norfolk_island"
+msgid "Norfolk Island"
+msgstr "노퍽 섬"
+
+msgctxt "Languages::mobile_app.mobile_norfolk"
+msgid "Norfolk"
+msgstr "노퍽"
+
+msgctxt "Languages::mobile_app.mobile_north_ayrshire"
+msgid "North Ayrshire"
+msgstr "노스 에어셔"
+
+msgctxt "Languages::mobile_app.mobile_north_carolina"
+msgid "North Carolina"
+msgstr "노스 캐롤라이나"
+
+msgctxt "Languages::mobile_app.mobile_north_dakota"
+msgid "North Dakota"
+msgstr "노스 다코타"
+
+msgctxt "Languages::mobile_app.mobile_north_lanarkshire"
+msgid "North Lanarkshire"
+msgstr "노스 라나크셔"
+
+msgctxt "Languages::mobile_app.mobile_north_yorkshire"
+msgid "North Yorkshire"
+msgstr "노스요크셔"
+
+msgctxt "Languages::mobile_app.mobile_northamptonshire"
+msgid "Northamptonshire"
+msgstr "노샘프턴셔"
+
+msgctxt "Languages::mobile_app.mobile_northern_mariana_islands"
+msgid "Northern Mariana Islands"
+msgstr "북마리아나 제도"
+
+msgctxt "Languages::mobile_app.mobile_northern_territory"
+msgid "Northern Territory"
+msgstr "노던 테리토리"
+
+msgctxt "Languages::mobile_app.mobile_northumberland"
+msgid "Northumberland"
+msgstr "노섬벌랜드"
+
+msgctxt "Languages::mobile_app.mobile_northwest_territories"
+msgid "Northwest Territories"
+msgstr "노스웨스트 준주"
+
+msgctxt "Languages::mobile_app.mobile_norway"
+msgid "Norway"
+msgstr "노르웨이"
+
+msgctxt "Languages::mobile_app.mobile_nottinghamshire"
+msgid "Nottinghamshire"
+msgstr "노팅엄셔"
+
+msgctxt "Languages::mobile_app.mobile_nova_scotia"
+msgid "Nova Scotia"
+msgstr "노바스코샤"
+
+msgctxt "Languages::mobile_app.mobile_novara"
+msgid "Novara"
+msgstr "노바라"
+
+msgctxt "Languages::mobile_app.mobile_novgorodskaja_oblast"
+msgid "Novgorodskaja oblast'"
+msgstr "노브고로드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_novosibirskaja_oblast"
+msgid "Novosibirskaja oblast'"
+msgstr "노보시비르스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_nunavut"
+msgid "Nunavut"
+msgstr "누나부트"
+
+msgctxt "Languages::mobile_app.mobile_nuoro"
+msgid "Nuoro"
+msgstr "누오로"
+
+msgctxt "Languages::mobile_app.mobile_obwald"
+msgid "Obwald"
+msgstr "오브발트"
+
+msgctxt "Languages::mobile_app.mobile_ogliastra"
+msgid "Ogliastra"
+msgstr "오글리아스트라"
+
+msgctxt "Languages::mobile_app.mobile_ohio"
+msgid "Ohio"
+msgstr "오하이오"
+
+msgctxt "Languages::mobile_app.mobile_oise"
+msgid "Oise"
+msgstr "오이세"
+
+msgctxt "Languages::mobile_app.mobile_oklahoma"
+msgid "Oklahoma"
+msgstr "오클라호마"
+
+msgctxt "Languages::mobile_app.mobile_olbia_tempio"
+msgid "Olbia-Tempio"
+msgstr "올비아-템피오"
+
+msgctxt "Languages::mobile_app.mobile_old_price"
+msgid "Old price"
+msgstr "이전 가격"
+
+msgctxt "Languages::mobile_app.mobile_oman"
+msgid "Oman"
+msgstr "오만"
+
+msgctxt "Languages::mobile_app.mobile_omskaja_oblast"
+msgid "Omskaja oblast'"
+msgstr "옴스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_ontario"
+msgid "Ontario"
+msgstr "온타리오"
+
+msgctxt "Languages::mobile_app.mobile_open"
+msgid "Open"
+msgstr "열려 있는"
+
+msgctxt "Languages::mobile_app.mobile_oregon"
+msgid "Oregon"
+msgstr "오리건"
+
+msgctxt "Languages::mobile_app.mobile_orenburgskaja_oblast"
+msgid "Orenburgskaja oblast'"
+msgstr "오렌부르크스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_oristano"
+msgid "Oristano"
+msgstr "오리스타노"
+
+msgctxt "Languages::mobile_app.mobile_orkney_islands"
+msgid "Orkney Islands"
+msgstr "오크니 제도"
+
+msgctxt "Languages::mobile_app.mobile_orlovskaja_oblast"
+msgid "Orlovskaja oblast'"
+msgstr "올로브스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_orne"
+msgid "Orne"
+msgstr "오른"
+
+msgctxt "Languages::mobile_app.mobile_ourense"
+msgid "Ourense"
+msgstr "오렌세"
+
+msgctxt "Languages::mobile_app.mobile_out_of_stock"
+msgid "Out of stock"
+msgstr "품절"
+
+msgctxt "Languages::mobile_app.mobile_overijssel"
+msgid "Overijssel"
+msgstr "오버이셀"
+
+msgctxt "Languages::mobile_app.mobile_oxfordshire"
+msgid "Oxfordshire"
+msgstr "옥스퍼드셔"
+
+msgctxt "Languages::mobile_app.mobile_padova"
+msgid "Padova"
+msgstr "파도바"
+
+msgctxt "Languages::mobile_app.mobile_pakistan"
+msgid "Pakistan"
+msgstr "파키스탄"
+
+msgctxt "Languages::mobile_app.mobile_palau"
+msgid "Palau"
+msgstr "팔라우"
+
+msgctxt "Languages::mobile_app.mobile_palencia"
+msgid "Palencia"
+msgstr "팔렌시아"
+
+msgctxt "Languages::mobile_app.mobile_palermo"
+msgid "Palermo"
+msgstr "팔레르모"
+
+msgctxt "Languages::mobile_app.mobile_palestine_authority"
+msgid "Palestine Authority"
+msgstr "팔레스타인 당국"
+
+msgctxt "Languages::mobile_app.mobile_panama"
+msgid "Panama"
+msgstr "파나마"
+
+msgctxt "Languages::mobile_app.mobile_papua_new_guinea"
+msgid "Papua New Guinea"
+msgstr "파푸아 뉴기니"
+
+msgctxt "Languages::mobile_app.mobile_paraguay"
+msgid "Paraguay"
+msgstr "파라과이"
+
+msgctxt "Languages::mobile_app.mobile_paris"
+msgid "Paris"
+msgstr "파리"
+
+msgctxt "Languages::mobile_app.mobile_parma"
+msgid "Parma"
+msgstr "파르마"
+
+msgctxt "Languages::mobile_app.mobile_pas_de_calais"
+msgid "Pas-de-Calais"
+msgstr "파드칼레"
+
+msgctxt "Languages::mobile_app.mobile_pavia"
+msgid "Pavia"
+msgstr "파비아"
+
+msgctxt "Languages::mobile_app.mobile_peebles_shire"
+msgid "Peebles-shire"
+msgstr "피블스-셔"
+
+msgctxt "Languages::mobile_app.mobile_pembrokeshire"
+msgid "Pembrokeshire"
+msgstr "펨브로크셔"
+
+msgctxt "Languages::mobile_app.mobile_pennsylvania"
+msgid "Pennsylvania"
+msgstr "펜실베니아"
+
+msgctxt "Languages::mobile_app.mobile_penzenskaja_oblast"
+msgid "Penzenskaja oblast'"
+msgstr "펜젠스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_permskij_kraj"
+msgid "Permskij kraj"
+msgstr "페름스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_perth_and_kinross"
+msgid "Perth and Kinross"
+msgstr "퍼스와 킨로스"
+
+msgctxt "Languages::mobile_app.mobile_peru"
+msgid "Peru"
+msgstr "페루"
+
+msgctxt "Languages::mobile_app.mobile_perugia"
+msgid "Perugia"
+msgstr "페루자"
+
+msgctxt "Languages::mobile_app.mobile_pesaro_e_urbino"
+msgid "Pesaro e Urbino"
+msgstr "페사로 에 우르비노"
+
+msgctxt "Languages::mobile_app.mobile_pescara"
+msgid "Pescara"
+msgstr "페스카라"
+
+msgctxt "Languages::mobile_app.mobile_philippines"
+msgid "Philippines"
+msgstr "필리핀 제도"
+
+msgctxt "Languages::mobile_app.mobile_phone"
+msgid "Phone"
+msgstr "핸드폰"
+
+msgctxt "Languages::mobile_app.mobile_piacenza"
+msgid "Piacenza"
+msgstr "피아첸차"
+
+msgctxt "Languages::mobile_app.mobile_pisa"
+msgid "Pisa"
+msgstr "피사"
+
+msgctxt "Languages::mobile_app.mobile_pistoia"
+msgid "Pistoia"
+msgstr "피스토이아"
+
+msgctxt "Languages::mobile_app.mobile_pitcairn"
+msgid "Pitcairn"
+msgstr "핏케언"
+
+msgctxt "Languages::mobile_app.mobile_poland"
+msgid "Poland"
+msgstr "폴란드"
+
+msgctxt "Languages::mobile_app.mobile_pontevedra"
+msgid "Pontevedra"
+msgstr "폰테베드라"
+
+msgctxt "Languages::mobile_app.mobile_pordenone"
+msgid "Pordenone"
+msgstr "포르데논"
+
+msgctxt "Languages::mobile_app.mobile_portugal"
+msgid "Portugal"
+msgstr "포르투갈"
+
+msgctxt "Languages::mobile_app.mobile_potenza"
+msgid "Potenza"
+msgstr "포텐자"
+
+msgctxt "Languages::mobile_app.mobile_powys"
+msgid "Powys"
+msgstr "포이스"
+
+msgctxt "Languages::mobile_app.mobile_prato"
+msgid "Prato"
+msgstr "프라토"
+
+msgctxt "Languages::mobile_app.mobile_primorskij_kraj"
+msgid "Primorskij kraj"
+msgstr "프리모르스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_prince_edward_island"
+msgid "Prince Edward Island"
+msgstr "프린스 에드워드 아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_processed"
+msgid "Processed"
+msgstr "처리됨"
+
+msgctxt "Languages::mobile_app.mobile_pskovskaja_oblast"
+msgid "Pskovskaja oblast'"
+msgstr "프스코프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_puerto_rico"
+msgid "Puerto Rico"
+msgstr "푸에르토 리코"
+
+msgctxt "Languages::mobile_app.mobile_puy_de_dome"
+msgid "Puy-de-Dôme"
+msgstr "퓌드돔"
+
+msgctxt "Languages::mobile_app.mobile_pyrenees_atlantiques"
+msgid "Pyrénées-Atlantiques"
+msgstr "피레네-아틀란티크"
+
+msgctxt "Languages::mobile_app.mobile_pyrenees_orientales"
+msgid "Pyrénées-Orientales"
+msgstr "피레네-오리엔탈레스"
+
+msgctxt "Languages::mobile_app.mobile_qatar"
+msgid "Qatar"
+msgstr "카타르"
+
+msgctxt "Languages::mobile_app.mobile_quebec"
+msgid "Quebec"
+msgstr "퀘벡"
+
+msgctxt "Languages::mobile_app.mobile_queensland"
+msgid "Queensland"
+msgstr "퀸즐랜드"
+
+msgctxt "Languages::mobile_app.mobile_ragusa"
+msgid "Ragusa"
+msgstr "라구사"
+
+msgctxt "Languages::mobile_app.mobile_ravenna"
+msgid "Ravenna"
+msgstr "라벤나"
+
+msgctxt "Languages::mobile_app.mobile_reggio_calabria"
+msgid "Reggio Calabria"
+msgstr "레지오 칼라브리아"
+
+msgctxt "Languages::mobile_app.mobile_reggio_emilia"
+msgid "Reggio Emilia"
+msgstr "레지오 에밀리아"
+
+msgctxt "Languages::mobile_app.mobile_register"
+msgid "Register"
+msgstr "등록하다"
+
+msgctxt "Languages::mobile_app.mobile_renfrewshire"
+msgid "Renfrewshire"
+msgstr "렌프루셔"
+
+msgctxt "Languages::mobile_app.mobile_republic_of_serbia"
+msgid "Republic of Serbia"
+msgstr "세르비아 공화국"
+
+msgctxt "Languages::mobile_app.mobile_requires_approval"
+msgid "Requires approval"
+msgstr "승인 필요"
+
+msgctxt "Languages::mobile_app.mobile_respublika_adygeja"
+msgid "Respublika Adygeja"
+msgstr "레스푸블리카 아디게야"
+
+msgctxt "Languages::mobile_app.mobile_reset_password"
+msgid "Reset password"
+msgstr "암호를 재설정"
+
+msgctxt "Languages::mobile_app.mobile_respublika_altaj"
+msgid "Respublika Altaj"
+msgstr "레스푸블리카 알타이"
+
+msgctxt "Languages::mobile_app.mobile_respublika_bashkortostan"
+msgid "Respublika Bashkortostan"
+msgstr "레스푸블리카 바시코르토스탄"
+
+msgctxt "Languages::mobile_app.mobile_respublika_burjatija"
+msgid "Respublika Burjatija"
+msgstr "레스푸블리카 부르자티자"
+
+msgctxt "Languages::mobile_app.mobile_respublika_dagestan"
+msgid "Respublika Dagestan"
+msgstr "레스푸블리카 다게스탄"
+
+msgctxt "Languages::mobile_app.mobile_respublika_hakasija"
+msgid "Respublika Hakasija"
+msgstr "레스푸블리카 하카시자"
+
+msgctxt "Languages::mobile_app.mobile_respublika_ingushetija"
+msgid "Respublika Ingushetija"
+msgstr "레스푸블리카 잉구셰티야"
+
+msgctxt "Languages::mobile_app.mobile_respublika_kalmykija"
+msgid "Respublika Kalmykija"
+msgstr "레스푸블리카 칼미키야"
+
+msgctxt "Languages::mobile_app.mobile_respublika_karelija"
+msgid "Respublika Karelija"
+msgstr "레스푸블리카 카렐리야"
+
+msgctxt "Languages::mobile_app.mobile_respublika_komi"
+msgid "Respublika Komi"
+msgstr "레스퍼블리카 코미"
+
+msgctxt "Languages::mobile_app.mobile_respublika_marij_jel"
+msgid "Respublika Marij Jel"
+msgstr "Respublika Marij Jel"
+
+msgctxt "Languages::mobile_app.mobile_respublika_mordovija"
+msgid "Respublika Mordovija"
+msgstr "레스푸블리카 모르도비야"
+
+msgctxt "Languages::mobile_app.mobile_respublika_saha_jakutija"
+msgid "Respublika Saha (Jakutija)"
+msgstr "Respublika Saha(자쿠티자)"
+
+msgctxt "Languages::mobile_app.mobile_respublika_severnaja_osetija_alanija"
+msgid "Respublika Severnaja Osetija-Alanija"
+msgstr "레스푸블리카 세베르나하 오세티야-알라니야"
+
+msgctxt "Languages::mobile_app.mobile_respublika_tatarstan"
+msgid "Respublika Tatarstan"
+msgstr "레스푸블리카 타타르스탄"
+
+msgctxt "Languages::mobile_app.mobile_respublika_tyva"
+msgid "Respublika Tyva"
+msgstr "레스퍼블리카 티바"
+
+msgctxt "Languages::mobile_app.mobile_reunion"
+msgid "Reunion"
+msgstr "재결합"
+
+msgctxt "Languages::mobile_app.mobile_rheinland_pfalz"
+msgid "Rheinland-Pfalz"
+msgstr "라인란트-팔츠"
+
+msgctxt "Languages::mobile_app.mobile_rhode_island"
+msgid "Rhode Island"
+msgstr "로드 아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_rhondda_cynon_taff"
+msgid "Rhondda Cynon Taff"
+msgstr "론다 사이논 태프"
+
+msgctxt "Languages::mobile_app.mobile_rhone"
+msgid "Rhône"
+msgstr "론"
+
+msgctxt "Languages::mobile_app.mobile_rieti"
+msgid "Rieti"
+msgstr "리에티"
+
+msgctxt "Languages::mobile_app.mobile_rimini"
+msgid "Rimini"
+msgstr "리미니"
+
+msgctxt "Languages::mobile_app.mobile_rjazanskaja_oblast"
+msgid "Rjazanskaja oblast'"
+msgstr "르자잔스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_roma"
+msgid "Roma"
+msgstr "로마"
+
+msgctxt "Languages::mobile_app.mobile_romania"
+msgid "Romania"
+msgstr "루마니아"
+
+msgctxt "Languages::mobile_app.mobile_rostovskaja_oblast"
+msgid "Rostovskaja oblast'"
+msgstr "로스토프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_rovigo"
+msgid "Rovigo"
+msgstr "로비고"
+
+msgctxt "Languages::mobile_app.mobile_roxburghshire"
+msgid "Roxburghshire"
+msgstr "록스버그셔"
+
+msgctxt "Languages::mobile_app.mobile_russian_federation"
+msgid "Russian Federation"
+msgstr "러시아 연방"
+
+msgctxt "Languages::mobile_app.mobile_rutland"
+msgid "Rutland"
+msgstr "러틀랜드"
+
+msgctxt "Languages::mobile_app.mobile_rwanda"
+msgid "Rwanda"
+msgstr "르완다"
+
+msgctxt "Languages::mobile_app.mobile_saarland"
+msgid "Saarland"
+msgstr "자를란트"
+
+msgctxt "Languages::mobile_app.mobile_sachsen"
+msgid "Sachsen"
+msgstr "작센"
+
+msgctxt "Languages::mobile_app.mobile_sachsen_anhalt"
+msgid "Sachsen-Anhalt"
+msgstr "작센-안할트"
+
+msgctxt "Languages::mobile_app.mobile_sahalinskaja_oblast"
+msgid "Sahalinskaja oblast'"
+msgstr "사할린스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_saint_lucia"
+msgid "Saint Lucia"
+msgstr "세인트루시아"
+
+msgctxt "Languages::mobile_app.mobile_saint_gall"
+msgid "Saint-Gall"
+msgstr "생갈"
+
+msgctxt "Languages::mobile_app.mobile_salamanca"
+msgid "Salamanca"
+msgstr "살라망카"
+
+msgctxt "Languages::mobile_app.mobile_salerno"
+msgid "Salerno"
+msgstr "살레르노"
+
+msgctxt "Languages::mobile_app.mobile_samarskaja_oblast"
+msgid "Samarskaja oblast'"
+msgstr "사마르스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_samoa"
+msgid "Samoa"
+msgstr "사모아"
+
+msgctxt "Languages::mobile_app.mobile_san_marino"
+msgid "San Marino"
+msgstr "산 마리노"
+
+msgctxt "Languages::mobile_app.mobile_sankt_peterburg"
+msgid "Sankt-Peterburg"
+msgstr "상트페테르부르크"
+
+msgctxt "Languages::mobile_app.mobile_santa_cruz_de_tenerife"
+msgid "Santa Cruz de Tenerife"
+msgstr "산타 크루즈 데 테네리페"
+
+msgctxt "Languages::mobile_app.mobile_sao_tome_and_principe"
+msgid "Sao Tome and Principe"
+msgstr "상투메 프린시페"
+
+msgctxt "Languages::mobile_app.mobile_saratovskaja_oblast"
+msgid "Saratovskaja oblast'"
+msgstr "사라토프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_sarthe"
+msgid "Sarthe"
+msgstr "사르트"
+
+msgctxt "Languages::mobile_app.mobile_saskatchewan"
+msgid "Saskatchewan"
+msgstr "서스캐처원"
+
+msgctxt "Languages::mobile_app.mobile_sassari"
+msgid "Sassari"
+msgstr "사사리"
+
+msgctxt "Languages::mobile_app.mobile_saudi_arabia"
+msgid "Saudi Arabia"
+msgstr "사우디 아라비아"
+
+msgctxt "Languages::mobile_app.mobile_save"
+msgid "Save"
+msgstr "구하다"
+
+msgctxt "Languages::mobile_app.mobile_savoie"
+msgid "Savoie"
+msgstr "사부아"
+
+msgctxt "Languages::mobile_app.mobile_savona"
+msgid "Savona"
+msgstr "사보나"
+
+msgctxt "Languages::mobile_app.mobile_saone_et_loire"
+msgid "Saône-et-Loire"
+msgstr "손에 루아르"
+
+msgctxt "Languages::mobile_app.mobile_schaffhouse"
+msgid "Schaffhouse"
+msgstr "샤프하우스"
+
+msgctxt "Languages::mobile_app.mobile_schleswig_holstein"
+msgid "Schleswig-Holstein"
+msgstr "슐레스비히-홀슈타인"
+
+msgctxt "Languages::mobile_app.mobile_schwytz"
+msgid "Schwytz"
+msgstr "슈비츠"
+
+msgctxt "Languages::mobile_app.mobile_scottish_borders"
+msgid "Scottish Borders"
+msgstr "스코틀랜드 국경"
+
+msgctxt "Languages::mobile_app.mobile_segovia"
+msgid "Segovia"
+msgstr "세고비아"
+
+msgctxt "Languages::mobile_app.mobile_seine_maritime"
+msgid "Seine-Maritime"
+msgstr "센-마리타임"
+
+msgctxt "Languages::mobile_app.mobile_seine_saint_denis"
+msgid "Seine-Saint-Denis"
+msgstr "센생드니"
+
+msgctxt "Languages::mobile_app.mobile_seine_et_marne"
+msgid "Seine-et-Marne"
+msgstr "센에 마른"
+
+msgctxt "Languages::mobile_app.mobile_selkirkshire"
+msgid "Selkirkshire"
+msgstr "셀커크셔"
+
+msgctxt "Languages::mobile_app.mobile_seller"
+msgid "Seller"
+msgstr "파는 사람"
+
+msgctxt "Languages::mobile_app.mobile_sellers"
+msgid "Sellers"
+msgstr "판매자"
+
+msgctxt "Languages::mobile_app.mobile_senegal"
+msgid "Senegal"
+msgstr "세네갈"
+
+msgctxt "Languages::mobile_app.mobile_serbia"
+msgid "Serbia"
+msgstr "세르비아"
+
+msgctxt "Languages::mobile_app.mobile_sevilla"
+msgid "Sevilla"
+msgstr "세비야"
+
+msgctxt "Languages::mobile_app.mobile_seychelles"
+msgid "Seychelles"
+msgstr "세이셸"
+
+msgctxt "Languages::mobile_app.mobile_shetland_islands"
+msgid "Shetland Islands"
+msgstr "셰틀랜드 제도"
+
+msgctxt "Languages::mobile_app.mobile_shropshire"
+msgid "Shropshire"
+msgstr "슈롭셔"
+
+msgctxt "Languages::mobile_app.mobile_siena"
+msgid "Siena"
+msgstr "시에나"
+
+msgctxt "Languages::mobile_app.mobile_sierra_leone"
+msgid "Sierra Leone"
+msgstr "시에라리온"
+
+msgctxt "Languages::mobile_app.mobile_singapore"
+msgid "Singapore"
+msgstr "싱가포르"
+
+msgctxt "Languages::mobile_app.mobile_sint_maarten"
+msgid "Sint Maarten"
+msgstr "신트마르텐"
+
+msgctxt "Languages::mobile_app.mobile_siracusa"
+msgid "Siracusa"
+msgstr "시라쿠사"
+
+msgctxt "Languages::mobile_app.mobile_slovakia"
+msgid "Slovakia"
+msgstr "슬로바키아"
+
+msgctxt "Languages::mobile_app.mobile_slovenia"
+msgid "Slovenia"
+msgstr "슬로베니아"
+
+msgctxt "Languages::mobile_app.mobile_smolenskaja_oblast"
+msgid "Smolenskaja oblast'"
+msgstr "스몰렌스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_sofia"
+msgid "Sofia"
+msgstr "소피아"
+
+msgctxt "Languages::mobile_app.mobile_soleure"
+msgid "Soleure"
+msgstr "솔레어"
+
+msgctxt "Languages::mobile_app.mobile_solomon_islands"
+msgid "Solomon Islands"
+msgstr "솔로몬 제도"
+
+msgctxt "Languages::mobile_app.mobile_somalia"
+msgid "Somalia"
+msgstr "소말리아"
+
+msgctxt "Languages::mobile_app.mobile_somerset"
+msgid "Somerset"
+msgstr "공중제비"
+
+msgctxt "Languages::mobile_app.mobile_somme"
+msgid "Somme"
+msgstr "솜"
+
+msgctxt "Languages::mobile_app.mobile_sondrio"
+msgid "Sondrio"
+msgstr "손드리오"
+
+msgctxt "Languages::mobile_app.mobile_soria"
+msgid "Soria"
+msgstr "소리아"
+
+msgctxt "Languages::mobile_app.mobile_we_have_no_shipping_options_available_for_your_location"
+msgid "Sorry, it seems that we have no shipping options available for your location.Please check your shipping address and contact us if everything is okay. We'll see what we can do about it."
+msgstr "죄송합니다. 귀하의 위치에 사용할 수 있는 배송 옵션이 없는 것 같습니다. 배송 주소를 확인하고 문제가 없는 경우 당사에 문의하십시오. 우리는 그것에 대해 무엇을 할 수 있는지 볼 것입니다."
+
+msgctxt "Languages::mobile_app.mobile_please_sign_in_to_buy"
+msgid "Please sign in to buy"
+msgstr "구매하려면 로그인하세요."
+
+msgctxt "Languages::mobile_app.mobile_store_closed_for_maintenance"
+msgid "Sorry, the store is temporarily closed for maintenance."
+msgstr "죄송합니다. 매장은 유지 보수를 위해 일시적으로 문을 닫습니다."
+
+msgctxt "Languages::mobile_app.mobile_sorting_a_to_z"
+msgid "Sorting: A to Z"
+msgstr "정렬: A에서 Z까지"
+
+msgctxt "Languages::mobile_app.mobile_sorting_highest_prices_first"
+msgid "Sorting: Highest prices first"
+msgstr "정렬: 가장 높은 가격 우선"
+
+msgctxt "Languages::mobile_app.mobile_sorting_lowest_prices_first"
+msgid "Sorting: Lowest prices first"
+msgstr "정렬: 가장 낮은 가격 우선"
+
+msgctxt "Languages::mobile_app.mobile_sorting_most_popular_first"
+msgid "Sorting: Most popular first"
+msgstr "정렬: 가장 인기 있는 순"
+
+msgctxt "Languages::mobile_app.mobile_sorting_newest_items_first"
+msgid "Sorting: Newest items first"
+msgstr "정렬: 최신 항목 먼저"
+
+msgctxt "Languages::mobile_app.mobile_sorting_z_to_a"
+msgid "Sorting: Z to A"
+msgstr "정렬: Z에서 A로"
+
+msgctxt "Languages::mobile_app.mobile_south_africa"
+msgid "South Africa"
+msgstr "남아프리카"
+
+msgctxt "Languages::mobile_app.mobile_south_australia"
+msgid "South Australia"
+msgstr "남호주"
+
+msgctxt "Languages::mobile_app.mobile_south_ayrshire"
+msgid "South Ayrshire"
+msgstr "사우스 에어셔"
+
+msgctxt "Languages::mobile_app.mobile_south_carolina"
+msgid "South Carolina"
+msgstr "사우스 캐롤라이나"
+
+msgctxt "Languages::mobile_app.mobile_south_dakota"
+msgid "South Dakota"
+msgstr "사우스다코타"
+
+msgctxt "Languages::mobile_app.mobile_south_lanarkshire"
+msgid "South Lanarkshire"
+msgstr "사우스 라나크셔"
+
+msgctxt "Languages::mobile_app.mobile_south_yorkshire"
+msgid "South Yorkshire"
+msgstr "사우스요크셔"
+
+msgctxt "Languages::mobile_app.mobile_spain"
+msgid "Spain"
+msgstr "스페인"
+
+msgctxt "Languages::mobile_app.mobile_sri_lanka"
+msgid "Sri Lanka"
+msgstr "스리랑카"
+
+msgctxt "Languages::mobile_app.mobile_st._helena"
+msgid "St. Helena"
+msgstr "세인트 헬레나"
+
+msgctxt "Languages::mobile_app.mobile_store_closed"
+msgid "Store closed"
+msgstr "매장 폐쇄"
+
+msgctxt "Languages::mobile_app.mobile_st._kitts_and_nevis"
+msgid "St. Kitts and Nevis"
+msgstr "세인트키츠네비스"
+
+msgctxt "Languages::mobile_app.mobile_st._pierre_and_miquelon"
+msgid "St. Pierre and Miquelon"
+msgstr "생피에르와 미클롱"
+
+msgctxt "Languages::mobile_app.mobile_st._vincent_and_the_grenadines"
+msgid "St. Vincent and the Grenadines"
+msgstr "세인트 빈센트 그레나딘"
+
+msgctxt "Languages::mobile_app.mobile_staffordshire"
+msgid "Staffordshire"
+msgstr "스태퍼드셔"
+
+msgctxt "Languages::mobile_app.mobile_state"
+msgid "State"
+msgstr "상태"
+
+msgctxt "Languages::mobile_app.mobile_stavropolskij_kraj"
+msgid "Stavropol'skij kraj"
+msgstr "스타브로폴스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_stirling"
+msgid "Stirling"
+msgstr "스털링"
+
+msgctxt "Languages::mobile_app.mobile_stirlingshire"
+msgid "Stirlingshire"
+msgstr "스털링셔"
+
+msgctxt "Languages::mobile_app.mobile_sudan"
+msgid "Sudan"
+msgstr "수단"
+
+msgctxt "Languages::mobile_app.mobile_suffolk"
+msgid "Suffolk"
+msgstr "서퍽"
+
+msgctxt "Languages::mobile_app.mobile_suriname"
+msgid "Suriname"
+msgstr "수리남"
+
+msgctxt "Languages::mobile_app.mobile_surrey"
+msgid "Surrey"
+msgstr "써리"
+
+msgctxt "Languages::mobile_app.mobile_sutherland"
+msgid "Sutherland"
+msgstr "서덜랜드"
+
+msgctxt "Languages::mobile_app.mobile_svalbard_and_jan_mayen_islands"
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "스발바르와 얀마옌 제도"
+
+msgctxt "Languages::mobile_app.mobile_sverdlovskaja_oblast"
+msgid "Sverdlovskaja oblast'"
+msgstr "스베르들로프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_swansea"
+msgid "Swansea"
+msgstr "스완지"
+
+msgctxt "Languages::mobile_app.mobile_swaziland"
+msgid "Swaziland"
+msgstr "스와질랜드"
+
+msgctxt "Languages::mobile_app.mobile_sweden"
+msgid "Sweden"
+msgstr "스웨덴"
+
+msgctxt "Languages::mobile_app.mobile_switzerland"
+msgid "Switzerland"
+msgstr "스위스"
+
+msgctxt "Languages::mobile_app.mobile_syrian_arab_republic"
+msgid "Syrian Arab Republic"
+msgstr "시리아 아랍 공화국"
+
+msgctxt "Languages::mobile_app.mobile_taiwan"
+msgid "Taiwan"
+msgstr "대만"
+
+msgctxt "Languages::mobile_app.mobile_tajikistan"
+msgid "Tajikistan"
+msgstr "타지키스탄"
+
+msgctxt "Languages::mobile_app.mobile_tambovskaja_oblast"
+msgid "Tambovskaja oblast'"
+msgstr "탐보브스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_tanzania_united_republic_of"
+msgid "Tanzania, United Republic of"
+msgstr "탄자니아, 연합 공화국"
+
+msgctxt "Languages::mobile_app.mobile_taranto"
+msgid "Taranto"
+msgstr "타란토"
+
+msgctxt "Languages::mobile_app.mobile_tarn"
+msgid "Tarn"
+msgstr "작은 호수"
+
+msgctxt "Languages::mobile_app.mobile_tarn_et_garonne"
+msgid "Tarn-et-Garonne"
+msgstr "탄에가론"
+
+msgctxt "Languages::mobile_app.mobile_tarragona"
+msgid "Tarragona"
+msgstr "타라고나"
+
+msgctxt "Languages::mobile_app.mobile_tasmania"
+msgid "Tasmania"
+msgstr "태즈메이니아"
+
+msgctxt "Languages::mobile_app.mobile_tennessee"
+msgid "Tennessee"
+msgstr "테네시"
+
+msgctxt "Languages::mobile_app.mobile_teramo"
+msgid "Teramo"
+msgstr "테라모"
+
+msgctxt "Languages::mobile_app.mobile_terni"
+msgid "Terni"
+msgstr "테르니"
+
+msgctxt "Languages::mobile_app.mobile_territoire_de_belfort"
+msgid "Territoire de Belfort"
+msgstr "테리투아르 드 벨포르"
+
+msgctxt "Languages::mobile_app.mobile_teruel"
+msgid "Teruel"
+msgstr "테루엘"
+
+msgctxt "Languages::mobile_app.mobile_tessin"
+msgid "Tessin"
+msgstr "테신"
+
+msgctxt "Languages::mobile_app.mobile_texas"
+msgid "Texas"
+msgstr "텍사스"
+
+msgctxt "Languages::mobile_app.mobile_thailand"
+msgid "Thailand"
+msgstr "태국"
+
+msgctxt "Languages::mobile_app.mobile_thurgovie"
+msgid "Thurgovie"
+msgstr "써고비"
+
+msgctxt "Languages::mobile_app.mobile_thuringen"
+msgid "Thüringen"
+msgstr "튀링겐"
+
+msgctxt "Languages::mobile_app.mobile_tjumenskaja_oblast"
+msgid "Tjumenskaja oblast'"
+msgstr "츄멘스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_togo"
+msgid "Togo"
+msgstr "토고"
+
+msgctxt "Languages::mobile_app.mobile_tokelau"
+msgid "Tokelau"
+msgstr "토켈라우"
+
+msgctxt "Languages::mobile_app.mobile_toledo"
+msgid "Toledo"
+msgstr "톨레도"
+
+msgctxt "Languages::mobile_app.mobile_tomskaja_oblast"
+msgid "Tomskaja oblast'"
+msgstr "톰스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_tonga"
+msgid "Tonga"
+msgstr "통가"
+
+msgctxt "Languages::mobile_app.mobile_torfaen"
+msgid "Torfaen"
+msgstr "토르펜"
+
+msgctxt "Languages::mobile_app.mobile_torino"
+msgid "Torino"
+msgstr "토리노"
+
+msgctxt "Languages::mobile_app.mobile_total"
+msgid "Total"
+msgstr "총"
+
+msgctxt "Languages::mobile_app.mobile_trapani"
+msgid "Trapani"
+msgstr "트라파니"
+
+msgctxt "Languages::mobile_app.mobile_trento"
+msgid "Trento"
+msgstr "트렌토"
+
+msgctxt "Languages::mobile_app.mobile_treviso"
+msgid "Treviso"
+msgstr "트레비소"
+
+msgctxt "Languages::mobile_app.mobile_trieste"
+msgid "Trieste"
+msgstr "트리에스테"
+
+msgctxt "Languages::mobile_app.mobile_trinidad_and_tobago"
+msgid "Trinidad and Tobago"
+msgstr "트리니다드토바고"
+
+msgctxt "Languages::mobile_app.mobile_tulskaja_oblast"
+msgid "Tul'skaja oblast'"
+msgstr "툴스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_tunisia"
+msgid "Tunisia"
+msgstr "튀니지"
+
+msgctxt "Languages::mobile_app.mobile_turkey"
+msgid "Turkey"
+msgstr "칠면조"
+
+msgctxt "Languages::mobile_app.mobile_turkmenistan"
+msgid "Turkmenistan"
+msgstr "투르크메니스탄"
+
+msgctxt "Languages::mobile_app.mobile_turks_and_caicos_islands"
+msgid "Turks and Caicos Islands"
+msgstr "터크스케이커스 제도"
+
+msgctxt "Languages::mobile_app.mobile_tuvalu"
+msgid "Tuvalu"
+msgstr "투발루"
+
+msgctxt "Languages::mobile_app.mobile_tverskaja_oblast"
+msgid "Tverskaja oblast'"
+msgstr "트베르스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_tyne_and_wear"
+msgid "Tyne and Wear"
+msgstr "타인과 웨어"
+
+msgctxt "Languages::mobile_app.mobile_udine"
+msgid "Udine"
+msgstr "우디네"
+
+msgctxt "Languages::mobile_app.mobile_udmurtskaja_respublika"
+msgid "Udmurtskaja Respublika"
+msgstr "우드무르츠카야 레스푸블리카"
+
+msgctxt "Languages::mobile_app.mobile_uganda"
+msgid "Uganda"
+msgstr "우간다"
+
+msgctxt "Languages::mobile_app.mobile_ukraine"
+msgid "Ukraine"
+msgstr "우크라이나"
+
+msgctxt "Languages::mobile_app.mobile_uljanovskaja_oblast"
+msgid "Ul'janovskaja oblast'"
+msgstr "울자노프스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_united_arab_emirates"
+msgid "United Arab Emirates"
+msgstr "아랍 에미리트"
+
+msgctxt "Languages::mobile_app.mobile_united_kingdom_great_britain"
+msgid "United Kingdom (Great Britain)"
+msgstr "영국(영국)"
+
+msgctxt "Languages::mobile_app.mobile_united_states_virgin_islands"
+msgid "United States Virgin Islands"
+msgstr "미국령 버진 아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_united_states"
+msgid "United States"
+msgstr "미국"
+
+msgctxt "Languages::mobile_app.mobile_uri"
+msgid "Uri"
+msgstr "우리"
+
+msgctxt "Languages::mobile_app.mobile_uruguay"
+msgid "Uruguay"
+msgstr "우루과이"
+
+msgctxt "Languages::mobile_app.mobile_utah"
+msgid "Utah"
+msgstr "유타"
+
+msgctxt "Languages::mobile_app.mobile_utrecht"
+msgid "Utrecht"
+msgstr "위트레흐트"
+
+msgctxt "Languages::mobile_app.mobile_uzbekistan"
+msgid "Uzbekistan"
+msgstr "우즈베키스탄"
+
+msgctxt "Languages::mobile_app.mobile_val_doise"
+msgid "Val-d'Oise"
+msgstr "발도아즈"
+
+msgctxt "Languages::mobile_app.mobile_val_de_marne"
+msgid "Val-de-Marne"
+msgstr "발 드 마른"
+
+msgctxt "Languages::mobile_app.mobile_valais"
+msgid "Valais"
+msgstr "발레"
+
+msgctxt "Languages::mobile_app.mobile_vale_of_glamorgan"
+msgid "Vale of Glamorgan"
+msgstr "글래모건 계곡"
+
+msgctxt "Languages::mobile_app.mobile_valencia"
+msgid "Valencia"
+msgstr "발렌시아"
+
+msgctxt "Languages::mobile_app.mobile_valladolid"
+msgid "Valladolid"
+msgstr "바야돌리드"
+
+msgctxt "Languages::mobile_app.mobile_vanuatu"
+msgid "Vanuatu"
+msgstr "바누아투"
+
+msgctxt "Languages::mobile_app.mobile_var"
+msgid "Var"
+msgstr "바르"
+
+msgctxt "Languages::mobile_app.mobile_varese"
+msgid "Varese"
+msgstr "바레세"
+
+msgctxt "Languages::mobile_app.mobile_vatican_city_state"
+msgid "Vatican City State"
+msgstr "바티칸 시국"
+
+msgctxt "Languages::mobile_app.mobile_vaucluse"
+msgid "Vaucluse"
+msgstr "보클뤼즈"
+
+msgctxt "Languages::mobile_app.mobile_vaud"
+msgid "Vaud"
+msgstr "보드"
+
+msgctxt "Languages::mobile_app.mobile_vendee"
+msgid "Vendée"
+msgstr "사는 사람"
+
+msgctxt "Languages::mobile_app.mobile_venezia"
+msgid "Venezia"
+msgstr "베네치아"
+
+msgctxt "Languages::mobile_app.mobile_venezuela"
+msgid "Venezuela"
+msgstr "베네수엘라"
+
+msgctxt "Languages::mobile_app.mobile_verbano_cusio_ossola"
+msgid "Verbano-Cusio-Ossola"
+msgstr "Verbano-Cusio-Ossola"
+
+msgctxt "Languages::mobile_app.mobile_vercelli"
+msgid "Vercelli"
+msgstr "베르첼리"
+
+msgctxt "Languages::mobile_app.mobile_vermont"
+msgid "Vermont"
+msgstr "버몬트"
+
+msgctxt "Languages::mobile_app.mobile_verona"
+msgid "Verona"
+msgstr "베로나"
+
+msgctxt "Languages::mobile_app.mobile_vibo_valentia"
+msgid "Vibo Valentia"
+msgstr "비보 발렌시아"
+
+msgctxt "Languages::mobile_app.mobile_vicenza"
+msgid "Vicenza"
+msgstr "비첸차"
+
+msgctxt "Languages::mobile_app.mobile_victoria"
+msgid "Victoria"
+msgstr "빅토리아"
+
+msgctxt "Languages::mobile_app.mobile_vienne"
+msgid "Vienne"
+msgstr "비엔나"
+
+msgctxt "Languages::mobile_app.mobile_viet_nam"
+msgid "Viet Nam"
+msgstr "베트남"
+
+msgctxt "Languages::mobile_app.mobile_virgin_islands"
+msgid "Virgin Islands"
+msgstr "버진 아일랜드"
+
+msgctxt "Languages::mobile_app.mobile_virginia"
+msgid "Virginia"
+msgstr "여자 이름"
+
+msgctxt "Languages::mobile_app.mobile_viterbo"
+msgid "Viterbo"
+msgstr "비테르보"
+
+msgctxt "Languages::mobile_app.mobile_vizcaya"
+msgid "Vizcaya"
+msgstr "비스카야"
+
+msgctxt "Languages::mobile_app.mobile_vladimirskaja_oblast"
+msgid "Vladimirskaja oblast'"
+msgstr "블라디미르스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_volgogradskaja_oblast"
+msgid "Volgogradskaja oblast'"
+msgstr "볼고그라드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_vologodskaja_oblast"
+msgid "Vologodskaja oblast'"
+msgstr "볼로고드스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_voronezhskaja_oblast"
+msgid "Voronezhskaja oblast'"
+msgstr "보로네즈스카야 주'"
+
+msgctxt "Languages::mobile_app.mobile_vosges"
+msgid "Vosges"
+msgstr "보주"
+
+msgctxt "Languages::mobile_app.mobile_wallis_and_futuna_islands"
+msgid "Wallis And Futuna Islands"
+msgstr "월리스 푸투나 제도"
+
+msgctxt "Languages::mobile_app.mobile_warwickshire"
+msgid "Warwickshire"
+msgstr "워릭셔"
+
+msgctxt "Languages::mobile_app.mobile_washington"
+msgid "Washington"
+msgstr "워싱턴"
+
+msgctxt "Languages::mobile_app.mobile_west_dunbartonshire"
+msgid "West Dunbartonshire"
+msgstr "웨스트 던바튼셔"
+
+msgctxt "Languages::mobile_app.mobile_west_lothian"
+msgid "West Lothian"
+msgstr "웨스트 로시안"
+
+msgctxt "Languages::mobile_app.mobile_west_midlands"
+msgid "West Midlands"
+msgstr "웨스트 미들랜즈"
+
+msgctxt "Languages::mobile_app.mobile_west_sussex"
+msgid "West Sussex"
+msgstr "웨스트 서식스"
+
+msgctxt "Languages::mobile_app.mobile_west_virginia"
+msgid "West Virginia"
+msgstr "웨스트 버지니아"
+
+msgctxt "Languages::mobile_app.mobile_west_yorkshire"
+msgid "West Yorkshire"
+msgstr "웨스트요크셔"
+
+msgctxt "Languages::mobile_app.mobile_western_australia"
+msgid "Western Australia"
+msgstr "웨스턴 오스트레일리아"
+
+msgctxt "Languages::mobile_app.mobile_western_isles"
+msgid "Western Isles"
+msgstr "서부 제도"
+
+msgctxt "Languages::mobile_app.mobile_western_sahara"
+msgid "Western Sahara"
+msgstr "서부 사하라"
+
+msgctxt "Languages::mobile_app.mobile_wigtownshire"
+msgid "Wigtownshire"
+msgstr "위그타운셔"
+
+msgctxt "Languages::mobile_app.mobile_wiltshire"
+msgid "Wiltshire"
+msgstr "윌트셔"
+
+msgctxt "Languages::mobile_app.mobile_wisconsin"
+msgid "Wisconsin"
+msgstr "위스콘신"
+
+msgctxt "Languages::mobile_app.mobile_worcestershire"
+msgid "Worcestershire"
+msgstr "우스터셔"
+
+msgctxt "Languages::mobile_app.mobile_wrexham"
+msgid "Wrexham"
+msgstr "렉섬"
+
+msgctxt "Languages::mobile_app.mobile_wyoming"
+msgid "Wyoming"
+msgstr "와이오밍"
+
+msgctxt "Languages::mobile_app.mobile_yemen"
+msgid "Yemen"
+msgstr "예멘"
+
+msgctxt "Languages::mobile_app.mobile_yonne"
+msgid "Yonne"
+msgstr "욘"
+
+msgctxt "Languages::mobile_app.mobile_yorkshire"
+msgid "Yorkshire"
+msgstr "요크셔"
+
+msgctxt "Languages::mobile_app.mobile_yukon"
+msgid "Yukon"
+msgstr "유콘"
+
+msgctxt "Languages::mobile_app.mobile_yvelines"
+msgid "Yvelines"
+msgstr "이블린스"
+
+msgctxt "Languages::mobile_app.mobile_zabaykalskiy_kraj"
+msgid "Zabaykal'skiy kraj"
+msgstr "자바이칼스키 크라이"
+
+msgctxt "Languages::mobile_app.mobile_zaire"
+msgid "Zaire"
+msgstr "자이르"
+
+msgctxt "Languages::mobile_app.mobile_zambia"
+msgid "Zambia"
+msgstr "잠비아"
+
+msgctxt "Languages::mobile_app.mobile_zamora"
+msgid "Zamora"
+msgstr "자모라"
+
+msgctxt "Languages::mobile_app.mobile_zaragoza"
+msgid "Zaragoza"
+msgstr "사라고사"
+
+msgctxt "Languages::mobile_app.mobile_zeeland"
+msgid "Zeeland"
+msgstr "질랜드"
+
+msgctxt "Languages::mobile_app.mobile_zimbabwe"
+msgid "Zimbabwe"
+msgstr "짐바브웨"
+
+msgctxt "Languages::mobile_app.mobile_zoug"
+msgid "Zoug"
+msgstr "주그"
+
+msgctxt "Languages::mobile_app.mobile_zuid_holland"
+msgid "Zuid Holland"
+msgstr "주이드 홀랜드"
+
+msgctxt "Languages::mobile_app.mobile_zurich"
+msgid "Zurich"
+msgstr "취리히"
+
+msgctxt "Languages::mobile_app.mobile_alava"
+msgid "Álava"
+msgstr "알라바"
+
+msgctxt "Languages::mobile_app.mobile_avila"
+msgid "Ávila"
+msgstr "아빌라"
+
+msgctxt "Languages::mobile_app.mobile_address"
+msgid "Address"
+msgstr "주소"
+
+msgctxt "Languages::mobile_app.mobile_address_2"
+msgid "Address 2"
+msgstr "주소 2"
+
+msgctxt "Languages::mobile_app.mobile_add_to_cart"
+msgid "Add to cart"
+msgstr "장바구니에 추가"
+
+msgctxt "Languages::mobile_app.mobile_auth"
+msgid "Auth"
+msgstr "인증"
+
+msgctxt "Languages::mobile_app.mobile_authentication"
+msgid "Authentication"
+msgstr "입증"
+
+msgctxt "Languages::mobile_app.mobile_bank_routing_number"
+msgid "Bank routing number"
+msgstr "은행 라우팅 번호"
+
+msgctxt "Languages::mobile_app.mobile_billing_address"
+msgid "Billing address"
+msgstr "청구 지 주소"
+
+msgctxt "Languages::mobile_app.mobile_cancel"
+msgid "Cancel"
+msgstr "취소"
+
+msgctxt "Languages::mobile_app.mobile_cant_handle_url"
+msgid "Can't handle url"
+msgstr "URL을 처리할 수 없습니다."
+
+msgctxt "Languages::mobile_app.mobile_cardholders_name"
+msgid "Cardholder's name"
+msgstr "카드 소지자 이름"
+
+msgctxt "Languages::mobile_app.mobile_card_number"
+msgid "Card Number"
+msgstr "카드 번호"
+
+msgctxt "Languages::mobile_app.mobile_categories"
+msgid "Categories"
+msgstr "카테고리"
+
+msgctxt "Languages::mobile_app.mobile_change_address"
+msgid "Change address"
+msgstr "주소를 바꾸다"
+
+msgctxt "Languages::mobile_app.mobile_checking_account_number"
+msgid "Checking account number"
+msgstr "계좌번호 확인"
+
+msgctxt "Languages::mobile_app.mobile_checkout_complete"
+msgid "Checkout complete"
+msgstr "결제 완료"
+
+msgctxt "Languages::mobile_app.mobile_comment"
+msgid "Comment"
+msgstr "논평"
+
+msgctxt "Languages::mobile_app.mobile_comments_reviews"
+msgid "Comments & Reviews"
+msgstr "댓글 및 리뷰"
+
+msgctxt "Languages::mobile_app.mobile_vendors"
+msgid "Vendors"
+msgstr "공급업체"
+
+msgctxt "Languages::mobile_app.mobile_clear_all_cart"
+msgid "Clear all cart ?"
+msgstr "장바구니를 모두 지우시겠습니까?"
+
+msgctxt "Languages::mobile_app.mobile_clear_all_filter"
+msgid "Clear all"
+msgstr "모두 지우기"
+
+msgctxt "Languages::mobile_app.mobile_clear_wish_list"
+msgid "Clear wish list?"
+msgstr "위시리스트를 지우시겠습니까?"
+
+msgctxt "Languages::mobile_app.mobile_congratulations"
+msgid "Congratulations!"
+msgstr "축하합니다!"
+
+msgctxt "Languages::mobile_app.mobile_contact_information"
+msgid "Contact Information"
+msgstr "연락처 정보"
+
+msgctxt "Languages::mobile_app.mobile_customers_signature"
+msgid "Customer's signature"
+msgstr "고객의 서명"
+
+msgctxt "Languages::mobile_app.mobile_cvv_cvc"
+msgid "CVV/CVC"
+msgstr "CVV/CVC"
+
+msgctxt "Languages::mobile_app.mobile_delete"
+msgid "Delete"
+msgstr "삭제"
+
+msgctxt "Languages::mobile_app.mobile_delete_account"
+msgid "Delete account"
+msgstr "계정 삭제"
+
+msgctxt "Languages::mobile_app.mobile_delivery"
+msgid "Delivery"
+msgstr "배달"
+
+msgctxt "Languages::mobile_app.mobile_reviews"
+msgid "Reviews"
+msgstr "리뷰"
+
+msgctxt "Languages::mobile_app.mobile_email"
+msgid "Email"
+msgstr "이메일"
+
+msgctxt "Languages::mobile_app.mobile_you_can_leave_us_a_comment_here"
+msgid "You can leave us a comment here."
+msgstr "여기에 의견을 남길 수 있습니다."
+
+msgctxt "Languages::mobile_app.mobile_your_changes_have_been_saved"
+msgid "Your changes have been saved."
+msgstr "변경 사항이 저장되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_your_request_has_been_sent"
+msgid "Your request has been sent successfully."
+msgstr "귀하의 요청이 성공적으로 전송되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_your_wish_lists_will_love_here"
+msgid "Your Wish Lists will love here."
+msgstr "당신의 위시리스트는 여기를 좋아할 것입니다."
+
+msgctxt "Languages::mobile_app.mobile_error"
+msgid "Error"
+msgstr "오류"
+
+msgctxt "Languages::mobile_app.mobile_something_went_wrong_please_try_again_later"
+msgid "Something went wrong. Please try again later."
+msgstr "문제가 발생했습니다. 나중에 다시 시도하세요."
+
+msgctxt "Languages::mobile_app.mobile_please_fill_required_fields"
+msgid "Please fill in the required fields."
+msgstr "필수 필드를 작성하십시오."
+
+msgctxt "Languages::mobile_app.mobile_fax"
+msgid "Fax"
+msgstr "팩스"
+
+msgctxt "Languages::mobile_app.mobile_features"
+msgid "Features"
+msgstr "특징"
+
+msgctxt "Languages::mobile_app.mobile_go_to_store"
+msgid "Go To Store"
+msgstr "가게에 가다"
+
+msgctxt "Languages::mobile_app.mobile_home"
+msgid "Home"
+msgstr "집"
+
+msgctxt "Languages::mobile_app.mobile_information"
+msgid "Information"
+msgstr "정보"
+
+msgctxt "Languages::mobile_app.mobile_items"
+msgid "{{count}} item(s)"
+msgstr "{{count}} 개 항목"
+
+msgctxt "Languages::mobile_app.mobile_list_is_empty"
+msgid "List is empty"
+msgstr "목록이 비어 있습니다."
+
+msgctxt "Languages::mobile_app.mobile_login"
+msgid "Login"
+msgstr "로그인"
+
+msgctxt "Languages::mobile_app.mobile_logout"
+msgid "Logout"
+msgstr "로그 아웃"
+
+msgctxt "Languages::mobile_app.mobile_looking_for_ideas"
+msgid "Looking for ideas?"
+msgstr "아이디어를 찾고 계십니까?"
+
+msgctxt "Languages::mobile_app.mobile_my_profile"
+msgid "My Profile"
+msgstr "내 프로필"
+
+msgctxt "Languages::mobile_app.mobile_next"
+msgid "Next"
+msgstr "다음"
+
+msgctxt "Languages::mobile_app.mobile_notice"
+msgid "Notice"
+msgstr "알아채다"
+
+msgctxt "Languages::mobile_app.mobile_no_posts_found"
+msgid "No posts found"
+msgstr "게시물이 없습니다."
+
+msgctxt "Languages::mobile_app.mobile_reviews_quantity"
+msgid "{{count}} reviews"
+msgstr "리뷰 {{count}} 개"
+
+msgctxt "Languages::mobile_app.mobile_products_found"
+msgid "Products found: {{count}}"
+msgstr "검색된 제품: {{count}}"
+
+msgctxt "Languages::mobile_app.mobile_ok"
+msgid "Ok"
+msgstr "확인"
+
+msgctxt "Languages::mobile_app.mobile_order"
+msgid "Order"
+msgstr "주문하다"
+
+msgctxt "Languages::mobile_app.mobile_payment_method"
+msgid "Payment method"
+msgstr "지불 방법"
+
+msgctxt "Languages::mobile_app.mobile_placed_on"
+msgid "Placed on"
+msgstr "에 올려 진"
+
+msgctxt "Languages::mobile_app.mobile_place_order"
+msgid "Place order"
+msgstr "주문하기"
+
+msgctxt "Languages::mobile_app.mobile_products"
+msgid "Products"
+msgstr "제품"
+
+msgctxt "Languages::mobile_app.mobile_products_information"
+msgid "Products information"
+msgstr "제품 정보"
+
+msgctxt "Languages::mobile_app.mobile_code_has_been_sent"
+msgid "The confirmation code has been sent to the {{email}}, type it below to log in."
+msgstr "확인 코드가 {{email}}(으)로 전송되었습니다. 아래에 입력하여 로그인하세요."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_added_to_your_cart"
+msgid "The product was added to your cart."
+msgstr "제품이 장바구니에 추가되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_added_to_your_wish_list"
+msgid "The product was added to your Wish list."
+msgstr "제품이 위시리스트에 추가되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_this_product_is_already_in_the_wish_list"
+msgid "This product is already in the wish list."
+msgstr "이 상품은 이미 위시리스트에 있습니다."
+
+msgctxt "Languages::mobile_app.mobile_not_reviews_yet"
+msgid "This product has not been reviewed yet."
+msgstr "이 제품은 아직 검토되지 않았습니다."
+
+msgctxt "Languages::mobile_app.mobile_profile"
+msgid "Profile"
+msgstr "프로필"
+
+msgctxt "Languages::mobile_app.mobile_the_rating_field_is_mandatory"
+msgid "The rating field is mandatory."
+msgstr "평가 필드는 필수입니다."
+
+msgctxt "Languages::mobile_app.mobile_registration"
+msgid "Registration"
+msgstr "등록"
+
+msgctxt "Languages::mobile_app.mobile_registration_complete"
+msgid "Registration complete."
+msgstr "등록이 완료되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_reviews_product_details"
+msgid "Reviews ({{count}})"
+msgstr "리뷰 ({{count}})"
+
+msgctxt "Languages::mobile_app.mobile_search"
+msgid "Search"
+msgstr "검색"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "리뷰 보내기"
+
+msgctxt "Languages::mobile_app.mobile_share_product"
+msgid "Share product"
+msgstr "제품 공유"
+
+msgctxt "Languages::mobile_app.mobile_shipping"
+msgid "Shipping"
+msgstr "배송"
+
+msgctxt "Languages::mobile_app.mobile_shipping_address"
+msgid "Shipping address"
+msgstr "배송 주소"
+
+msgctxt "Languages::mobile_app.mobile_shipping_cost"
+msgid "Shipping cost"
+msgstr "배송비"
+
+msgctxt "Languages::mobile_app.mobile_shipping_method"
+msgid "Shipping method"
+msgstr "배송 방법"
+
+msgctxt "Languages::mobile_app.mobile_show_all"
+msgid "Show all"
+msgstr "모두 보이기"
+
+msgctxt "Languages::mobile_app.mobile_sign_in"
+msgid "Sign in"
+msgstr "로그인"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_as_a_different_user"
+msgid "Sign in as a different user"
+msgstr "다른 사용자로 로그인"
+
+msgctxt "Languages::mobile_app.mobile_sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "가격을 보려면 로그인하세요"
+
+msgctxt "Languages::mobile_app.mobile_subtotal"
+msgid "Subtotal"
+msgstr "소계"
+
+msgctxt "Languages::mobile_app.mobile_success"
+msgid "Success"
+msgstr "성공"
+
+msgctxt "Languages::mobile_app.mobile_summary"
+msgid "Summary"
+msgstr "요약"
+
+msgctxt "Languages::mobile_app.mobile_your_shopping_cart_is_empty"
+msgid "Your shopping cart is empty."
+msgstr "귀하의 쇼핑 바구니가 비어 있습니다."
+
+msgctxt "Languages::mobile_app.mobile_product_has_zero_inventory_and_cannot_be_added_to_the_cart"
+msgid "Product has zero inventory and cannot be added to the cart."
+msgstr "제품에 재고가 없으며 장바구니에 추가할 수 없습니다."
+
+msgctxt "Languages::mobile_app.mobile_your_order_has_been_successfully_placed"
+msgid "Your order has been successfully placed."
+msgstr "주문이 완료되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_your_post_will_be_checked_before_it_gets_published"
+msgid "Your post will be checked before it gets published."
+msgstr "게시물이 게시되기 전에 확인됩니다."
+
+msgctxt "Languages::mobile_app.mobile_the_profile_data_has_been_updated_successfully_dot"
+msgid "The profile data has been updated successfully."
+msgstr "프로필 데이터가 성공적으로 업데이트되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_the_profile_data_has_been_updated_successfully"
+msgid "The profile data has been updated successfully"
+msgstr "프로필 데이터가 성공적으로 업데이트되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_thank_you_for_your_post"
+msgid "Thank you for your post."
+msgstr "귀하의 게시물에 감사드립니다."
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_features"
+msgid "There are no features."
+msgstr "기능이 없습니다."
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_mm"
+msgid "Valid thru (mm)"
+msgstr "유효 기간(mm)"
+
+msgctxt "Languages::mobile_app.mobile_valid_thru_yy"
+msgid "Valid thru (yy)"
+msgstr "(yy)까지 유효"
+
+msgctxt "Languages::mobile_app.mobile_vendor_detail"
+msgid "Vendor Detail"
+msgstr "공급업체 세부정보"
+
+msgctxt "Languages::mobile_app.mobile_details"
+msgid "Details"
+msgstr "세부"
+
+msgctxt "Languages::mobile_app.mobile_vendor"
+msgid "Vendor"
+msgstr "공급업체"
+
+msgctxt "Languages::mobile_app.mobile_vendor_info"
+msgid "Vendor info"
+msgstr "공급업체 정보"
+
+msgctxt "Languages::mobile_app.mobile_vendor_products"
+msgid "Vendor products"
+msgstr "공급업체 제품"
+
+msgctxt "Languages::mobile_app.mobile_view_all"
+msgid "View All"
+msgstr "모두보기"
+
+msgctxt "Languages::mobile_app.mobile_view_detail"
+msgid "View Detail"
+msgstr "자세히보기"
+
+msgctxt "Languages::mobile_app.mobile_website"
+msgid "Website"
+msgstr "웹사이트"
+
+msgctxt "Languages::mobile_app.mobile_wish_list"
+msgid "Wish List"
+msgstr "위시리스트"
+
+msgctxt "Languages::mobile_app.mobile_write_a_review"
+msgid "Write a Review"
+msgstr "리뷰를 작성"
+
+msgctxt "Languages::mobile_app.mobile_admin_reply"
+msgid "Administrator reply"
+msgstr "관리자 응답"
+
+msgctxt "Languages::mobile_app.mobile_vendor_reply"
+msgid "Vendor reply"
+msgstr "공급업체 응답"
+
+msgctxt "Languages::mobile_app.mobile_wrong_password"
+msgid "Wrong password."
+msgstr "잘못된 비밀번호."
+
+msgctxt "Languages::mobile_app.mobile_your_message"
+msgid "Your message"
+msgstr "당신의 메시지"
+
+msgctxt "Languages::mobile_app.mobile_your_name"
+msgid "Your name"
+msgstr "당신의 이름"
+
+msgctxt "Languages::mobile_app.mobile_password"
+msgid "Password"
+msgstr "비밀번호"
+
+msgctxt "Languages::mobile_app.mobile_zip_code"
+msgid "Zip code"
+msgstr "우편 번호"
+
+msgctxt "Languages::mobile_app.mobile_add"
+msgid "Add"
+msgstr "추가하다"
+
+msgctxt "Languages::mobile_app.mobile_advantages"
+msgid "Advantages"
+msgstr "장점"
+
+msgctxt "Languages::mobile_app.mobile_including_discount"
+msgid "Including discount"
+msgstr "할인 포함"
+
+msgctxt "Languages::mobile_app.mobile_including_tax"
+msgid "Including tax"
+msgstr "세금 포함"
+
+msgctxt "Languages::mobile_app.mobile_incorrect_code"
+msgid "Incorrect code."
+msgstr "잘못된 코드입니다."
+
+msgctxt "Languages::mobile_app.mobile_orders"
+msgid "Orders"
+msgstr "명령"
+
+msgctxt "Languages::mobile_app.mobile_order_detail"
+msgid "Order Detail"
+msgstr "주문 세부 정보"
+
+msgctxt "Languages::mobile_app.mobile_order_discount"
+msgid "Order discount"
+msgstr "주문 할인"
+
+msgctxt "Languages::mobile_app.mobile_order_lower"
+msgid "order"
+msgstr "주문하다"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_products_in_this_section"
+msgid "There are no products in this section"
+msgstr "이 섹션에는 제품이 없습니다"
+
+msgctxt "Languages::mobile_app.mobile_delimiter"
+msgid "|"
+msgstr "|"
+
+msgctxt "Languages::mobile_app.mobile_add_product"
+msgid "Add product"
+msgstr "제품 추가"
+
+msgctxt "Languages::mobile_app.mobile_vendor_orders"
+msgid "Vendor Orders"
+msgstr "공급업체 주문"
+
+msgctxt "Languages::mobile_app.mobile_select_country"
+msgid "Select country"
+msgstr "국가 선택"
+
+msgctxt "Languages::mobile_app.mobile_select_date"
+msgid "Select date"
+msgstr "날짜 선택"
+
+msgctxt "Languages::mobile_app.mobile_select_feature"
+msgid "Select feature"
+msgstr "기능 선택"
+
+msgctxt "Languages::mobile_app.mobile_select_features"
+msgid "Select features"
+msgstr "기능 선택"
+
+msgctxt "Languages::mobile_app.mobile_select_state"
+msgid "Select state"
+msgstr "상태 선택"
+
+msgctxt "Languages::mobile_app.mobile_select_product_image"
+msgid "Select product image"
+msgstr "제품 이미지 선택"
+
+msgctxt "Languages::mobile_app.mobile_image"
+msgid "Image"
+msgstr "영상"
+
+msgctxt "Languages::mobile_app.mobile_select_image"
+msgid "Select image"
+msgstr "이미지 선택"
+
+msgctxt "Languages::mobile_app.mobile_there_are_no_images"
+msgid "There are no images"
+msgstr "이미지가 없습니다"
+
+msgctxt "Languages::mobile_app.mobile_select"
+msgid "Select"
+msgstr "고르다"
+
+msgctxt "Languages::mobile_app.mobile_enter_the_name"
+msgid "Enter the name"
+msgstr "이름을 입력하세요"
+
+msgctxt "Languages::mobile_app.mobile_try_again"
+msgid "Try again:"
+msgstr "다시 시도하십시오:"
+
+msgctxt "Languages::mobile_app.mobile_enter_email_to_get_code"
+msgid "Enter your e-mail, we will send you a code to log into your account."
+msgstr "이메일을 입력하면 계정에 로그인할 수 있는 코드를 보내드립니다."
+
+msgctxt "Languages::mobile_app.mobile_name"
+msgid "Name"
+msgstr "이름"
+
+msgctxt "Languages::mobile_app.mobile_description_optional"
+msgid "Description (optional)"
+msgstr "설명 (선택 사항)"
+
+msgctxt "Languages::mobile_app.mobile_description"
+msgid "Description"
+msgstr "설명"
+
+msgctxt "Languages::mobile_app.mobile_enter_the_price"
+msgid "Enter the price"
+msgstr "가격을 입력하세요"
+
+msgctxt "Languages::mobile_app.mobile_price"
+msgid "Price"
+msgstr "가격"
+
+msgctxt "Languages::mobile_app.mobile_in_stock"
+msgid "In stock"
+msgstr "재고"
+
+msgctxt "Languages::mobile_app.mobile_create"
+msgid "Create"
+msgstr "창조하다"
+
+msgctxt "Languages::mobile_app.mobile_cant_apply_code"
+msgid "The entered code cannot be applied, because it does not meet the requirements."
+msgstr "입력한 코드는 요구 사항을 충족하지 않아 적용할 수 없습니다."
+
+msgctxt "Languages::mobile_app.mobile_code_does_not_match"
+msgid "The username you have entered does not match any account in our store. Please make sure you have entered the correct username and try again."
+msgstr "입력하신 사용자 이름은 저희 스토어의 어떤 계정과도 일치하지 않습니다. 올바른 사용자 이름을 입력했는지 확인하고 다시 시도하십시오."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_created"
+msgid "The product was created"
+msgstr "제품이 생성되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_updated"
+msgid "The product was updated"
+msgstr "제품이 업데이트되었습니다"
+
+msgctxt "Languages::mobile_app.mobile_the_product_was_deleted"
+msgid "The product was deleted"
+msgstr "제품이 삭제되었습니다."
+
+msgctxt "Languages::mobile_app.mobile_delete_this_product"
+msgid "Delete This Product"
+msgstr "이 제품 삭제"
+
+msgctxt "Languages::mobile_app.mobile_status"
+msgid "Status"
+msgstr "상태"
+
+msgctxt "Languages::mobile_app.mobile_active"
+msgid "Active"
+msgstr "활동적인"
+
+msgctxt "Languages::mobile_app.mobile_hidden"
+msgid "Hidden"
+msgstr "숨겨진"
+
+msgctxt "Languages::mobile_app.mobile_disabled"
+msgid "Disabled"
+msgstr "장애가 있는"
+
+msgctxt "Languages::mobile_app.mobile_disapproved"
+msgid "Disapproved"
+msgstr "비승인"
+
+msgctxt "Languages::mobile_app.mobile_disadvantages"
+msgid "Disadvantages"
+msgstr "단점"
+
+msgctxt "Languages::mobile_app.mobile_get_the_code"
+msgid "Get the code"
+msgstr "코드 받기"
+
+msgctxt "Languages::mobile_app.mobile_didnt_receive_code"
+msgid "Didn't receive the code?"
+msgstr "코드를 받지 못하셨나요?"
+
+msgctxt "Languages::mobile_app.mobile_make_product_active"
+msgid "Make Product Active"
+msgstr "제품을 활성화"
+
+msgctxt "Languages::mobile_app.mobile_make_product_hidden"
+msgid "Make Product Hidden"
+msgstr "제품을 숨김으로 만들기"
+
+msgctxt "Languages::mobile_app.mobile_make_product_disabled"
+msgid "Make Product Disabled"
+msgstr "제품 비활성화"
+
+msgctxt "Languages::mobile_app.mobile_pricing_slash_inventory"
+msgid "Pricing / Inventory"
+msgstr "가격/재고"
+
+msgctxt "Languages::mobile_app.mobile_recovery_code"
+msgid "Recovery code"
+msgstr "복구 코드"
+
+msgctxt "Languages::mobile_app.mobile_list_price_dollar"
+msgid "List price ($)"
+msgstr "정가($)"
+
+msgctxt "Languages::mobile_app.mobile_shipping_properties"
+msgid "Shipping properties"
+msgstr "배송 속성"
+
+msgctxt "Languages::mobile_app.mobile_weight_lbs"
+msgid "Weight (lbs)"
+msgstr "무게 파운드)"
+
+msgctxt "Languages::mobile_app.mobile_free_shipping"
+msgid "Free shipping"
+msgstr "무료 배송"
+
+msgctxt "Languages::mobile_app.promotion"
+msgid "Promotion"
+msgstr "홍보"
+
+msgctxt "Languages::mobile_app.app_store_app_id"
+msgid "App Store application ID"
+msgstr "앱 스토어 애플리케이션 ID"
+
+msgctxt "Languages::mobile_app.google_play_app_id"
+msgid "Google Play application ID"
+msgstr "Google Play 애플리케이션 ID"
+
+msgctxt "Languages::mobile_app.promotion_note"
+msgid "Visitors of your site who use iOS or Android devices will see a prompt to install the mobile application.<br>To show your application's icon in this prompt, <a href=\"[icon_url]\">upload App Icon</a> in the add-on settings. If App Icon is not specified, the favicon of a storefront will be used instead."
+msgstr "iOS 또는 Android 기기를 사용하는 사이트 방문자에게는 모바일 애플리케이션을 설치하라는 메시지가 표시됩니다.<br>이 프롬프트에서 애플리케이션 아이콘을 표시하려면 <a href=\"[icon_url]\">추가 기능 설정에서 앱 아이콘</a> 를 업로드하세요. 앱 아이콘이 지정되지 않은 경우 스토어프론트의 파비콘이 대신 사용됩니다."
+
+msgctxt "Languages::mobile_app.we_also_have_a_mobile_app"
+msgid "We also have a mobile app"
+msgstr "모바일 앱도 있습니다"
+
+msgctxt "Languages::mobile_app.view_demo"
+msgid "View demo"
+msgstr "데모 보기"
+
+msgctxt "Languages::mobile_app.open"
+msgid "Open"
+msgstr "열려 있는"
+
+msgctxt "Languages::mobile_app.app_store_app_id_tooltip"
+msgid "Take it from the application link in <a href=\"https://www.apple.com/app-store\" target=\"_blank\">App Store</a>. <br> For example, in https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157 the ID is 1304872157."
+msgstr "<a href=\"https://www.apple.com/app-store\" target=\"_blank\">앱스토어</a>의 어플리케이션 링크에서 받아가세요. <br> 예를 들어 https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157에서 ID는 1304872157입니다."
+
+msgctxt "Languages::mobile_app.google_play_app_id_tooltip"
+msgid "Take it from the application link in <a href=\"https://play.google.com/store\" target=\"_blank\">Google Play</a>. <br> For example, in https://play.google.com/store/apps/details?id=com.simtech.multivendor&hl=en_US the ID is com.simtech.multivendor."
+msgstr "<a href=\"https://play.google.com/store\" target=\"_blank\">Google Play</a>의 응용 프로그램 링크에서 가져옵니다. <br> 예를 들어 https://play.google.com/store/apps/details?id=com.simtech.multivendor&hl=ko_US에서 ID는 com.simtech.multivendor입니다."
+
+msgctxt "Languages::mobile_app.mobile_taxes"
+msgid "Taxes"
+msgstr "구실"
+
+msgctxt "Languages::mobile_app.mobile_yookassa"
+msgid "YooKassa"
+msgstr "유카사"
+
+msgctxt "Languages::mobile_app.google_pay"
+msgid "Google Pay"
+msgstr "구글 페이"
+
+msgctxt "Languages::mobile_app.google_pay_api_key"
+msgid "Google Pay Api Key"
+msgstr "Google Pay API 키"
+
+msgctxt "Languages::mobile_app.google_pay_supported_networks"
+msgid "Payment networks"
+msgstr "결제 네트워크"
+
+msgctxt "Languages::mobile_app.section.bottom_tabs"
+msgid "Bottom tabs"
+msgstr "하단 탭"
+
+msgctxt "Languages::mobile_app.section.push_notifications"
+msgid "Push notifications"
+msgstr "푸시 알림"
+
+msgctxt "Languages::mobile_app.m_app_notification_icon"
+msgid "Notification icon"
+msgstr "알림 아이콘"
+
+msgctxt "Languages::tt_mobile_app.m_app_notification_icon"
+msgid "(192 x 192) Push notification icon (Android)"
+msgstr "(192 x 192) 푸시 알림 아이콘(Android)"
+
+msgctxt "Languages::mobile_app.mobile_code"
+msgid "Code"
+msgstr "암호"
+
+msgctxt "Languages::mobile_app.mobile_registration_failed"
+msgid "Registration failed"
+msgstr "등록 실패"
+
+msgctxt "Languages::mobile_app.section.configure_app"
+msgid "Configure app"
+msgstr "앱 구성"
+
+msgctxt "Languages::mobile_app.section.configure_app_description"
+msgid "These settings are hard-coded into the app and can't be changed on the fly. After you change them, you'll need to save the changes, download the config, build the new app, and release an upgrade."
+msgstr "이러한 설정은 앱에 하드 코딩되어 있으며 즉시 변경할 수 없습니다. 변경한 후에는 변경 사항을 저장하고 구성을 다운로드하고 새 앱을 빌드하고 업그레이드를 릴리스해야 합니다."
+
+msgctxt "Languages::mobile_app.section.changeable_settings_description"
+msgid "These settings change in every customer's app as soon as you change them here and save the changes. You won't need to build the new app and release an upgrade."
+msgstr "이러한 설정은 여기에서 변경하고 변경 사항을 저장하는 즉시 모든 고객의 앱에서 변경됩니다. 새 앱을 빌드하고 업그레이드를 릴리스할 필요가 없습니다."
+
+msgctxt "Languages::mobile_app.edit_app_layouts"
+msgid "Edit mobile application layouts"
+msgstr "모바일 애플리케이션 레이아웃 편집"
+
+msgctxt "Languages::mobile_app.color_preset"
+msgid "Color preset"
+msgstr "색상 사전 설정"
+
+msgctxt "Languages::mobile_app.color_preset_custom"
+msgid "Custom"
+msgstr "관습"
+
+msgctxt "Languages::mobile_app.color_preset_marine"
+msgid "Marine - Amazon style"
+msgstr "마린 - 아마존 스타일"
+
+msgctxt "Languages::mobile_app.color_preset_berry"
+msgid "Berry - Wildberries style"
+msgstr "베리 - 와일드베리 스타일"
+
+msgctxt "Languages::mobile_app.color_preset_navyblue"
+msgid "Navy blue - Ozon style"
+msgstr "네이비 블루 - 오존 스타일"
+
+msgctxt "Languages::mobile_app.color_preset_orange"
+msgid "Orange - AliExpress style"
+msgstr "오렌지 - AliExpress 스타일"
+
+msgctxt "Languages::mobile_app.color_preset_bright"
+msgid "Bright"
+msgstr "밝은"
+
+msgctxt "Languages::mobile_app.colors"
+msgid "Colors"
+msgstr "그림 물감"
+
+msgctxt "Languages::category_appearance"
+msgid "Сategory appearance in mobile application"
+msgstr "모바일 애플리케이션의 카테고리 등장"
+
+msgctxt "Languages::mobile_app.category_appearance_tooltip"
+msgid "Determines how the list of categories will look in the mobile application:<br><ul class=\"muted\"><li>Category images with background—works best if you use JPEG or PNG images with a solid background.</li><li>Category images without background—works best if you use PNG images with a transparent background.</li><li>Categories without images—works best if your categories don't have images with similar format and background style.</li></ul>"
+msgstr "모바일 응용 프로그램에서 범주 목록이 표시되는 방식을 결정합니다.<br><ul class=\"muted\"><li>배경이 있는 범주 이미지 - 배경이 단색인 JPEG 또는 PNG 이미지를 사용하는 경우 가장 잘 작동합니다.</li><li>배경 없는 카테고리 이미지 - 배경이 투명한 PNG 이미지를 사용하는 경우 가장 잘 작동합니다.</li><li>이미지가 없는 카테고리 - 카테고리에 유사한 형식과 배경 스타일의 이미지가 없는 경우 가장 잘 작동합니다.</li></ul>"
+
+msgctxt "Languages::mobile_app.category_image_with_background"
+msgid "Category image with background"
+msgstr "배경이 있는 카테고리 이미지"
+
+msgctxt "Languages::mobile_app.category_image_without_background"
+msgid "Category image without background"
+msgstr "배경 없는 카테고리 이미지"
+
+msgctxt "Languages::mobile_app.category_without_image"
+msgid "Category without image"
+msgstr "이미지가 없는 카테고리"
+
+msgctxt "Languages::mobile_app.mobile_send_review"
+msgid "Send review"
+msgstr "리뷰 보내기"
+
+msgctxt "Languages::mobile_app.mobile_app.mobile_social_login"
+msgid "Or sign-in with another identity provider:"
+msgstr "또는 다른 ID 공급자로 로그인합니다."
+
+msgctxt "Languages::mobile_app.mobile_write_review"
+msgid "Write a Review"
+msgstr "리뷰를 작성"
+
+msgctxt "Languages::mobile_app.mobile_product_reviews"
+msgid "reviews"
+msgstr "리뷰"
+

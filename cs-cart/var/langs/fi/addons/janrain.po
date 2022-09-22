@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/janrain.po\n"
+"X-Crowdin-File-ID: 6608\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::janrain"
+msgid "Janrain"
+msgstr "Janrain"
+
+msgctxt "Addons::description::janrain"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "Lisää Social Login -ominaisuuden; antaa asiakkaiden käyttää Facebookia, Twitteriä jne. kirjautuakseen sisään kauppaan"
+
+msgctxt "Languages::janrain_general_info"
+msgid "<p>Get these values and configure social login at <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+msgstr "<p>Hanki nämä arvot ja määritä sosiaalinen kirjautuminen osoitteessa <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+
+msgctxt "Languages::janrain_social_login"
+msgid "Social login"
+msgstr "kirjaudu sos.med. tunnuksilla"
+
+msgctxt "Languages::janrain_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "\"Salasana\"-kenttä ja jotkut muut pakolliset kentät ovat tällä hetkellä tyhjiä. Päivitä profiilisi."
+
+msgctxt "Languages::janrain_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "Valitettavasti emme pystyneet luomaan asiakasta ja kirjautumaan kauppaan jostakin seuraavista syistä:<br />- Kirjauduit myymäläämme aiemmin jollain toisella OpenID-palveluntarjoajalla, jossa käytetään samaa sähköpostia.<br />- Olet jo rekisteröitynyt myymäläämme sähköpostillasi.<br />Ota yhteyttä kaupan omistajaan ongelmien ratkaisemiseksi."
+
+msgctxt "SettingsSections::janrain::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::janrain::general_info"
+msgid "General info"
+msgstr "Yleistä tietoa"
+
+msgctxt "SettingsOptions::janrain::apikey"
+msgid "API Key"
+msgstr "API-avain"
+
+msgctxt "SettingsOptions::janrain::appdomain"
+msgid "Application Domain"
+msgstr "Sovellusalue"
+
+msgctxt "Languages::janrain.janrain_cookies_title"
+msgid "Janrain"
+msgstr "Janrain"
+
+msgctxt "Languages::janrain.janrain_cookies_description"
+msgid "Janrain is a service that allows you to sign into the website with your accounts from various social networks. It was acquired by Akamai in 2019; here is <a href=\"https://www.akamai.com/site/en/documents/akamai/akamai-privacy-statement.pdf\" target=\"_blank\">Akamai privacy statement</a>."
+msgstr "Janrain on palvelu, jonka avulla voit kirjautua sisään verkkosivustolle eri sosiaalisten verkostojen tileilläsi. Akamai osti sen vuonna 2019; tässä on <a href=\"https://www.akamai.com/site/en/documents/akamai/akamai-privacy-statement.pdf\" target=\"_blank\">Akamai tietosuojalausunto</a>."
+

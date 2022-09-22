@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/pay360.po\n"
+"X-Crowdin-File-ID: 6626\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "Pay360 betalinger"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "Giver dig mulighed for at acceptere betalinger via Pay360"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "API brugernavn"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "API-adgangskode"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr "Vært kasserer"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "Kontonummer, der bruges til at identificere kunden eller lånet. Hvis dette er et PAN, skal du angive de første seks og sidste fire cifre i PAN'et. Ellers skal du angive op til ti tegn af kontonummeret."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "Første del af postnummeret for lånemodtageren; op til seks tegn. For eksempel, hvis postnummeret er \"EC2A 1AE\", ville dette være \"EC2A\"."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "Efternavn på lånemodtageren; op til seks tegn, eksklusive tal eller specialtegn. Hvis navnet er længere end seks tegn, skal du angive de første seks. For eksempel, for \"Smith\", ville dette være \"Smith\"; for \"Williams\" ville dette være \"Willia\"."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "Brug venligst kun alfabetiske tegn."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "Brug venligst kun alfabetiske tegn og tal."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "Obligatorisk for UK- og Europa-baserede MCC 6012, 6051 og nogle 7299 sælgere"
+

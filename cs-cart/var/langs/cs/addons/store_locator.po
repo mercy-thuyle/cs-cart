@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: /release-4.15.1/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 6728\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Prodejny a odběrná místa"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Umožňuje označit své kamenné prodejny na mapě a nabídnout svým zákazníkům, aby odtud vybírali objednávky, pokud je nakonfigurován odpovídající způsob dopravy."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Zobrazit na mapě"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "Získání API klíče"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Vyhledání obchodů"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Prodejny a odběrná místa"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Vyhledání obchodů block"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Adresa nebyla nalezena"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Vybrat souřadnice"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Nastavit"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Upravit polohu obchodu"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Nová poloha obchodu"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Přidat polohu obchodu"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Souřadnice"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "Šírka"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "Délka"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Všechny obchody"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Zobrazit mapu v dokumentech souvisejících s objednávkou"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Vytiskněte mapu na dodací list a fakturu"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Místo mapy použijte seznam měst"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Ovlivňuje blok Geolocation zákazníka. Seznam bude generován z měst, která mají obchody a místa vyzvednutí."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Může upravit"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Vyhledávač obchodů"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Lze prohlížet"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "Způsob dopravy \"Vyzvednutí zákazníkem\" nabízí zákazníkovi výběr obchodu, kde si produkt vyzvedne. Obchody lze vytvořit v doplňku \"Umístění obchodu\"<br /><b>Vytvoření obchodu:</b> <a href=\"[store_locator]\">Umístění obchodu</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Vyberte obchody"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Sběrná místa"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "Pole \"Pozice\" v nastavení obchodu"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Objednávka vybraná v nastavení způsobu dopravy"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Vybrané obchody"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Dostupné obchody"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Mapa a seznam"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Seznam"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Zobrazení seznamu míst na stránce pokladny"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Vyzvednout"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "K dispozici pro vyzvednutí"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Pracovní doba"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Vyzvednout"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Nebyla nalezena žádná vhodná destinace"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Nebyly nalezeny žádné obchody"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Vyzvednout"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "ID vyzvednutí"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Možnost vyzvednutí"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Příplatek za vyzvednutí"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Adresa vyzvednutí"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Vyzvednutí telefonu"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Čas vyzvednutí"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "ID destinací vyzvednutí"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Skrýt místa, kde si nemohu vyzvednout objednávku"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Prodejny a odběrná místa"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "V předchozích verzích byl příplatek přidán ke standardním sazbám, které byly uvedeny pro způsob dopravy. Nyní se tento příplatek při výpočtu sazby za dopravu nezohledňuje. Nechali jsme jej zde pro vaše pohodlí, abyste jej mohli vidět a podle toho upravit sazby na stránce pro úpravu způsobu dopravy."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Nachází se v oblasti sazby"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Určuje sazby za dopravu pro toto místo vyzvednutí. Ceny jsou uvedeny na stránce úpravy způsobu dopravy. Pokud nevyberete oblast sazby pro místo vyzvednutí, místo vyzvednutí se u pokladny nezobrazí."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Zobrazit komu"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Zobrazit komu"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Umožňuje vám nabídnout toto místo vyzvednutí obyvatelům oblastí s jinou cenou u pokladny."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "od [price]"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Pomocí dvou prstů posuňte mapu"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Přejděte nahoru"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Bez oblasti sazby"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "název"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Místa vyzvednutí"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Oblast jakékoli sazby"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Vyzvednutí z prodejny"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Jakýkoli prodejce"
+
+msgctxt "Languages::store_locator.any"
+msgid "Any"
+msgstr "Žádný"
+
+msgctxt "Languages::store_locator.shipping_price_from_to"
+msgid "from [from_price] to [to_price]"
+msgstr "od [from_price] do [to_price]"
+

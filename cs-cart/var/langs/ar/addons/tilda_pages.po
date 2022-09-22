@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/tilda_pages.po\n"
+"X-Crowdin-File-ID: 6678\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::tilda_pages"
+msgid "Landing pages from Tilda"
+msgstr "الصفحات المقصودة من تيلدا"
+
+msgctxt "Addons::description::tilda_pages"
+msgid "Allows you to link landing pages from Tilda to your site in a few clicks."
+msgstr "يسمح لك بربط الصفحات المقصودة من تيلدا بموقعك ببضع نقرات."
+
+msgctxt "SettingsOptions::tilda_pages::tilda_public_api_key"
+msgid "Public API key"
+msgstr "مفتاح API العام"
+
+msgctxt "SettingsOptions::tilda_pages::tilda_private_api_key"
+msgid "Secret API key"
+msgstr "مفتاح API السري"
+
+msgctxt "Languages::tilda_pages.tilda_project"
+msgid "Project"
+msgstr "المشروع"
+
+msgctxt "Languages::tilda_pages.tilda_page"
+msgid "Tilda page"
+msgstr "صفحة تيلدا"
+
+msgctxt "Languages::tilda_pages.tilda_pages"
+msgid "Tilda pages"
+msgstr "صفحات تيلدا"
+
+msgctxt "Languages::tilda_pages.add_tilda_page"
+msgid "Add Tilda page"
+msgstr "أضف صفحة تيلدا"
+
+msgctxt "Languages::tilda_pages.editing_tilda_page"
+msgid "Editing Tilda page"
+msgstr "تحرير صفحة تيلدا"
+
+msgctxt "Languages::tilda_pages.new_tilda_page"
+msgid "New Tilda page"
+msgstr "صفحة جديدة تيلدا"
+
+msgctxt "Languages::tilda_pages.use_top_panel"
+msgid "Use Top Panel, Header, and Footer of this store"
+msgstr "استخدم اللوحة العلوية والرأس والتذييل لهذا المتجر"
+
+msgctxt "Languages::tilda_pages.use_tilda_page"
+msgid "Use Tilda page"
+msgstr "استخدم صفحة تيلدا"
+
+msgctxt "Languages::tilda_pages.tilda_override_block"
+msgid "Tilda content is used instead of this block"
+msgstr "يتم استخدام محتوى تيلدا بدلاً من هذه الكتلة"
+
+msgctxt "Languages::tilda_pages.tilda_override_location"
+msgid "Tilda page is used instead of this location"
+msgstr "يتم استخدام صفحة تيلدا بدلاً من هذا الموقع"
+
+msgctxt "Languages::tilda_pages.additional_settings_info"
+msgid "After entering the api keys, additional settings will become available."
+msgstr "بعد إدخال مفاتيح api ، ستتوفر إعدادات إضافية."
+
+msgctxt "Languages::tilda_pages.auto_sync_title"
+msgid "Link for auto synchronization"
+msgstr "ارتباط للمزامنة التلقائية"
+
+msgctxt "Languages::tilda_pages.go_to_tilda"
+msgid "Go to Tilda page"
+msgstr "اذهب إلى صفحة تيلدا"
+
+msgctxt "Languages::tilda_pages.published"
+msgid "Published"
+msgstr "نشرت"
+
+msgctxt "Languages::tilda_pages.generate_block"
+msgid "Embed storefront block into Tilda page"
+msgstr "تضمين كتلة واجهة المتجر في صفحة تيلدا"
+
+msgctxt "Languages::tilda_pages.generate_block_help"
+msgid "<ol><li>Use the <b>Block manager [bm_icon]</b> button in the WYSIWYG editor to select the [product] blocks you want to show on a Tilda page.</li><li>Switch the editor to the <b>HTML mode [html_icon]</b> and copy the generated code.</li><li>In Tilda, add an \"HTML Code\" block to your page and paste the generated code there. This will make the [product] blocks appear on the Tilda page after you publish it to the site.</li></ol>"
+msgstr "<ol><li>استخدم الزر <b>Block manager [bm_icon]</b> في محرر WYSIWYG لتحديد المجموعات [product] التي تريد عرضها على صفحة Tilda.</li><li>قم بتبديل المحرر إلى <b>وضع HTML [html_icon]</b> وانسخ الكود الذي تم إنشاؤه.</li><li>في Tilda ، أضف كتلة \"HTML Code\" إلى صفحتك والصق الشفرة التي تم إنشاؤها هناك. سيؤدي هذا إلى ظهور [product] قالبًا على صفحة Tilda بعد نشرها على الموقع.</li></ol>"
+
+msgctxt "Languages::tilda_pages.settings_error"
+msgid "Not enough data for the correct operation of the add-on. Please make sure you specified everything in the settings of the <a href=\"[url]\">\"Landing pages from Tilda\"</a> add-on."
+msgstr "لا توجد بيانات كافية للتشغيل الصحيح للوظيفة الإضافية. يرجى التأكد من تحديد كل شيء في إعدادات الوظيفة الإضافية <a href=\"[url]\">\"Landing Pages from Tilda\"</a>."
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_title"
+msgid "Tilda Pages"
+msgstr "صفحات تيلدا"
+
+msgctxt "Languages::tilda_pages.tilda_pages_cookies_description"
+msgid "Tilda is a service that allows us to create landings and other pages. Some of the site's pages may work incorrectly without them. Here is <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishing privacy policy</a>."
+msgstr "Tilda هي خدمة تتيح لنا إنشاء صفحات هبوط وصفحات أخرى. قد تعمل بعض صفحات الموقع بشكل غير صحيح بدونها. فيما يلي سياسة الخصوصية لـ <a href=\"https://tilda.cc/privacy/\" target=\"_blank\">Tilda Publishing</a>."
+

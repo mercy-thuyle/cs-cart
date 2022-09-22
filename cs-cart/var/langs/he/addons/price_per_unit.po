@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/price_per_unit.po\n"
+"X-Crowdin-File-ID: 6732\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::price_per_unit"
+msgid "Price per unit"
+msgstr "מחיר ליחידה"
+
+msgctxt "Addons::description::price_per_unit"
+msgid "Allows you to display price per unit on catalog and product pages."
+msgstr "מאפשר להציג מחיר ליחידה בדפי הקטלוג והמוצר."
+
+msgctxt "Languages::price_per_unit"
+msgid "Price per unit"
+msgstr "מחיר ליחידה"
+
+msgctxt "Languages::unit_name"
+msgid "Unit name"
+msgstr "שם היחידה"
+
+msgctxt "Languages::unit_name_field_description"
+msgid "For example, 'ml' or 'g' without quotes."
+msgstr "לדוגמה, 'ml' או 'g' ללא מרכאות."
+
+msgctxt "Languages::units_in_product"
+msgid "Units in product"
+msgstr "יחידות במוצר"
+
+msgctxt "Languages::units_in_product_field_description"
+msgid "Required for automatic calculation of price per unit."
+msgstr "נדרש לחישוב אוטומטי של מחיר ליחידה."
+
+msgctxt "Languages::show_price_per_x_units"
+msgid "Show price per X units"
+msgstr "הצג מחיר ל-X יחידות"
+
+msgctxt "Languages::show_price_per_x_units_field_description"
+msgid "For cases when you want to show price 'per 250 ml' instead of 'per ml'."
+msgstr "למקרים בהם רוצים להציג מחיר 'ל-250 מ\"ל' במקום 'למ\"ל'."
+

@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_rating.po\n"
+"X-Crowdin-File-ID: 6698\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_rating"
+msgid "Vendor rating"
+msgstr "رتبه بندی فروشنده"
+
+msgctxt "Addons::description::vendor_rating"
+msgid "Allows you to rank vendors in the store using multi-critiera rating."
+msgstr "به شما امکان می دهد فروشندگان را در فروشگاه با استفاده از رتبه بندی چند معیاره رتبه بندی کنید."
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "رتبه بندی فروشنده"
+
+msgctxt "Languages::vendor_rating.previous_rating"
+msgid "Previous rating"
+msgstr "امتیاز قبلی"
+
+msgctxt "Languages::vendor_rating.rating"
+msgid "Rating"
+msgstr "رتبه بندی"
+
+msgctxt "Languages::vendor_rating.vendor_rating"
+msgid "Vendor rating"
+msgstr "رتبه بندی فروشنده"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_asc"
+msgid "Sort by Vendor rating: Low to High"
+msgstr "مرتب سازی بر اساس رتبه بندی فروشنده: کم تا زیاد"
+
+msgctxt "Languages::sort_by_absolute_vendor_rating_desc"
+msgid "Sort by Vendor rating"
+msgstr "مرتب سازی بر اساس رتبه بندی فروشنده"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating"
+msgid "Overall rating"
+msgstr "مجموع امتیاز"
+
+msgctxt "Languages::vendor_rating.absolute_vendor_rating_short"
+msgid "OA rating"
+msgstr "رتبه OA"
+
+msgctxt "Languages::vendor_rating.manual_vendor_rating"
+msgid "Manual vendor rating"
+msgstr "رتبه بندی فروشنده دستی"
+
+msgctxt "Languages::vendor_rating.manual_vendor_plan_rating"
+msgid "Manual vendor plan rating"
+msgstr "رتبه بندی طرح فروشنده دستی"
+
+msgctxt "Languages::vendor_rating.company_rating"
+msgid "[company]'s rating set to [rating]"
+msgstr "امتیاز [company]روی [rating]تنظیم شده است"
+
+msgctxt "Languages::vendor_rating.wrong_formula"
+msgid "Unable to calculate the expression. Original error message: [error]."
+msgstr "قادر به محاسبه عبارت نیست. پیغام خطای اصلی: [error]."
+
+msgctxt "Languages::vendor_rating.too_many_variables"
+msgid "The formula uses too many variables. [allowed_variables_count] allowed, [passed_variables_count] passed."
+msgstr "این فرمول از متغیرهای زیادی استفاده می کند. [allowed_variables_count] مجاز، [passed_variables_count] پاس شده است."
+
+msgctxt "Languages::vendor_rating.division_by_zero"
+msgid "Division by zero"
+msgstr "تقسیم بر صفر"
+
+msgctxt "Languages::vendor_rating.unknown_variable"
+msgid "Unknown variable <b>[variable]</b>"
+msgstr "متغیر ناشناخته <b>[variable]</b>"
+
+msgctxt "Languages::vendor_rating.run_rating_calculation_by_cron"
+msgid "Rating recalculation is the resource-intensive process. It's recommented to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
+msgstr "محاسبه مجدد رتبه فرآیندی است که منابع فشرده ای دارد. توصیه می شود آن را به طور خودکار در فواصل زمانی مشخص اجرا کنید.<br>برای انجام این کار، دستور زیر را به <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>اضافه کنید:"
+
+msgctxt "Languages::vendor_rating.rating_formula"
+msgid "Rating formula"
+msgstr "فرمول رتبه بندی"
+
+msgctxt "Languages::vendor_rating.variables"
+msgid "You can use the following variables in the formula:"
+msgstr "می توانید از متغیرهای زیر در فرمول استفاده کنید:"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.name"
+msgid "Amount of paid orders."
+msgstr "مقدار سفارشات پرداخت شده"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_count.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "سفارش‌هایی که در وضعیت‌های زیر پس از تاریخ</i> <i>می‌شوند، در نظر گرفته می‌شوند: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.name"
+msgid "Gross total of paid orders."
+msgstr "مجموع ناخالص سفارشات پرداخت شده"
+
+msgctxt "Languages::vendor_rating.criteria.paid_orders_total.description"
+msgid "Orders in the following statuses placed after the <i>Calculation period start date</i> are taken into account: [statuses]."
+msgstr "سفارش‌هایی که در وضعیت‌های زیر پس از تاریخ</i> <i>می‌شوند، در نظر گرفته می‌شوند: [statuses]."
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.name"
+msgid "Amount of active products."
+msgstr "تعداد محصولات فعال"
+
+msgctxt "Languages::vendor_rating.criteria.active_products_count.description"
+msgid "Products in the Active status created after the <i>Calculation period start date</i> are taken into account."
+msgstr "محصولات در وضعیت فعال ایجاد شده پس از تاریخ شروع دوره محاسبه <i></i> در نظر گرفته می شوند."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.name"
+msgid "Manually set vendor rating."
+msgstr "رتبه بندی فروشنده را به صورت دستی تنظیم کنید."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor editing page."
+msgstr "رتبه بندی دستی را می توان در برگه <b>رتبه</b> صفحه ویرایش فروشنده مشخص کرد."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.name"
+msgid "Average vendor review rating."
+msgstr "میانگین امتیاز بازبینی فروشنده."
+
+msgctxt "Languages::vendor_rating.criteria.vendor_reviews_rating.description"
+msgid "Approved vendor reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "بررسی‌های تایید شده فروشنده که پس از تاریخ</i> دوره محاسبه <i>قرار داده شده است، در نظر گرفته می‌شوند."
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.name"
+msgid "Average product reviews rating."
+msgstr "میانگین امتیاز بررسی محصول"
+
+msgctxt "Languages::vendor_rating.criteria.product_reviews_rating.description"
+msgid "Approved product reviews placed after the <i>Calculation period start date</i> are taken into account."
+msgstr "بررسی های محصول تایید شده که پس از تاریخ</i> دوره محاسبه <i>قرار داده شده است، در نظر گرفته می شود."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.name"
+msgid "Manually set vendor plan rating."
+msgstr "رتبه بندی طرح فروشنده را به صورت دستی تنظیم کنید."
+
+msgctxt "Languages::vendor_rating.criteria.manual_vendor_plan_rating.description"
+msgid "Manual rating can be specified on the <b>Rating</b> tab of the vendor plan editing page."
+msgstr "رتبه بندی دستی را می توان در برگه <b>رتبه</b> صفحه ویرایش طرح فروشنده مشخص کرد."
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.name"
+msgid "Amount of return requests."
+msgstr "مقدار درخواست بازگشت"
+
+msgctxt "Languages::vendor_rating.criteria.returns_count.description"
+msgid "Return requests created after the <i>Calculation period start date</i> are taken into account."
+msgstr "درخواست‌های بازگشت ایجاد شده پس از تاریخ</i> دوره محاسبه <i>در نظر گرفته می‌شوند."
+
+msgctxt "Languages::vendor_rating.recalculate_rating"
+msgid "Recalculate rating"
+msgstr "محاسبه مجدد رتبه"
+
+msgctxt "Languages::vendor_rating.run_recalculation"
+msgid "Run recalculation"
+msgstr "محاسبه مجدد را اجرا کنید"
+
+msgctxt "Languages::vendor_rating.start_rating_period"
+msgid "Calculation period start date"
+msgstr "تاریخ شروع دوره محاسبه"
+
+msgctxt "Languages::vendor_rating.invalid_formula"
+msgid "Invalid formula"
+msgstr "فرمول نامعتبر"
+
+msgctxt "Languages::show_vendor_rating"
+msgid "Show vendor rating"
+msgstr "نمایش رتبه بندی فروشنده"
+
+msgctxt "Languages::log_type_vendor_rating"
+msgid "Vendor rating"
+msgstr "رتبه بندی فروشنده"
+
+msgctxt "Languages::log_action_vr_success"
+msgid "Successful recalculation"
+msgstr "محاسبه مجدد موفقیت آمیز"
+
+msgctxt "Languages::log_action_vr_failure"
+msgid "Errors"
+msgstr "خطاها"
+
+msgctxt "Languages::vendor_rating.calculated_at"
+msgid "Calculated at [date]"
+msgstr "در [date]محاسبه می شود"
+
+msgctxt "Languages::vendor_rating.recalculate_now"
+msgid "Recalculate now"
+msgstr "الان دوباره حساب کن"
+
+msgctxt "Languages::vendor_rating.rating_ranges"
+msgid "Rating ranges"
+msgstr "محدوده های رتبه بندی"
+
+msgctxt "Languages::vendor_rating.bronze_rating_lower_limit"
+msgid "Bronze rating lower limit"
+msgstr "حد پایین امتیاز برنز"
+
+msgctxt "Languages::vendor_rating.silver_rating_lower_limit"
+msgid "Silver rating lower limit"
+msgstr "حد پایین رتبه بندی نقره ای"
+
+msgctxt "Languages::vendor_rating.gold_rating_lower_limit"
+msgid "Gold rating lower limit"
+msgstr "حد پایین رتبه طلا"
+
+msgctxt "Languages::vendor_rating.rating_above_price"
+msgid "Rating matters more than price"
+msgstr "رتبه بندی بیش از قیمت اهمیت دارد"
+
+msgctxt "Languages::vendor_rating.rating_above_price_tooltip"
+msgid "When using \"Common products for vendors\", offer products from vendors with highest rating first."
+msgstr "هنگام استفاده از «محصولات رایج برای فروشندگان»، ابتدا محصولاتی از فروشندگان با بالاترین رتبه ارائه دهید."
+
+msgctxt "Languages::vendor_rating.rating_ranges_description"
+msgid "Setting all ranges to 0 will hide rating icons."
+msgstr "با تنظیم همه محدوده ها روی 0، نمادهای رتبه بندی پنهان می شوند."
+

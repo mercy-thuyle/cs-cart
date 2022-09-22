@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/barcode.po\n"
+"X-Crowdin-File-ID: 6554\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::barcode"
+msgid "Order barcode"
+msgstr "Tilaa viivakoodi"
+
+msgctxt "Addons::description::barcode"
+msgid "Makes it possible to configure and attach barcodes to orders"
+msgstr "Mahdollistaa viivakoodien määrittämisen ja liittämisen tilauksiin"
+
+msgctxt "Languages::please_enable_the_add_on_to_see_barcode"
+msgid "Please enable the add-on to see a code example."
+msgstr "Ota lisäosa käyttöön nähdäksesi koodiesimerkin."
+
+msgctxt "SettingsSections::barcode::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::barcode::elm_image"
+msgid "Image"
+msgstr "Kuva"
+
+msgctxt "SettingsOptions::barcode::elm_image_info"
+msgid "Example Image"
+msgstr "Esimerkkikuva"
+
+msgctxt "SettingsOptions::barcode::elm_configs"
+msgid "Configs"
+msgstr "Asetukset"
+
+msgctxt "SettingsOptions::barcode::type"
+msgid "Type"
+msgstr "Tyyppi"
+
+msgctxt "SettingsOptions::barcode::output"
+msgid "Output"
+msgstr "Lähtö"
+
+msgctxt "SettingsOptions::barcode::text"
+msgid "Text"
+msgstr "Teksti"
+
+msgctxt "SettingsOptions::barcode::height"
+msgid "Height,px"
+msgstr "Korkeus, pikseliä"
+
+msgctxt "SettingsOptions::barcode::width"
+msgid "Width,px"
+msgstr "Leveys, px"
+
+msgctxt "SettingsOptions::barcode::resolution"
+msgid "Resolution"
+msgstr "Resoluutio"
+
+msgctxt "SettingsOptions::barcode::text_font"
+msgid "Text Font"
+msgstr "Tekstin fontti"
+
+msgctxt "SettingsOptions::barcode::prefix"
+msgid "Barcode prefix"
+msgstr "Viivakoodin etuliite"
+
+msgctxt "SettingsOptions::barcode::elm_specification"
+msgid "Specification"
+msgstr "Erittely"
+
+msgctxt "SettingsOptions::barcode::elm_spec_descr"
+msgid "Spec Description"
+msgstr "Spec Kuvaus"
+
+msgctxt "SettingsVariants::barcode::type::C128A"
+msgid "Code 128-A"
+msgstr "Koodi 128-A"
+
+msgctxt "SettingsVariants::barcode::type::C128B"
+msgid "Code 128-B"
+msgstr "Koodi 128-B"
+
+msgctxt "SettingsVariants::barcode::type::C128C"
+msgid "Code 128-C"
+msgstr "Koodi 128-C"
+
+msgctxt "SettingsVariants::barcode::type::I25"
+msgid "Interleaved 2 of 5"
+msgstr "Limitetty 2/5"
+
+msgctxt "SettingsVariants::barcode::type::C39"
+msgid "Code 39"
+msgstr "Koodi 39"
+
+msgctxt "SettingsVariants::barcode::output::png"
+msgid "Portable Network Graphics (PNG)"
+msgstr "Portable Network Graphics (PNG)"
+
+msgctxt "SettingsVariants::barcode::output::jpeg"
+msgid "Joint Photographic Experts Group (JPEG)"
+msgstr "Joint Photographic Experts Group (JPEG)"
+
+msgctxt "SettingsVariants::barcode::text::N"
+msgid "Disabled"
+msgstr "Liikuntarajoitteinen"
+
+msgctxt "SettingsVariants::barcode::text::Y"
+msgid "Enabled"
+msgstr "Käytössä"
+
+msgctxt "SettingsVariants::barcode::resolution::1"
+msgid "1"
+msgstr "1"
+
+msgctxt "SettingsVariants::barcode::resolution::2"
+msgid "2"
+msgstr "2"
+
+msgctxt "SettingsVariants::barcode::resolution::3"
+msgid "3"
+msgstr "3"
+
+msgctxt "SettingsVariants::barcode::text_font::1"
+msgid "1"
+msgstr "1"
+
+msgctxt "SettingsVariants::barcode::text_font::2"
+msgid "2"
+msgstr "2"
+
+msgctxt "SettingsVariants::barcode::text_font::3"
+msgid "3"
+msgstr "3"
+
+msgctxt "SettingsVariants::barcode::text_font::4"
+msgid "4"
+msgstr "4"
+
+msgctxt "SettingsVariants::barcode::text_font::5"
+msgid "5"
+msgstr "5"
+

@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "חבילות מוצרים"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "מאפשר לך ליצור חבילות מוצרים ולהגדיר הנחות עבורם."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "חבילות מוצרים"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "הצג, הוסף וערוך חבילות מוצרים."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "תמונת פרומו"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "תצוגה במבצעים"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "צרור מוצרים"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "מחיר לכולם"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "הנחת מניות"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "שם החבילה"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "מוצרים בצרור"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "עלות כוללת"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "הוסף חבילה חדשה"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "החבילה <b>[bundle_name]</b> הושבתה, בגלל שהמוצרים מחבילה זו נמחקה.|חבילת <b>[bundle_name]</b> הושבתה, מכיוון שאחד המוצרים מהחבילות הללו נמחק."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "חבילה חדשה"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "חבילות פעילות"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "ציין תכונות"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "כל וריאציה"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "ציין אפשרויות"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "מחיר מחירון כולל"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "הנחת הזמנה"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "הוסף הכל לעגלה"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "היכנס כדי לראות מחיר"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "פרטי צרור"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "חבילות עם מוצר"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "שם זה מוצג רק בחלונית Administration כדי לעזור לך להבחין בין חבילות מוצרים מרובות שיש להן אותו שם מוצג."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "הצג בדף המוצרים"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "האם אתה בטוח שברצונך ליצור חבילה ללא מוצרים?"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "האם אתה בטוח שברצונך ליצור חבילה עם מוצר אחד?"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "יש לציין אפשרויות מוצר"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "יכול לצפות"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "יכול לערוך"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "חבילות מוצרים"
+

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "انجام سفارش توسط بازار"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "به شما امکان می دهد برنامه های فروشنده را ارائه دهید که در آن بازار حمل و نقل را برای فروشندگان انجام می دهد و هزینه های حمل و نقل را حفظ می کند."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr "نوع حمل و نقل"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "به عنوان بخشی از این طرح فروشنده، حمل و نقل را برای فروشندگان انجام دهید. اگر بازار حمل و نقل را برای چندین فروشنده انجام دهد، مشتری باید فقط یک روش حمل و نقل را برای همه این فروشندگان در هنگام تسویه حساب انتخاب کند. هزینه حمل و نقل نیز به بازار خواهد رفت. <ul><li>فروشندگانی که به‌عنوان بخشی از طرح فروشنده خود، از طریق بازار به فروش می‌رسند، فقط از روش‌های حمل و نقل متعلق به بازار استفاده می‌کنند.</li><li>فروشندگانی که از طریق بازار برآورده نمی شوند، فقط از روش های حمل و نقل استفاده می کنند که به طور خاص به آنها تعلق دارد.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "روش‌های حمل و نقل متعلق به بازار اکنون برای فروشندگانی که برنامه‌های فروشنده آنها شامل اجرای بازار است، در دسترس خواهد بود."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "روش های حمل و نقل متعلق به بازار اکنون بسته به تنظیمات هر فروشنده در دسترس خواهد بود. هزینه های آن روش های حمل و نقل به فروشندگان تعلق می گیرد، نه بازار."
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "فروشنده [name] به طرحی با انجام سفارش توسط بازار منتقل شد. فروشنده اکنون از روش های حمل و نقل ارائه شده توسط بازار به جای روش های خود استفاده می کند."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "شما به طرحی با انجام سفارش توسط بازار منتقل شده اید. از این پس روش های ارسال در بازار به مشتریان شما ارائه می شود."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "فروشنده [name] بدون انجام سفارش توسط بازار به طرحی منتقل شد. اکنون فروشنده باید روش های حمل و نقل خود را ارائه دهد."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "شما به طرحی بدون انجام سفارش توسط بازار حرکت کرده اید. لطفاً مطمئن شوید که روش های حمل و نقل خود را تنظیم کرده اید."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "تکمیل بر اساس بازار"
+

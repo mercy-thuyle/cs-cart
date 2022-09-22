@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::alpha_bank"
+msgid "Alpha bank payments"
+msgstr "Alpha bank payments"
+
+msgctxt "Addons::description::alpha_bank"
+msgid "Allows you to accept payments via Alpha bank"
+msgstr "Allows you to accept payments via Alpha bank"
+
+msgctxt "Languages::alpha_bank.merchant_id"
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+msgctxt "Languages::alpha_bank.shared_secret"
+msgid "Shared Secret"
+msgstr "Shared Secret"

@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "بسته های محصول"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "به شما امکان می دهد بسته های محصول ایجاد کنید و برای آنها تخفیف تعیین کنید."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "بسته های محصول"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "بسته‌های محصول را مشاهده، اضافه و ویرایش کنید."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "تصویر تبلیغاتی"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "نمایش در تبلیغات"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "محصولات بسته بندی"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "قیمت برای همه"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "تخفیف را به اشتراک بگذارید"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "نام بسته"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "محصولات در بسته"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "هزینه کل"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "بسته جدید اضافه کنید"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "بسته <b>[bundle_name]</b> غیرفعال شد، زیرا محصولات این بسته حذف شدند.|بسته <b>[bundle_name]</b> غیرفعال شد، زیرا یکی از محصولات این بسته ها حذف شد."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "بسته جدید"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "بسته های فعال"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "ویژگی ها را مشخص کنید"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "هر گونه تنوع"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "گزینه ها را مشخص کنید"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "کل لیست قیمت"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "تخفیف سفارش"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "همه را به سبد خرید اضافه کنید"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "برای مشاهده قیمت وارد شوید"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "جزئیات بسته"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "بسته با محصول"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "این نام فقط در پانل مدیریت نشان داده می شود تا به شما کمک کند تا بین چندین بسته محصول که نام نمایش داده شده یکسانی دارند تمایز قائل شوید."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "نمایش در صفحه محصولات"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "آیا مطمئن هستید که می خواهید یک بسته نرم افزاری بدون محصولات ایجاد کنید؟"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "آیا مطمئن هستید که می خواهید یک بسته با 1 محصول ایجاد کنید؟"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "گزینه های محصول باید مشخص شود"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "می تواند مشاهده کند"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "می تواند ویرایش کند"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "بسته های محصول"
+

@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/pdf_documents.po\n"
+"X-Crowdin-File-ID: 6636\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::pdf_documents"
+msgid "PDF Documents"
+msgstr "اسناد PDF"
+
+msgctxt "Addons::description::pdf_documents"
+msgid "Handles the generation of all PDF files. We offer it as a free service and generate PDFs on our own server WITHOUT keeping any data."
+msgstr "تولید تمام فایل های PDF را مدیریت می کند. ما آن را به‌عنوان یک سرویس رایگان ارائه می‌کنیم و فایل‌های PDF را بر روی سرور خودمان بدون نگهداری داده‌ها تولید می‌کنیم."
+
+msgctxt "SettingsOptions::pdf_documents::service_url"
+msgid "PDF server"
+msgstr "سرور PDF"
+
+msgctxt "SettingsTooltips::pdf_documents::service_url"
+msgid "The location of the server where we'll be generating PDF files for your site. All servers work the same way, and they don't keep or analyze any of your data. Select the one that your legal advisor suggests, or the one you're most comfortable with."
+msgstr "مکان سروری که در آن فایل های PDF برای سایت شما تولید می کنیم. همه سرورها یکسان کار می کنند و هیچ یک از داده های شما را ذخیره یا تجزیه و تحلیل نمی کنند. یکی را انتخاب کنید که مشاور حقوقی شما پیشنهاد می کند، یا یکی را که بیشتر با آن راحت هستید."
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cs-cart.ru"
+msgid "Russia"
+msgstr "روسیه"
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cart-services.com"
+msgid "USA"
+msgstr "ایالات متحده آمریکا"
+
+msgctxt "Languages::pdf_documents.activate_notification"
+msgid "PDF documents (such as invoices, packing slips, etc.) will now be generated at our cloud service: [service_url]. It works as follows: your store sends an HTML document and receives a PDF copy of it. We do not view, keep, or analyze any of your data that goes through that service."
+msgstr "اسناد PDF (مانند فاکتورها، برگه های بسته بندی و غیره) اکنون در سرویس ابری ما تولید می شوند: [service_url]. این کار به شرح زیر است: فروشگاه شما یک سند HTML ارسال می کند و یک نسخه PDF از آن را دریافت می کند. ما هیچ یک از داده های شما را که از طریق آن سرویس می گذرد، مشاهده، نگهداری یا تجزیه و تحلیل نمی کنیم."
+
+msgctxt "Languages::pdf_documents.disable_notification"
+msgid "The generation of PDF documents (such as invoices, packing slips, etc.) has been disabled. Your data will no longer go through our cloud service [service_url]. If you'd like to generate PDF documents without using our cloud service, you're welcome to <a href=\"[helpdesk_url]\" target=\"_blank\">contact us via Help Desk</a> or configure it on your own."
+msgstr "تولید اسناد PDF (مانند فاکتورها، برگه های بسته بندی و غیره) غیرفعال شده است. اطلاعات شما دیگر از طریق سرویس ابری ما [service_url]نمی رود. اگر می‌خواهید اسناد PDF را بدون استفاده از سرویس ابری ما تولید کنید، می‌توانید از طریق Help Desk <a href=\"[helpdesk_url]\" target=\"_blank\"></a> ما تماس بگیرید یا خودتان آن را پیکربندی کنید."
+

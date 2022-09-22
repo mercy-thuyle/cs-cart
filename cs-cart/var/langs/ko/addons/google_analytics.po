@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_analytics.po\n"
+"X-Crowdin-File-ID: 6596\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::google_analytics"
+msgid "Google Analytics"
+msgstr "구글 애널리틱스"
+
+msgctxt "Addons::description::google_analytics"
+msgid "Integrates a Google Analytics service with the store"
+msgstr "Google Analytics 서비스를 상점과 통합합니다."
+
+msgctxt "SettingsSections::google_analytics::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::google_analytics::tracking_code"
+msgid "Google Analytics account number"
+msgstr "구글 애널리틱스 계정 번호"
+
+msgctxt "SettingsOptions::google_analytics::track_ecommerce"
+msgid "Track e-commerce transactions"
+msgstr "전자 상거래 추적"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_title"
+msgid "Google Tag Manager"
+msgstr "구글 태그 매니저"
+
+msgctxt "Languages::google_analytics.google_tag_manager_cookies_description"
+msgid "Google Tag Manager is a service that provides us with website analytics: the number of unique visitors, the most and least popular pages, etc. Here is <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">Google Tag Manager statement on privacy</a>."
+msgstr "Google 태그 관리자는 고유 방문자 수, 가장 인기 있는 페이지와 가장 덜 인기 있는 페이지 등 웹사이트 분석을 제공하는 서비스입니다. 다음은 개인 정보 보호에 대한 <a href=\"https://support.google.com/tagmanager/answer/9323295\" target=\"_blank\">Google 태그 관리자 설명</a>입니다."
+

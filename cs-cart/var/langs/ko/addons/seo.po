@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/seo.po\n"
+"X-Crowdin-File-ID: 6664\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::seo"
+msgid "SEO"
+msgstr "검색 엔진 최적화"
+
+msgctxt "Addons::description::seo"
+msgid "Adds Search engine-friendly URLs support"
+msgstr "검색 엔진 친화적인 URL 지원 추가"
+
+msgctxt "Languages::seo_rules_menu_description"
+msgid "Use this section to define global rules for the URLs rewritten in your store."
+msgstr "이 섹션을 사용하여 상점에서 다시 작성된 URL에 대한 전역 규칙을 정의하십시오."
+
+msgctxt "Languages::seo.redirects_manager_menu_description"
+msgid "Manages redirect rules from old URLs"
+msgstr "이전 URL의 리디렉션 규칙 관리"
+
+msgctxt "Languages::controller_description"
+msgid "If you want to specify a SEO-name for the URL, e.g. http://example.com/index.php?dispatch=<b>categories.catalog</b>, you need to enter the \"<b>categories.catalog</b>\" value into the \"<b>The value of the \"dispatch\" parameter from the URL</b>\" field and specify the SEO name in the \"<b>SEO name</b>\" field."
+msgstr "URL에 대한 SEO 이름(예: http://example.com/index.php?dispatch=<b>category.catalog</b>)을 지정하려면 \"<b>category.catalog</b>\" 값을 \"<b>URL</b>\" 필드의 \"dispatch\" 매개변수 값을 입력하고 \"<b>SEO 이름</b>\" 필드에 SEO 이름을 지정합니다."
+
+msgctxt "Languages::seo_name"
+msgid "SEO name"
+msgstr "SEO 이름"
+
+msgctxt "Languages::warning_seo_urls_disabled"
+msgid "SEO-friendly URLs are disabled. Check your web server and URL manipulation engine settings."
+msgstr "SEO 친화적인 URL이 비활성화되었습니다. 웹 서버 및 URL 조작 엔진 설정을 확인하십시오."
+
+msgctxt "Languages::dispatch_value"
+msgid "Dispatch value"
+msgstr "파견 가치"
+
+msgctxt "Languages::url_dispatch_part"
+msgid "The value of the \"dispatch\" parameter from the URL"
+msgstr "URL의 \"dispatch\" 매개변수 값"
+
+msgctxt "Languages::new_rule"
+msgid "New rule"
+msgstr "새 규칙"
+
+msgctxt "Languages::seo_rules"
+msgid "SEO rules"
+msgstr "SEO 규칙"
+
+msgctxt "Languages::seo_page_title"
+msgid "page [n]"
+msgstr "[n]페이지"
+
+msgctxt "Languages::privileges.manage_seo_rules"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.seo"
+msgid "SEO"
+msgstr "검색 엔진 최적화"
+
+msgctxt "Languages::privileges.view_seo_rules"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::seo.redirects_manager"
+msgid "301 redirects"
+msgstr "301 리디렉션"
+
+msgctxt "Languages::seo.old_url"
+msgid "Old URL"
+msgstr "이전 URL"
+
+msgctxt "Languages::seo.new_url"
+msgid "New URL"
+msgstr "새 URL"
+
+msgctxt "Languages::seo.new_redirect"
+msgid "New Redirect"
+msgstr "새 리디렉션"
+
+msgctxt "Languages::seo.error_old_url_exists"
+msgid "The URL you're redirecting from is already exist"
+msgstr "리디렉션하려는 URL이 이미 존재합니다."
+
+msgctxt "Languages::seo.rich_snippets"
+msgid "Google rich snippets preview"
+msgstr "Google 리치 스니펫 미리보기"
+
+msgctxt "Languages::seo.rich_snippets_rating"
+msgid "Rating"
+msgstr "평가"
+
+msgctxt "Languages::seo.rich_snippets_reviews"
+msgid "[n] review|[n] reviews"
+msgstr "[n] 리뷰| 리뷰[n] 개"
+
+msgctxt "Languages::seo.create_redirect"
+msgid "Create redirect from old URL"
+msgstr "이전 URL에서 리디렉션 만들기"
+
+msgctxt "Languages::seo.error_incorrect_url"
+msgid "Incorrect format for <b>[url]</b> URL. For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "<b>[url]</b> URL의 형식이 잘못되었습니다. 예를 들어 URL이 <b>http://example.com/path/to/object</b>인 경우 <b>/path/to/object</b>을 입력해야 합니다."
+
+msgctxt "Languages::tt_addons_seo_views_seo_redirects_manage_seo.old_url"
+msgid "For example, if your URL is <b>http://example.com/path/to/object</b>, you need to enter <b>/path/to/object</b>"
+msgstr "예를 들어 URL이 <b>http://example.com/path/to/object</b>이면 <b>/path/to/object</b>을 입력해야 합니다."
+
+msgctxt "SettingsSections::seo::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::seo::seo_product_type"
+msgid "Product SEO URL format"
+msgstr "제품 SEO URL 형식"
+
+msgctxt "SettingsOptions::seo::seo_category_type"
+msgid "Category SEO URL format"
+msgstr "카테고리 SEO URL 형식"
+
+msgctxt "SettingsOptions::seo::seo_page_type"
+msgid "Page SEO URL format"
+msgstr "페이지 SEO URL 형식"
+
+msgctxt "SettingsOptions::seo::seo_other_type"
+msgid "Other SEO URL format"
+msgstr "기타 SEO URL 형식"
+
+msgctxt "SettingsOptions::seo::seo_language"
+msgid "Show additional language in the URL"
+msgstr "URL에 추가 언어 표시"
+
+msgctxt "SettingsOptions::seo::single_url"
+msgid "Use single URL for all languages"
+msgstr "모든 언어에 단일 URL 사용"
+
+msgctxt "SettingsOptions::seo::non_latin_symbols"
+msgid "Allow non-latin symbols in URL"
+msgstr "URL에 비 라틴 기호 허용"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file_nohtml"
+msgid "/product-name/"
+msgstr "/상품명/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_file"
+msgid "/product-name.html"
+msgstr "/제품명.html"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
+msgid "/category-name/[subcategory-name/]product-name/"
+msgstr "/카테고리 이름/[하위 카테고리 이름/]제품 이름/"
+
+msgctxt "SettingsVariants::seo::seo_product_type::product_category"
+msgid "/category-name/[subcategory-name/]product-name.html"
+msgstr "/카테고리 이름/[하위 카테고리 이름/]제품 이름.html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
+msgid "/parent-category/category/[page-2/]"
+msgstr "/parent-category/category/[페이지-2/]"
+
+msgctxt "SettingsVariants::seo::seo_category_type::category"
+msgid "/parent-category/category-[page-2].html"
+msgstr "/parent-category/category-[page-2].html"
+
+msgctxt "SettingsVariants::seo::seo_category_type::root_category"
+msgid "/category/[page-2/]"
+msgstr "/카테고리/[페이지-2/]"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page"
+msgid "/parent-page/page.html"
+msgstr "/parent-page/page.html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
+msgid "/parent-page/page/"
+msgstr "/부모 페이지/페이지/"
+
+msgctxt "SettingsVariants::seo::seo_page_type::root_page"
+msgid "/page/"
+msgstr "/페이지/"
+
+msgctxt "SettingsVariants::seo::seo_other_type::directory"
+msgid "/item/"
+msgstr "/안건/"
+
+msgctxt "SettingsVariants::seo::seo_category_type::file"
+msgid "/category[-page-2].html"
+msgstr "/카테고리[-page-2].html"
+
+msgctxt "SettingsVariants::seo::seo_page_type::file"
+msgid "/page.html"
+msgstr "/페이지.html"
+
+msgctxt "SettingsVariants::seo::seo_other_type::file"
+msgid "/item.html"
+msgstr "/item.html"
+
+msgctxt "Languages::seo.important_language_text"
+msgid "<b>Warning!</b> The <b>SEO</b> add-on is currently configured to use a single URL for all languages. If you hide, disable, or delete a default language of one of the storefronts, the SEO URLs will be changed."
+msgstr "<b>경고!</b> <b>SEO</b> 애드온은 현재 모든 언어에 대해 단일 URL을 사용하도록 구성되어 있습니다. 상점 첫 화면 중 하나의 기본 언어를 숨기거나 비활성화하거나 삭제하면 SEO URL이 변경됩니다."
+
+msgctxt "Languages::seo.product_feature.feature_code.notice"
+msgid "A suitable code can help this feature appear with the product in search engines. Supported codes:"
+msgstr "적절한 코드는 이 기능이 검색 엔진의 제품과 함께 표시되는 데 도움이 될 수 있습니다. 지원되는 코드:"
+
+msgctxt "Languages::seo.brand"
+msgid "Brand"
+msgstr "상표"
+
+msgctxt "Languages::seo.feature_code.brand.description"
+msgid "Name used by an organization or business person for labeling a product"
+msgstr "조직이나 사업자가 제품에 라벨을 붙일 때 사용하는 이름"
+
+msgctxt "Languages::seo.isbn"
+msgid "ISBN"
+msgstr "ISBN"
+
+msgctxt "Languages::seo.feature_code.isbn.description"
+msgid "International Standard Book Number"
+msgstr "국제 표준 도서 번호"
+
+msgctxt "Languages::seo.gtin"
+msgid "GTIN"
+msgstr "GTIN"
+
+msgctxt "Languages::seo.feature_code.gtin.description"
+msgid "Global Trade Item Number"
+msgstr "글로벌 무역 품목 번호"
+
+msgctxt "Languages::seo.MPN"
+msgid "MPN"
+msgstr "MPN"
+
+msgctxt "Languages::seo.feature_code.mpn.description"
+msgid "Manufacturer Part Number"
+msgstr "제조업체 부품 번호"
+
+msgctxt "Languages::seo.storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of this storefront, the SEO URLs will be changed."
+msgstr "<a href=\"[link]\">SEO</a> 추가 기능은 현재 모든 언어에 대해 단일 URL을 사용하도록 구성되어 있습니다. 이 상점 첫화면의 기본 언어를 변경하면 SEO URL이 변경됩니다."
+
+msgctxt "Languages::seo.default_storefront_frontend_default_language_warning"
+msgid "The <a href=\"[link]\">SEO</a> add-on is currently configured to use a single URL for all languages. If you change a default language of the default storefront, the SEO URLs will be changed for all storefronts."
+msgstr "<a href=\"[link]\">SEO</a> 추가 기능은 현재 모든 언어에 대해 단일 URL을 사용하도록 구성되어 있습니다. 기본 상점 첫화면의 기본 언어를 변경하면 모든 상점 첫화면의 SEO URL이 변경됩니다."
+
+msgctxt "Languages::seo.error_at_creation_seo_name"
+msgid "The following SEO name already exists in your store: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names already exist in your store: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "다음 SEO 이름이 귀하의 상점에 이미 존재합니다: <b>[names]</b>. <p> 다음 SEO 이름이 대신 사용되었습니다: <b>[new_names]</b>.|다음 SEO 이름이 이미 상점에 존재합니다: <b>[names]</b>. 다음 SEO 이름이 대신 사용되었습니다. <b>[new_names]</b>."
+
+msgctxt "Languages::seo.error_incorrect_seo_name"
+msgid "The following SEO name had incorrect format: <b>[names]</b>. <p> The following SEO name was used instead: <b>[new_names]</b>.|The following SEO names had incorrect format: <b>[names]</b>. The following SEO names were used instead: <b>[new_names]</b>."
+msgstr "다음 SEO 이름의 형식이 잘못되었습니다. <b>[names]</b>. <p> 다음 SEO 이름이 대신 사용되었습니다: <b>[new_names]</b>.|다음 SEO 이름의 형식이 잘못되었습니다: <b>[names]</b>. 다음 SEO 이름이 대신 사용되었습니다. <b>[new_names]</b>."
+

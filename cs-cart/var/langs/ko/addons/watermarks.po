@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/watermarks.po\n"
+"X-Crowdin-File-ID: 6706\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::watermarks"
+msgid "Watermarks"
+msgstr "워터마크"
+
+msgctxt "Addons::description::watermarks"
+msgid "Allows you to add watermarks to product and category images"
+msgstr "제품 및 카테고리 이미지에 워터마크를 추가할 수 있습니다."
+
+msgctxt "Languages::wt_watermarks"
+msgid "Watermarks"
+msgstr "워터마크"
+
+msgctxt "Languages::wt_graphic_watermark"
+msgid "Graphic watermark"
+msgstr "그래픽 워터마크"
+
+msgctxt "Languages::wt_text_watermark"
+msgid "Text watermark"
+msgstr "텍스트 워터마크"
+
+msgctxt "Languages::wt_watermark_vertical_position"
+msgid "Watermark vertical position"
+msgstr "워터마크 세로 위치"
+
+msgctxt "Languages::wt_watermark_horizontal_position"
+msgid "Watermark horizontal position"
+msgstr "워터마크 수평 위치"
+
+msgctxt "Languages::wt_watermark_position"
+msgid "Watermark position"
+msgstr "워터마크 위치"
+
+msgctxt "Languages::wt_watermark_image"
+msgid "Watermark image"
+msgstr "워터마크 이미지"
+
+msgctxt "Languages::wt_watermark_text"
+msgid "Watermark text"
+msgstr "워터마크 텍스트"
+
+msgctxt "Languages::wt_font"
+msgid "Font"
+msgstr "폰트"
+
+msgctxt "Languages::wt_font_color"
+msgid "Font color"
+msgstr "폰트 색상"
+
+msgctxt "Languages::wt_font_size_icon"
+msgid "Font size (thumbnail)"
+msgstr "글꼴 크기(썸네일)"
+
+msgctxt "Languages::wt_font_size_detailed"
+msgid "Font size (larger image)"
+msgstr "글꼴 크기(큰 이미지)"
+
+msgctxt "Languages::wt_watermark_icon"
+msgid "Thumbnail watermark"
+msgstr "썸네일 워터마크"
+
+msgctxt "Languages::wt_watermark_detailed"
+msgid "Popup larger image watermark"
+msgstr "큰 이미지 워터마크 팝업"
+
+msgctxt "Languages::wt_fail_apply_graphic_watermark"
+msgid "Failed to apply the watermark to [image_type]. The watermark image is not added."
+msgstr "워터마크를 [image_type]에 적용하지 못했습니다. 워터마크 이미지는 추가되지 않습니다."
+
+msgctxt "Languages::wt_icons"
+msgid "thumbnails"
+msgstr "썸네일"
+
+msgctxt "Languages::wt_detailed"
+msgid "popup larger images"
+msgstr "팝업 큰 이미지"
+
+msgctxt "Languages::wt_images_access_description"
+msgid "To deny access to your original images, please add the following instructions to the '.htaccess' file in the 'images' directory of your installation. It will protect your original images. Even if an original image is opened, the corresponding watermarked image will be show instead."
+msgstr "원본 이미지에 대한 액세스를 거부하려면 설치의 '이미지' 디렉토리에 있는 '.htaccess' 파일에 다음 지침을 추가하십시오. 원본 이미지를 보호합니다. 원본 이미지를 열어도 해당 워터마크 이미지가 대신 표시됩니다."
+
+msgctxt "Languages::wt_watermarks_access_description"
+msgid "To generate watermarked images automatically even if they are requested not from your store pages, please add the '.htaccess' file with the following instructions to the 'images/watermarked' directory of your installation."
+msgstr "스토어 페이지에서 요청하지 않은 경우에도 워터마크가 표시된 이미지를 자동으로 생성하려면 다음 지침과 함께 '.htaccess' 파일을 설치의 'images/watermarked' 디렉토리에 추가하십시오."
+
+msgctxt "Languages::wt_access_note"
+msgid "Please note, if you disable or uninstall the 'Watermarks' add-on, you should remove these instructions from '.htaccess' files manually. Otherwise category and product images will be unavailable."
+msgstr "'워터마크' 추가 기능을 비활성화하거나 제거하는 경우 '.htaccess' 파일에서 이 지침을 수동으로 제거해야 합니다. 그렇지 않으면 카테고리 및 제품 이미지를 사용할 수 없습니다."
+
+msgctxt "Languages::wt_access_warning"
+msgid "Watermark creating is disabled. If there are any \"Rewrite watermarks rules\" instructions in the \"images/.htaccess\" file, you should remove them manually. Otherwise category and product images will be unavailable."
+msgstr "워터마크 생성이 비활성화되었습니다. \"images/.htaccess\" 파일에 \"워터마크 규칙 재작성\" 지침이 있는 경우 수동으로 제거해야 합니다. 그렇지 않으면 카테고리 및 제품 이미지를 사용할 수 없습니다."
+
+msgctxt "Languages::wt_images_access_info"
+msgid "Images access"
+msgstr "이미지 액세스"
+
+msgctxt "SettingsSections::watermarks::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::watermarks::watermark"
+msgid "Watermark"
+msgstr "양수표"
+
+msgctxt "SettingsOptions::watermarks::apply_to_product"
+msgid "Product watermarks"
+msgstr "제품 워터마크"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_icons"
+msgid "Resized images"
+msgstr "크기 조정된 이미지"
+
+msgctxt "SettingsOptions::watermarks::use_for_product_detailed"
+msgid "Original size images"
+msgstr "원본 크기 이미지"
+
+msgctxt "SettingsOptions::watermarks::apply_to_categories"
+msgid "Category watermarks"
+msgstr "카테고리 워터마크"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_icons"
+msgid "Resized images"
+msgstr "크기 조정된 이미지"
+
+msgctxt "SettingsOptions::watermarks::use_for_category_detailed"
+msgid "Original size images"
+msgstr "원본 크기 이미지"
+
+msgctxt "SettingsOptions::watermarks::images_access_info"
+msgid "Images access"
+msgstr "이미지 액세스"
+

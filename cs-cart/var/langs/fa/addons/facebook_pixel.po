@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 6586\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "فیس بوک پیکسل"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "یک فیس‌بوک پیکسل را با فروشگاه ادغام می‌کند"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "شناسه پیکسل فیس بوک"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "همه بازدیدهای صفحه را ردیابی کنید"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "ردیابی افزودن محصول به سبد خرید"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "پیگیری ثبت سفارش"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_title"
+msgid "Facebook Pixel"
+msgstr "فیس بوک پیکسل"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_description"
+msgid "Facebook Pixel is a tool that allows us to measure ad efficiency by tracking that the browser or device that received the ad also visited a product page, added product to cart, or placed an order. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "فیس‌بوک پیکسل ابزاری است که به ما امکان می‌دهد کارایی تبلیغات را با ردیابی اینکه مرورگر یا دستگاهی که آگهی را دریافت کرده از صفحه محصول بازدید کرده، محصول را به سبد خرید اضافه کرده یا سفارش داده است، اندازه‌گیری کنیم. اینجا <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">خط مشی رازداری فیس بوک</a>است."
+

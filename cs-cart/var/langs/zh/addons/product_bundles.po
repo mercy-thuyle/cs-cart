@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "产品包"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "允许您创建产品捆绑包并为其设置折扣。"
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "产品包"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "查看、添加和编辑产品包。"
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "宣传图片"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "在促销中显示"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "捆绑产品"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "所有人的价格"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "分享折扣"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "捆绑包名称"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "捆绑产品"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "总花费"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "添加新捆绑包"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "<b>[bundle_name]</b> 捆绑包被禁用，因为该捆绑包中的产品已被删除。| <b>[bundle_name]</b> 捆绑包被禁用，因为这些捆绑包中的一个产品已被删除。"
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "新捆绑包"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "活动捆绑包"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "指定功能"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "任何变化"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "指定选项"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "总标价"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "订单折扣"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "全部加入购物车"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "登录查看价格"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "捆绑详情"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "与产品捆绑"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "此名称仅显示在“管理”面板中，以帮助您区分具有相同显示名称的多个产品捆绑包。"
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "在产品页面上显示"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "您确定要创建不含产品的捆绑包吗？"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "您确定要创建包含 1 个产品的捆绑包吗？"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "应指定产品选项"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "可以查看"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "可以编辑"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "产品包"
+

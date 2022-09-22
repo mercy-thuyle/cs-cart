@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_variations.po\n"
+"X-Crowdin-File-ID: 6606\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations"
+msgstr "Tuotevariaatiot"
+
+msgctxt "Addons::description::product_variations"
+msgid "Create products with different feature variants (for example, a different color or size), and let customers select the desired variant."
+msgstr "Luo tuotteita erilaisilla ominaisuuksilla (esimerkiksi eri värillä tai koossa) ja anna asiakkaiden valita haluamasi versio."
+
+msgctxt "SettingsSections::product_variations::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_images"
+msgid "Allow own images for child variations"
+msgstr "Salli omat kuvat lapsimuunnelmille"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_images"
+msgid "If child variations aren't allowed to have their own images, they will use the images from the default variation of the catalog item."
+msgstr "Jos alatason muunnelmilla ei saa olla omia kuvia, ne käyttävät luettelon oletusmuunnelman kuvia."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_auto_change_default_variation"
+msgid "Change default variation when it gets hidden or runs out of stock"
+msgstr "Muuta oletusmuunnelmaa, kun se piilotetaan tai loppuu varastosta"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_auto_change_default_variation"
+msgid "Ensure that customers always see the products that are in stock first. We recommend leaving this setting enabled for better filtering of variations."
+msgstr "Varmista, että asiakkaat näkevät aina ensin varastossa olevat tuotteet. Suosittelemme jättämään tämän asetuksen käyttöön muunnelmien suodattamiseksi paremmin."
+
+msgctxt "SettingsOptions::product_variations::variations_allow_own_features"
+msgid "Allow own feature values for child variations"
+msgstr "Salli omat ominaisuusarvot alatason muunnelmille"
+
+msgctxt "SettingsTooltips::product_variations::variations_allow_own_features"
+msgid "If child variations aren't allowed to have their own values for features, they will use the values from the default variation of the catalog item."
+msgstr "Jos alimuunnelmilla ei saa olla omia arvojaan ominaisuuksille, ne käyttävät luettelonimikkeen oletusmuunnelman arvoja."
+
+msgctxt "SettingsOptions::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show all possible feature variants"
+msgstr "Näytä kaikki mahdolliset ominaisuusversiot"
+
+msgctxt "SettingsTooltips::product_variations::variations_show_all_possible_feature_variants"
+msgid "Show a feature variant even if it is not available for this variation."
+msgstr "Näytä ominaisuuden muunnelma, vaikka se ei olisi saatavilla tälle muunnelmalle."
+
+msgctxt "SettingsOptions::product_variations::quantity_discount_on_different_variations"
+msgid "Give quantity discount on different product variations"
+msgstr "Anna määräalennus eri tuotevariaatioista"
+
+msgctxt "SettingsTooltips::product_variations::quantity_discount_on_different_variations"
+msgid "All variations in the same group will count to the quantity that is eligible for a discount."
+msgstr "Kaikki saman ryhmän muunnelmat lasketaan mukaan alennukseen oikeutettuun määrään."
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr "Tuotetyyppi"
+
+msgctxt "Languages::product_variations.product_type.catalog_item"
+msgid "Catalog item"
+msgstr "Katalogin kohde"
+
+msgctxt "Languages::product_variations.product_type.variation_of_catalog_item"
+msgid "Variation of a catalog item"
+msgstr "Luettelotuotteen muunnelma"
+
+msgctxt "Languages::product_variations.belongs_to_catalog_item"
+msgid "Belongs to catalog item:"
+msgstr "Kuuluu luetteloon:"
+
+msgctxt "Languages::product_variations.variations"
+msgid "Variations"
+msgstr "Muunnelmat"
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of catalog item <a href=\"[url]\">[product]</a>"
+msgstr "Luettelotuotteen muunnelma <a href=\"[url]\">[product]</a>"
+
+msgctxt "Languages::product_variations.group_code"
+msgid "Variation group"
+msgstr "Variaatioryhmä"
+
+msgctxt "Languages::product_variations.group_code.placeholder"
+msgid "Set custom group code here"
+msgstr "Aseta mukautettu ryhmäkoodi tähän"
+
+msgctxt "Languages::product_variations.group_code.description"
+msgid "Use the group code on a product editing page or during import to add the product to this group as a variation. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\"."
+msgstr "Käytä ryhmäkoodia tuotteen muokkaussivulla tai tuonnin aikana lisätäksesi tuotteen tähän ryhmään muunnelmana. Ryhmäkoodi voi sisältää vain numeroita, latinalaisia merkkejä ja seuraavia merkkejä: \"-\" ja \"_\"."
+
+msgctxt "Languages::product_variations.group_code.link"
+msgid "Add to variation group"
+msgstr "Lisää muunnelmaryhmään"
+
+msgctxt "Languages::product_variations.add_variations"
+msgid "Add variations"
+msgstr "Lisää muunnelmia"
+
+msgctxt "Languages::product_variations.link_existing"
+msgid "Use existing products"
+msgstr "Käytä olemassa olevia tuotteita"
+
+msgctxt "Languages::product_variations.create_new"
+msgid "Create new products"
+msgstr "Luo uusia tuotteita"
+
+msgctxt "Languages::product_variations.add_variations_description"
+msgid "Add variations to generate a group of similar products that differ in color, size, etc. Or add this product to an existing group by entering the group code."
+msgstr "Lisää muunnelmia luodaksesi ryhmän samankaltaisia tuotteita, jotka eroavat väriltään, kooltaan jne. Tai lisää tämä tuote olemassa olevaan ryhmään syöttämällä ryhmän koodi."
+
+msgctxt "Languages::product_variations.manage"
+msgid "Manage variations"
+msgstr "Hallitse muunnelmia"
+
+msgctxt "Languages::product_variations.edit_features"
+msgid "Edit features"
+msgstr "Muokkaa ominaisuuksia"
+
+msgctxt "Languages::product_variations.delete"
+msgid "Disband group"
+msgstr "Purkaa ryhmä"
+
+msgctxt "Languages::product_variations.remove_variation"
+msgid "Remove variation from group"
+msgstr "Poista muunnelma ryhmästä"
+
+msgctxt "Languages::product_variations.delete_product"
+msgid "Delete product"
+msgstr "Poista tuote"
+
+msgctxt "Languages::product_variations.mark_main_product"
+msgid "Set as default variation"
+msgstr "Aseta oletusmuunnelmaksi"
+
+msgctxt "Languages::product_variations.no_available_features"
+msgid "This product doesn't have features that allow grouping products. Please make sure that:<ol><li>You have created at least one feature with <b>Purpose:</b> <i>Variations as separate products</i> or <i>Variations as one product</i>.</li><li>You have specified the value of that feature for the product.</li></ol><a href=[manage_features_href]>Manage features</a>"
+msgstr "Tällä tuotteella ei ole ominaisuuksia, jotka mahdollistaisivat tuotteiden ryhmittelyn. Varmista, että:<ol><li>Olet luonut vähintään yhden ominaisuuden, jolla on <b>Tarkoitus:</b> <i>Muunnelmia erillisinä tuotteina</i> tai <i>muunnelmia yhtenä tuotteena</i>.</li><li>Olet määrittänyt tuotteelle ominaisuuden arvon.</li></ol><a href=[manage_features_href]>Hallitse ominaisuuksia</a>"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item"
+msgid "Variations as separate products"
+msgstr "Variaatiot erillisinä tuotteina"
+
+msgctxt "Languages::product_feature.purpose.group_catalog_item.description"
+msgid "For cases when a few similar products differ visibly by a feature, and have different names (for example, multiple \"Color\" variants of a T-shirt). These products will appear as separate positions in the catalog. Customers will also be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "Tapauksiin, joissa muutama samankaltainen tuote eroaa näkyvästi ominaisuuksiltaan ja niillä on eri nimet (esimerkiksi T-paidan useita \"väri\"-versioita). Nämä tuotteet näkyvät luettelossa erillisinä paikkoina. Asiakkaat voivat myös valita haluamansa ominaisuusarvon tuotesivulta. Tämän saavuttamiseksi <b>määritä muunnelmia tuotteille, joissa on tämä ominaisuus</b>."
+
+msgctxt "Languages::product_feature.feature_style.dropdown"
+msgid "Drop-down list"
+msgstr "Pudotusvalikosta"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_images"
+msgid "Images"
+msgstr "kuvat"
+
+msgctxt "Languages::product_feature.feature_style.dropdown_labels"
+msgid "Text labels"
+msgstr "Tekstimerkit"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item"
+msgid "Variations as one product"
+msgstr "Muunnelmia yhtenä tuotteena"
+
+msgctxt "Languages::product_feature.purpose.group_variation_catalog_item.description"
+msgid "For cases when a few similar products differ by a feature, but have the same name and similar appearance (for example, multiple \"Size\" variants of a T-shirt). These products will occupy a single position in the catalog. Customers will be able to select the desired feature value on the product page. To achieve this, <b>set up variations for products with this feature</b>."
+msgstr "Tapauksiin, joissa muutama samankaltainen tuote eroaa ominaisuuksiltaan, mutta niillä on sama nimi ja samanlainen ulkonäkö (esimerkiksi T-paidan useita \"Koko\"-versioita). Nämä tuotteet ovat luettelossa yhdellä paikalla. Asiakkaat voivat valita haluamansa ominaisuusarvon tuotesivulta. Tämän saavuttamiseksi <b>määritä muunnelmia tuotteille, joissa on tämä ominaisuus</b>."
+
+msgctxt "Languages::product_variations.warning.before_edit_variations_save_product"
+msgid "Before you can edit variations, please save the product."
+msgstr "Ennen kuin voit muokata muunnelmia, tallenna tuote."
+
+msgctxt "Languages::product_variations.error.group_not_found"
+msgid "Variation group #[id] not found"
+msgstr "Muunnelmaryhmää[id] ei löydy"
+
+msgctxt "Languages::product_variations.error.product_not_found_in_group"
+msgid "Product #[product_id] not found in variation group \"[group_code]\""
+msgstr "Tuotetta nro[product_id] ei löytynyt muunnelmaryhmästä \"[group_code]\""
+
+msgctxt "Languages::product_variations.error.cannot_mark_main_product_child_product"
+msgid "Product #[product_id] in group \"[group_code]\" isn't a variation, so it can't become default for a catalog item"
+msgstr "Tuote nro[product_id] ryhmässä \"[group_code]\" ei ole muunnelma, joten siitä ei voi tulla luettelonimikkeen oletusarvo"
+
+msgctxt "Languages::product_variations.error.generate_combinations_is_empty"
+msgid "Couldn't generate variations. Please specify the values of features to generate variations."
+msgstr "Muunnelmia ei voitu luoda. Määritä ominaisuuksien arvot muunnelmien luomiseksi."
+
+msgctxt "Languages::product_variations.error.generate_products_is_empty"
+msgid "No new products were created"
+msgstr "Uusia tuotteita ei luotu"
+
+msgctxt "Languages::product_variations.error.product_not_found"
+msgid "Product #[product_id] not found"
+msgstr "Tuotetta nro[product_id] ei löytynyt"
+
+msgctxt "Languages::product_variations.error.group_not_found_by_product"
+msgid "Couldn't find variation group for #[product_id] \"[product]\""
+msgstr "Muunnelmaryhmää numerolle #[product_id] \"[product]\" ei löytynyt"
+
+msgctxt "Languages::product_variations.error.feature_combination_is_invalid_for_product"
+msgid "Wrong combination of features for product #[product_id] \"[product]\""
+msgstr "Väärä ominaisuuksien yhdistelmä tuotteelle #[product_id] \"[product]\""
+
+msgctxt "Languages::product_variations.error.product_ids_empty"
+msgid "Products couldn't be found"
+msgstr "Tuotteita ei löytynyt"
+
+msgctxt "Languages::product_variations.select_variation"
+msgid "Select a Variation"
+msgstr "Valitse muunnelma"
+
+msgctxt "Languages::product_variations.error.group_code_is_required"
+msgid "Variation group code must be specified"
+msgstr "Muunnelmaryhmän koodi on määritettävä"
+
+msgctxt "Languages::product_variations.error.group_code_is_invalid"
+msgid "Couldn't set this code for variation group. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\""
+msgstr "Tätä koodia ei voitu asettaa muunnelmaryhmälle. Ryhmäkoodi voi sisältää vain numeroita, latinalaisia merkkejä ja seuraavia merkkejä: \"-\" ja \"_\""
+
+msgctxt "Languages::product_variations.error.group_code_is_duplicate"
+msgid "The specified variation group code is already in use"
+msgstr "Määritetty muunnelmaryhmän koodi on jo käytössä"
+
+msgctxt "Languages::product_variations.error.features_is_empty"
+msgid "Features couldn't be found"
+msgstr "Ominaisuuksia ei löytynyt"
+
+msgctxt "Languages::product_variations.error.no_available_products"
+msgid "No suitable products were found"
+msgstr "Sopivia tuotteita ei löytynyt"
+
+msgctxt "Languages::product_variations.error.product_has_not_required_features"
+msgid "Product #[product_id] \"[product]\" doesn't have the required features to become a variation. Please set feature values for that product."
+msgstr "Tuotteella #[product_id] \"[product]\" ei ole tarvittavia ominaisuuksia, jotta siitä tulisi muunnelma. Aseta ominaisuusarvot tälle tuotteelle."
+
+msgctxt "Languages::product_variations.error.product_with_features_combination_exits"
+msgid "Product #[product_id] \"[product]\" has the exact same combination of feature values as a variation that already exists in the group."
+msgstr "Tuotteella #[product_id] \"[product]\" on täsmälleen sama ominaisuusarvojen yhdistelmä kuin ryhmässä jo olemassa olevalla muunnelmalla."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.ult"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same storefront."
+msgstr "Tuotetta #[product_id] \"[product]\" ei voi lisätä muunnelmaryhmään, koska kaikkien muunnelmaryhmän tuotteiden on kuuluttava samaan julkisivuun."
+
+msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.mve"
+msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same vendor."
+msgstr "Tuotetta #[product_id] \"[product]\" ei voi lisätä muunnelmaryhmään, koska kaikkien muunnelmaryhmän tuotteiden on kuuluttava samalle toimittajalle."
+
+msgctxt "Languages::product_variations.variations_filling"
+msgid "Variations"
+msgstr "Muunnelmat"
+
+msgctxt "Languages::product_variations.variations_list"
+msgid "Variations"
+msgstr "Muunnelmat"
+
+msgctxt "Languages::variations_in_stock"
+msgid "Only \"in stock\" products"
+msgstr "Vain \"varastossa\" olevat tuotteet"
+
+msgctxt "Languages::product_variations.hide_add_to_wishlist_button"
+msgid "Hide add to wish list button"
+msgstr "Piilota lisää toivelistaan -painike"
+
+msgctxt "Languages::product_variations.variations_list_block_name"
+msgid "Variations list"
+msgstr "Muunnelmien luettelo"
+
+msgctxt "Languages::product_variations.variations_list_tab_name"
+msgid "View all variations as list"
+msgstr "Näytä kaikki muunnelmat luettelona"
+
+msgctxt "Languages::product_variations.show_variation_thumbnails"
+msgid "Show variation thumbnails"
+msgstr "Näytä muunnelmien pikkukuvat"
+
+msgctxt "Languages::product_variations.show_product_code"
+msgid "Show product code"
+msgstr "Näytä tuotekoodi"
+
+msgctxt "Languages::product_variations.exim.result_notice"
+msgid "Data is imported successfully.<br />New products - <b>[new]</b>;<br />Updated products - <b>[exist]</b>;<br />Skipped products - <b>[skipped]</b>;<br />Total - <b>[total]</b>;<br />Created variations - <b>[variation_created]</b>;<br />Updated variations - <b>[variation_updated]</b>;<br />Disbanded variations - <b>[variation_removed]</b>."
+msgstr "Tietojen tuonti onnistui.<br />Uusia tuotteita - <b>[new]</b>;<br />Päivitetyt tuotteet - <b>[exist]</b>;<br />ohitetut tuotteet - <b>[skipped]</b>;<br />Yhteensä - <b>[total]</b>;<br />Luotuja muunnelmia - <b>[variation_created]</b>;<br />Päivitetyt muunnelmat - <b>[variation_updated]</b>;<br />Purettu muunnelma - <b>[variation_removed]</b>."
+
+msgctxt "Languages::variation_group_id"
+msgid "Variation group ID"
+msgstr "Muunnelmaryhmän tunnus"
+
+msgctxt "Languages::variation_group_code"
+msgid "Variation group code"
+msgstr "Muunnelmaryhmän koodi"
+
+msgctxt "Languages::variation_parent_product_id"
+msgid "Variation parent product ID"
+msgstr "Muunnelman päätuotteen tunnus"
+
+msgctxt "Languages::variation_sub_group_id"
+msgid "Variation sub group ID"
+msgstr "Muunnelman alaryhmän tunnus"
+
+msgctxt "Languages::product_variations.feature_used_by_variation_group.tooltip"
+msgid "This feature is used by variation group [code]. To choose a different value of this feature for a product, switch to the \"Variations\" tab of the product editing page. New values can be added on the feature editing page."
+msgstr "Tätä ominaisuutta käyttää muunnelmaryhmä [code]. Jos haluat valita tuotteelle tämän ominaisuuden erilaisen arvon, siirry tuotteen muokkaussivun Muunnelmat-välilehteen. Ominaisuuden muokkaussivulle voidaan lisätä uusia arvoja."
+
+msgctxt "Languages::product_variations.variations_naming_strategy.key_value"
+msgid "Color: Red, Size: Small"
+msgstr "Väri: punainen, koko: pieni"
+
+msgctxt "Languages::product_variations.variations_naming_strategy.value"
+msgid "Red, Small"
+msgstr "Punainen, Pieni"
+
+msgctxt "Languages::product_variations.feature_can_be_deleted"
+msgid "Couldn't delete a feature or its variant because at least one variation group is based on it. Please delete <a href=\"[href]\">these products</a> or disband their product groups, and try again."
+msgstr "Ominaisuutta tai sen muunnelmaa ei voitu poistaa, koska ainakin yksi muunnelmaryhmä perustuu siihen. Poista <a href=\"[href]\">näitä tuotteita</a> tai pura niiden tuoteryhmät ja yritä uudelleen."
+
+msgctxt "Languages::product_variations.notice.old_product_variations_exists"
+msgid "Your store still has old product variations. They currently appear as separate products, without the ability to switch between them. To make them work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>. It's easy and automatic."
+msgstr "Myymälässäsi on edelleen vanhoja tuotevariaatioita. Ne näkyvät tällä hetkellä erillisinä tuotteina, ilman mahdollisuutta vaihtaa niiden välillä. Jotta ne toimivat kuten ennen päivitystä, <a href=\"[convert_url]\">muunna vanhat muunnelmat uusiksi muunnelmilla</a>. Se on helppoa ja automaattista."
+
+msgctxt "Languages::product_variations.notice.is_old_product_variation"
+msgid "This product is an old variation that hasn't been converted yet. To make it work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>."
+msgstr "Tämä tuote on vanha muunnelma, jota ei ole vielä muunnettu. Jotta se toimisi kuten ennen päivitystä, <a href=\"[convert_url]\">muunna vanhat muunnelmat uusiksi muunnelmilla</a>."
+
+msgctxt "Languages::variation_set_as_default"
+msgid "Variation set as default"
+msgstr "Variaatio asetettu oletukseksi"
+
+msgctxt "Languages::product_variations.cant_edit_feature_categories"
+msgid "Couldn't restrict the feature's availability in categories. <a href=\"[href]\">Some product variations with that feature</a> are still available in the categories where you tried to restrict the feature. Please remove the variation groups from those categories and try again."
+msgstr "Ominaisuuden saatavuutta luokittain ei voitu rajoittaa. <a href=\"[href]\">Jotkin tuotemuunnelmat kyseisellä ominaisuudella</a> ovat edelleen saatavilla luokissa, joissa yritit rajoittaa ominaisuutta. Poista muunnelmaryhmät näistä luokista ja yritä uudelleen."
+
+msgctxt "Languages::product_variations.too_many_combinations"
+msgid "Sorry, there are too many possible variations that can be generated. To prevent heavy load, we won't display them here. Please create the products with the right feature values manually or via import, and add them to the group."
+msgstr "Valitettavasti on olemassa liian monta mahdollista muunnelmaa, jotka voidaan luoda. Raskaan kuormituksen estämiseksi emme näytä niitä tässä. Luo oikeat ominaisuusarvot sisältävät tuotteet manuaalisesti tai tuomalla ja lisää ne ryhmään."
+
+msgctxt "Languages::product_variations.generator.features.placeholder"
+msgid "Search for features that can generate variations"
+msgstr "Etsi ominaisuuksia, jotka voivat luoda muunnelmia"
+
+msgctxt "Languages::product_variations.generator.warning.new_features_add"
+msgid "You can add a new feature if you disband the group in the actions menu and create variations again."
+msgstr "Voit lisätä uuden ominaisuuden, jos purat ryhmän toimintovalikossa ja luot muunnelmia uudelleen."
+
+msgctxt "Languages::product_variations.generator.feature_variants.placeholder"
+msgid "Type to search"
+msgstr "Hae kirjoittamalla"
+
+msgctxt "Languages::product_variations.generator.feature_variants.add_all_variants"
+msgid "Add all variants"
+msgstr "Lisää kaikki versiot"
+
+msgctxt "Languages::product_variations.generator.table.title"
+msgid "Modify the variations to be created:"
+msgstr "Muokkaa luotavia muunnelmia:"
+
+msgctxt "Languages::product_variations.generator.create_btn"
+msgid "Create [n] variation|Create [n] variations"
+msgstr "Luo [n] muunnelmaa|Luo [n] muunnelma"
+
+msgctxt "Languages::product_variations.allow_own_features_setting_changing"
+msgid "You've disabled the <b>Allow own feature values for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their feature values to existing child variations."
+msgstr "Olet poistanut käytöstä <b>Salli omat ominaisuusarvot alatason muunnelmille</b> -asetuksen. Vie <a href=\"[url]\">kaikki oletusmuunnelmasi</a> (käytä \"Vie löydetyt tuotteet\" rataspainikkeessa) ja tuo ne uudelleen. Tämä käyttää niiden ominaisuusarvoja olemassa oleviin alimuunnelmiin."
+
+msgctxt "Languages::product_variations.allow_own_images_setting_changing"
+msgid "You've disabled the <b>Allow own images for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their images to existing child variations."
+msgstr "Olet poistanut käytöstä <b>Salli omat kuvat lapsimuunnelmille</b> -asetuksen. Vie <a href=\"[url]\">kaikki oletusmuunnelmasi</a> (käytä \"Vie löydetyt tuotteet\" rataspainikkeessa) ja tuo ne uudelleen. Tämä käyttää heidän kuviaan olemassa oleviin lapsimuunnelmiin."
+
+msgctxt "Languages::product_variations.add_all_variants"
+msgid "Add all variants"
+msgstr "Lisää kaikki versiot"
+
+msgctxt "Languages::product_variations.error.not_available_feature_purpose"
+msgid "Couldn't create variation group based on these features; please use the features with the purpose that is eligible for creating variations (group_catalog_item or group_variation_catalog_item)."
+msgstr "Muunnelmaryhmää ei voitu luoda näiden ominaisuuksien perusteella. käytä ominaisuuksia sellaiseen tarkoitukseen, joka on kelvollinen muunnelmien luomiseen (ryhmäluettelon_tuote tai ryhmämuutosluettelon_tuote)."
+
+msgctxt "Languages::product_variations.error.cannot_set_as_default_out_of_stock"
+msgid "Couldn't set variation #[product_id] as default, because it is out of stock. A variation that is in stock was used as default instead."
+msgstr "Muunnelmaa #[product_id] ei voitu asettaa oletukseksi, koska se on loppunut varastosta. Varastossa olevaa muunnelmaa käytettiin sen sijaan oletuksena."
+

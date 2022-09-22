@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "Locațiile furnizorilor [Beta]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "Permite vânzătorilor să își specifice adresele, astfel încât clienții să poată vedea distanța față de furnizori și să filtreze produsele și furnizorii după locațiile lor."
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "Cheia API Google Maps"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "Obțineți cheia API urmând instrucțiunile de aici: https://developers.google.com/maps/documentation/javascript/get-api-key"
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "Raza implicită în filtrul de distanță"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Poți adăuga manual un filtru produs care permite clienților să caute produse într-o anumită distanță dacă introduc locația lor. Această setare determină raza implicită de căutare pentru filtrul respectiv. Dacă nu creezi un filtru, produsele vor fi afișate indiferent de distantă, și această setare nu va avea niciun efect."
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "Raza maximă în filtru de distanță"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Poți adăuga manual un filtru produs care permite clienților să caute produse într-o anumită distanță dacă introduc locația lor. Această setare determină raza maximă de căutare pentru filtrul respectiv. Dacă nu creezi un filtru, produsele vor fi afișate indiferent de distantă, și această setare nu va avea niciun efect."
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "Unitate de măsurare a distanței"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "km"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "mi"
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "Furnizori afișați implicit"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "Stabilește ce furnizori sunt afișați implicit pe pagina cu listă de furnizori (și pe harta afișată pe pagina respectivă)."
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "Toate"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "Din orașul clientului"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "Din țara clientului"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "Locație"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "Adresa care va fi folosită pentru a determina poziția pe Google Maps."
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "Locația clientului"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "Introdu adresa pentru a căuta după locație"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "Căutați furnizori"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "Furnizori după locație"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "Căutați furnizori într-o anumită locație"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "Cei mai apropiați vânzători"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "Vânzători din orașul clientului"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "Harta furnizorului"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "O hartă a tuturor vânzătorilor"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "Căutați furnizori"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "Selector de locație"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "Orașul vânzătorului"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "Distanța până la vânzător"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "Locația ta"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "Selectați un oraș"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "Orașul ales"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "Nu orașul tău?"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "Caută un oraș"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "Căutați în apropiere"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "Din apropiere"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "Harta furnizorilor"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "Cei mai apropiați vânzători"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "Hărți Google"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google Maps este un serviciu care ne permite să arătăm hărțile și diferitele locații de pe acele hărți sau să vă stabilim automat locația. Iată <a href=\"https://policies.google.com/privacy\" target=\"_blank\">politica de confidențialitate Google;</a> vă recomandăm, de asemenea, nota concisă și cuprinzătoare a Google <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">privind confidențialitatea</a>."
+

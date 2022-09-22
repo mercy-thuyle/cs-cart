@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/myob.po\n"
+"X-Crowdin-File-ID: 6616\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::myob"
+msgid "MYOB"
+msgstr "묘"
+
+msgctxt "Addons::description::myob"
+msgid "Adds the MYOB integration"
+msgstr "MYOB 통합 추가"
+
+msgctxt "Languages::export_to_myob"
+msgid "Export to MYOB"
+msgstr "MYOB로 내보내기"
+
+msgctxt "SettingsSections::myob::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::myob::sales_account"
+msgid "Default Sales Account"
+msgstr "기본 판매 계정"
+
+msgctxt "SettingsOptions::myob::currency"
+msgid "Currency"
+msgstr "통화"
+
+msgctxt "SettingsOptions::myob::tax_gst_code"
+msgid "Tax Code / GST Code"
+msgstr "세금 코드 / GST 코드"
+
+msgctxt "SettingsOptions::myob::freight_tax_gst_code"
+msgid "Freight Tax Code / Freight GST Code"
+msgstr "운임세 코드 / 운임 GST 코드"
+

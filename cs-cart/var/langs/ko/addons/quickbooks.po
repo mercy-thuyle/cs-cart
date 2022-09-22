@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/quickbooks.po\n"
+"X-Crowdin-File-ID: 6648\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::quickbooks"
+msgid "Quickbooks"
+msgstr "퀵북"
+
+msgctxt "Addons::description::quickbooks"
+msgid "Integrates the Quickbooks accounting software with the store"
+msgstr "Quickbooks 회계 소프트웨어를 스토어와 통합"
+
+msgctxt "Languages::export_to_quickbooks"
+msgid "Export to Quickbooks"
+msgstr "퀵북으로 내보내기"
+
+msgctxt "SettingsSections::quickbooks::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::quickbooks::trns_class"
+msgid "Transaction class name"
+msgstr "트랜잭션 클래스 이름"
+
+msgctxt "SettingsOptions::quickbooks::accnt_tax"
+msgid "Account to track taxes. The type of this account should be INC."
+msgstr "세금을 추적하는 계정. 이 계정의 유형은 INC여야 합니다."
+
+msgctxt "SettingsOptions::quickbooks::accnt_product"
+msgid "Account to track product sales. The type of this account should be INC."
+msgstr "제품 판매를 추적하는 계정입니다. 이 계정의 유형은 INC여야 합니다."
+
+msgctxt "SettingsOptions::quickbooks::accnt_shipping"
+msgid "Account to track shipping cost. The type of this account should be INC."
+msgstr "운송비를 추적하는 계정. 이 계정의 유형은 INC여야 합니다."
+
+msgctxt "SettingsOptions::quickbooks::accnt_discount"
+msgid "Account to track discounts. The type of this account should be INC."
+msgstr "할인을 추적하는 계정. 이 계정의 유형은 INC여야 합니다."
+
+msgctxt "SettingsOptions::quickbooks::accnt_surcharge"
+msgid "Account to track the payment surcharge of your items sales (where applicable). The type of this account should be INC."
+msgstr "항목 판매에 대한 추가 요금을 추적하기 위한 계정(해당되는 경우). 이 계정의 유형은 INC여야 합니다."
+
+msgctxt "SettingsOptions::quickbooks::accnt_asset"
+msgid "Account to track the value of your inventory. The type of this account should be OASSET."
+msgstr "재고 가치를 추적하는 계정. 이 계정의 유형은 OASSET이어야 합니다."
+
+msgctxt "SettingsOptions::quickbooks::accnt_cogs"
+msgid "Account to track the cost of your items sales. The type of this account should be COGS."
+msgstr "항목 판매 비용을 추적하는 계정. 이 계정의 유형은 COGS여야 합니다."
+

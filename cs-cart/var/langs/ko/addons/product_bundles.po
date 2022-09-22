@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "제품 번들"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "제품 번들을 생성하고 이에 대한 할인을 설정할 수 있습니다."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "제품 번들"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "제품 번들을 보고, 추가하고, 편집합니다."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "프로모션 이미지"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "프로모션에 표시"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "번들 제품"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "모두를 위한 가격"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "공유 할인"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "번들 이름"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "번들 제품"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "총 비용"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "새 번들 추가"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "이 번들의 제품이 삭제되었기 때문에 <b>[bundle_name]</b> 번들은 비활성화되었습니다.|이 번들의 제품 중 하나가 삭제되었기 때문에 <b>[bundle_name]</b> 번들은 비활성화되었습니다."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "새 번들"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "활성 번들"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "기능 지정"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "모든 변형"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "옵션 지정"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "총 정가"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "주문 할인"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "장바구니에 모두 추가"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "가격을 보려면 로그인하세요"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "번들 세부정보"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "제품 번들"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "이 이름은 동일한 표시 이름을 가진 여러 제품 번들을 구별하는 데 도움이 되도록 관리 패널에만 표시됩니다."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "제품 페이지에 표시"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "제품 없이 번들을 생성하시겠습니까?"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "제품 1개로 번들을 생성하시겠습니까?"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "제품 옵션을 지정해야 합니다."
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "볼 수 있음"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "편집 가능"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "제품 번들"
+

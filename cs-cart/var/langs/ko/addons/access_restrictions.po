@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/access_restrictions.po\n"
+"X-Crowdin-File-ID: 6540\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::access_restrictions"
+msgid "Access restrictions"
+msgstr "액세스제한"
+
+msgctxt "Addons::description::access_restrictions"
+msgid "Lets you limit storefront and administrator area access to certain IP-addresses with different options"
+msgstr "특정 IP가 점포 및 관리자 영역에 접근하는 것을 여러가지 방법으로 제한할 수 있습니다"
+
+msgctxt "Languages::access_restrictions"
+msgid "Access restrictions"
+msgstr "액세스 제한"
+
+msgctxt "Languages::add_ips"
+msgid "Add IPs"
+msgstr "Ip 추가"
+
+msgctxt "Languages::new_ips"
+msgid "New IPs"
+msgstr "새로운 Ip"
+
+msgctxt "Languages::add_domains"
+msgid "Add domains"
+msgstr "도메인 추가"
+
+msgctxt "Languages::new_domains"
+msgid "New domains"
+msgstr "새 도메인"
+
+msgctxt "Languages::add_emails"
+msgid "Add e-mail addresses"
+msgstr "이메일 주소 추가"
+
+msgctxt "Languages::new_emails"
+msgid "New e-mail addresses"
+msgstr "새 이메일 주소"
+
+msgctxt "Languages::new_credit_card"
+msgid "New credit card"
+msgstr "새로운 신용 카드"
+
+msgctxt "Languages::add_credit_card"
+msgid "Add credit card"
+msgstr "신용 카드 추가"
+
+msgctxt "Languages::privileges.manage_access_restrictions"
+msgid "Can edit"
+msgstr "편집가능"
+
+msgctxt "Languages::privilege_groups.access_restrictions"
+msgid "Access restrictions"
+msgstr "접근 금지"
+
+msgctxt "Languages::domain"
+msgid "Domain"
+msgstr "도메인"
+
+msgctxt "Languages::warning_of_ip_adding"
+msgid "The entered IP address <b>[entered_ip]</b> forbids access to the administration panel from your computer (your IP is <b>[your_ip]</b>)."
+msgstr "입력 한 IP 주소 <b>[entered_ip]</b> 당신의 컴퓨터 (당신의 IP <b>에서 행정 패널에 액세스 금지[your_ip]</b>)입니다."
+
+msgctxt "Languages::text_cc_number_is_blocked"
+msgid "The credit card number <b>[cc_number]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "신용 카드 번호 <b>[cc_number]</b> 가 관리자에 의해 차단 됩니다. 쇼핑몰 관리자에 게 문의하시거나 다른 카드를 사용하세요"
+
+msgctxt "Languages::text_not_valid_ip"
+msgid "<b>[ip]</b> is not a valid ip address."
+msgstr "<b>[ip]</b> 은 유효한 ip 주소가 아닙니다."
+
+msgctxt "Languages::text_not_valid_domain"
+msgid "<b>[domain]</b> is not a valid domain name."
+msgstr "<b>[domain]</b> 는 유효한 도메인 이름이 아닙니다."
+
+msgctxt "Languages::text_not_valid_cc_number"
+msgid "<b>[cc_number]</b> is not a valid credit card number."
+msgstr "<b>[cc_number]</b> 은 유효한 신용 카드 번호가 아닙니다."
+
+msgctxt "Languages::text_email_is_blocked"
+msgid "The e-mail address <b>[email]</b> is blocked by the administrator. Please contact the store administrator or try another one."
+msgstr "이메일 주소 <b>[email]</b> 가 관리자에 의해 차단 됩니다. 쇼핑몰 관리자에게 문의하시거나 다른 이메일 주소를 사용하세요"
+
+msgctxt "Languages::text_ips_denied"
+msgid "You are not allowed to access this area"
+msgstr "이 영역에 액세스할 수 없습니다."
+
+msgctxt "Languages::text_ip_blocked_failed_login"
+msgid "The IP was blocked after [number] unsuccessful logins"
+msgstr "로그인을 [number] 회 실패하였기 때문에 IP 주소가 차단되었습니다"
+
+msgctxt "Languages::text_ip_is_blocked"
+msgid "Your IP address is blocked."
+msgstr "IP 주소가 차단되었습니다"
+
+msgctxt "Languages::store_admin"
+msgid "Store administrator"
+msgstr "쇼핑몰 관리자"
+
+msgctxt "Languages::your_ip_added"
+msgid "Your IP address <b>[ip]</b> has been added to the access restrictions table."
+msgstr "고객님의 IP 주소가 접근 제한 테이블에 추가되었습니다"
+
+msgctxt "Languages::your_ip_enabled"
+msgid "Your IP address <b>[ip]</b> has been enabled in the access restrictions table."
+msgstr "당신의 IP 주소 <b>[ip]</b> 액세스 제한 테이블에서 활성화 되었습니다."
+
+msgctxt "Languages::your_ip_removed"
+msgid "Your IP address <b>[ip]</b> has been removed from the access restrictions table."
+msgstr "당신의 IP 주소 <b>[ip]</b> 액세스 제한 테이블에서 제거 되었습니다."
+
+msgctxt "Languages::ip_from"
+msgid "IP from"
+msgstr "IP From"
+
+msgctxt "Languages::ip_to"
+msgid "IP to"
+msgstr "IP to"
+
+msgctxt "Languages::text_access_notice"
+msgid "You can use the wildcards for the \"Domain\", \"E-mail\" and \"Credit Card\" tabs: <br /><b>*</b> - can represent any number of characters, including zero<br /><b>?</b> - can represent any single character."
+msgstr "\"도메인\", \"전자 메일\" 및 \"신용 카드\" 탭에 대 한 와일드 카드를 사용할 수 있습니다: <br /><b>*</b> -0을 포함 한 문자 수를 나타낼 수 있습니다<br /><b>?</b> -모든 단일 문자를 나타낼 수 있습니다."
+
+msgctxt "Languages::ips"
+msgid "IPs"
+msgstr "IP 주소들"
+
+msgctxt "Languages::make_permanent"
+msgid "Make permanent"
+msgstr "영구화 하기"
+
+msgctxt "Languages::credit_card_number"
+msgid "Credit card number"
+msgstr "신용카드 번호"
+
+msgctxt "SettingsSections::access_restrictions::general"
+msgid "General"
+msgstr "일반"
+
+msgctxt "SettingsOptions::access_restrictions::elm_administrator_area_settings"
+msgid "Administrator area settings"
+msgstr "관리자 영역 설정"
+
+msgctxt "SettingsOptions::access_restrictions::admin_reverse_ip_access"
+msgid "Allow login to the admin area from specified IPs only"
+msgstr "특정 IP만 관리자영역 로그인을 허용"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Block IP after a number of unsuccessful attempts"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts"
+msgid "Number of unsuccessful attempts"
+msgstr "Number of unsuccessful attempts"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Time between unsuccessful login attempts (seconds)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Time for which the IP should be blocked (hours)"
+
+msgctxt "SettingsOptions::access_restrictions::elm_customer_and_affiliate_area_settings"
+msgid "Customer area settings"
+msgstr "고객영역 설정"
+
+msgctxt "SettingsOptions::access_restrictions::unsuccessful_attempts_login_customer"
+msgid "Block IP after a number of unsuccessful attempts"
+msgstr "Block IP after a number of unsuccessful attempts"
+
+msgctxt "SettingsOptions::access_restrictions::number_unsuccessful_attempts_customer"
+msgid "Number of unsuccessful attempts"
+msgstr "Number of unsuccessful attempts"
+
+msgctxt "SettingsOptions::access_restrictions::login_intervals_customer"
+msgid "Time between unsuccessful login attempts (seconds)"
+msgstr "Time between unsuccessful login attempts (seconds)"
+
+msgctxt "SettingsOptions::access_restrictions::time_block_customer"
+msgid "Time for which the IP should be blocked (hours)"
+msgstr "Time for which the IP should be blocked (hours)"
+

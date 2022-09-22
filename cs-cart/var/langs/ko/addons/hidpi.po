@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "HiDPI 디스플레이 지원"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "레티나 디스플레이 지원"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "업로드된 모든 이미지 HiDPI 고려"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "업로드된 모든 이미지 HiDPI 고려"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "이미지가 업로드되는 모든 위치에서 기본적으로 \"HiDPI 이미지를 업로드 중입니다\" 확인란을 선택합니다. 필요한 경우 해당 확인란의 선택을 취소할 수 있습니다."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "HiDPI 지원이 활성화됨"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "HiDPI 이미지를 업로드 중입니다."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "이 확인란을 선택하면 원본 이미지가 두 번 축소되어 표시됩니다. 이 설정은 썸네일이 아닌 소스 이미지 표시에만 영향을 줍니다. 이미지를 원래 크기로 표시하려면 이 확인란의 선택을 취소합니다."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "이미지 복원"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "이전 버전의 HiDPI 디스플레이 지원 애드온은 업로드된 이미지를 축소했습니다. 이제 그럴 필요가 없습니다. 그러나 이미지를 멋지고 선명하게 보이게 하려면 복원을 클릭해야 합니다."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "복원하다"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>주의!</strong> 이 절차는 되돌릴 수 없습니다. 업그레이드를 되돌리면 이미지 복원 조작이 되돌릴 수 없습니다. 따라서 반드시 백업을 해주시기 바랍니다. 절차는 시간이 걸릴 수 있습니다. 매장의 이미지 수에 따라 다릅니다."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "상점에 있는 일부 오래된 이미지는 여전히 품질이 낮습니다. 가능한 최고 품질을 사용하려면 <a href=\"[convert_url]\">고품질 이미지를 복원하십시오</a>. 프로세스는 자동입니다."
+

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/form_builder.po\n"
+"X-Crowdin-File-ID: 6588\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr "表单生成器"
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr "允许您创建自定义窗体 (例如，联系我们)"
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr "自定义窗体"
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr "新的表单"
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr "编辑表"
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr "表单生成"
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr "表单提交文本"
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr "发邮件给"
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr "添加表单"
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr "基于"
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr "多个复选框"
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr "多个选择框"
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr "标头"
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr "分隔符"
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr "特殊的"
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr "国家列表"
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr "州/省份列表"
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr "提交者"
+
+msgctxt "Languages::email_template.form_builder_form"
+msgid "Contact form"
+msgstr "联系方式"
+
+msgctxt "Languages::addons.form_builder.form_fields"
+msgid "Form fields"
+msgstr "表单域"
+
+msgctxt "Languages::addons.form_builder.form_name"
+msgid "Form name"
+msgstr "表单名称"
+
+msgctxt "Languages::addons.form_builder.other_subject"
+msgid "Other subject (specify below)"
+msgstr "其他主题 (请在下面指定)"
+
+msgctxt "Languages::addons.form_builder.email_subject_field"
+msgid "E-mail subject field"
+msgstr "电子邮件主题字段"
+
+msgctxt "Languages::ttc_addons.form_builder.email_subject_field"
+msgid "Fields of type \"Select box\" or \"Input field\" can be used"
+msgstr "可使用 \"选择框\" 或 \"输入域\" 字段"
+

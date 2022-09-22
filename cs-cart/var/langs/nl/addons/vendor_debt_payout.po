@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Betalingen van leverancier naar beheerder"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "Beperkt de functionaliteit van de beheerderspanelen van leveranciers onder bepaalde voorwaarden en stelt uw leveranciers in staat hun vergoedingen en schulden te betalen vanaf hun dashboards van het beheerderspaneel. Het is net zo eenvoudig als het kopen van een product in de winkel."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Leveranciers opschorten als hun saldo onder blijft"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Respijtperiode om saldo aan te vullen"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "Belastingen op het bijvullen van saldo"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "Betalingen van leverancier naar beheerder"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "Marktplaatskosten"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "Marktplaatskosten (bestelling #[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "Betaaltoeslag voor marktplaatsvergoedingen (order #[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "Betaal de kosten"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "Beperk de functies van het beheerderspaneel als de schuld van de leverancier bereikt"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "Wanneer het saldo van een leverancier negatief is en dit aantal bereikt, zal het administratiepaneel van de leverancier geen acties toestaan. Wanneer het negatieve saldo van een leverancier de helft van dit aantal is, ziet de leverancier de waarschuwing die is gespecificeerd in de taalvariabele \"vendor_debt_payout.debt_near_limit_message\"."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "Respijtperiode voor abonnementskosten van leveranciers"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "Betalingen voor plannen worden getrokken uit het rekeningsaldo van de leverancier. Als het saldo negatief wordt nadat de vergoeding is betaald, en deze periode verstrijkt, staat het administratiepaneel van de verkoper niet toe om acties uit te voeren totdat de verkoper de schuld heeft betaald."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "dag(en)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "U moet de vergoeding van [fee_amount] betalen voor het gebruik van het [plan_name] -abonnement. Uw huidige rekeningsaldo is [current_balance]. Als de vergoeding pas is betaald [overdue_date], kunt u pas met het administratiepaneel werken als u <a href=\"[pay_url]\" target=\"_blank\">al uw marktplaatsvergoedingen hebt betaald</a>."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "Uw rekeningsaldo is momenteel [current_balance]. Als het [minimal_balance]bereikt, kunt u uw administratiepaneel pas gebruiken als u <a href=\"[pay_url]\" target=\"_blank\">al uw marktplaatskosten hebt betaald</a>."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p>Uw toegang tot het administratiepaneel is automatisch beperkt omdat u de limiet van een negatief saldo heeft bereikt of niet op tijd een vergoeding voor uw leveranciersplan heeft betaald.</p><p>Uw huidige rekeningsaldo is [current_balance].</p><p>Gelieve <a href=\"[pay_url]\">de marktplaatskosten te betalen</a> — zodra de betaling is verwerkt, wordt uw toegang tot het administratiepaneel automatisch hersteld.</p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "Leveranciers opschorten"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "Leveranciers opschorten als hun saldo onder blijft"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "Respijtperiode om saldo aan te vullen"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "De schuld van [amount] die niet is betaald tot [date]."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "Om het werken met geschorste leveranciers gemakkelijker te maken, controleert u de instellingen van de add-on <a href=\"[link]\">Leverancier-naar-beheerder betalingen</a>."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "Een verkoper kan geschorst worden als de schuld de voorwaarden van het <a href=\"[link]\">leveranciersplan</a>overschrijdt."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "Verberg producten van geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Blokkeer het beheerdersdashboard van geschorste leveranciers"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "Blokkeer het beheerdersdashboard van geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "Leveranciers informeren over aanstaande opschorting"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "Beheerder op de hoogte stellen van geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">Meldingen bewerken</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Stuur wekelijks overzicht van geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "Schakel geschorste leveranciers na een tijdje uit"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "Tijd in dagen voordat een geschorste leverancier wordt uitgeschakeld"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "Leveranciers informeren over hun uitgeschakelde account"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "Beheerder informeren over uitgeschakelde leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "Acties tegen geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "Meldingen"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "Saldo bijvullen"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "Voer een bedrag in"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "Sorry, kon niet doorgaan met betalen. De opgegeven som moet groter zijn dan 0."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Je account is geschorst. Om de schorsing op te heffen, dient u minimaal [amount] te storten om het saldo tot [vendor_plan_lowers_allowed_balance]aan te vullen. <a target=\"_blank\" href=\"[link]\">Saldo bijvullen</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "Uw account kan binnenkort worden opgeschort. Gelieve minimaal [amount] t/m [date] te storten om opschorting te voorkomen. <a target=\"_blank\" href=\"[link]\">Saldo bijvullen</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>Uw account is automatisch opgeschort.</p><p>Reden: uw huidige saldo is [balance], wat lager is dan het minimaal toegestane saldo van [lowers_allowed_balance].</p><p>Gelieve minimaal [amount]te storten. Zodra de betaling is verwerkt, wordt de opschorting automatisch opgeheven.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>Uw huidige saldo is [balance], wat lager is dan het minimaal toegestane saldo van [lowers_allowed_balance].</p><p>Gelieve minimaal [amount] t/m [date]te storten. Anders kan uw account worden opgeschort."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "Uw account kan binnenkort worden opgeschort"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "Je account is geschorst"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Aanmelding leverancier: Schuld en respijtperiode"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "Gelieve minimaal [amount] t/m [date] te storten om opschorting te voorkomen."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "Om de schorsing op te heffen, dient u minimaal [amount] te storten om het saldo tot [vendor_plan_lowers_allowed_balance]aan te vullen."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Betalingsmeldingen van leverancier naar beheerder"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Betalingsmeldingen van leverancier naar beheerder"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Betalingsmeldingen van leverancier naar beheerder"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Betalingsmeldingen van leverancier naar beheerder"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "Leveranciersstatus is gewijzigd in Opgeschort"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Betalingsmeldingen van leverancier naar beheerder"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "Leveranciersstatus gewijzigd van Opgeschort"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "Aanmelding leverancier: Schuld en respijtperiode"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "Betalingsmeldingen van leverancier naar beheerder"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "Leveranciersstatus is gewijzigd in Uitgeschakeld"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: Wekelijks overzicht van debiteuren"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "Dit is een wekelijks rapport over debiteuren in uw marktplaats. Het omvat de verkopers die debiteuren zijn geworden of hun schuld hebben betaald sinds het laatste rapport. Uw marktplaats heeft mogelijk <a href=\"[href]\">extra geschorste leveranciers</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "Wekelijks overzicht van debiteuren"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "Wekelijks overzicht van debiteuren"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: Status gewijzigd in [status]"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "De status van leverancier [vendor_name] is gewijzigd in [status]."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "Uw account kan binnenkort worden opgeschort"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "Uw account op [marketplace] kan binnenkort worden opgeschort."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "Info over aanstaande schorsing"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "Uw huidige saldo is [balance], wat lager is dan het minimaal toegestane saldo van [lowers_allowed_balance]. Gelieve minimaal [amount] t/m [date] te storten om opschorting te voorkomen. U kunt het saldo aanvullen in uw <a href=\"[link]\">leverancierspaneel</a>."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "We hebben het minimaal toegestane saldo op 0 gezet. Wanneer het saldo van een verkoper nu onder de 0 komt, begint de respijtperiode en wordt de verkoper gevraagd om de schuld te betalen."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "Stuur wekelijks overzicht van geschorste leveranciers"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "schuld eigendom"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "Rekeningsaldo"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "Deze leveranciers zijn automatisch geschorst voor schulden sinds het laatste rapport:"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "Deze verkopers hebben hun schuld betaald en hun schorsing is opgeheven sinds het laatste rapport:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "Geen enkele leverancier is automatisch geschorst voor schulden sinds het laatste rapport."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "Geen enkele verkoper betaalde hun schuld en hun schorsing werd opgeheven sinds het laatste rapport."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "De totale schuld van alle leveranciers in uw marktplaats (inclusief de leveranciers die niet in dit rapport worden vermeld) is momenteel [total_debt]."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "Verkopers betalen hun schuld terug door specifieke marktplaatsvergoedingen te kopen. Hier kunt u de details van het product en de categorie waartoe het behoort bewerken."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "Product"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "Categorie"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">Bewerken</a>"
+

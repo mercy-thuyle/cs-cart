@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.15.1/addons/master_products.po\n"
+"X-Crowdin-File-ID: 6724\n"
+"PO-Revision-Date: 2022-06-23 09:43\n"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "Prodotti comuni per i venditori"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "Consente di creare un'unica base di prodotti: i venditori scelgono quale dei prodotti esistenti vendere."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "Consenti ai fornitori di creare prodotti"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "Se non lo consenti, i venditori potranno vendere solo i prodotti che hai aggiunto al negozio."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "Acquista un prodotto comune predefinito"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "Accanto al prodotto (non solo alle sue offerte) apparirà il pulsante \"Aggiungi al carrello\" e selezionerà la migliore offerta disponibile."
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "Venditori di questo prodotto"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "Venditori di questo prodotto"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "Venditori di un prodotto"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "Prodotti che i venditori possono vendere"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "Prodotti in vendita"
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "Tutti i prodotti"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "Aggiungi prodotto dal catalogo"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "Crea nuovo prodotto"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "Vendi questo"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "In vendita"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "Vendi selezionati"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "[n] prodotto è stato aggiunto ai tuoi prodotti | [n] prodotti sono stati aggiunti ai tuoi prodotti"
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "Prodotto comune"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "Tutti i venditori (prodotto comune)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "Prodotti da esportare"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "Da [formatted_price]"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "Offerta del venditore"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "Vedi tutte le offerte"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "Offerta di variazione del venditore"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "Hai modificato l'impostazione <b> Mostra prodotti esauriti </b>. Esporta <a href=\"[url]\"> tutti gli elementi del tuo catalogo </a> (utilizza \"Esporta prodotti trovati\" nel pulsante a forma di ingranaggio) e reimportali. Ciò garantirà che il prezzo visualizzato dei prodotti comuni rimarrà sempre corretto fino a quando non si modificherà nuovamente l'impostazione."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "Salva sino a"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "Solo i venditori possono aggiungere combinazioni di prodotti. Per aggiungere una combinazione per un prodotto comune, accedi prima come uno dei venditori che lo vendono."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "Per aggiungere una combinazione per un prodotto comune, <a class=\"cm-post\" href=\"[href]\">inizia a venderlo</a> qui."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "Impossibile cambiare il proprietario del prodotto perché alcuni venditori lo vendono ancora. Si prega di eliminare <a href=\"[vendors_offers_link]\" target=\"_blank\">offerte di fornitori</a> prima di cambiare il proprietario di questo prodotto."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "Solo i fornitori possono aggiungere pacchetti di prodotti. Per aggiungere un pacchetto per un prodotto comune, prima accedi come uno dei fornitori che lo vendono."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>e altre offerte</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "Per aggiungere il numero richiesto di articoli al carrello, abbiamo dovuto includere le offerte di più venditori. Alcuni di loro possono avere prezzi diversi."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "Il prodotto è stato trovato ma non è un prodotto comune. Specificare l'ID prodotto comune."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "Il prodotto è stato trovato ma non è un prodotto del venditore. Specificare l'ID prodotto del fornitore."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "L'ID prodotto comune deve essere specificato per la ricerca dei prodotti del fornitore."
+

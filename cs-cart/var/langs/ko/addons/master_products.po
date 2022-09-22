@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/master_products.po\n"
+"X-Crowdin-File-ID: 6724\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "공급업체를 위한 일반 제품"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "단일 상품을 생성 허락: 입점사는 입점사가 판매하는 상품을 선택."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "일반사항"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "입점업체 상품 생성 허락"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "만약 허락하지 않는다면 입점사는 당신이 생성한 상품밖에 판매할 수 없습니다."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "기본 공통 제품 구매"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "제품 옆에 \"장바구니에 추가\" 버튼이 표시되고(해당 제품뿐만 아니라) 사용 가능한 최상의 제품을 선택합니다."
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "이 상품의 판매자"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "이 상품의 판매자"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "상품의 판매자"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "입점사가 판매할 수 있는 상품"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "상품이 판매중 입니다."
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "모든 상품"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "카탈로그에서 상품 추가하기"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "새로운 상품 추가"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "이 상품 판매하기"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "판매"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "선택된 판매"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "[n] 상품이 상품그룹에 추가되었습니다.|[n] 상품들이 상품그룹에 추가되었습니다."
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "기본 상품"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "모든 입점사(기본 상품)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "상품 내보내기"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "[formatted_price]부터"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "공급업체 제안"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "모든 제안 보기"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "공급업체 변형 제안"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "<b>품절 상품 표시</b> 설정을 변경했습니다. <a href=\"[url]\">모든 카탈로그 항목</a> 을 내보내고(톱니바퀴 버튼에서 \"찾은 제품 내보내기\" 사용) 다시 가져오세요. 이렇게 하면 설정을 다시 변경할 때까지 일반 제품의 표시된 가격이 항상 올바른 상태로 유지됩니다."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "최대 저장"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "공급업체만 제품 조합을 추가할 수 있습니다. 공통 제품에 대한 조합을 추가하려면 먼저 해당 제품을 판매하는 공급업체 중 하나로 로그인합니다."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "공통 제품에 대한 조합을 추가하려면 <a class=\"cm-post\" href=\"[href]\">먼저 판매를</a> 하십시오."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "일부 공급업체에서 아직 제품을 판매하고 있기 때문에 제품 소유자를 변경할 수 없습니다. 이 제품의 소유자를 변경하기 전에 <a href=\"[vendors_offers_link]\" target=\"_blank\">공급업체의 제안</a> 을 삭제하십시오."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "공급업체만 제품 번들을 추가할 수 있습니다. 공통 제품에 대한 번들을 추가하려면 먼저 해당 제품을 판매하는 공급업체 중 하나로 로그인합니다."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>및 기타 제안</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "장바구니에 필요한 수의 항목을 추가하려면 여러 판매자의 제안을 포함해야 했습니다. 그들 중 일부는 다른 가격으로 올 수 있습니다."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "제품을 찾았지만 일반적인 제품이 아닙니다. 공통 제품 ID를 지정하십시오."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "제품을 찾았지만 공급업체의 제품이 아닙니다. 공급업체의 제품 ID를 지정하십시오."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "공급업체의 제품 검색을 위해 공통 제품 ID를 지정해야 합니다."
+

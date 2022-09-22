@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal.po\n"
+"X-Crowdin-File-ID: 6592\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::paypal"
+msgid "PayPal payments"
+msgstr "پرداخت پی پال"
+
+msgctxt "Addons::description::paypal"
+msgid "Lets you accept payments via PayPal Express Checkout, PayPal Pro, PayPal Standard, PayPal Advanced, and PayPal Payflow Pro."
+msgstr "شما اجازه می دهد پرداخت از طریق پی پال اکسپرس پرداخت، پی پال طرفدار، پی پال استاندارد، پی پال پیشرفته، و پی پال Payflow طرفدار را بپذیرید."
+
+msgctxt "SettingsOptions::paypal::override_customer_info"
+msgid "Override customer info"
+msgstr "نادیده گرفتن اطلاعات مشتری"
+
+msgctxt "SettingsOptions::paypal::test_mode"
+msgid "Test mode"
+msgstr "حالت آزمایش"
+
+msgctxt "SettingsSections::paypal::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "Languages::protection_eligibility"
+msgid "Protection eligibility"
+msgstr "واجد شرایط حفاظت"
+
+msgctxt "SettingsOptions::paypal::paypal_ipn_settings"
+msgid "Instant payment notification settings"
+msgstr "تنظیمات اعلان پرداخت فوری"
+
+msgctxt "SettingsOptions::paypal::paypal_status_map"
+msgid "PayPal order status conversion map"
+msgstr "پی پال سفارش نقشه تبدیل وضعیت"
+
+msgctxt "SettingsOptions::paypal::paypal_logo_uploader"
+msgid "PayPal logo settings"
+msgstr "تنظیمات اینترنت عالی"
+
+msgctxt "Languages::text_paypal_surcharge"
+msgid "<b>Note:</b> According to the PayPal <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'>policy</a> (4.6), surcharges are not supported."
+msgstr "<b>توجه داشته باشید:</b> با توجه به پی پال <a href='https://www.paypal.com/webapps/mpp/ua/useragreement-full#4' target='_blank'> سیاست</a> (4.6)، surcharges پشتیبانی نمی شود."
+
+msgctxt "Languages::txn_id"
+msgid "Transaction ID"
+msgstr "شناسه تراکنش"
+
+msgctxt "Languages::paypal_logo"
+msgid "PayPal logo"
+msgstr "لوگوی پی پال"
+
+msgctxt "Languages::ttc_paypal_logo"
+msgid "Use a valid graphics format, such as .gif, .jpg, or .png. Limit the image to 190 pixels wide by 60 pixels high. PayPal crops images that are larger. PayPal places your logo image at the top of the cart review area."
+msgstr "فرمت کارت معتبر مانند قاب،. jpg،. فعلی و یا استفاده از. تصویر 190 پیکسل گسترده توسط 60 پیکسل بالا را محدود کنید. پی پال عکس بزرگتر محصولات زراعی. پی پال تصویر لوگوی شما را در بالای منطقه بررسی سبد خرید قرار می دهد."
+
+msgctxt "Languages::ipn_errors"
+msgid "IPN errors"
+msgstr "خطاهای IPN"
+
+msgctxt "Languages::pp_product_count_is_incorrect"
+msgid "Number of paid items is different than the number of items in the order"
+msgstr "تعداد موارد پرداخت شده متفاوت از تعداد موارد در جهت این سفارش است"
+
+msgctxt "Languages::pp_currency_is_incorrect"
+msgid "Currency used for the payment is different than the order currency."
+msgstr "ارز مورد استفاده برای پرداخت متفاوت نسبت به خريد ارز است."
+
+msgctxt "Languages::pp_total_is_incorrect"
+msgid "Payment total is different than the order total."
+msgstr "پرداخت کل از مجموع سفارش متفاوت است."
+
+msgctxt "Languages::pp_mode"
+msgid "Paypal mode"
+msgstr "حالت پیش پرداخت"
+
+msgctxt "Languages::paypal_vendor"
+msgid "Vendor"
+msgstr "فروشنده"
+
+msgctxt "Languages::paypal_use_in_context_checkout"
+msgid "Use In-Context Checkout"
+msgstr "استفاده در زمینه پرداخت"
+
+msgctxt "Languages::ttc_paypal_use_in_context_checkout"
+msgid "In-Context Checkout will not be used when the store is running in Widget mode"
+msgstr "فروشگاه در حال اجرا در حالت ویجت در زمینه پرداخت نشده استفاده خواهند شد"
+
+msgctxt "Languages::paypal_express_notice"
+msgid "A merchant ID is required for using <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'>In-Context Checkout feature</a> within this integration. You can look up your merchant ID by logging into <a href='https://www.paypal.com/' target='_blank'>https://www.paypal.com/</a>. Click the profile icon on the top right side of the page and then select <b>Profile and settings</b> in the <b>Business Profile</b> menu. (If you do not see the profile icon at the top of the page, click <b>Profile</b>, which appears in the top menu when the <b>My Account tab</b> is selected.) Click <b>My business info</b> on the left, and the <b>Merchant account ID</b> is displayed in the list of profile items on the right."
+msgstr "یک شناسه تجاری برای استفاده از مورد نیاز است <a href='https://developer.paypal.com/docs/classic/express-checkout/in-context' target='_blank'> در زمینه ویژگی های پرداخت در </a> این ادغام را انجام دهید. شما می توانید با نگاه کردن ID های تجاری خود با ورود به <a href='https://www.paypal.com/' target='_blank'> https://www.paypal.com/ </a> داخل شوید. کلیک بر روی آیکون پروفایل در سمت راست بالای صفحه و سپس <b> فهرست و تنظیمات </ b> را در مشخصات کسب و کار <B> </ B> منو را انتخاب کنید. (اگر شما نماد نمایه در بالای صفحه را مشاهده کنید، روی <b> مشخصات </ B>، که در منوی بالا به نظر می رسد زمانی که <b> به من برگه حساب </ B> انتخاب شده است.) کلیک کنید < B> اطلاعات کسب و کار من است </ b> در سمت چپ، و <B> حساب های تجاری ID </ b> آیا در لیستی از آیتم مشخصات در سمت راست نمایش داده شود."
+
+msgctxt "Languages::paypal_ipn_note"
+msgid "Instant Payment Notification (IPN) is a service that automatically notifies merchants of events related to PayPal transactions.<br>When a customer places an order and chooses PayPal as the payment method, the order gets the <b>Open</b> status.<br>PayPal then sends Instant Payment Notification messages that include the transaction status. This status changes the order status in your store according to the status conversion map."
+msgstr "اطلاع رسانی پرداخت فوری (IPN) یک سرویس است که به طور خودکار اطلاع بازرگانان از حوادث مربوط به معاملات پی پال است. <br>هنگامی که یک مشتری سفارش قرار می دهد و اینترنت به عنوان روش پرداخت را انتخاب سفارش وضعیت <b>باز</b> می شود. <br>پی پال سپس پیام های اعلان پرداخت فوری است که شامل وضعیت معامله را می فرستد. این وضعیت تغییر وضعیت سفارش در فروشگاه خود را با توجه به نقشه تبدیل وضعیت می دهد."
+
+msgctxt "Languages::paypal_ipn_transaction_status"
+msgid "Transaction status"
+msgstr "وضعیت تراکنش"
+
+msgctxt "Languages::paypal.ipn_transaction_status"
+msgid "Transaction status: [status]"
+msgstr "وضعیت تراکنش: [status]"
+
+msgctxt "Languages::addons.paypal.surcharge_policy_notice"
+msgid "Surcharge has been set for the payment method that uses PayPal Services. Please make sure this complies with the <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\">User Agreement for PayPal Services</a> for your region."
+msgstr "اضافه بها برای روش پرداخت که با استفاده از خدمات اینترنت شده است. این تحت نظر و موافق با <a href=\"https://www.paypal.com/webapps/mpp/ua/legalhub-full\" target=\"_blank\"> مرامنامه خدمات پی پال</a> برای منطقه خود مطمئن شوید."
+
+msgctxt "Languages::addons.paypal.rma.perform_refund"
+msgid "Give a refund via PayPal"
+msgstr "هزینه از طریق اینترنت برگشت داده می شود"
+
+msgctxt "Languages::ttc_addons.paypal.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "یک بار با تغییر وضعیت درخواست بازگشت بازپرداخت انجام خواهد شد"
+
+msgctxt "Languages::addons.paypal.rma.refund_performed"
+msgid "The refund has been made via PayPal"
+msgstr "بازپرداخت از طریق اینترنت ساخته شده است"
+
+msgctxt "Languages::addons.paypal.refund_message"
+msgid "[amount] [currency] have been refunded in [date] at [time]."
+msgstr "[amount] [currency] در [date] در [time]بازپرداخت شده است."
+
+msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
+msgid "Order status on partial refund"
+msgstr "وضعیت سفارش در بازپرداخت جزئی"
+
+msgctxt "Languages::addons.paypal.do_not_change"
+msgid "Do not change"
+msgstr "تغییر نده"
+
+msgctxt "Languages::tt_addons_paypal_settings_partial_refund_action_order_status"
+msgid "Determines whether or not to change the order status automatically after a partial refund via PayPal."
+msgstr "تعیین می کند که وضعیت سفارش پس از بازپرداخت جزئی از طریق PayPal به طور خودکار تغییر کند یا خیر."
+
+msgctxt "Languages::addons.paypal.set_status_to"
+msgid "Set to:"
+msgstr "تنظیم به:"
+
+msgctxt "Languages::addons.paypal.ipn_receiving_time"
+msgid "IPN receiving time"
+msgstr "زمان دریافت IPN"
+
+msgctxt "Languages::addons.paypal.status_for_new_orders"
+msgid "Initial order status"
+msgstr "وضعیت سفارش اولیه"
+
+msgctxt "Languages::ttc_addons.paypal.status_for_new_orders"
+msgid "All orders with a PayPal payment method get this status until the response from PayPal (an IPN message) arrives or a customer returns to the store via a link on the PayPal site."
+msgstr "تمام سفارش‌های دارای روش پرداخت PayPal تا زمانی که پاسخ PayPal (پیام IPN) برسد یا مشتری از طریق پیوندی در سایت PayPal به فروشگاه بازگردد، این وضعیت را دریافت می‌کنند."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.open"
+msgid "By default, the <i>Open</i> status decreases the inventory, so two customers won't be able to buy the same product while the payment is being processed by PayPal. But if a customer leaves the PayPal website without paying or returning to the store via a link on the PayPal site, you'll have an abandoned <i>Open</i> order with reserved products."
+msgstr "به طور پیش‌فرض، وضعیت <i>Open</i> موجودی را کاهش می‌دهد، بنابراین دو مشتری نمی‌توانند محصول مشابهی را در زمانی که پرداخت توسط PayPal پردازش می‌شود، خریداری کنند. اما اگر مشتری بدون پرداخت هزینه از وب سایت پی پال خارج شود یا از طریق پیوندی در سایت پی پال به فروشگاه برگردد، یک سفارش <i>Open</i> رها شده با محصولات رزرو شده خواهید داشت."
+
+msgctxt "Languages::addons.paypal.status_for_new_orders.incomplete"
+msgid "This ensures that you won't have abandoned unpaid orders with the <i>Open</i> status and reserved products. But until the response from PayPal (an IPN message) arrives or the customer returns to the store via a link on the PayPal site, the order will be listed as <i>Incomplete</i>, and products won't be reserved."
+msgstr "این تضمین می‌کند که با وضعیت <i>Open</i> و محصولات رزرو شده، سفارش‌های بدون پرداخت را رها نخواهید کرد. اما تا زمانی که پاسخ پی پال (پیام IPN) نرسد یا مشتری از طریق پیوندی در سایت پی پال به فروشگاه بازگردد، سفارش به عنوان <i>ناقص</i>درج می شود و محصولات رزرو نمی شوند."
+
+msgctxt "Languages::addons.paypal.technical_details"
+msgid "Technical details"
+msgstr "جزییات فنی"
+
+msgctxt "Languages::addons.paypal.connect_to_paypal"
+msgid "Connect to PayPal"
+msgstr "به پی پال متصل شوید"
+
+msgctxt "Languages::addons.paypal.use_buttons_to_signup"
+msgid "Use these buttons to complete the configuration wizard"
+msgstr "از این دکمه ها برای تکمیل جادوگر پیکربندی استفاده کنید"
+
+msgctxt "Languages::addons.paypal.configure_live"
+msgid "Configure Live"
+msgstr "Live را پیکربندی کنید"
+
+msgctxt "Languages::addons.paypal.configure_test"
+msgid "Configure Test"
+msgstr "پیکربندی تست"
+
+msgctxt "Languages::addons.paypal.connecting_to_signup_server"
+msgid "Connecting to <b>PayPal Sign Up Server</b>..."
+msgstr "اتصال به <b>سرور ثبت نام PayPal</b>..."
+
+msgctxt "Languages::addons.paypal.signup_completed"
+msgid "The <b>[payment]</b> payment method has been successfully configured"
+msgstr "روش پرداخت <b>[payment]</b> با موفقیت پیکربندی شده است"
+
+msgctxt "Languages::addons.paypal.signup_errors.signup_init"
+msgid "An error occurred when connecting to a PayPal account"
+msgstr "هنگام اتصال به حساب PayPal خطایی روی داد"
+
+msgctxt "Languages::addons.paypal.signup_errors.merchant_credentials"
+msgid "An error occurred when obtaining the payment method configuration"
+msgstr "هنگام دریافت پیکربندی روش پرداخت خطایی روی داد"
+
+msgctxt "Languages::addons.paypal.signup_messages.finish_signup"
+msgid "You now have a PayPal business account, and you've successfully integrated [product] with PayPal.<br>Don't forget to confirm your email to activate your account so you can access the payments. To do this, follow the instructions PayPal sent to your email."
+msgstr "شما اکنون یک حساب تجاری PayPal دارید و [product] را با موفقیت با PayPal ادغام کرده اید.<br>فراموش نکنید که ایمیل خود را برای فعال کردن حساب خود تأیید کنید تا بتوانید به پرداخت ها دسترسی داشته باشید. برای انجام این کار، دستورالعمل‌هایی را که PayPal به ایمیل شما ارسال کرده است، دنبال کنید."
+
+msgctxt "Languages::addons.paypal.signup_messages.confirmation_needed"
+msgid "To access payments from your customers, please confirm your email address by following the instructions PayPal emailed to you."
+msgstr "برای دسترسی به پرداخت‌های مشتریان خود، لطفاً آدرس ایمیل خود را با پیروی از دستورالعمل‌هایی که PayPal برای شما ایمیل کرده است تأیید کنید."
+
+msgctxt "Languages::paypal.addon_is_disabled_notice"
+msgid "The <b>PayPal payments</b> add-on is disabled so you can't configure this payment method."
+msgstr "افزونه <b>PayPal Pays</b> غیرفعال است، بنابراین نمی توانید این روش پرداخت را پیکربندی کنید."
+
+msgctxt "Languages::addons.paypal.3d_secure_mandatory_notice"
+msgid "3-D secure is mandatory in the United Kingdom."
+msgstr "امنیت سه بعدی در بریتانیا اجباری است."
+
+msgctxt "Languages::paypal.show_cart_button"
+msgid "Show the \"Checkout with PayPal\" button on the cart contents page"
+msgstr "دکمه «تسویه حساب با پی پال» را در صفحه محتویات سبد خرید نشان دهید"
+
+msgctxt "Languages::paypal.paypal_cookie_title"
+msgid "PayPal"
+msgstr "پی پال"
+
+msgctxt "Languages::paypal.paypal_cookie_description"
+msgid "PayPal is a payment provider. It allows us to accept payments, if you choose a payment method powered by PayPal. Here is <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">PayPal privacy statement</a>."
+msgstr "پی پال یک ارائه دهنده پرداخت است. اگر روش پرداختی را انتخاب کنید که توسط PayPal ارائه می شود، به ما امکان می دهد پرداخت ها را بپذیریم. در اینجا <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\" target=\"_blank\">بیانیه حریم خصوصی PayPal</a>آمده است."
+

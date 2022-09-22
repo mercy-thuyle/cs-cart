@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_sitemap.po\n"
+"X-Crowdin-File-ID: 6600\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::google_sitemap"
+msgid "Google sitemap"
+msgstr "Google Sivukartta"
+
+msgctxt "Addons::description::google_sitemap"
+msgid "Creates a sitemap.xml for Google"
+msgstr "Luo sitemap.xml-tiedoston Googlelle"
+
+msgctxt "Languages::google_sitemap.text_regenerate"
+msgid "If products, categories, etc. were added or changed, please <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Regenerate a sitemap</a><br /><br /> [sitemap_available_in_customer]"
+msgstr "Jos tuotteita, luokkia jne. lisättiin tai muutettiin, ole hyvä <a class=\"cm-ajax cm-comet btn btn-primary\" href=\"[regenerate_url]\">Luo sivustokartta uudelleen</a><br /><br /> [sitemap_available_in_customer]"
+
+msgctxt "Languages::google_sitemap.text_auto_regenerate"
+msgid "You can run the regeneration of the site map automatically at certain time intervals. To do it, add the following command to CRON:"
+msgstr "Voit suorittaa sivustokartan uudelleenmuodostuksen automaattisesti tietyin aikavälein. Tee se lisäämällä seuraava komento CRON:iin:"
+
+msgctxt "Languages::google_sitemap.text_select_storefront"
+msgid "To generate a sitemap, please select storefront first."
+msgstr "Luo sivustokartta valitsemalla ensin julkisivu."
+
+msgctxt "Languages::sitemap_available_in_customer"
+msgid "Sitemap is available by this link: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sitemap can be reached by the URL <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+msgstr "Sivustokartta löytyy tästä linkistä: <a href=\"[sitemap_url]\">[sitemap_url]</a><br /><br />Sivustokarttaan pääsee URL-osoitteesta <a href=\"[http_location]/sitemap.xml\">[http_location]/sitemap.xml</a>"
+
+msgctxt "Languages::always"
+msgid "Always"
+msgstr "Aina"
+
+msgctxt "Languages::hourly"
+msgid "Hourly"
+msgstr "Tunneittain"
+
+msgctxt "Languages::daily"
+msgid "Daily"
+msgstr "Päivittäin"
+
+msgctxt "Languages::weekly"
+msgid "Weekly"
+msgstr "Viikoittain"
+
+msgctxt "Languages::monthly"
+msgid "Monthly"
+msgstr "Kuukausittain"
+
+msgctxt "Languages::yearly"
+msgid "Yearly"
+msgstr "Vuosittain"
+
+msgctxt "Languages::never"
+msgid "Never"
+msgstr "Ei koskaan"
+
+msgctxt "Languages::google_sitemap.generate_map"
+msgid "The sitemap is not generated yet. Please go to add-on settings and press \"Regenerate a sitemap\" button"
+msgstr "Sivukartta ei ole vielä luotu. Siirry lisäosien asetuksiin ja paina Luo sivustokartta uudelleen -painiketta"
+
+msgctxt "Languages::google_sitemap.map_generated"
+msgid "The sitemap was generated successfully"
+msgstr "Sivustokartan luominen onnistui"
+
+msgctxt "SettingsSections::google_sitemap::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::google_sitemap::information"
+msgid "Information"
+msgstr "Yleiset tiedot"
+
+msgctxt "SettingsOptions::google_sitemap::clear_url"
+msgid "Clear cache"
+msgstr "Tyhjennä välimuisti"
+
+msgctxt "SettingsOptions::google_sitemap::site_setting"
+msgid "Homepage settings"
+msgstr "Kotisivun asetukset"
+
+msgctxt "SettingsOptions::google_sitemap::site_change"
+msgid "Update frequency"
+msgstr "Päivitä taajuus"
+
+msgctxt "SettingsOptions::google_sitemap::site_priority"
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgctxt "SettingsOptions::google_sitemap::products_setting"
+msgid "Products settings"
+msgstr "Tuotteiden asetukset"
+
+msgctxt "SettingsOptions::google_sitemap::include_products"
+msgid "Include in sitemap"
+msgstr "Sisällytä sivustokarttaan"
+
+msgctxt "SettingsOptions::google_sitemap::products_change"
+msgid "Update frequency"
+msgstr "Päivitä taajuus"
+
+msgctxt "SettingsOptions::google_sitemap::products_priority"
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgctxt "SettingsOptions::google_sitemap::categories_setting"
+msgid "Categories settings"
+msgstr "Luokkien asetukset"
+
+msgctxt "SettingsOptions::google_sitemap::include_categories"
+msgid "Include in sitemap"
+msgstr "Sisällytä sivustokarttaan"
+
+msgctxt "SettingsOptions::google_sitemap::categories_change"
+msgid "Update frequency"
+msgstr "Päivitä taajuus"
+
+msgctxt "SettingsOptions::google_sitemap::categories_priority"
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgctxt "SettingsOptions::google_sitemap::pages_setting"
+msgid "Pages settings"
+msgstr "Sivujen asetukset"
+
+msgctxt "SettingsOptions::google_sitemap::include_pages"
+msgid "Include in sitemap"
+msgstr "Sisällytä sivustokarttaan"
+
+msgctxt "SettingsOptions::google_sitemap::pages_change"
+msgid "Update frequency"
+msgstr "Päivitä taajuus"
+
+msgctxt "SettingsOptions::google_sitemap::pages_priority"
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgctxt "SettingsOptions::google_sitemap::extended_setting"
+msgid "Brand/Manufacturer feature pages settings"
+msgstr "Brändin/valmistajan ominaisuussivujen asetukset"
+
+msgctxt "SettingsOptions::google_sitemap::include_extended"
+msgid "Include in sitemap"
+msgstr "Sisällytä sivustokarttaan"
+
+msgctxt "SettingsOptions::google_sitemap::extended_change"
+msgid "Update frequency"
+msgstr "Päivitä taajuus"
+
+msgctxt "SettingsOptions::google_sitemap::extended_priority"
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgctxt "SettingsOptions::google_sitemap::companies_setting"
+msgid "Companies settings"
+msgstr "Yritysten asetukset"
+
+msgctxt "SettingsOptions::google_sitemap::include_companies"
+msgid "Include in sitemap"
+msgstr "Sisällytä sivustokarttaan"
+
+msgctxt "SettingsOptions::google_sitemap::companies_change"
+msgid "Update frequency"
+msgstr "Päivitä taajuus"
+
+msgctxt "SettingsOptions::google_sitemap::companies_priority"
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgctxt "Languages::google_sitemap.export_progress_entry"
+msgid "[storefront]: [object]"
+msgstr "[storefront]: [object]"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/shopify_import.po\n"
+"X-Crowdin-File-ID: 6800\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::shopify_import"
+msgid "Import from Shopify"
+msgstr "Tuo Shopifysta"
+
+msgctxt "Addons::description::shopify_import"
+msgid "Allows you to import products from Shopify."
+msgstr "Mahdollistaa tuotteiden tuomisen Shopifysta."
+
+msgctxt "Languages::shopify_import.shopify_products_import"
+msgid "Shopify products"
+msgstr "Shopify tuotteita"
+
+msgctxt "Languages::shopify_import.sync_data_name"
+msgid "Import products from Shopify"
+msgstr "Tuo tuotteet Shopifysta"
+
+msgctxt "Languages::shopify_import.choose_import_mode"
+msgid "Choose import mode"
+msgstr "Valitse tuontitila"
+
+msgctxt "Languages::shopify_import.import_for_all_vendors"
+msgid "I'm launching my marketplace and setting up products for all vendors to use"
+msgstr "Avaan markkinapaikkani ja asetan tuotteita kaikkien myyjien käyttöön"
+
+msgctxt "Languages::shopify_import.import_for_specific_vendor"
+msgid "I'm importing these products for a specific vendor"
+msgstr "Tuon näitä tuotteita tietylle myyjälle"
+
+msgctxt "Languages::shopify_import.depends_on_common_products_addon"
+msgid "This option needs <a href=\"[link]\">Common products for vendors</a> add-on to be installed"
+msgstr "Tämä vaihtoehto vaatii <a href=\"[link]\">yleistä tuotetta toimittajille</a> lisäosan asennettavaksi"
+
+msgctxt "Languages::shopify_import.invalid_csv_file_format"
+msgid "Uploaded CSV-file has invalid format or empty. Only files exported from Shopify supported."
+msgstr "Ladatun CSV-tiedoston muoto on virheellinen tai se on tyhjä. Vain Shopifysta vietyjä tiedostoja tuetaan."
+
+msgctxt "Languages::shopify_import.products_without_sku"
+msgid "The SKU value is missing for some products. These products are always imported as new objects."
+msgstr "SKU-arvo puuttuu joistakin tuotteista. Nämä tuotteet tuodaan aina uusina esineinä."
+
+msgctxt "Languages::shopify_import.last_status.S"
+msgid "Success"
+msgstr "Menestys"
+
+msgctxt "Languages::shopify_import.last_status.F"
+msgid "Failure"
+msgstr "Epäonnistuminen"
+

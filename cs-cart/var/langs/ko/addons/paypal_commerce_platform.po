@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/paypal_commerce_platform.po\n"
+"X-Crowdin-File-ID: 6632\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "페이팔 커머스 플랫폼"
+
+msgctxt "Addons::description::paypal_commerce_platform"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through PayPal."
+msgstr "이 추가 기능은 루트 저장소 관리자가 PayPal을 통해 여러 공급업체에 자동으로 자금을 분배하는 데 도움이 됩니다."
+
+msgctxt "SettingsSections::paypal_commerce_platform::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::collect_payouts"
+msgid "Commission includes"
+msgstr "수수료 포함"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::N"
+msgid "Order commission"
+msgstr "주문 수수료"
+
+msgctxt "SettingsVariants::paypal_commerce_platform::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "주문 수수료 및 미지급 대금"
+
+msgctxt "SettingsOptions::paypal_commerce_platform::rma_refunded_order_status"
+msgid "Order status on refund"
+msgstr "환불 주문 상태"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_commerce_platform"
+msgid "PayPal Commerce Platform"
+msgstr "페이팔 커머스 플랫폼"
+
+msgctxt "Languages::paypal_commerce_platform.paypal"
+msgid "PayPal"
+msgstr "페이팔"
+
+msgctxt "Languages::paypal_commerce_platform.payer_id"
+msgid "Merchant account ID"
+msgstr "판매자 계정의 ID"
+
+msgctxt "Languages::paypal_commerce_platform.client_id"
+msgid "App Client ID"
+msgstr "앱 클라이언트 ID"
+
+msgctxt "Languages::paypal_commerce_platform.secret"
+msgid "App Secret"
+msgstr "앱 비밀"
+
+msgctxt "Languages::paypal_commerce_platform.connect_with_paypal"
+msgid "Connect with PayPal"
+msgstr "페이팔과 연결"
+
+msgctxt "Languages::paypal_commerce_platform.disconnect"
+msgid "Disconnect account"
+msgstr "계정 연결 해제"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account"
+msgid "PayPal account"
+msgstr "페이팔 계정"
+
+msgctxt "Languages::paypal_commerce_platform.paypal_account_short"
+msgid "PP a/c"
+msgstr "PP 에어컨"
+
+msgctxt "Languages::paypal_commerce_platform.connected"
+msgid "Connected"
+msgstr "연결됨"
+
+msgctxt "Languages::paypal_commerce_platform.not_connected"
+msgid "Not connected"
+msgstr "연결되지 않은"
+
+msgctxt "Languages::paypal_commerce_platform.account_connected"
+msgid "Your PayPal account has been successfully connected to the store"
+msgstr "PayPal 계정이 스토어에 성공적으로 연결되었습니다."
+
+msgctxt "Languages::paypal_commerce_platform.account_connection_failure"
+msgid "Unable to connect your PayPal account to the store"
+msgstr "PayPal 계정을 스토어에 연결할 수 없습니다."
+
+msgctxt "Languages::paypal_commerce_platform.account_disconnected"
+msgid "Your PayPal account has been successfully disconnected from the store"
+msgstr "PayPal 계정이 스토어에서 성공적으로 연결 해제되었습니다."
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "주문 #[order_id]에 대한 철회"
+
+msgctxt "Languages::paypal_commerce_platform.refund_id"
+msgid "Refund transaction ID in PayPal"
+msgstr "PayPal의 환불 거래 ID"
+
+msgctxt "Languages::paypal_commerce_platform.withdrawal"
+msgid "Withdrawal amount"
+msgstr "출금금액"
+
+msgctxt "Languages::paypal_commerce_platform.rma.perform_refund"
+msgid "Give a refund via PayPal Commerce Platform"
+msgstr "PayPal Commerce Platform을 통해 환불"
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "관리자가 반품 요청 상태를 변경하면 환불됩니다."
+
+msgctxt "Languages::paypal_commerce_platform.rma.refund_performed"
+msgid "The refund has been made via PayPal Commerce Platform"
+msgstr "환불은 PayPal Commerce Platform을 통해 이루어졌습니다."
+
+msgctxt "Languages::paypal_commerce_platform.order_id"
+msgid "Order ID in PayPal"
+msgstr "PayPal의 주문 ID"
+
+msgctxt "Languages::paypal_commerce_platform.capture_id"
+msgid "Capture ID in PayPal"
+msgstr "PayPal에서 ID 캡처"
+
+msgctxt "Languages::paypal_commerce_platform.payout_id"
+msgid "Payout transaction ID in PayPal"
+msgstr "PayPal의 지불 거래 ID"
+
+msgctxt "Languages::paypal_commerce_platform.payout_failure_reason"
+msgid "Payout failure reason"
+msgstr "지급 실패 이유"
+
+msgctxt "Languages::paypal_commerce_platform.own_account_cant_be_used_for_vendor"
+msgid "Your own PayPal account can't be used to connect a vendor to the store"
+msgstr "자신의 PayPal 계정을 사용하여 공급업체를 상점에 연결할 수 없습니다."
+
+msgctxt "Languages::ttc_paypal_commerce_platform.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "RMA 추가 기능을 통해 환불을 수행한 후 주문 상태를 변경할지 여부를 결정합니다."
+
+msgctxt "Languages::paypal_commerce_platform.do_not_change"
+msgid "Do not change"
+msgstr "바뀌지 않는다"
+
+msgctxt "Languages::paypal_commerce_platform.set_status_to"
+msgid "Set to:"
+msgstr "로 설정:"
+
+msgctxt "Languages::paypal_commerce_platform.webhook_help_message"
+msgid "Specify the following URL when configuring a webhook for your REST application:"
+msgstr "REST 애플리케이션에 대한 웹훅을 구성할 때 다음 URL을 지정하십시오."
+
+msgctxt "Languages::paypal_commerce_platform.webhook"
+msgid "PayPal Commerce Platform webhook: [payload]"
+msgstr "PayPal 상거래 플랫폼 웹훅: [payload]"
+
+msgctxt "Languages::paypal_commerce_platform.settings.account"
+msgid "Account settings"
+msgstr "계정 설정"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_funding"
+msgid "Funding sources to show on checkout"
+msgstr "결제 시 표시할 자금 출처"
+
+msgctxt "Languages::paypal_commerce_platform.funding.card"
+msgid "Credit or debit cards"
+msgstr "신용카드 또는 직불카드"
+
+msgctxt "Languages::paypal_commerce_platform.funding.credit"
+msgid "PayPal Credit"
+msgstr "페이팔 크레딧"
+
+msgctxt "Languages::paypal_commerce_platform.funding.venmo"
+msgid "Venmo"
+msgstr "벤모"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sepa"
+msgid "SEPA-Lastschrift"
+msgstr "SEPA-라스트슈리프트"
+
+msgctxt "Languages::paypal_commerce_platform.funding.bancontact"
+msgid "Bancontact"
+msgstr "Bancontact"
+
+msgctxt "Languages::paypal_commerce_platform.funding.eps"
+msgid "eps"
+msgstr "주당 순 이익"
+
+msgctxt "Languages::paypal_commerce_platform.funding.giropay"
+msgid "giropay"
+msgstr "지로페이"
+
+msgctxt "Languages::paypal_commerce_platform.funding.ideal"
+msgid "iDEAL"
+msgstr "이상적인"
+
+msgctxt "Languages::paypal_commerce_platform.funding.mybank"
+msgid "MyBank"
+msgstr "마이뱅크"
+
+msgctxt "Languages::paypal_commerce_platform.funding.p24"
+msgid "Przelewy24"
+msgstr "프레즐위24"
+
+msgctxt "Languages::paypal_commerce_platform.funding.sofort"
+msgid "Sofort"
+msgstr "소포트"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.enable_cards"
+msgid "Cards to show on checkout"
+msgstr "결제 시 보여줄 카드"
+
+msgctxt "Languages::paypal_commerce_platform.card.visa"
+msgid "Visa"
+msgstr "비자"
+
+msgctxt "Languages::paypal_commerce_platform.card.mastercard"
+msgid "Mastercard"
+msgstr "마스터 카드"
+
+msgctxt "Languages::paypal_commerce_platform.card.amex"
+msgid "American Express"
+msgstr "아메리칸 익스프레스"
+
+msgctxt "Languages::paypal_commerce_platform.card.discover"
+msgid "Discover"
+msgstr "발견하다"
+
+msgctxt "Languages::paypal_commerce_platform.card.jcb"
+msgid "JCB"
+msgstr "JCB"
+
+msgctxt "Languages::paypal_commerce_platform.card.elo"
+msgid "Elo"
+msgstr "엘로"
+
+msgctxt "Languages::paypal_commerce_platform.card.hiper"
+msgid "Hiper"
+msgstr "하이퍼"
+
+msgctxt "Languages::paypal_for_markeplaces.settings.style"
+msgid "Button appearance"
+msgstr "버튼 모양"
+
+msgctxt "Languages::paypal_commerce_platform.style.shape"
+msgid "Shape"
+msgstr "모양"
+
+msgctxt "Languages::paypal_commerce_platform.shape.pill"
+msgid "Pill"
+msgstr "알약"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "직사각형"
+
+msgctxt "Languages::paypal_commerce_platform.style.color"
+msgid "Color"
+msgstr "색깔"
+
+msgctxt "Languages::paypal_commerce_platform.color.gold"
+msgid "Gold"
+msgstr "금"
+
+msgctxt "Languages::paypal_commerce_platform.color.blue"
+msgid "Blue"
+msgstr "파란색"
+
+msgctxt "Languages::paypal_commerce_platform.color.silver"
+msgid "Silver"
+msgstr "은"
+
+msgctxt "Languages::paypal_commerce_platform.color.black"
+msgid "Black"
+msgstr "검은색"
+
+msgctxt "Languages::paypal_commerce_platform.shape.rect"
+msgid "Rectangular"
+msgstr "직사각형"
+
+msgctxt "Languages::paypal_commerce_platform.style.height"
+msgid "Height"
+msgstr "키"
+
+msgctxt "Languages::paypal_commerce_platform.bn_code"
+msgid "Partner integration code"
+msgstr "파트너 통합 코드"
+
+msgctxt "Languages::paypal_commerce_platform.debug_id"
+msgid "PayPal Debug ID"
+msgstr "PayPal 디버그 ID"
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts"
+msgid "Delay transfer of funds"
+msgstr "자금 이체 지연"
+
+msgctxt "Languages::paypal_commerce_platform.disburse_payouts_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "공급업체에 자금 이체"
+
+msgctxt "Languages::paypal_commerce_platform.automatic_disburse"
+msgid "Automatic transfer"
+msgstr "자동이체"
+
+msgctxt "Languages::paypal_commerce_platform.trigger_disburse_payouts.description"
+msgid "Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic disbursements to all vendors with a cron command. PayPal allows delays up to 28 days; after that, money will be disbursed to vendors automatically."
+msgstr "모든 공급업체에 즉시 송금하는 대신 주문을 먼저 확인할 수 있습니다. 주문 페이지에서 수동으로 각 공급업체에 돈을 이체하거나 cron 명령을 사용하여 모든 공급업체에 정기적으로 자동 지급되도록 예약하세요. PayPal은 최대 28일까지 지연을 허용합니다. 그 후, 돈은 자동으로 공급업체에 지급됩니다."
+
+msgctxt "Languages::paypal_commerce_platform.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number up to 28. PayPal will automatically disburse money to vendors after 28 days."
+msgstr "아래 명령은 14일이 지난 모든 주문에 대해 공급업체에 자금을 자동으로 이체합니다. 공급업체가 정기적으로 지불을 받을 수 있도록 cron에 추가하십시오. \"--일\" 값을 14에서 최대 28까지 변경할 수 있습니다. PayPal은 28일 후에 자동으로 공급업체에 금액을 지급합니다."
+
+msgctxt "Languages::paypal_commerce_platform.delay_disburse_of_payouts_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "공급업체에 자금 이체 지연"
+
+msgctxt "Languages::paypal_commerce_platform.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "자금은 판매자에게 이체되었습니다."
+
+msgctxt "Languages::paypal_commerce_platform.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "자금이 성공적으로 이체되었습니다."
+
+msgctxt "Languages::paypal_commerce_platform.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "공급업체에 자금을 이체할 수 없습니다. 나중에 다시 시도하거나 결제 처리자에게 문의하세요."
+
+msgctxt "Languages::paypal_commerce_platform.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "이유(결제 처리자가 제공한 대로): [error_text]"
+

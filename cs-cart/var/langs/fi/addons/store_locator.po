@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/store_locator.po\n"
+"X-Crowdin-File-ID: 6728\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::store_locator"
+msgid "Stores and pickup points"
+msgstr "Liikkeet ja noutopisteet"
+
+msgctxt "Addons::description::store_locator"
+msgid "Allows you to mark your physical stores on the map and offer your customers to collect orders from there, if a corresponding shipping method is configured."
+msgstr "Voit merkitä fyysiset myymäläsi kartalle ja tarjota asiakkaillesi tilauksia sieltä, jos vastaava toimitustapa on määritetty."
+
+msgctxt "Languages::view_on_map"
+msgid "View on map"
+msgstr "Näytä kartalla"
+
+msgctxt "Languages::get_api_key"
+msgid "Obtaining an API Key"
+msgstr "API-avaimen hankkiminen"
+
+msgctxt "Languages::block_store_locator"
+msgid "Store locator"
+msgstr "Myymäläpaikannin"
+
+msgctxt "Languages::store_locator"
+msgid "Stores & pickup points"
+msgstr "Myymälät ja noutopisteet"
+
+msgctxt "Languages::block_store_locator_description"
+msgid "Store locator block"
+msgstr "Varastopaikannuslohko"
+
+msgctxt "Languages::text_address_not_found"
+msgid "Address not found"
+msgstr "Osoitetta ei löydy"
+
+msgctxt "Languages::select_coordinates"
+msgid "Select coordinates"
+msgstr "Valitse koordinaatit"
+
+msgctxt "Languages::set"
+msgid "Set"
+msgstr "Aseta"
+
+msgctxt "Languages::editing_store_location"
+msgid "Editing store location"
+msgstr "Myymälän sijaintia muokataan"
+
+msgctxt "Languages::new_store_location"
+msgid "New store location"
+msgstr "Uusi kauppapaikka"
+
+msgctxt "Languages::add_store_location"
+msgid "Add store location"
+msgstr "Lisää kaupan sijainti"
+
+msgctxt "Languages::coordinates"
+msgid "Coordinates"
+msgstr "Koordinaatit"
+
+msgctxt "Languages::latitude_short"
+msgid "lat"
+msgstr "lat"
+
+msgctxt "Languages::longitude_short"
+msgid "long"
+msgstr "pitkä"
+
+msgctxt "Languages::all_stores"
+msgid "All stores"
+msgstr "Kaikki kaupat"
+
+msgctxt "SettingsSections::store_locator::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::store_locator::print_map"
+msgid "Show map in order-related documents"
+msgstr "Näytä kartta tilauksiin liittyvissä asiakirjoissa"
+
+msgctxt "SettingsTooltips::store_locator::print_map"
+msgid "Print the map on the packing slip and invoice"
+msgstr "Tulosta kartta pakkausluetteloon ja laskuun"
+
+msgctxt "SettingsOptions::store_locator::show_locations_at_geolocator"
+msgid "Use list of cities instead of a map"
+msgstr "Käytä kaupunkiluetteloa kartan sijasta"
+
+msgctxt "SettingsTooltips::store_locator::show_locations_at_geolocator"
+msgid "Affects the Customer Geolocation block. The list will be generated from cities that have stores and pickup points."
+msgstr "Vaikuttaa Customer Geolocation -lohkoon. Lista luodaan kaupungeista, joissa on myymälöitä ja noutopisteitä."
+
+msgctxt "Languages::privileges.manage_store_locator"
+msgid "Can edit"
+msgstr "Voi muokata"
+
+msgctxt "Languages::privilege_groups.store_locator"
+msgid "Store locator"
+msgstr "Myymäläpaikannin"
+
+msgctxt "Languages::privileges.view_store_locator"
+msgid "Can view"
+msgstr "Saa katsella"
+
+msgctxt "Languages::store_locator.text_pickup_instruction"
+msgid "The \"Customer pick-up\" shipping method offers a customer to choose a store to pick up a product from. The stores can be created in the \"Store location\" add-on<br /><b>Store creation:</b> <a href=\"[store_locator]\">Store location</a>"
+msgstr "\"Asiakkaan nouto\" -lähetystapa tarjoaa asiakkaalle mahdollisuuden valita myymälästä, josta tuotteen noudetaan. Myymälät voidaan luoda \"Kaupan sijainti\" -lisäosalla<br /><b>Myymälän luominen:</b> <a href=\"[store_locator]\">Myymälän sijainti</a>"
+
+msgctxt "Languages::store_locator.select_stores"
+msgid "Select stores"
+msgstr "Valitse kaupat"
+
+msgctxt "Languages::store_locator.pick_up_points"
+msgid "Pick-up points"
+msgstr "Noutopisteet"
+
+msgctxt "Languages::store_locator.stores_position"
+msgid "The \"Position\" field in the store settings"
+msgstr "\"Sijainti\" -kenttä myymälän asetuksissa"
+
+msgctxt "Languages::store_locator.shipping_position"
+msgid "Order selected in the shipping method settings"
+msgstr "Tilaus valittu toimitustavan asetuksista"
+
+msgctxt "Languages::store_locator.selected_fields"
+msgid "Selected stores"
+msgstr "Valitut kaupat"
+
+msgctxt "Languages::store_locator.available_fields"
+msgid "Available stores"
+msgstr "Saatavilla olevat kaupat"
+
+msgctxt "Languages::store_locator.display_ml"
+msgid "Map and list"
+msgstr "Kartta ja lista"
+
+msgctxt "Languages::store_locator.display_l"
+msgid "List"
+msgstr "Lista"
+
+msgctxt "Languages::store_locator.display_m"
+msgid "Map"
+msgstr "Kartta"
+
+msgctxt "Languages::store_locator.display"
+msgid "Locations list view on the checkout page"
+msgstr "Sijaintiluettelonäkymä kassasivulla"
+
+msgctxt "Languages::store_locator.pickup"
+msgid "Pickup"
+msgstr "Noukkia"
+
+msgctxt "Languages::store_locator.pickup_avail"
+msgid "Available for pick-up"
+msgstr "Noudettavissa"
+
+msgctxt "Languages::store_locator.work_time"
+msgid "Working hours"
+msgstr "Työtunnit"
+
+msgctxt "Languages::carrier_store_locator"
+msgid "Pickup"
+msgstr "Noukkia"
+
+msgctxt "Languages::destination_nothing_found"
+msgid "No suitable destination has been found"
+msgstr "Sopivaa kohdetta ei löytynyt"
+
+msgctxt "Languages::stores_nothing_found"
+msgid "No stores have been found"
+msgstr "Kauppoja ei löytynyt"
+
+msgctxt "Languages::pickup"
+msgid "Pickup"
+msgstr "Noukkia"
+
+msgctxt "Languages::pickup_id"
+msgid "Pickup ID"
+msgstr "Noutotunnus"
+
+msgctxt "Languages::pickup_avail"
+msgid "Pickup avail"
+msgstr "Nouto käytettävissä"
+
+msgctxt "Languages::pickup_surcharge"
+msgid "Pickup surcharge"
+msgstr "Nouto lisämaksu"
+
+msgctxt "Languages::pickup_address"
+msgid "Pickup address"
+msgstr "Nouto-osoite"
+
+msgctxt "Languages::pickup_phone"
+msgid "Pickup phone"
+msgstr "Nouto puhelin"
+
+msgctxt "Languages::pickup_time"
+msgid "Pickup time"
+msgstr "Noutoaika"
+
+msgctxt "Languages::pickup_destinations_ids"
+msgid "Pickup destinations ids"
+msgstr "Noutokohteiden tunnukset"
+
+msgctxt "Languages::store_locator.show_pickup_points_only"
+msgid "Hide places where I can't pick up my order"
+msgstr "Piilota paikat, joista en voi noutaa tilaustani"
+
+msgctxt "Languages::store_locator.stores_and_pickup_points"
+msgid "Stores and pickup points"
+msgstr "Liikkeet ja noutopisteet"
+
+msgctxt "Languages::store_locator.surcharge_changes_hint"
+msgid "In previous versions, the surcharge was added to the standard rates that were specified for a shipping method. Now this surcharge isn't taken into account during shipping rate calculation. We left it here for your convenience, so that you could see it and adjust the rates on the shipping method editing page accordingly."
+msgstr "Aiemmissa versioissa lisämaksu lisättiin toimitustavalle määritettyihin vakiohintoihin. Nyt tätä lisämaksua ei oteta huomioon toimitushinnan laskennassa. Jätimme sen tänne avuksesi, jotta voit nähdä sen ja muokata hintoja toimitustavan muokkaussivulla sen mukaan."
+
+msgctxt "Languages::store_locator.main_destination"
+msgid "Located in rate area"
+msgstr "Sijaitsee hinta-alueella"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.main_destination"
+msgid "Determines the shipping rates for this pickup point. The rates are specified on the shipping method editing page. If you don't select a rate area for a pickup point, then the pickup point won't appear at checkout."
+msgstr "Määrittää tämän noutopisteen toimitushinnat. Hinnat on ilmoitettu toimitustavan muokkaussivulla. Jos et valitse hinta-aluetta noutopisteelle, noutopiste ei näy kassalla."
+
+msgctxt "Languages::store_locator.show_to"
+msgid "Show to"
+msgstr "Näytä"
+
+msgctxt "Languages::show_to"
+msgid "Show to"
+msgstr "Näytä"
+
+msgctxt "Languages::tt_addons_store_locator_views_store_locator_update_store_locator.show_to"
+msgid "Allows you to offer this pickup point to the residents of other rate areas at checkout."
+msgstr "Voit tarjota tämän noutopisteen muiden hinta-alueiden asukkaille kassalla."
+
+msgctxt "Languages::store_locator.shipping_price_from"
+msgid "from [price]"
+msgstr "alkaen [price]"
+
+msgctxt "Languages::store_locator.use_two_fingers_for_move_map"
+msgid "Use two fingers to move the map"
+msgstr "Siirrä karttaa kahdella sormella"
+
+msgctxt "Languages::store_locator.scroll_to_top"
+msgid "Scroll to top"
+msgstr "Vieritä ylös"
+
+msgctxt "Languages::store_locator.no_rate_area"
+msgid "No rate area"
+msgstr "Ei hinta-aluetta"
+
+msgctxt "Languages::store_locator.name"
+msgid "Name"
+msgstr "Nimi"
+
+msgctxt "Languages::store_locator.pickup_locations"
+msgid "Pickup Locations"
+msgstr "Noutopaikat"
+
+msgctxt "Languages::store_locator.any_rate_area"
+msgid "Any rate area"
+msgstr "Mikä tahansa hinta-alue"
+
+msgctxt "Languages::store_locator.pickup_from_store"
+msgid "Pickup from store"
+msgstr "Nouto myymälästä"
+
+msgctxt "Languages::store_locator.any_vendor"
+msgid "Any vendor"
+msgstr "Mikä tahansa myyjä"
+
+msgctxt "Languages::store_locator.any"
+msgid "Any"
+msgstr "Minkä tahansa"
+
+msgctxt "Languages::store_locator.shipping_price_from_to"
+msgid "from [from_price] to [to_price]"
+msgstr "[from_price] - [to_price]"
+

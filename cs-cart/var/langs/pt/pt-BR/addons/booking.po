@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/booking.po\n"
+"X-Crowdin-File-ID: 6712\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::booking"
+msgid "Booking [Beta]"
+msgstr "Reserva [Beta]"
+
+msgctxt "Addons::description::booking"
+msgid ""
+msgstr ""
+""
+
+msgctxt "SettingsSections::booking::general"
+msgid "General"
+msgstr "Em geral"
+
+msgctxt "Languages::booking.product_tab.bookings"
+msgid "Bookings"
+msgstr "Reservas"
+
+msgctxt "Languages::booking.bookings"
+msgid "Bookings"
+msgstr "Reservas"
+
+msgctxt "Languages::booking.service.duration"
+msgid "Duration"
+msgstr "Duração"
+
+msgctxt "Languages::booking.service.duration.hour"
+msgid "in hours"
+msgstr "em horas"
+
+msgctxt "Languages::booking.service.duration.day"
+msgid "in days"
+msgstr "em dias"
+
+msgctxt "Languages::booking.service.booked_dates"
+msgid "Booked dates"
+msgstr "Datas reservadas"
+
+msgctxt "Languages::booking.service.booked_dates_description"
+msgid "Click on the date to see the associated orders. If a date is marked in red, then booking on that date is unavailable."
+msgstr "Clique na data para ver os pedidos associados. Se uma data estiver marcada em vermelho, a reserva nessa data não estará disponível."
+
+msgctxt "Languages::booking.service.operating_hours.title"
+msgid "Operating hours"
+msgstr "Horas de funcionamento"
+
+msgctxt "Languages::booking.service.operating_hours.description"
+msgid "Check the days and specify the times you will be available."
+msgstr "Verifique os dias e especifique os horários em que estará disponível."
+
+msgctxt "Languages::booking.service.locked_dates"
+msgid "Blocked dates"
+msgstr "Datas bloqueadas"
+
+msgctxt "Languages::booking.service.locked_dates_description"
+msgid "Set a date range that you want to make unavailable."
+msgstr "Defina um intervalo de datas que você deseja tornar indisponível."
+
+msgctxt "Languages::booking.service.location_description"
+msgid "Provide the location of your offer, so that customers could find it."
+msgstr "Forneça a localização da sua oferta, para que os clientes possam encontrá-la."
+
+msgctxt "Languages::booking.blocked_for_reservations"
+msgid "This date is blocked for any reservations."
+msgstr "Esta data está bloqueada para quaisquer reservas."
+
+msgctxt "Languages::booking.product_location"
+msgid "Location"
+msgstr "Localização"
+
+msgctxt "Languages::booking.filter_by_location"
+msgid "Location"
+msgstr "Localização"
+
+msgctxt "Languages::booking.enter_location"
+msgid "Enter a location"
+msgstr "Insira um local"
+
+msgctxt "Languages::booking.filter_by_date"
+msgid "Availability"
+msgstr "Disponibilidade"
+
+msgctxt "Languages::booking.check_in_date"
+msgid "Check-in date"
+msgstr "Data de check-in"
+
+msgctxt "Languages::booking.check_out_date"
+msgid "Check-out date"
+msgstr "Data de saída"
+
+msgctxt "Languages::booking.check_in_out_date"
+msgid "Check-in/out date"
+msgstr "Data de entrada/saída"
+
+msgctxt "Languages::booking.days_count"
+msgid "No. of days"
+msgstr "Nº de dias"
+
+msgctxt "Languages::booking.nights_count"
+msgid "No. of nights"
+msgstr "Nº de noites"
+
+msgctxt "Languages::booking.nights"
+msgid "night|nights"
+msgstr "noite|noites"
+
+msgctxt "Languages::booking.filter_template.location_and_date"
+msgid "Filter by location and date"
+msgstr "Filtrar por local e data"
+
+msgctxt "Languages::booking.dates_area_not_available"
+msgid "Dates area not available"
+msgstr "Área de datas não disponível"
+
+msgctxt "Languages::booking.search"
+msgid "Search"
+msgstr "Procurar"
+
+msgctxt "Languages::booking.no_orders"
+msgid "Orders not found"
+msgstr "Pedidos não encontrados"
+
+msgctxt "Languages::booking.do_not_have_permissions_to_view_reservations"
+msgid "You don't have permissions to view reservations"
+msgstr "Você não tem permissão para ver as reservas"
+
+msgctxt "Languages::booking.availability"
+msgid "Availability"
+msgstr "Disponibilidade"
+
+msgctxt "Languages::booking.no_dates_selected"
+msgid "No dates selected"
+msgstr "Nenhuma data selecionada"
+
+msgctxt "Languages::booking.view_all_bookings"
+msgid "View all bookings"
+msgstr "Ver todas as reservas"
+
+msgctxt "Languages::booking.view_bookings_in_this_period"
+msgid "View bookings in this period"
+msgstr "Ver reservas neste período"
+
+msgctxt "Languages::booking.not_available"
+msgid "Not available"
+msgstr "Não disponível"
+
+msgctxt "Languages::booking.available"
+msgid "Available"
+msgstr "Disponível"
+
+msgctxt "Languages::booking.bookings_available"
+msgid "[available_amount] out of [amount]"
+msgstr "[available_amount] de [amount]"
+
+msgctxt "Languages::booking.book_this"
+msgid "Reserve"
+msgstr "reserva"
+
+msgctxt "Languages::booking.bookings_menu_description"
+msgid "Check availability by dates, find existing bookings, and make new ones."
+msgstr "Verifique a disponibilidade por datas, encontre reservas existentes e faça novas."
+
+msgctxt "Languages::booking.clear_dates"
+msgid "Clear dates"
+msgstr "Limpar datas"
+
+msgctxt "SettingsOptions::booking::booking_periods_header"
+msgid "Booking"
+msgstr "Reserva"
+
+msgctxt "SettingsOptions::booking::default_maximum_days_before_booking"
+msgid "Maximum days before booking"
+msgstr "Máximo de dias antes da reserva"
+
+msgctxt "SettingsOptions::booking::default_maximum_bookable_nights"
+msgid "Maximum bookable nights"
+msgstr "Máximo de noites reservadas"
+
+msgctxt "Languages::booking.rules"
+msgid "Rules"
+msgstr "Regras"
+
+msgctxt "Languages::booking.maximum_days_before_booking"
+msgid "Maximum days before booking"
+msgstr "Máximo de dias antes da reserva"
+
+msgctxt "Languages::booking.maximum_bookable_nights"
+msgid "Maximum bookable nights"
+msgstr "Máximo de noites reservadas"
+
+msgctxt "Languages::booking.maximum_days_before_booking_notice"
+msgid "Properties can be booked up to [n] day in advance.|Properties can be booked up to [n] days in advance."
+msgstr "Os imóveis podem ser reservados com até [n] dia de antecedência.|Os imóveis podem ser reservados com até [n] dia de antecedência."
+
+msgctxt "Languages::booking.maximum_days_before_booking_notice.product"
+msgid "This property can be booked up to [n] day in advance.|This property can be booked up to [n] days in advance."
+msgstr "Esta propriedade pode ser reservada com até [n] dia de antecedência.|Esta propriedade pode ser reservada com até [n] dia de antecedência."
+
+msgctxt "Languages::booking.maximum_bookable_nights_notice"
+msgid "A booking can last up to [n] nights.|A booking can last up to [n] nights."
+msgstr "Uma reserva pode durar até [n] noites.|Uma reserva pode durar até [n] noite."
+
+msgctxt "Languages::booking.google_maps_api_key"
+msgid "Google Maps API key"
+msgstr "Chave da API do Google Maps"
+
+msgctxt "Languages::booking.booking"
+msgid "Booking"
+msgstr "Reserva"
+

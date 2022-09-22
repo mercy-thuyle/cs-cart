@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /release-4.15.1/addons/direct_payments.po\n"
+"X-Crowdin-File-ID: 6578\n"
+"PO-Revision-Date: 2022-06-20 12:57\n"
+
+msgctxt "Addons::name::direct_payments"
+msgid "Direct Customer-to-Vendor Payments"
+msgstr "Pembayaran Pelanggan-Penjual Langsung"
+
+msgctxt "Addons::description::direct_payments"
+msgid "Changes the checkout process: customers pay to each vendor separately, and the money from orders goes straight to vendors. Vendors can also set up their own payment methods and promotions."
+msgstr "Mengubah proses pembayaran: Pelanggan membayar kepada setiap penjual secara terpisah, dan uang dari pesanan langsung diberikan kepada penjual. Penjual juga bisa menyetel metode pembayaran dan promosi mereka sendiri."
+
+msgctxt "Languages::direct_payments.carts_summary"
+msgid "Carts summary"
+msgstr "Rekapitulasi keranjang belanja"
+
+msgctxt "Languages::direct_payments.paying_now"
+msgid "Paying now"
+msgstr "Bayar sekarang"
+
+msgctxt "Languages::direct_payments.pending_carts_notice"
+msgid "There are products in your cart that you haven't ordered yet. Please <a href=\"[cart_url]\">view your cart</a> to continue checkout."
+msgstr "Terdapat produk pada keranjang belanja yang belum Anda pesan. Silakan <a href=\"[cart_url]\">tampilkan keranjang belanja</a> untuk melanjutkan keluar."
+
+msgctxt "Languages::direct_payments.order_commission"
+msgid "Commission payout for the order #[order_id]."
+msgstr "Pembayaran komisi untuk pesanan #[order_id]."
+
+msgctxt "Languages::direct_payments.admin_payments_notification"
+msgid "You don't have any active payment methods of your own. That's why the marketplace owner's payment methods will be used at checkout instead. To avoid delays in receiving money, please set up your own payment method."
+msgstr "Anda tidak memiliki metode pembayaran apapun yang aktif anda sendiri. Itulah kenapa metode pembayaran pemilik pasar akan digunakan pada saat pembayaran. Untuk menghindari penundaan dalam menerima uang, harap siapkan metode pembayaran anda sendiri."
+
+msgctxt "Languages::direct_payments.admin_payments_description"
+msgid "These payment methods will be offered to customers only when a vendor doesn't have any active payment methods. The money from orders will first go to the marketplace owner, who will be informed about it and will have to transfer that money to the vendor."
+msgstr "Metode pembayaran ini akan ditawarkan hanya kepada pelanggan saat penjual tidak memiliki metode pembayaran yang aktif. Uang dari pesanan akan terlebih dahulu masuk kepemilik pasar, yang akan diinformasikan tentang itu dan akan harus mentransfer uang itu kepada penjual."
+
+msgctxt "Languages::direct_payments.your_payments"
+msgid "Your payment methods"
+msgstr "Metode pembayaran Anda"
+
+msgctxt "Languages::direct_payments.admin_payments"
+msgid "Marketplace owner's payment methods"
+msgstr "Metode pembayaran pemilik pasar"
+
+msgctxt "Languages::direct_payments.create_payment_method"
+msgid "Create a payment method"
+msgstr "Buat cara pembayaran"
+
+msgctxt "Languages::block_carts_summary"
+msgid "Cart by vendors"
+msgstr "Keranjang oleh penjual"
+
+msgctxt "Languages::block_carts_summary_description"
+msgid "Customer's cart split by vendors at checkout"
+msgstr "Keranjang pelanggan dipisahkan oleh penjual saat pembayaran"
+

@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/suppliers.po\n"
+"X-Crowdin-File-ID: 6634\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::suppliers"
+msgid "Suppliers [Deprecated]"
+msgstr "공급업체 [Deprecated]"
+
+msgctxt "Addons::description::suppliers"
+msgid "We are planning to remove this add-on. If you are using it, <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">let us know how<\\/a>."
+msgstr "이 추가 기능을 제거할 계획입니다. 사용 중이라면 방법을 알려주세요 <a target=\"_blank\" href=\"https://helpdesk.cs-cart.com/index.php?dispatch=communication.tickets&submit_ticket=Y\">."
+
+msgctxt "Languages::search_by_supplier"
+msgid "Search by supplier"
+msgstr "공급자로 검색"
+
+msgctxt "Languages::notify_supplier"
+msgid "Notify supplier"
+msgstr "공급업체 알림"
+
+msgctxt "Languages::view_supplier_products"
+msgid "View supplier products"
+msgstr "공급업체 제품 보기"
+
+msgctxt "Languages::supplier"
+msgid "Supplier"
+msgstr "공급업체"
+
+msgctxt "Languages::supplier_email_header"
+msgid "The following products have been purchased in our store and need to be shipped."
+msgstr "다음 상품은 구매완료 되었으며 출고가 필요합니다."
+
+msgctxt "Languages::suppliers_menu_description"
+msgid "List of supplier accounts registered in the store."
+msgstr "공급업체계정 리스트 쇼핑몰에 등록하기"
+
+msgctxt "Languages::dear_sirs"
+msgid "Dear Sirs"
+msgstr "선생님께"
+
+msgctxt "Languages::add_supplier"
+msgid "Add supplier"
+msgstr "공급업체 추가"
+
+msgctxt "Languages::available_for_supplier"
+msgid "Available for supplier"
+msgstr "공급업체 사용가능"
+
+msgctxt "Languages::editing_supplier"
+msgid "Editing supplier"
+msgstr "공급업체 수정하기"
+
+msgctxt "Languages::supplier_deleted"
+msgid "Supplier has been deleted successfully."
+msgstr "공급업체가 성공적으로 삭제되었습니다."
+
+msgctxt "Languages::privileges.manage_suppliers"
+msgid "Can edit"
+msgstr "수정할 수 있음"
+
+msgctxt "Languages::privilege_groups.suppliers"
+msgid "Suppliers"
+msgstr "공급업체"
+
+msgctxt "SettingsSections::suppliers::general"
+msgid "General"
+msgstr "일반사항"
+
+msgctxt "SettingsOptions::suppliers::display_supplier"
+msgid "Display product supplier company"
+msgstr "공급업체 상품 진열하기"
+
+msgctxt "SettingsOptions::suppliers::display_shipping_methods_separately"
+msgid "Display shipping methods to each supplier separately"
+msgstr "공급업체에 따른 배송방법을 분리해서 표시하기"
+
+msgctxt "Languages::email_template.suppliers_notification"
+msgid "Supplier notification"
+msgstr "공급업체 알림"
+
+msgctxt "Languages::email_template.supplier_notification_with_status"
+msgid "Supplier notification: [name]"
+msgstr "공급업체 알림: [name]"
+
+msgctxt "Languages::email_template.suppliers_notification_default"
+msgid "Supplier notification: Default template for a new order status"
+msgstr "공급업체 알림: 새 주문 상태에 대한 기본 템플릿"
+
+msgctxt "Languages::template_document_supplier_order_invoice"
+msgid "Suppliers: invoice"
+msgstr "공급업체: 거래명세서"
+
+msgctxt "Languages::document_preview_suppliers_not_found"
+msgid "Couldn't find a supplier. Preview only works with existing data. Please create a supplier and use Preview again."
+msgstr "공급업체를 찾을 수 없습니다. 현재 존재하는 데이터로 미리 볼 수 있습니다. 공급업체를 추가하고 미리보기를 사용하세요."
+
+msgctxt "Languages::suppliers.event.order.supplier_notified.name"
+msgid "Suppliers: order status changed to [status]"
+msgstr "공급자: 주문 상태가 [status]으로 변경됨"
+
+msgctxt "Languages::event.receiver.s"
+msgid "Supplier"
+msgstr "공급업체"
+
+msgctxt "Languages::suppliers.supplier_notifications"
+msgid "Supplier notifications"
+msgstr "공급업체 알림"
+

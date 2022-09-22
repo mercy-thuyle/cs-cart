@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_panel_configurator.po\n"
+"X-Crowdin-File-ID: 6696\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_panel_configurator"
+msgid "Vendor panel configurator"
+msgstr "קופיגורטור פאנל של ספקים"
+
+msgctxt "Addons::description::vendor_panel_configurator"
+msgid "Simplifies the vendor panel by showing vendors only the fields and menus that they need to see."
+msgstr "מפשט את חלונית הספקים על ידי הצגת הספקים רק את השדות והתפריטים שהם צריכים לראות."
+
+msgctxt "SettingsSections::vendor_panel_configurator::product_page_settings"
+msgid "Product page settings"
+msgstr "הגדרות דף המוצר"
+
+msgctxt "SettingsSections::vendor_panel_configurator::vendor_panel_style"
+msgid "Vendor panel style"
+msgstr "סגנון פאנל ספקים"
+
+msgctxt "Languages::vendor_panel_configurator.unconfigurable_tab"
+msgid "This tab has no configurable fields and is displayed as is"
+msgstr "לכרטיסייה זו אין שדות הניתנים להגדרה והיא מוצגת כפי שהיא"
+
+msgctxt "Languages::vendor_panel_configurator.product_page_configuration"
+msgid "Product page settings"
+msgstr "הגדרות דף המוצר"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles"
+msgid "Logos and styles"
+msgstr "לוגואים וסגנונות"
+
+msgctxt "Languages::vendor_panel_configurator.theme_styles.description"
+msgid "Manage logos used on site and in e-mails and configure appearance of the microstore and product pages"
+msgstr "ניהול לוגואים המשמשים באתר ובהודעות דואר אלקטרוני והגדר את המראה של חנות המיקרו ודפי המוצר"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts"
+msgid "Page layouts"
+msgstr "פריסות עמודים"
+
+msgctxt "Languages::vendor_panel_configurator.theme_layouts.description"
+msgid "Manage layouts of the microstore and product pages"
+msgstr "נהל פריסות של חנות המיקרו ודפי המוצר"
+
+msgctxt "Languages::vendor_panel_configurator.payment_methods.description"
+msgid "Manage how you receive payments from customers"
+msgstr "נהל כיצד אתה מקבל תשלומים מלקוחות"
+
+msgctxt "Languages::vendor_panel_configurator.configure_vendor_panel_notice"
+msgid "To make onboarding easier, vendors don't see some menu items and some fields on the product editing page. You can configure what vendors see and don't see <a href=\"[config_url]\" target=\"_blank\">in the settings of the \"Vendor panel configurator\" add-on</a>. If you disable the add-on, the menus and the vendor panel itself will change to resemble the admin panel of the marketplace."
+msgstr "כדי להקל על ההטמעה, ספקים לא רואים חלק מהפריטים בתפריט וכמה שדות בדף עריכת המוצר. אתה יכול להגדיר מה הספקים רואים ולא רואים <a href=\"[config_url]\" target=\"_blank\">בהגדרות של התוסף \"קונפיגורטור לוח הספקים\"</a>. אם תשבית את התוסף, התפריטים וחלונית הספקים עצמה ישתנו כדי להידמות ללוח הניהול של השוק."
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_color"
+msgid "Sidebar color"
+msgstr "צבע סרגל הצד"
+
+msgctxt "Languages::vendor_panel_configurator.element_color"
+msgid "Element color"
+msgstr "צבע אלמנט"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image"
+msgid "Sidebar background image"
+msgstr "תמונת רקע בסרגל הצד"
+
+msgctxt "Languages::vendor_panel_configurator.sidebar_background_image_description"
+msgid "If you upload the background image, it will be displayed instead of the sidebar color. If you upload it, we recommend picking a sidebar color that matches the background image."
+msgstr "אם תעלה את תמונת הרקע, היא תוצג במקום צבע סרגל הצד. אם אתה מעלה אותו, אנו ממליצים לבחור צבע סרגל צד המתאים לתמונת הרקע."
+
+msgctxt "Languages::vendor_panel_configurator.seller_info"
+msgid "Seller info"
+msgstr "פרטי מוכר"
+
+msgctxt "Languages::vendor_panel_configurator.global_setting_warning"
+msgid "This setting doesn't appear on the product editing page right now, because it is set globally for all products. Check the <a href=\"[settings_url]\" target=\"_blank\">\"Settings\" menu</a> to find it."
+msgstr "הגדרה זו אינה מופיעה בדף עריכת המוצר כעת, מכיוון שהיא מוגדרת באופן גלובלי עבור כל המוצרים. עיין בתפריט <a href=\"[settings_url]\" target=\"_blank\">\"הגדרות\"</a> כדי למצוא אותו."
+

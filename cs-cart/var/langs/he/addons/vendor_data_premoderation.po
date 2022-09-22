@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_data_premoderation.po\n"
+"X-Crowdin-File-ID: 6692\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "פיקוח מוקדם על נתוני הספק"
+
+msgctxt "Addons::description::vendor_data_premoderation"
+msgid "Lets you pre-moderate vendors activity"
+msgstr "מאפשר לך לבצע פיקוח מוקדם על פעילות הספק"
+
+msgctxt "Languages::vendor_data_premoderation.notification_for_deleted_statuses"
+msgid "Vendor Data Premoderation add-on has been disabled. Products with  the \"Requires approval\" or \"Disapproved\" statuses no longer have any status. These products won't appear to customers until you or your vendors set some other status for them. If you activate the add-on again, the statusless products will get their statuses back. If you uninstall the add-on, all products will get a correct status automatically."
+msgstr "התוסף קידומת נתונים של ספק הושבת. מוצרים עם הסטטוסים \"דורש אישור\" או \"לא אושרה\" כבר אינם בעלי סטטוס. מוצרים אלה לא יופיעו בפני לקוחות עד שאתה או הספקים שלך תגדיר להם סטטוס אחר. אם תפעיל שוב את התוסף, המוצרים חסרי הסטטוס יחזירו את הסטטוס שלהם. אם תסיר את ההתקנה של התוסף, כל המוצרים יקבלו מצב נכון באופן אוטומטי."
+
+msgctxt "Languages::product_approval_menu_description"
+msgid "Manage individual products or group of products supplied by the store vendors."
+msgstr "נהל מוצרים בודדים או קבוצות מוצרים המסופקים על ידי ספקי החנות."
+
+msgctxt "Languages::vendor_data_premoderation"
+msgid "Vendor data premoderation"
+msgstr "פיקוח מוקדם על נתוני הספק"
+
+msgctxt "Languages::product_approval"
+msgid "Product approval"
+msgstr "אישור מוצר"
+
+msgctxt "Languages::notify_vendor_by_email"
+msgid "Notify vendor by e-mail"
+msgstr "תודיע לספק באמצעות דואר אלקטרוני"
+
+msgctxt "Languages::product_approval_status_approved"
+msgid "Your product [product] has been approved by the store administration and added to the product catalog. Now shoppers can order this product in the store."
+msgstr "המוצר שלך [product] אושר על ידי הנהלת החנות ונוסף לקטלוג מוצרים. בעת הקונים יכולים להזמין את המוצר הזה בחנות."
+
+msgctxt "Languages::product_approval_status_disapproved"
+msgid "Your product [product] has been disapproved by the store administration"
+msgstr "המוצר שלך [product] לא אושר על ידי הנהלת החנות"
+
+msgctxt "Languages::products_approval_status_approved"
+msgid "Thank you for submitting new products. The following products have been approved by the store administration and added to the product catalog"
+msgstr "תודה על הגשת מוצרים חדשים. המוצרים החדשים אושרו על ידי מנהל החנות ונוספו לקטלוג המוצרים"
+
+msgctxt "Languages::text_shoppers_can_order_products"
+msgid "Now shoppers can order these products in the store."
+msgstr "כעת הקונים יכולים להזמין את המוצרים האלה בחנות."
+
+msgctxt "Languages::products_approval_status_disapproved"
+msgid "Thank you for submitting new products. The following products have been disapproved by the store administration"
+msgstr "תודה על הגשת מוצרים חדשים. המוצרים הבאים לא אושרו על ידי הנהלת החנות"
+
+msgctxt "Languages::approve_selected"
+msgid "Approve selected"
+msgstr "אשר את הנבחרים"
+
+msgctxt "Languages::disapprove_selected"
+msgid "Disapprove selected"
+msgstr "אל תאשר את הנבחרים"
+
+msgctxt "Languages::pre_moderation"
+msgid "Require approval for new products"
+msgstr "דרוש אישור למוצרים חדשים"
+
+msgctxt "Languages::pre_moderation_edit"
+msgid "Require approval for updated products"
+msgstr "דרוש אישור למוצרים מעודכנים"
+
+msgctxt "Languages::pre_moderation_edit_vendors"
+msgid "Require approval for vendor profile changes"
+msgstr "דרוש אישור לשינויים בפרופיל הספק"
+
+msgctxt "Languages::text_not_approved_products"
+msgid "You have products that require your approval. Please <a href=\"[link]\">follow this link</a> to review these products."
+msgstr "יש לך מוצרים שמחייבים את אישורך. <a href=\"[link]\">עבור לקישור הזה</a> כדי לעיין במוצרים האלה."
+
+msgctxt "Languages::products_approval_status_changed"
+msgid "Your product(s) have been [status]"
+msgstr "מוצר(ים) שלך  [status]"
+
+msgctxt "Languages::approval"
+msgid "Approval"
+msgstr "אישור"
+
+msgctxt "Languages::text_vendor_profile_changes_notice"
+msgid "Are you sure that you want to update the profile? Information about your company will not be available in the customer area until the administrator approves it."
+msgstr "האם אתה בטוח שברצונך  לעדכן את הפרופיל? המידע על החברה שלך לא יהיה זמין באיזור הלקוחות עד שהמנהל יאשר זאת."
+
+msgctxt "Languages::privileges.manage_product_premoderation"
+msgid "Can manage"
+msgstr "יכול לנהל"
+
+msgctxt "Languages::privilege_groups.product_premoderation"
+msgid "Product approval"
+msgstr "אישור מוצר"
+
+msgctxt "SettingsSections::vendor_data_premoderation::vendors"
+msgid "Vendor account"
+msgstr "חשבון ספק"
+
+msgctxt "SettingsSections::vendor_data_premoderation::products"
+msgid "Vendor products"
+msgstr "מוצרי ספק"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_prior_approval"
+msgid "Approval of newly-created products"
+msgstr "אישור מוצרים חדשים שנוצרו"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::products_updates_approval"
+msgid "Approval of product info updates"
+msgstr "אשר עדכוני מידע של המוצר"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendor_profile_updates_approval"
+msgid "Approval of vendor profile updates"
+msgstr "אשר עדכונים של פרופיל הספקים"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_approval_notifications"
+msgid "Notify vendors about product moderation results"
+msgstr "הודע לספקים על תוצאות ניהול המוצר"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::product_premoderation_fields"
+msgid "Require approval for updates of"
+msgstr "דרוש אישור לעדכונים של"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::none"
+msgid "Isn't required"
+msgstr "לא חובה"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "נדרש עבור חלק מהספקים"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendor_profile_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "נדרש עבור כל הספקים"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::none"
+msgid "Isn't required"
+msgstr "לא חובה"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::custom"
+msgid "Required for some vendors"
+msgstr "נדרש עבור חלק מהספקים"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "נדרש עבור כל הספקים"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::none"
+msgid "Isn't required"
+msgstr "לא חובה"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::custom"
+msgid "Required for some vendors"
+msgstr "נדרש עבור חלק מהספקים"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::products_updates_approval::all"
+msgid "Required for all vendors"
+msgstr "נדרש עבור כל הספקים"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::none"
+msgid "Don't notify"
+msgstr "אל תודיע"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email"
+msgid "Send e-mail"
+msgstr "שלח דואר אלקטרוני"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::notifications_center"
+msgid "Display a notification in the Notifications center"
+msgstr "הצגת הודעה במרכז ההודעות"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::product_approval_notifications::email_notifications_center"
+msgid "Send e-mail and display a notification in the Notifications center"
+msgstr "שלח דואר אלקטרוני והצג הודעה במרכז ההודעות"
+
+msgctxt "Languages::email_template.vendor_data_premoderation_notification"
+msgid "Vendor premoderation"
+msgstr "פיקוח מוקדם על הספקים"
+
+msgctxt "Languages::vendor_data_premoderation.exclude_disapproved_products"
+msgid "Exclude disapproved products"
+msgstr "אל תכלול את המוצרים שלא אושרו"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.requires_approval"
+msgid "Requires approval"
+msgstr "דורש אישור"
+
+msgctxt "Languages::vendor_data_premoderation.product_status.disapproved"
+msgid "Disapproved"
+msgstr "לא אושר"
+
+msgctxt "Languages::vendor_data_premoderation.require_approval"
+msgid "Products on moderation"
+msgstr "מוצרים במתינות"
+
+msgctxt "Languages::vendor_data_premoderation.require_vendor_action"
+msgid "Disapproved products"
+msgstr "מוצרים שלא אושרו"
+
+msgctxt "Languages::vendor_data_premoderation.disapproved"
+msgid "Disapproved"
+msgstr "לא אושר"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product_btn"
+msgid "Approve product"
+msgstr "אשר מוצר"
+
+msgctxt "Languages::vendor_data_premoderation.approve_product"
+msgid "Approve \"[product]\""
+msgstr "אשר את \"[מוצר]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
+msgid "Disapprove product"
+msgstr "בטל את המוצר"
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_product"
+msgid "Disapprove \"[product]\""
+msgstr "ביטול אישור \"[מוצר]\""
+
+msgctxt "Languages::vendor_data_premoderation.disapprove_products"
+msgid "Disapprove products"
+msgstr "בטל את המוצרים"
+
+msgctxt "Languages::vendor_data_premoderation.disapproval_reason"
+msgid "Disapproval reason"
+msgstr "סיבה לאי אישור"
+
+msgctxt "Languages::vendor_data_premoderation.enter_disapproval_reason"
+msgid "Enter the reason for disapproval and save the changes."
+msgstr "הזן את הסיבה לאי אישור ושמור את השינויים."
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.title"
+msgid "You have [n] product that requires your approval|You have [n] products that require your approval"
+msgstr "יש לך [n] מוצר הדורש את אישורך | יש לך [n] מוצרים הדורשים את אישורך"
+
+msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
+msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
+msgstr "מוצר זה ממתין לאישורך מאז [מאז]. לחץ כאן לצפייה במוצר. | מוצרים אלה ממתינים לאישורך מאז [מאז]. לחץ כאן לצפייה במוצרים אלה."
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
+msgid "Your product has been approved|Your products have been approved"
+msgstr "המוצר שלך אושר | המוצרים שלך אושרו"
+
+msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
+msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
+msgstr "\"[מוצר]\" אושר על ידי הנהלת החנות ונוסף לקטלוג המוצרים. לחץ כאן לצפייה במוצר זה. | [N] מוצרים אושרו על ידי הנהלת החנות ונוספו לקטלוג המוצרים. לחץ כאן לצפייה במוצרים אלה."
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
+msgid "Your product has been disapproved|Your products have been disapproved"
+msgstr "המוצר שלך לא אושר | המוצרים שלך לא אושרו"
+
+msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
+msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
+msgstr "הנהלת החנות לא אושרה על ידי \"[מוצר]\". לחץ כאן לצפייה במוצר זה. | [N] מוצרים לא אושרו על ידי הנהלת החנות. לחץ כאן לצפייה במוצרים אלה."
+
+msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
+msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
+msgstr "השינויים שלך נשמרו. לפני שהמוצר שלך מתווסף לקטלוג המוצרים, עליו להיות מאושר על ידי הנהלת החנות. עקוב אחר <a href=\"[product_approval_url]\">קישור זה</a> כדי להציג מוצרים הדורשים אישור. השינויים שלך נשמרו. לפני שהמוצרים שלך יתווספו לקטלוג המוצרים, עליהם לאשר אותם על ידי הנהלת החנות. עקוב אחר <a href=\"[product_approval_url]\">קישור זה</a> כדי להציג מוצרים הדורשים אישור."
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "קידומת מוקדמת של נתוני ספק: המוצר שלך אושר"
+
+msgctxt "Languages::vendor_data_premoderation.event.product_status.disapproved.name"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "קידומת מוקדמת של נתוני ספק: המוצר שלך לא אושר"
+
+msgctxt "Languages::vendor_data_premoderation.approval_info_text"
+msgid "If approval is required only for some vendors, you'll be able to set what vendors need moderation on the Add-ons tab of the vendor editing page."
+msgstr "אם האישור נדרש רק לספקים מסוימים, תוכל לקבוע את הספקים הדרושים למיתון בכרטיסייה 'תוספות' בדף עריכת הספק."
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_approved"
+msgid "Vendor data premoderation: your product was approved"
+msgstr "קידומת מוקדמת של נתוני ספק: המוצר שלך אושר"
+
+msgctxt "Languages::internal_template.vendor_data_premoderation_product_disapproved"
+msgid "Vendor data premoderation: your product was disapproved"
+msgstr "קידומת מוקדמת של נתוני ספק: המוצר שלך לא אושר"
+
+msgctxt "Languages::vendor_data_premoderation.moderation"
+msgid "Moderation"
+msgstr "מְתִינוּת"
+
+msgctxt "SettingsOptions::vendor_data_premoderation::vendors_prior_approval"
+msgid "Approval of newly-created vendors"
+msgstr "אישור ספקים חדשים שנוצרו"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::none"
+msgid "Isn't required"
+msgstr "לא נדרש"
+
+msgctxt "SettingsVariants::vendor_data_premoderation::vendors_prior_approval::all"
+msgid "Required for all vendors"
+msgstr "נדרש עבור כל הספקים"
+
+msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
+msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
+msgstr "אם ברצונך למנוע לחלוטין רישום ספק, אנא סמן <a href=\"[url]\" target=\"_blank\">הגדרות → ספקים</a>."
+
+msgctxt "Languages::vendor_data_premoderation.prior_to_date"
+msgid "Prior to [date]"
+msgstr "לפני [date]"
+
+msgctxt "Languages::vendor_data_premoderation.deleted"
+msgid "Deleted"
+msgstr "נמחק"
+
+msgctxt "Languages::vendor_data_premoderation.added"
+msgid "Added"
+msgstr "נוסף"
+

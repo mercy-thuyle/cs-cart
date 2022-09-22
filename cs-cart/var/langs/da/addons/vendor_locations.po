@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: da\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "Sælgersteder [Beta]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "Tillader leverandører at angive deres adresser, så kunder kan se afstanden til leverandører og filtrere produkter og leverandører efter deres lokationer."
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "Google Maps API-nøgle"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "Hent API-nøglen ved at følge instruktionerne her: https://developers.google.com/maps/documentation/javascript/get-api-key"
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "Standard radius i afstandsfilter"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Du kan manuelt tilføje et produktfilter, der giver kunder mulighed for at søge efter produkter inden for en vis afstand, hvis de indtaster deres placering. Denne indstilling bestemmer standardsøgningsradius for det pågældende filter. Hvis du ikke opretter et filter, vil produkter blive vist uanset afstand, og denne indstilling har ingen effekt."
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "Maksimal radius i afstandsfilter"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "Du kan manuelt tilføje et produktfilter, der giver kunder mulighed for at søge efter produkter inden for en vis afstand, hvis de indtaster deres placering. Denne indstilling bestemmer den maksimale søgeradius for det pågældende filter. Hvis du ikke opretter et filter, vil produkter blive vist uanset afstand, og denne indstilling har ingen effekt."
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "Afstandsmålingsenhed"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "km"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "mi"
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "Leverandører vises som standard"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "Bestemmer, hvilke leverandører der som standard vises på leverandørlistesiden (og på kortet, der vises på den pågældende side)."
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "Alle"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "Fra kundens by"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "Fra kundens land"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "Beliggenhed"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "Adressen, der vil blive brugt til at bestemme positionen på Google Maps."
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "Kundens placering"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "Indtast adresse for at søge efter placering"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "Søg efter leverandører"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "Leverandører efter lokation"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "Søg efter leverandører på et bestemt sted"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "Nærmeste forhandlere"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "Sælgere fra kundens by"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "Sælger kort"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "Et kort over alle leverandører"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "Søg efter leverandører"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "Placeringsvælger"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "Sælgers by"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "Afstand til sælger"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "Din placering"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "Vælg en by"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "Udvalgt by"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "Ikke din by?"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "Søg efter en by"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "Søg i nærheden"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "i nærheden"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "Sælgere kort"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "Nærmeste forhandlere"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "Google kort"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google Maps er en tjeneste, der giver os mulighed for at vise kortene og forskellige placeringer på disse kort eller automatisk bestemme din placering. Her er <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Googles privatlivspolitik;</a> anbefaler vi også Googles kortfattede og omfattende <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note om privatliv</a>."
+

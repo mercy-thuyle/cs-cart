@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe_connect.po\n"
+"X-Crowdin-File-ID: 6676\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::stripe_connect"
+msgid "Stripe Connect payments"
+msgstr "Stripe Connect תשלומי"
+
+msgctxt "Addons::description::stripe_connect"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through Stripe."
+msgstr "תוסף זה יסייע למנהלי המערכת של החנות לחלק את הכספים אוטומטית בין ספקים שונים באמצעות Stripe."
+
+msgctxt "SettingsSections::stripe_connect::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::stripe_connect::collect_payouts"
+msgid "Commission includes"
+msgstr "העמלה כוללת"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::N"
+msgid "Order commission"
+msgstr "עמלה על ההזמנה"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "עמלה על ההזמנה ותשלומים שלא שולמו"
+
+msgctxt "Languages::stripe_connect.stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe קונקט"
+
+msgctxt "Languages::stripe_connect.stripe_connect_short"
+msgid "Stripe"
+msgstr "Stripe"
+
+msgctxt "Languages::stripe_connect.redirect_uri_admin"
+msgid "Redirect URI for administrator"
+msgstr "הפנה את ה- URI למנהל המערכת"
+
+msgctxt "Languages::stripe_connect.redirect_uris.description"
+msgid "Copy and paste this address into your Stripe Connect app settings"
+msgstr "העתק והדבק כתובת זו בהגדרות היישום של Stripe Connect"
+
+msgctxt "Languages::stripe_connect.redirect_uri_vendor"
+msgid "Redirect URI for vendor"
+msgstr "הפנה את ה- URI למוכר או ספק"
+
+msgctxt "Languages::stripe_connect.client_id"
+msgid "Client ID"
+msgstr "של הלקוח ID"
+
+msgctxt "Languages::stripe_connect.publishable_key"
+msgid "Publishable key"
+msgstr "מפתח שניתן לפרסם"
+
+msgctxt "Languages::stripe_connect.secret_key"
+msgid "Secret key"
+msgstr "מפתח סודי"
+
+msgctxt "Languages::stripe_connect.connect_with_stripe_standard"
+msgid "Connect with Stripe Standard"
+msgstr "התחבר ל-Stripe Standard"
+
+msgctxt "Languages::stripe_connect.disconnect"
+msgid "Disconnect account"
+msgstr "נתק את החשבון"
+
+msgctxt "Languages::stripe_connect.stripe_account"
+msgid "Stripe account"
+msgstr "Stripe חשבון"
+
+msgctxt "Languages::stripe_connect.connected"
+msgid "Connected"
+msgstr "מחובר"
+
+msgctxt "Languages::stripe_connect.not_connected"
+msgid "Not connected"
+msgstr "לא מחובר"
+
+msgctxt "Languages::stripe_connect.account_connected"
+msgid "Your Stripe account has been successfully connected to the store"
+msgstr "חשבון Stripe שלך התחבר בהצלחה לחנות"
+
+msgctxt "Languages::stripe_connect.account_disconnected"
+msgid "Your Stripe account has been successfully disconnected from the store"
+msgstr "חשבון Stripe שלך נותק בהצלחה מהחנות"
+
+msgctxt "Languages::stripe_connect.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "משיכה עבור הזמנה מס [order_id]"
+
+msgctxt "Languages::stripe_connect.refund_id"
+msgid "Refund transaction ID"
+msgstr "של עסקת החזר ID"
+
+msgctxt "Languages::stripe_connect.rma.perform_refund"
+msgid "Give a refund via Stripe Connect"
+msgstr "בצע החזר באמצעות Stripe Connect"
+
+msgctxt "Languages::ttc_stripe_connect.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "החזר יתבצע ברגע שהמנהל ישנה את הסטטוס של בקשת החזר"
+
+msgctxt "Languages::stripe_connect.rma.refund_performed"
+msgid "The refund has been made via Stripe Connect"
+msgstr "ההחזר בוצע באמצעות Stripe Connect"
+
+msgctxt "Languages::stripe_connect.token"
+msgid "Credit card token"
+msgstr "אסימון כרטיס אשראי"
+
+msgctxt "Languages::stripe_connect.own_account_cant_be_used_for_vendor"
+msgid "Your own Stripe account can't be used to connect a vendor to the store"
+msgstr "לא ניתן להשתמש בחשבון Stripe שלך כדי לחבר את הספק לחנות"
+
+msgctxt "Languages::stripe_connect.rma.order_status_on_refund"
+msgid "Order status on refund"
+msgstr "מצב הזמנה בהחזר"
+
+msgctxt "Languages::ttc_stripe_connect.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "קובע האם לשנות או לא לשנות את סטטוס ההזמנה לאחר ביצוע החזר באמצעות תוסף RMA."
+
+msgctxt "Languages::stripe_connect.do_not_change"
+msgid "Do not change"
+msgstr "אל תשנה"
+
+msgctxt "Languages::stripe_connect.set_status_to"
+msgid "Set to:"
+msgstr "הגדר כ:"
+
+msgctxt "Languages::stripe_connect.charge_id"
+msgid "Charge ID"
+msgstr "מזהה חיוב"
+
+msgctxt "Languages::stripe_connect.transfer_id"
+msgid "Transfer ID"
+msgstr "העבר מזהה"
+
+msgctxt "Languages::stripe_connect.payment_id"
+msgid "Payment ID"
+msgstr "תשלום ID"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure"
+msgid "Enable 3-D Secure"
+msgstr "אפשר אבטחה תלת-ממדית"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure.description"
+msgid "<p>When 3-D Secure is <b>disabled</b>, money will go straight to the connected Stripe accounts of vendors. Commissions and payouts will be taken from vendors as <a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">application fees</a>.</p><p>When 3-D Secure is <b>enabled</b>, money will first go to the marketplace owner's Stripe account. Then it will be automatically distributed between the connected Stripe accounts via transfers. Transfers require that the marketplace owner and vendors have their accounts in the same region: either all in Europe, or all in the U.S. If a vendor's account is in a different region from the marketplace owner's, the money won't be transferred to that vendor automatically.</p>"
+msgstr "<p style=\";text-align:right;direction:rtl\"> כאשר תלת מימד מאובטח <b>מושבת</b> , הכסף יעבור היישר לחשבונות Stripe המחוברים של הספקים. עמלות ותשלומים יילקחו מהספקים כ<a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">דמי יישום</a> . </p><p style=\";text-align:right;direction:rtl\"> כאשר מאובטח תלת-ממדי <b>מאופשר</b> , הכסף יעבור לחשבון ה- Stripe של בעל האתר. אז זה יופץ אוטומטית בין חשבונות ה- Stripe המחוברים באמצעות העברות. העברות דורשות שבעל האתר והספקים יחזיקו את חשבונותיהם באותו האזור: באירופה או בארה\"ב. אם חשבון הספק נמצא באזור אחר מזה של בעל האתר, הכסף לא יועבר לאותו ספק באופן אוטומטי. </p>"
+
+msgctxt "Languages::stripe_connect.gift_certificate_used"
+msgid "A gift certificate was used in this order. [product] doesn't know which of the vendors should get the money, and how much. Please transfer money from this order to each vendor manually."
+msgstr "נעשה שימוש בתעודת מתנה בהזמנה זו. [product] לא יודע מי מהספקים צריך לקבל את הכסף, וכמה. אנא העבירו כסף מהזמנה זו לספק באופן ידני."
+
+msgctxt "Languages::stripe_connect.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "אירעה שגיאה בעת יצירת PaymentIntent עם התשלום מס'[payment_id]: [error]"
+
+msgctxt "Languages::log_type_stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+msgctxt "Languages::log_action_sc_failure"
+msgid "Error"
+msgstr "שגיאה"
+
+msgctxt "Languages::log_action_sc_warning"
+msgid "Warning"
+msgstr "אַזהָרָה"
+
+msgctxt "Languages::log_action_sc_info"
+msgid "Info"
+msgstr "מידע"
+
+msgctxt "Languages::stripe_connect.log_context"
+msgid "Context"
+msgstr "הקשר"
+
+msgctxt "Languages::stripe_connect.unexpected_payment_intent_status"
+msgid "Unexpected status \"[status]\" of PaymentIntent"
+msgstr "סטטוס לא צפוי \"[status]\" של PaymentIntent"
+
+msgctxt "Languages::stripe_connect.transfer_creating_error"
+msgid "An error occurred during the creation of a Stripe transfer: [error]"
+msgstr "אירעה שגיאה במהלך יצירת העברת Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.charge_creating_error"
+msgid "An error occurred during the creation of a Stripe charge: [error]"
+msgstr "אירעה שגיאה במהלך יצירת מטען Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.customer_creating_error"
+msgid "An error occurred during the creation of a Stripe customer: [error]"
+msgstr "אירעה שגיאה במהלך יצירת לקוח Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.customer_sharing_error"
+msgid "An error occurred during the share of a Stripe customer: [error]"
+msgstr "אירעה שגיאה במהלך חלקו של לקוח Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.stripe_processor_params_missing"
+msgid "Stripe processor params missing"
+msgstr "Stripe חסרים מעבדים"
+
+msgctxt "Languages::stripe_connect.account_was_deauthorized"
+msgid "Account of company \"[company]\" (company ID = [company_id]) was deauthorized"
+msgstr "חשבון החברה \"[company]\" (זיהוי חברה = [company_id]) בוטלה"
+
+msgctxt "Languages::stripe_connect.on"
+msgid "On"
+msgstr "עַל"
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds"
+msgid "Delay transfer of funds"
+msgstr "עיכוב בהעברת הכספים"
+
+msgctxt "Languages::stripe_connect.transfer_funds_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "העברת כספים לספקים"
+
+msgctxt "Languages::stripe_connect.automatic_transfer"
+msgid "Automatic transfer"
+msgstr "העברה אוטומטית"
+
+msgctxt "Languages::stripe_connect.trigger_transfer_funds.description"
+msgid "Only works when 3-D Secure is enabled. Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic transfers to all vendors with a cron command."
+msgstr "עובד רק כאשר 3-D Secure מופעל. מאפשר לך לבדוק תחילה את ההזמנות, במקום לשלוח כסף מיד לכל הספקים. העבר כסף לכל ספק באופן ידני מדף ההזמנה, או תזמן העברות תקופתיות אוטומטיות לכל הספקים עם פקודת cron."
+
+msgctxt "Languages::stripe_connect.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number."
+msgstr "הפקודה למטה מעבירה אוטומטית כספים לספקים עבור כל ההזמנות שהן בנות יותר מ-14 יום. הוסף אותו ל-cron כדי לוודא שהספקים מקבלים תשלום באופן קבוע. אתה יכול לשנות את הערך של \"--ימים\" מ-14 לכל מספר."
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "עיכוב העברת כספים לספקים"
+
+msgctxt "Languages::stripe_connect.redirect_uris"
+msgid "Redirect URIs"
+msgstr "הפניית URI"
+
+msgctxt "Languages::stripe_connect.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "הכספים הועברו לספק."
+
+msgctxt "Languages::stripe_connect.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "הכספים הועברו בהצלחה."
+
+msgctxt "Languages::stripe_connect.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "לא ניתן היה להעביר כספים לספק. אנא נסה שוב מאוחר יותר או פנה למעבד התשלומים."
+
+msgctxt "Languages::stripe_connect.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "סיבה (כפי שסופק על ידי מעבד התשלומים): [error_text]"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts"
+msgid "Allow Express accounts"
+msgstr "אפשר חשבונות Express"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts.description"
+msgid "Express accounts are much easier to register, and they have a simpler Stripe dashboard. But when you use Express accounts, your marketplace bears more responsibility, and there are platform fees involved. For more information, check Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">pricing</a> and <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">documentation on Express accounts</a>."
+msgstr "הרבה יותר קל לרישום חשבונות Express, ויש להם לוח מחוונים פשוט יותר של Stripe. אבל כשאתה משתמש בחשבונות Express, השוק שלך נושא באחריות רבה יותר, ויש עמלות פלטפורמה מעורבות. למידע נוסף, עיין בתיעוד Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">בתמחור</a> ו <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">בחשבונות Express</a>."
+
+msgctxt "Languages::stripe_connect.connect_stripe_express_account"
+msgid "Connect a Stripe Express account"
+msgstr "חבר חשבון Stripe Express"
+
+msgctxt "Languages::stripe_connect.connect_stripe_standard_account"
+msgid "I already have a Stripe Standard account"
+msgstr "כבר יש לי חשבון Stripe Standard"
+
+msgctxt "Languages::stripe_connect.express_dashboard"
+msgid "Stripe Dashboard"
+msgstr "לוח מחוונים של פסים"
+
+msgctxt "Languages::stripe_connect.express_dashboard_menu_description"
+msgid "Transactions that went through your Stripe Express account."
+msgstr "עסקאות שעברו דרך חשבון Stripe Express שלך."
+
+msgctxt "Languages::stripe_connect.continue_express_registration"
+msgid "Continue Express registration"
+msgstr "המשך רישום אקספרס"
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete"
+msgid "Stripe still requires some data from you before you can accept payments. Please continue the registration and fill in the remaining fields. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripe עדיין דורש ממך כמה נתונים לפני שתוכל לקבל תשלומים. אנא המשך בהרשמה ומלא את השדות הנותרים. אם הזנת את כל המידע (אפילו השדות שאינם חובה) ועדיין רואה את ההודעה הזו, בדוק את הדף הזה בעוד יום או יומיים. אם זה לא עוזר, אנא צור קשר עם הנהלת Marketplace."
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete_linked"
+msgid "Stripe still requires some data from you before you can accept payments. Please <a href=\"[url]\">continue the registration and fill in the remaining fields</a>. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripe עדיין דורש ממך כמה נתונים לפני שתוכל לקבל תשלומים. נא <a href=\"[url]\">המשך ברישום ומלא את השדות הנותרים</a>. אם הזנת את כל המידע (אפילו השדות שאינם חובה) ועדיין רואה את ההודעה הזו, בדוק את הדף הזה בעוד יום או יומיים. אם זה לא עוזר, אנא צור קשר עם הנהלת Marketplace."
+
+msgctxt "Languages::stripe_connect.account_was_rejected_and_unlinked"
+msgid "Account <b>[account_id]</b> was rejected and unlinked from the marketplace."
+msgstr "חשבון <b>[account_id]</b> נדחה ובוטל הקישור לשוק."
+
+msgctxt "Languages::stripe_connect.check_accounts_cron"
+msgid "The command below checks the statuses of the Express accounts that your vendors create. For example, if you reject a vendor's account on the Stripe end, that's how Multi-Vendor will know about it. Add this command to cron and run it once a day for smoother checkout experience."
+msgstr "הפקודה למטה בודקת את הסטטוסים של חשבונות Express שהספקים שלך יוצרים. לדוגמה, אם אתה דוחה חשבון של ספק בקצה ה-Stripe, כך Multi-Vendor יידע על כך. הוסף פקודה זו ל-cron והפעל אותה פעם ביום לחוויית תשלום חלקה יותר."
+
+msgctxt "Languages::stripe_connect.check_accounts"
+msgid "Check accounts"
+msgstr "בדוק חשבונות"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_title"
+msgid "Stripe"
+msgstr "פס"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe היא ספקית תשלומים. זה מאפשר לנו לקבל תשלומים, אם תבחר באמצעי תשלום המופעל על ידי Stripe. הנה מדיניות הפרטיות של <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe</a>."
+

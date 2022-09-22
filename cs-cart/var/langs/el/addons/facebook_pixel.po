@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /release-4.15.1/addons/facebook_pixel.po\n"
+"X-Crowdin-File-ID: 6586\n"
+"PO-Revision-Date: 2022-06-27 10:01\n"
+
+msgctxt "Addons::name::facebook_pixel"
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+msgctxt "Addons::description::facebook_pixel"
+msgid "Integrates a Facebook Pixel with the store"
+msgstr "Ενσωματώνει το Facebook Pixel στο κατάστημα"
+
+msgctxt "SettingsSections::facebook_pixel::general"
+msgid "General"
+msgstr "Γενικά"
+
+msgctxt "SettingsOptions::facebook_pixel::pixel_id"
+msgid "Facebook Pixel Identifier"
+msgstr "Αναγνωριστικό Facebook Pixel"
+
+msgctxt "SettingsOptions::facebook_pixel::track_all_page_views"
+msgid "Track all page views"
+msgstr "Παρακολούθηση προβολών όλων των σελίδων"
+
+msgctxt "SettingsOptions::facebook_pixel::track_add_to_cart"
+msgid "Track adding product to cart"
+msgstr "Παρακολούθηση προσθήκης προϊόντος στο καλάθι"
+
+msgctxt "SettingsOptions::facebook_pixel::track_order_placed"
+msgid "Track placing order"
+msgstr "Παρακολούθηση προσθήκη παραγγελίας"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_title"
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+msgctxt "Languages::facebook_pixel.facebook_pixel_cookies_description"
+msgid "Facebook Pixel is a tool that allows us to measure ad efficiency by tracking that the browser or device that received the ad also visited a product page, added product to cart, or placed an order. Here is <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Facebook privacy policy</a>."
+msgstr "Το Facebook Pixel είναι ένα εργαλείο που μας επιτρέπει να μετράμε την αποτελεσματικότητα της διαφήμισης παρακολουθώντας το πρόγραμμα περιήγησης ή η συσκευή που έλαβε τη διαφήμιση και επισκέφτηκε μια σελίδα προϊόντος, αν πρόσθεσε προϊόν στο καλάθι ή έκανε μια παραγγελία. Ακολουθεί η <a href=\"https://www.facebook.com/about/privacy/previous\" target=\"_blank\">Πολιτική απορρήτου του Facebook</a>."
+

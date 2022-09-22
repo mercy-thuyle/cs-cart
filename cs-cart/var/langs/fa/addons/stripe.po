@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe.po\n"
+"X-Crowdin-File-ID: 6666\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "پرداخت های راه راه"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "به شما امکان می دهد پرداخت ها را از طریق Stripe بپذیرید."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "راه راه"
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "کلید قابل انتشار"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "کلید مخفی"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "نوع پرداخت"
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "کارت اعتباری"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>دستورالعمل <a href=\"[guidelines_url]\" target=\"_blank\">رابط انسانی اپل</a> از شما می خواهد که علامت Apple Pay را در صفحه پرداخت نمایش دهید.</p><p>می توانید تصویر زیر را به عنوان نماد روش پرداخت تنظیم کنید یا از آن در توضیحات روش پرداخت استفاده کنید:</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>دستورالعمل های برند Google <a href=\"[guidelines_url]\" target=\"_blank\"></a> از شما می خواهد که علامت Google Pay را در صفحه تسویه حساب نشان دهید.</p><p>می توانید تصویر زیر را به عنوان نماد روش پرداخت تنظیم کنید یا از آن در توضیحات روش پرداخت استفاده کنید:</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "پرداخت آنلاین"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "پرداخت آزمایشی (هزینه ای دریافت نمی شود)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "هنگام استفاده از Apple Pay یا Google Pay از کارت شما هزینه ای دریافت نمی شود."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "Apple Pay در این دستگاه پشتیبانی نمی شود"
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "Google Pay در این دستگاه پشتیبانی نمی‌شود"
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "رمز پرداخت خطی"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "کشور حساب راه راه"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "نمایش دکمه \"[button_name]\" در صفحات محصول"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "با Apple Pay خرید کنید"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "با Google Pay خرید کنید"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "هنگام ایجاد PaymentIntent با پرداخت شماره[payment_id]: [error]خطایی روی داد"
+
+msgctxt "Languages::stripe.webhook_register_error"
+msgid "An error occurred while registering the webhook for the payment #[payment_id]: [error]"
+msgstr "هنگام ثبت وب هوک برای پرداخت شماره[payment_id]: [error]خطایی رخ داد"
+
+msgctxt "Languages::stripe.webhook_handle_error"
+msgid "An error occurred while processing the webhook: [error]"
+msgstr "هنگام پردازش وب هوک خطایی روی داد: [error]"
+
+msgctxt "Languages::stripe.merchant_identifier"
+msgid "Merchant identifier"
+msgstr "شناسه بازرگان"
+
+msgctxt "Languages::stripe.stripe_cookie_title"
+msgid "Stripe"
+msgstr "راه راه"
+
+msgctxt "Languages::stripe.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe یک ارائه دهنده پرداخت است. اگر روش پرداختی را انتخاب کنید که توسط Stripe طراحی شده است، به ما امکان می‌دهد پرداخت‌ها را بپذیریم. در اینجا <a href=\"https://stripe.com/privacy\" target=\"_blank\">خط مشی رازداری Stripe</a>است."
+

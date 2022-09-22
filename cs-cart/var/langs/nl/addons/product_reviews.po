@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_reviews.po\n"
+"X-Crowdin-File-ID: 6646\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::product_reviews"
+msgid "Product reviews"
+msgstr "Productrecensies"
+
+msgctxt "Addons::description::product_reviews"
+msgid "Allows your customers to leave reviews for products. That can build up trust, provide social proof, and add user-generated content to your site."
+msgstr "Hiermee kunnen uw klanten beoordelingen voor producten achterlaten. Dat kan vertrouwen opbouwen, sociaal bewijs leveren en door gebruikers gegenereerde inhoud aan uw site toevoegen."
+
+msgctxt "Languages::product_reviews.use_for_reviews"
+msgid "Comments and reviews forms"
+msgstr "Formulieren voor opmerkingen en beoordelingen"
+
+msgctxt "Languages::product_reviews.title_giftreg"
+msgid "Guestbook"
+msgstr "Gastenboek"
+
+msgctxt "Languages::product_reviews.title"
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+msgctxt "Languages::product_reviews.no_reviews_found"
+msgid "No reviews found"
+msgstr "Geen beoordelingen gevonden"
+
+msgctxt "Languages::product_reviews.your_rating"
+msgid "Your rating"
+msgstr "Uw beoordeling"
+
+msgctxt "Languages::product_reviews.comments_and_reviews"
+msgid "Comments and reviews"
+msgstr "Opmerkingen en recensies"
+
+msgctxt "Languages::product_reviews.rating"
+msgid "Rating"
+msgstr "Beoordeling"
+
+msgctxt "Languages::product_reviews.date"
+msgid "Date"
+msgstr "Datum"
+
+msgctxt "Languages::product_reviews.error_already_posted"
+msgid "You have posted in this review already"
+msgstr "Je hebt al in deze recensie gepost"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_post"
+msgid "Thank you for your post"
+msgstr "Bedankt voor je bericht"
+
+msgctxt "Languages::product_reviews.text_review_pended"
+msgid "Your review will be checked before it gets published."
+msgstr "Uw recensie wordt gecontroleerd voordat deze wordt gepubliceerd."
+
+msgctxt "Languages::product_reviews.reviews"
+msgid "Reviews: [n]"
+msgstr "Beoordelingen: [n]"
+
+msgctxt "Languages::product_reviews.n_reviews"
+msgid "review|reviews"
+msgstr "recensie|recensies"
+
+msgctxt "Languages::product_reviews.text_new_post_notification"
+msgid "This is a notification of a new post to product"
+msgstr "Dit is een melding van een nieuw bericht op het product"
+
+msgctxt "Languages::product_reviews.text_new_reply_notification"
+msgid "This is a notification of a new reply to your product review"
+msgstr "Dit is een melding van een nieuwe reactie op uw productreview"
+
+msgctxt "Languages::product_reviews.text_approval_notice"
+msgid "This review needs approving"
+msgstr "Deze beoordeling moet worden goedgekeurd"
+
+msgctxt "Languages::product_reviews.latest_reviews"
+msgid "Latest reviews"
+msgstr "Laatste Recensies"
+
+msgctxt "Languages::product_reviews.comment_by"
+msgid "Comment by"
+msgstr "Reageer door"
+
+msgctxt "Languages::product_reviews.and"
+msgid "and"
+msgstr "en"
+
+msgctxt "Languages::product_reviews.approve"
+msgid "Approve"
+msgstr "Goedkeuren"
+
+msgctxt "Languages::product_reviews.disapprove"
+msgid "Disapprove"
+msgstr "Afkeuren"
+
+msgctxt "Languages::product_reviews.approved"
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+msgctxt "Languages::product_reviews.not_approved"
+msgid "Not approved"
+msgstr "Niet goedgekeurd"
+
+msgctxt "Languages::product_reviews.manager"
+msgid "Comments and reviews"
+msgstr "Opmerkingen en recensies"
+
+msgctxt "Languages::privileges.view_product_reviews"
+msgid "Can view"
+msgstr "Kan zien"
+
+msgctxt "Languages::privileges.manage_product_reviews"
+msgid "Can edit"
+msgstr "Kan bewerken"
+
+msgctxt "Languages::privilege_groups.product_reviews"
+msgid "Product reviews"
+msgstr "Productrecensies"
+
+msgctxt "Languages::sort_by_rating_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Sorteer op beoordeling: Laag naar Hoog"
+
+msgctxt "Languages::sort_by_rating_desc"
+msgid "Sort by rating"
+msgstr "Sorteren op beoordeling"
+
+msgctxt "Languages::product_reviews.product_reviews"
+msgid "Product reviews"
+msgstr "Productrecensies"
+
+msgctxt "Languages::product_reviews.menu_title"
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+msgctxt "Languages::product_reviews.menu_title_menu_description"
+msgid "Customer reviews on products"
+msgstr "Klantrecensies over producten"
+
+msgctxt "Languages::product_reviews.write_review"
+msgid "Write a review"
+msgstr "Schrijf een recensie"
+
+msgctxt "SettingsOptions::product_reviews::reviews_per_page"
+msgid "Reviews per page"
+msgstr "Beoordelingen per pagina"
+
+msgctxt "SettingsOptions::product_reviews::review_approval"
+msgid "Administrator must approve posts submitted by"
+msgstr "Beheerder moet berichten goedkeuren die zijn ingediend door"
+
+msgctxt "SettingsOptions::product_reviews::review_ip_check"
+msgid "Allow one review per IP address"
+msgstr "Eén beoordeling per IP-adres toestaan"
+
+msgctxt "SettingsOptions::product_reviews::split_reviews_by_storefronts"
+msgid "Split reviews by storefront"
+msgstr "Beoordelingen splitsen op etalage"
+
+msgctxt "SettingsTooltips::product_reviews::product_reviews_type"
+msgid "Determines if comments and/or reviews are allowed for newly-created products. Doesn't affect existing products."
+msgstr "Bepaalt of opmerkingen en/of recensies zijn toegestaan voor nieuw gemaakte producten. Heeft geen invloed op bestaande producten."
+
+msgctxt "SettingsOptions::product_reviews::review_after_purchase"
+msgid "Only buyers can post"
+msgstr "Alleen kopers kunnen posten"
+
+msgctxt "SettingsTooltips::product_reviews::review_after_purchase"
+msgid "Allow leaving reviews for a product only to those who bought that product."
+msgstr "Laat beoordelingen voor een product alleen achter voor degenen die dat product hebben gekocht."
+
+msgctxt "SettingsOptions::product_reviews::review_fields"
+msgid "Review fields"
+msgstr "Velden bekijken"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::advanced"
+msgid "Comment with advantages and disadvantages"
+msgstr "Reageer met voor- en nadelen"
+
+msgctxt "SettingsVariants::product_reviews::review_fields::simple"
+msgid "Only comment"
+msgstr "Alleen commentaar"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::any"
+msgid "Any customer"
+msgstr "Elke klant"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::anonymous"
+msgid "Only anonymous customers"
+msgstr "Alleen anonieme klanten"
+
+msgctxt "SettingsVariants::product_reviews::review_approval::disabled"
+msgid "No approval needed"
+msgstr "Geen goedkeuring nodig"
+
+msgctxt "SettingsOptions::product_reviews::review_ask_for_customer_location"
+msgid "Ask for customer location"
+msgstr "Vraag naar de locatie van de klant"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::none"
+msgid "None"
+msgstr "Geen"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::country"
+msgid "Country"
+msgstr "Land"
+
+msgctxt "SettingsVariants::product_reviews::review_ask_for_customer_location::city"
+msgid "City"
+msgstr "Stad"
+
+msgctxt "Languages::email_template.product_reviews_notification"
+msgid "Product reviews: New review notification"
+msgstr "Productrecensies: melding nieuwe recensie"
+
+msgctxt "Languages::email_template.product_reviews_reply_notification"
+msgid "Product reviews: Reply notification"
+msgstr "Productrecensies: Reageermelding"
+
+msgctxt "Languages::product_reviews.show_rating"
+msgid "Show review rating"
+msgstr "Beoordelingsbeoordeling weergeven"
+
+msgctxt "Languages::product_reviews.show_reviews"
+msgid "Show reviews"
+msgstr "Toon beoordelingen"
+
+msgctxt "Languages::product_reviews.show_review"
+msgid "Show review"
+msgstr "Toon recensie"
+
+msgctxt "Languages::product_reviews.show_n_reviews"
+msgid "Show [n] review|Show [n] reviews"
+msgstr "Toon [n] beoordeling|Toon [n] beoordelingen"
+
+msgctxt "Languages::product_reviews.scroll_to_reviews"
+msgid "Scroll to reviews"
+msgstr "Scroll naar beoordelingen"
+
+msgctxt "Languages::product_reviews.show_review_images"
+msgid "Show review images"
+msgstr "Toon recensie-afbeeldingen"
+
+msgctxt "Languages::product_reviews.scroll_to_review_images"
+msgid "Scroll to review images"
+msgstr "Scroll om afbeeldingen te bekijken"
+
+msgctxt "Languages::product_reviews.gdpr_reviews_data"
+msgid "Personal data from reviews"
+msgstr "Persoonlijke gegevens uit beoordelingen"
+
+msgctxt "Languages::product_reviews.add_new_review"
+msgid "reviews: new review"
+msgstr "beoordelingen: nieuwe beoordeling"
+
+msgctxt "Languages::product_reviews.agreement_text_full_add_new_review"
+msgid "<p>Your name will appear next to your review or comment, visible to everyone. We ([company]) also save your IP address as a security precaution, but in can only be viewed by our staff. It will remain in our system until you withdraw your consent. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Je naam verschijnt naast je review of opmerking, voor iedereen zichtbaar. Wij ([company]) slaan uw IP-adres ook op als veiligheidsmaatregel, maar kunnen alleen door onze medewerkers worden bekeken. Het blijft in ons systeem totdat u uw toestemming intrekt. Als je je persoonsgegevens wilt laten verwijderen, stuur dan een e-mail naar [email].</p> <p>Als u van mening bent dat er misbruik is gemaakt van uw persoonsgegevens, heeft u het recht om een klacht in te dienen bij een toezichthoudende autoriteit. We zijn verplicht door de Algemene Verordening Gegevensbescherming van de EU om u op de hoogte te stellen van dit recht; we hebben niet echt de bedoeling om uw gegevens te misbruiken.</p>"
+
+msgctxt "Languages::product_reviews.terms_n_conditions"
+msgid "Select this check box to accept the [terms_href]"
+msgstr "Schakel dit selectievakje in om de [terms_href]. te accepteren"
+
+msgctxt "Languages::product_reviews.terms_n_conditions_name"
+msgid "Terms and Conditions"
+msgstr "Voorwaarden"
+
+msgctxt "Languages::product_reviews.terms_and_conditions_content"
+msgid "<p>Please read these Terms and Conditions (\"Terms\", \"Terms and Conditions\") carefully before using the <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website and the My Mobile App mobile application (the \"Service\") operated by My Company (\"us\", \"we\", or \"our\").</p><p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the Terms then you may not access the Service.</strong></p><p><strong>Purchases</strong></p><p>If you wish to purchase any product or service made available through the Service (\"Purchase\"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your ...</p><p><strong>Content</strong></p><p>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the ...</p><p><strong>Changes</strong></p><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><p><strong>Contact Us</strong></p><p>If you have any questions about these Terms, please contact us.</p>"
+msgstr "<p>Lees deze Algemene voorwaarden (\"Voorwaarden\", \"Voorwaarden\") zorgvuldig door voordat u de <a href=\"http://www.mywebsite.com\">http://www.mywebsite.com</a> website en de mobiele applicatie My Mobile App (de \"Service\") gebruikt door My Bedrijf (\"ons\", \"wij\" of \"onze\").</p><p><strong>Door toegang te krijgen tot of gebruik te maken van de Dienst, stemt u ermee in gebonden te zijn aan deze Voorwaarden. Als u het niet eens bent met enig onderdeel van de Voorwaarden, heeft u geen toegang tot de Service.</strong></p><p><strong>Aankopen</strong></p><p>Als u een product of dienst wilt kopen die via de Dienst beschikbaar wordt gesteld (\"Aankoop\"), kan u worden gevraagd om bepaalde informatie te verstrekken die relevant is voor uw Aankoop, inclusief, maar niet beperkt tot, uw ...</p><p><strong>Inhoud</strong></p><p>Met onze Service kunt u bepaalde informatie, tekst, afbeeldingen, video's of ander materiaal (\"Inhoud\") plaatsen, linken, opslaan, delen en anderszins beschikbaar stellen. U bent verantwoordelijk voor de ...</p><p><strong>Wijzigingen</strong></p><p>We behouden ons het recht voor om, naar eigen goeddunken, deze voorwaarden op elk moment te wijzigen of te vervangen. Als een herziening wezenlijk is, zullen we proberen om ten minste 30 dagen van tevoren te informeren voordat nieuwe voorwaarden van kracht worden. Wat een materiële wijziging is, wordt naar eigen goeddunken bepaald.</p><p><strong>Neem contact met ons</strong></p><p>Als u vragen heeft over deze voorwaarden, neem dan contact met ons op.</p>"
+
+msgctxt "Languages::product_reviews.moderation_rules"
+msgid "Before submitting a review, make sure that it does not violate the moderation rules: it does not contain links to third-party resources and insults."
+msgstr "Voordat u een recensie indient, moet u ervoor zorgen dat deze niet in strijd is met de moderatieregels: deze bevat geen links naar bronnen van derden en beledigingen."
+
+msgctxt "Languages::product_reviews.agreement_text_short_add_new_review"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Ik ga ermee akkoord dat mijn persoonlijke gegevens <u>als volgt worden verwerkt.</u>"
+
+msgctxt "Languages::product_reviews.please_log_in_to_write_a_review"
+msgid "Please sign in to write a review"
+msgstr "Gelieve in te loggen om een recensie te schrijven"
+
+msgctxt "Languages::product_reviews.you_have_to_buy_product_before_writing_review"
+msgid "You can't write a review for this product. Customers can write reviews only for the products they bought. If you actually bought this product from us, but are still seeing this message, please contact us."
+msgstr "U kunt geen recensie schrijven voor dit product. Klanten kunnen alleen beoordelingen schrijven voor de producten die ze hebben gekocht. Als je dit product daadwerkelijk bij ons hebt gekocht, maar nog steeds dit bericht ziet, neem dan contact met ons op."
+
+msgctxt "Languages::product_reviews.event.new_post"
+msgid "New review posted"
+msgstr "Nieuwe recensie geplaatst"
+
+msgctxt "Languages::product_reviews.event.new_reply"
+msgid "New reply was added to review"
+msgstr "Nieuw antwoord toegevoegd aan beoordeling"
+
+msgctxt "Languages::product_reviews.helpfulness"
+msgid "Helpfulness"
+msgstr "behulpzaamheid"
+
+msgctxt "Languages::product_reviews.vote_up"
+msgid "Vote up"
+msgstr "Stem op"
+
+msgctxt "Languages::product_reviews.vote_down"
+msgid "Vote down"
+msgstr "Stem af"
+
+msgctxt "Languages::sort_by_product_review_timestamp_desc"
+msgid "Sort by date: Newest to Oldest"
+msgstr "Sorteer op datum: Nieuwste naar Oudste"
+
+msgctxt "Languages::sort_by_product_review_timestamp_asc"
+msgid "Sort by date: Oldest to Newest"
+msgstr "Sorteer op datum: van oud naar nieuw"
+
+msgctxt "Languages::sort_by_helpfulness_asc"
+msgid "Helpful last"
+msgstr "Nuttige laatste"
+
+msgctxt "Languages::sort_by_helpfulness_desc"
+msgid "Helpful first"
+msgstr "Nuttig eerst"
+
+msgctxt "Languages::sort_by_rating_value_desc"
+msgid "Sort by rating: High to Low"
+msgstr "Sorteer op beoordeling: Hoog naar Laag"
+
+msgctxt "Languages::sort_by_rating_value_asc"
+msgid "Sort by rating: Low to High"
+msgstr "Sorteer op beoordeling: Laag naar Hoog"
+
+msgctxt "Languages::product_reviews.advantages"
+msgid "Advantages"
+msgstr "Voordelen:"
+
+msgctxt "Languages::product_reviews.disadvantages"
+msgid "Disadvantages"
+msgstr "nadelen"
+
+msgctxt "Languages::product_reviews.comments"
+msgid "Comments"
+msgstr "Opmerkingen"
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Opmerking"
+
+msgctxt "Languages::product_reviews.disabled"
+msgid "Disabled"
+msgstr "Gehandicapt"
+
+msgctxt "Languages::product_reviews.vendor"
+msgid "Vendor"
+msgstr "Leverancier"
+
+msgctxt "Languages::product_reviews.vendor_reply"
+msgid "Vendor reply"
+msgstr "Verkoper antwoord"
+
+msgctxt "Languages::product_reviews.type_message"
+msgid "Type a message..."
+msgstr "Type een bericht..."
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Geverifieerde aankoop"
+
+msgctxt "Languages::product_reviews.reviews_lower"
+msgid "reviews"
+msgstr "beoordelingen"
+
+msgctxt "Languages::product_reviews.review"
+msgid "Review"
+msgstr "Recensie"
+
+msgctxt "Languages::product_reviews.write_your_review"
+msgid "Write your review"
+msgstr "Schrijf je beoordeling"
+
+msgctxt "Languages::product_reviews.add_images"
+msgid "Add a photo"
+msgstr "Voeg een foto toe"
+
+msgctxt "Languages::product_reviews.write_review_anonymously"
+msgid "Write your review anonymously"
+msgstr "Schrijf uw recensie anoniem"
+
+msgctxt "Languages::product_reviews.submit_review"
+msgid "Submit review"
+msgstr "Review versturen"
+
+msgctxt "Languages::product_reviews.verified_purchase"
+msgid "Verified purchase"
+msgstr "Geverifieerde aankoop"
+
+msgctxt "Languages::product_reviews.with_photo"
+msgid "With photo"
+msgstr "Met foto"
+
+msgctxt "Languages::product_reviews.without_photo"
+msgid "Without photo"
+msgstr "Zonder foto"
+
+msgctxt "Languages::product_reviews.customer_photos"
+msgid "Customer photos"
+msgstr "Foto's van klanten"
+
+msgctxt "Languages::product_reviews.review_status"
+msgid "Review status"
+msgstr "Beoordelingsstatus"
+
+msgctxt "Languages::product_reviews.star"
+msgid "star"
+msgstr "ster"
+
+msgctxt "Languages::product_reviews.stars"
+msgid "stars"
+msgstr "sterren"
+
+msgctxt "Languages::product_reviews.n_stars"
+msgid "[n] star|[n] stars"
+msgstr "[n] ster|[n] sterren"
+
+msgctxt "Languages::product_reviews.out_of_five"
+msgid "out of 5"
+msgstr "uit 5"
+
+msgctxt "Languages::product_reviews.review_this_product"
+msgid "Review this product"
+msgstr "Beoordeel dit product"
+
+msgctxt "Languages::product_reviews.review_this_product_description"
+msgid "Share your thoughts with other customers"
+msgstr "Deel uw gedachten met andere klanten"
+
+msgctxt "Languages::product_reviews.reply"
+msgid "Reply"
+msgstr "Antwoorden"
+
+msgctxt "Languages::product_reviews.first_and_last_name"
+msgid "First and last name"
+msgstr "Voor-en achternaam"
+
+msgctxt "Languages::product_reviews.text_thank_you_for_review"
+msgid "Thank you for your review"
+msgstr "Bedankt voor je review"
+
+msgctxt "Languages::product_reviews.excellent"
+msgid "Excellent!"
+msgstr "Excellent!"
+
+msgctxt "Languages::product_reviews.very_good"
+msgid "Very Good"
+msgstr "Heel goed"
+
+msgctxt "Languages::product_reviews.average"
+msgid "Average"
+msgstr "Gemiddeld"
+
+msgctxt "Languages::product_reviews.fair"
+msgid "Fair"
+msgstr "Kermis"
+
+msgctxt "Languages::product_reviews.poor"
+msgid "Poor"
+msgstr "Arm"
+
+msgctxt "Languages::product_reviews.five_star_icon"
+msgid "★★★★★"
+msgstr "★★★★★"
+
+msgctxt "Languages::product_reviews.four_star_icon"
+msgid "★★★★"
+msgstr "★★★★"
+
+msgctxt "Languages::product_reviews.three_star_icon"
+msgid "★★★"
+msgstr "★★★"
+
+msgctxt "Languages::product_reviews.two_star_icon"
+msgid "★★"
+msgstr "★★"
+
+msgctxt "Languages::product_reviews.one_star_icon"
+msgid "★"
+msgstr "★"
+
+msgctxt "Languages::product_reviews.product_details"
+msgid "Product details"
+msgstr "Productdetails"
+
+msgctxt "Languages::product_reviews.rating_4_and_up"
+msgid "Rating 4+"
+msgstr "Beoordeling 4+"
+
+msgctxt "Languages::product_reviews.event.new_post.title"
+msgid "New review posted for a product"
+msgstr "Nieuwe recensie geplaatst voor een product"
+
+msgctxt "Languages::product_reviews.event.new_post.message"
+msgid "A new review has been posted for product [product]. Click this notification to see the review."
+msgstr "Er is een nieuwe recensie geplaatst voor product [product]. Klik op deze melding om de recensie te zien."
+
+msgctxt "Languages::product_reviews.comment"
+msgid "Comment"
+msgstr "Opmerking"
+
+msgctxt "Languages::product_reviews.copy_old_reviews_warning"
+msgid "You have product reviews in the old \"Comments and reviews\" add-on. While that add-on is installed, you'll be able copy those reviews to the new \"Product reviews\" add-on <a class=\"cm-post\" href=\"[url]\">in its settings</a>."
+msgstr "U heeft productrecensies in de oude add-on \"Opmerkingen en recensies\". Terwijl die add-on is geïnstalleerd, kunt u die beoordelingen kopiëren naar de nieuwe \"Productbeoordelingen\"-add-on <a class=\"cm-post\" href=\"[url]\">in de instellingen</a>."
+
+msgctxt "Languages::product_reviews.copy_old_reviews_notice"
+msgid "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Copy reviews from the \"Comments and reviews\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Only reviews that have both a score and a user's comment will be copied. Go to your products and check the \\“Reviews\" setting on the \"Add-ons\" tab. You might have to allow communication and rating first.</li><li>A review without a score or without a comment will not be copied. To transfer it, you must first manually add the missing score or comment by editing the review.</li><li>While the old \"Comments and reviews\" add-on is installed, the reviews won't be removed from there. That way, you can choose to move to \"Product reviews\" whenever all your reviews are ready.</li><li>If you ever need to copy the reviews from the old add-on again in the future, just uninstall and reinstall the \"Product reviews\" add-on. This will remove all its reviews from the database, and you'll be able to import the reviews from the \"Comments and reviews\" add-on again.</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Copy product reviews</a></div>"
+msgstr "<h4 class=\"subheader hand\" data-toggle=\"collapse\" data-target=\"#collapsable_addon_product_reviews_notice\">Kopieer recensies van de \"Opmerkingen en recensies\" add-on<span class=\"icon-caret-down\"></span></h4><div id=\"collapsable_addon_product_reviews_notice\" class=\"in collapse\" style=\"height: auto;\"><ol><li>Alleen recensies die zowel een score als de opmerking van een gebruiker hebben, worden gekopieerd. Ga naar uw producten en controleer de \\\"Reviews\"-instelling op het tabblad \"Add-ons\". Mogelijk moet u eerst communicatie en beoordeling toestaan.</li><li>Een recensie zonder score of zonder commentaar wordt niet gekopieerd. Om deze over te dragen , moet u eerst handmatig de ontbrekende score of opmerking toevoegen door de recensie te bewerken.</li><li>Terwijl de oude add-on \"Opmerkingen en recensies\" is geïnstalleerd, worden de recensies daar niet verwijderd. Op die manier kunt u ervoor kiezen om te verplaatsen naar \"Productbeoordelingen\" wanneer al uw beoordelingen gereed zijn.</li><li>Als u in de toekomst ooit de beoordelingen van de oude add-on opnieuw moet kopiëren, hoeft u alleen maar de \"Productbeoordelingen\"-add-on te verwijderen en opnieuw te installeren. de beoordelingen uit de database en u kunt de beoordelingen uit de add-on \"Opmerkingen en beoordelingen\" opnieuw importeren</li></ol><a class=\"cm-post btn btn-primary\" href=\"[url]\">Productbeoordelingen kopiëren</a></div>"
+
+msgctxt "Languages::product_reviews.update_reply"
+msgid "Update reply"
+msgstr "Antwoord bijwerken"
+
+msgctxt "Languages::product_reviews.add_reply"
+msgid "Add reply"
+msgstr "Reactie toevoegen"
+
+msgctxt "Languages::product_reviews.max_number_image_message"
+msgid "A review can have up to [max_image_number] images."
+msgstr "Een recensie kan maximaal [max_image_number] afbeeldingen bevatten."
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_description"
+msgid "Drop images here"
+msgstr "Zet afbeeldingen hier neer"
+
+msgctxt "Languages::product_reviews.uploader_drop_zone_info"
+msgid "Photo up to [max_size]"
+msgstr "Foto tot [max_size]"
+
+msgctxt "Languages::product_reviews.admin_reply"
+msgid "Administrator reply"
+msgstr "Beheerder antwoord"
+
+msgctxt "Languages::product_reviews.company_reply"
+msgid "[company_name] reply"
+msgstr "[company_name] antwoord"
+
+msgctxt "Languages::product_reviews.hide_name"
+msgid "Hide my name in the review"
+msgstr "Verberg mijn naam in de recensie"
+
+msgctxt "Languages::product_reviews.product_is_rated_n_out_of_five_stars"
+msgid "The product is rated [n] out of 5 stars"
+msgstr "Het product heeft een score van [n] van de 5 sterren"
+
+msgctxt "Languages::product_reviews.click_to_see_reviews"
+msgid "Click to see the reviews"
+msgstr "Klik om de beoordelingen te zien"
+
+msgctxt "Languages::product_reviews.split_reviews_for_variations_as_separate_products"
+msgid "Split reviews for variations as separate products"
+msgstr "Splits beoordelingen voor variaties als afzonderlijke producten"
+
+msgctxt "Languages::privileges.create_product_reviews"
+msgid "Can create"
+msgstr "Kan maken"
+
+msgctxt "Languages::product_reviews.upgrade_notification.title_administators_add_ability_create_product_reviews"
+msgid "Administrators can now create product reviews"
+msgstr "Beheerders kunnen nu productrecensies maken"
+
+msgctxt "Languages::product_reviews.upgrade_notification.message_administators_add_ability_create_product_reviews"
+msgid "Previously, administrators could edit existing product reviews in the admin panel, but couldn't post new ones. We've changed that: now the administrators who could edit reviews can add new reviews on the \"Reviews\" tab of the product editing page. Note that this change doesn't affect vendors' administrators in CS-Cart Multi-Vendor in any way. The most that they can do is leave a reply to a product review.<br><br>You can keep the old behavior if you'd like. Through user groups, you can now allow administrators to create or edit reviews (or do both of those things).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Set administrator privileges</a>"
+msgstr "Voorheen konden beheerders bestaande productrecensies bewerken in het beheerdersdashboard, maar geen nieuwe plaatsen. We hebben dat veranderd: nu kunnen de beheerders die beoordelingen kunnen bewerken, nieuwe beoordelingen toevoegen op het tabblad \"Recensies\" van de productbewerkingspagina. Merk op dat deze wijziging op geen enkele manier van invloed is op de beheerders van leveranciers in CS-Cart Multi-Vendor. Het enige dat ze kunnen doen, is een reactie achterlaten op een productrecensie.<br><br>Je kunt het oude gedrag behouden als je wilt. Via gebruikersgroepen kunt u nu beheerders toestaan om beoordelingen te maken of te bewerken (of beide dingen te doen).<br><br><a target=\"_blank\" href=\"[usergroups_url]\" class=\"btn\">Beheerdersrechten instellen</a>"
+
+msgctxt "Languages::product_reviews.exim_error_incorrect_field_value"
+msgid "Specified [field] '[value]' was not found. The product review with comment '[comment]' was skipped."
+msgstr "Opgegeven [field] '[value]' is niet gevonden. De productreview met opmerking '[comment]' is overgeslagen."
+
+msgctxt "Languages::product_reviews.exim_error_empty_field"
+msgid "The value of the <b>[field]</b> field can not be empty. The product review with comment '[comment]' was skipped."
+msgstr "De waarde van het veld <b>[field]</b> mag niet leeg zijn. De productreview met opmerking '[comment]' is overgeslagen."
+
+msgctxt "Languages::product_reviews"
+msgid "Product reviews"
+msgstr "Productrecensies"
+
+msgctxt "Languages::images_delimiter"
+msgid "Images delimiter"
+msgstr "Scheidingsteken voor afbeeldingen"
+
+msgctxt "Languages::text_images_delimiter"
+msgid "Images path delimiter for product review images (e.g. \"Image1.png///Image2.png\")"
+msgstr "Scheidingsteken voor afbeeldingenpad voor afbeeldingen van productrecensies (bijv. \"Image1.png///Image2.png\")"
+

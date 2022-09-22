@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: /release-4.15.1/addons/pdf_documents.po\n"
+"X-Crowdin-File-ID: 6636\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::pdf_documents"
+msgid "PDF Documents"
+msgstr "PDF-dokumenter"
+
+msgctxt "Addons::description::pdf_documents"
+msgid "Handles the generation of all PDF files. We offer it as a free service and generate PDFs on our own server WITHOUT keeping any data."
+msgstr "Håndterer genereringen av alle PDF-filer. Vi tilbyr det som en gratis tjeneste og genererer PDF-filer på vår egen server UTEN å beholde noen data."
+
+msgctxt "SettingsOptions::pdf_documents::service_url"
+msgid "PDF server"
+msgstr "PDF-server"
+
+msgctxt "SettingsTooltips::pdf_documents::service_url"
+msgid "The location of the server where we'll be generating PDF files for your site. All servers work the same way, and they don't keep or analyze any of your data. Select the one that your legal advisor suggests, or the one you're most comfortable with."
+msgstr "Plasseringen av serveren der vi skal generere PDF-filer for nettstedet ditt. Alle servere fungerer på samme måte, og de beholder eller analyserer ikke noen av dataene dine. Velg den som din juridiske rådgiver foreslår, eller den du er mest komfortabel med."
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cs-cart.ru"
+msgid "Russia"
+msgstr "Russland"
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cart-services.com"
+msgid "USA"
+msgstr "USA"
+
+msgctxt "Languages::pdf_documents.activate_notification"
+msgid "PDF documents (such as invoices, packing slips, etc.) will now be generated at our cloud service: [service_url]. It works as follows: your store sends an HTML document and receives a PDF copy of it. We do not view, keep, or analyze any of your data that goes through that service."
+msgstr "PDF-dokumenter (som fakturaer, følgesedler osv.) vil nå bli generert på vår skytjeneste: [service_url]. Det fungerer som følger: butikken din sender et HTML-dokument og mottar en PDF-kopi av det. Vi ser ikke, beholder eller analyserer noen av dataene dine som går gjennom den tjenesten."
+
+msgctxt "Languages::pdf_documents.disable_notification"
+msgid "The generation of PDF documents (such as invoices, packing slips, etc.) has been disabled. Your data will no longer go through our cloud service [service_url]. If you'd like to generate PDF documents without using our cloud service, you're welcome to <a href=\"[helpdesk_url]\" target=\"_blank\">contact us via Help Desk</a> or configure it on your own."
+msgstr "Generering av PDF-dokumenter (som fakturaer, følgesedler osv.) er deaktivert. Dataene dine vil ikke lenger gå gjennom vår skytjeneste [service_url]. Hvis du ønsker å generere PDF-dokumenter uten å bruke skytjenesten vår, er du velkommen til å kontakte oss</a> <a href=\"[helpdesk_url]\" target=\"_blank\">konfigurere den på egen hånd."
+

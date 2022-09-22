@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /release-4.15.1/addons/gdpr.po\n"
+"X-Crowdin-File-ID: 6590\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::gdpr"
+msgid "GDPR Compliance (EU)"
+msgstr "GDPR Uyumluluğu (AB)"
+
+msgctxt "Addons::description::gdpr"
+msgid "Helps you to comply with GDPR (a European Union regulation on personal data) by showing customers info about their personal data, asking their consent for its processing, and by offering ways to delete or export personal data."
+msgstr "Müşterilere kişisel verileri hakkında bilgi göstererek, işlenmesi için onaylarını isteyerek ve kişisel verileri silme veya dışa aktarma yolları sunarak GDPR'ye (kişisel verilerle ilgili bir Avrupa Birliği yönetmeliği) uymanıza yardımcı olur."
+
+msgctxt "SettingsSections::gdpr::general"
+msgid "General"
+msgstr "Genel"
+
+msgctxt "SettingsSections::gdpr::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "SettingsOptions::gdpr::gdpr_cookie_consent"
+msgid "Cookie consent"
+msgstr "Çerez onayı"
+
+msgctxt "SettingsOptions::gdpr::privacy_policy_page"
+msgid "Privacy policy page"
+msgstr "Gizlilik politikası sayfası"
+
+msgctxt "SettingsTooltips::gdpr::gdpr_cookie_consent"
+msgid "\"Implicit consent\" is a simple notification that the site uses cookies. \"Explicit consent\" means that visitors can select the services that can or can't set cookies."
+msgstr "\"Örtülü izin\", sitenin çerez kullandığına dair basit bir bildirimdir. \"Açık izin\", ziyaretçilerin tanımlama bilgileri ayarlayabilen veya ayarlayamayan hizmetleri seçebileceği anlamına gelir."
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::none"
+msgid "None"
+msgstr "Hiçbiri"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::implicit"
+msgid "Implicit"
+msgstr "örtük"
+
+msgctxt "SettingsVariants::gdpr::gdpr_cookie_consent::explicit"
+msgid "Explicit"
+msgstr "Açık"
+
+msgctxt "Languages::gdpr.gdpr_user_data"
+msgid "GDPR user data"
+msgstr "GDPR kullanıcı verileri"
+
+msgctxt "Languages::gdpr_user_data"
+msgid "User personal data"
+msgstr "Kullanıcı kişisel verileri"
+
+msgctxt "Languages::gdpr_user_profiles"
+msgid "Personal data from user profiles"
+msgstr "Kullanıcı profillerinden kişisel veriler"
+
+msgctxt "Languages::gdpr_product_subscriptions"
+msgid "Personal data from product subscriptions"
+msgstr "Ürün aboneliklerinden gelen kişisel veriler"
+
+msgctxt "Languages::gdpr_agreements"
+msgid "Personal data from GDPR agreements"
+msgstr "GDPR sözleşmelerinden kişisel veriler"
+
+msgctxt "Languages::gdpr.anonymize"
+msgid "Anonymize"
+msgstr "anonimleştir"
+
+msgctxt "Languages::gdpr.text_anonymize_question"
+msgid "Once you anonymize someone, all their personal information will be replaced with randomly-generated data. This action can not be undone, unless you restore the database from a backup. Are you sure you want to proceed?"
+msgstr "Birini anonimleştirdiğinizde, tüm kişisel bilgileri rastgele oluşturulmuş verilerle değiştirilecektir. Veritabanını bir yedekten geri yüklemediğiniz sürece bu eylem geri alınamaz. Devam etmek istediğinizden emin misiniz?"
+
+msgctxt "Languages::gdpr.view_and_edit"
+msgid "View and edit"
+msgstr "Görüntüle ve düzenle"
+
+msgctxt "Languages::gdpr_orders_data"
+msgid "Personal data from orders"
+msgstr "Siparişlerdeki kişisel veriler"
+
+msgctxt "Languages::gdpr.full_agreement"
+msgid "Full agreement text"
+msgstr "Tam sözleşme metni"
+
+msgctxt "Languages::gdpr.short_agreement"
+msgid "Short agreement text"
+msgstr "Kısa anlaşma metni"
+
+msgctxt "Languages::gdpr.checkout.place_order.personal_data_processing"
+msgid "Checkout: Place order: Personal data processing"
+msgstr "Ödeme: Sipariş ver: Kişisel veri işleme"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>([company]) sağlanan e-posta adresine hesapla ilgili e-postalar (sipariş durumu bildirimleri, şifre sıfırlama e-postaları ve daha fazlası gibi) göndeririz. Bu nedenle, siz müşterimiz olarak kalırken e-posta adresinizi saklamamız gerekiyor.</p> <p>Fatura/gönderim adresi bölümündeki bilgileri kullanırız ve bunları bir gönderim veya ödeme yöntemi sağlayıcısına şu adrese gönderebiliriz:</p> <ul> <li>Bulunduğunuz yer için hangi gönderim ve ödeme yöntemlerinin mevcut olduğunu belirleyin. </li> <li>Siparişi gönderirken ödeme sırasında seçtiğiniz sağlayıcı aracılığıyla ödeme veya nakliye sürecini tamamlayın.</li> </ul> <p>Mağazamızda ürün satan ve yönetim panelini kullanan bazı personel ve/veya bayilerimiz verilerinize erişebilir. Gizliliğinize değer veriyoruz, bu nedenle mağazayı işletmek için verilere erişim bilmesi gereken bazında sağlanır. Örneğin, bir satıcı yalnızca onlardan bir şey sipariş ettiyseniz verilerinizi alır, böylece satıcı bu siparişi yerine getirebilir.</p> <p>Artık mağazamızı kullanmak istemediğinize karar verirseniz ve kişisel verilerinizin veri tabanımızdan kaldırılmasını istiyorsanız (veya hesabınızla ilgili elimizdeki tüm kişisel verileri almak istiyorsanız), lütfen bize gönderin. [email]bir e-posta.</p> <p>Kişisel verilerinizin kötüye kullanıldığını düşünüyorsanız, bir denetim makamına şikayette bulunma hakkınız vardır. AB Genel Veri Koruma Yönetmeliği uyarınca bu hakkı size bildirmekle yükümlüyüz; aslında verilerinizi kötüye kullanmayı düşünmüyoruz.</p>"
+
+msgctxt "Languages::gdpr.checkout.place_order.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Kişisel verilerimin <u>aşağıdaki şekilde işlenmesini kabul ediyorum.</u>"
+
+msgctxt "Languages::gdpr.user.registration.personal_data_processing"
+msgid "Customer: registration"
+msgstr "Müşteri Kaydı"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>E-posta adresleri müşterileri birbirinden ayırır. Burada verdiğiniz e-posta adresini ve şifrenizi girerek mağazaya giriş yapıyorsunuz.</p> <p>([company]) ayrıca sağlanan e-posta adresine hesapla ilgili e-postalar (sipariş durumu bildirimleri, şifre sıfırlama e-postaları ve daha fazlası gibi) göndeririz. Bu nedenle, siz müşterimiz olarak kalırken e-posta adresinizi saklamamız gerekiyor.</p> <p>Bu sayfada bulunabilecek veya bulunamayacak diğer profil alanları, e-posta adresinizin yanında saklanır. Bu bilgileri, gerekmesi halinde sizinle iletişime geçmek için kullanabiliriz.</p> <p>Mağazamızda ürün satan ve yönetim panelini kullanan bazı personel ve/veya bayilerimiz verilerinize erişebilir. Gizliliğinize değer veriyoruz, bu nedenle mağazayı işletmek için verilere erişim bilmesi gereken bazında sağlanır. Örneğin, bir satıcı yalnızca onlardan bir şey sipariş ettiyseniz verilerinizi alır, böylece satıcı bu siparişi yerine getirebilir.</p> <p>Artık mağazamızı kullanmak istemediğinize karar verirseniz ve kişisel verilerinizin veri tabanımızdan kaldırılmasını istiyorsanız (veya hesabınızla ilgili elimizdeki tüm kişisel verileri almak istiyorsanız), lütfen bize gönderin. [email]bir e-posta.</p> <p>Kişisel verilerinizin kötüye kullanıldığını düşünüyorsanız, bir denetim makamına şikayette bulunma hakkınız vardır. AB Genel Veri Koruma Yönetmeliği uyarınca bu hakkı size bildirmekle yükümlüyüz; aslında verilerinizi kötüye kullanmayı düşünmüyoruz.</p>"
+
+msgctxt "Languages::gdpr.user.registration.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Kişisel verilerimin <u>aşağıdaki şekilde işlenmesini kabul ediyorum.</u>"
+
+msgctxt "Languages::gdpr.profiles.update.personal_data_processing"
+msgid "Profiles: update"
+msgstr "Profiller: güncelleme"
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_full_personal_data_processing"
+msgid "<p>Email addresses distinguish customers from each other. You sign in to the store by entering the email address and the password you provide here.</p> <p>We ([company]) also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>Other profile fields that may or not be present on this page are stored alongside your email address. We may use this information to contact you, if the necessity arises.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location.</li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p> "
+msgstr "<p>E-posta adresleri müşterileri birbirinden ayırır. Burada verdiğiniz e-posta adresini ve şifrenizi girerek mağazaya giriş yapıyorsunuz.</p> <p>([company]) ayrıca sağlanan e-posta adresine hesapla ilgili e-postalar (sipariş durumu bildirimleri, şifre sıfırlama e-postaları ve daha fazlası gibi) göndeririz. Bu nedenle, siz müşterimiz olarak kalırken e-posta adresinizi saklamamız gerekiyor.</p> <p>Bu sayfada bulunabilecek veya bulunamayacak diğer profil alanları, e-posta adresinizin yanında saklanır. Bu bilgileri, gerekmesi halinde sizinle iletişime geçmek için kullanabiliriz.</p> <p>Fatura/gönderim adresi bölümündeki bilgileri kullanırız ve bir gönderi veya ödeme yöntemi sağlayıcısına şu adrese gönderebiliriz:</p> <ul> <li>Bulunduğunuz yer için hangi gönderim ve ödeme yöntemlerinin mevcut olduğunu belirleyin.</li> <li>Siparişi gönderirken ödeme sırasında seçtiğiniz sağlayıcı aracılığıyla ödeme veya nakliye sürecini tamamlayın.</li> </ul> <p>Mağazamızda ürün satan ve yönetim panelini kullanan bazı personel ve/veya bayilerimiz verilerinize erişebilir. Gizliliğinize değer veriyoruz, bu nedenle mağazayı işletmek için verilere erişim bilmesi gereken bazında sağlanır. Örneğin, bir satıcı yalnızca onlardan bir şey sipariş ettiyseniz verilerinizi alır, böylece satıcı bu siparişi yerine getirebilir.</p> <p>Artık mağazamızı kullanmak istemediğinize karar verirseniz ve kişisel verilerinizin veri tabanımızdan kaldırılmasını istiyorsanız (veya hesabınızla ilgili elimizdeki tüm kişisel verileri almak istiyorsanız), lütfen bize gönderin. [email]bir e-posta.</p> <p>Kişisel verilerinizin kötüye kullanıldığını düşünüyorsanız, bir denetim makamına şikayette bulunma hakkınız vardır. AB Genel Veri Koruma Yönetmeliği uyarınca bu hakkı size bildirmekle yükümlüyüz; aslında verilerinizi kötüye kullanmayı düşünmüyoruz.</p> "
+
+msgctxt "Languages::gdpr.profiles.update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Kişisel verilerimin <u>aşağıdaki şekilde işlenmesini kabul ediyorum.</u>"
+
+msgctxt "Languages::gdpr.vendor.apply.personal_data_processing"
+msgid "Vendor: apply for vendor"
+msgstr "Satıcı: satıcı için başvurun"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_full_personal_data_processing"
+msgid "<p>Because vendors sell products in our marketplace, we ([company]) have to request certain information about them. For example, the company name and description of a vendor are shown to customers and serve to distinguish vendors from each other; the address is used for shipping rate calculation.</p> <p>However, we also request some personal data, such as first name/last name and emails address. Those are necessary for creating a vendor’s administrator account in our system. Vendors work with the marketplace through such accounts. Email addresses are necessary because they distinguish administrators from each other. You sign in to the store by entering the email address you provide here. Names are necessary because a single vendor can have multiple administrators—it is easier to handle accountability that way.</p> <p>We also send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer. If you decide that you no longer want to work with our marketplace and would like to have personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Satıcılar bizim pazarımızda ürün sattıklarından, biz ([company]) onlar hakkında belirli bilgiler talep etmek zorundayız. Örneğin, bir satıcının şirket adı ve açıklaması müşterilere gösterilir ve satıcıları birbirinden ayırmaya yarar; adres, nakliye ücreti hesaplaması için kullanılır.</p> <p>Bununla birlikte, ad/soyadı ve e-posta adresi gibi bazı kişisel verileri de talep ediyoruz. Bunlar, sistemimizde bir satıcının yönetici hesabı oluşturmak için gereklidir. Satıcılar, bu tür hesaplar aracılığıyla pazarla çalışır. Yöneticileri birbirinden ayırt ettikleri için e-posta adresleri gereklidir. Burada verdiğiniz e-posta adresini girerek mağazaya giriş yapıyorsunuz. Adlar gereklidir çünkü tek bir satıcının birden fazla yöneticisi olabilir; bu şekilde hesap verebilirliği ele almak daha kolaydır.</p> <p>Ayrıca, sağlanan e-posta adresine hesapla ilgili e-postalar (sipariş durumu bildirimleri, parola sıfırlama e-postaları ve daha fazlası gibi) göndeririz. Bu nedenle, siz müşterimiz olarak kalırken e-posta adresinizi saklamamız gerekiyor. Artık pazarımızla çalışmak istemediğinize karar verirseniz ve kişisel verilerinizin veri tabanımızdan kaldırılmasını istiyorsanız (veya hesabınızla ilgili elimizdeki tüm kişisel verileri almak istiyorsanız), lütfen bir e-posta gönderin. [email]kadar.</p> <p>Kişisel verilerinizin kötüye kullanıldığını düşünüyorsanız, bir denetim makamına şikayette bulunma hakkınız vardır. AB Genel Veri Koruma Yönetmeliği uyarınca bu hakkı size bildirmekle yükümlüyüz; aslında verilerinizi kötüye kullanmayı düşünmüyoruz.</p>"
+
+msgctxt "Languages::gdpr.vendor.apply.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Kişisel verilerimin <u>aşağıdaki şekilde işlenmesini kabul ediyorum.</u>"
+
+msgctxt "Languages::gdpr.products.subscribe.personal_data_processing"
+msgid "Products: subscribe"
+msgstr "Ürünler: abone ol"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) will add your email address to a special mailing list for this product. Once the product is in stock, you’ll get an email about it automatically, and your email address will be removed from the product’s mailing list.</p> <p>The data will be visible to some members of our staff. If you’d like to have your personal data removed, send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>Biz ([company]) e-posta adresinizi bu ürün için özel bir posta listesine ekleyeceğiz. Ürün stoğa girdiğinde, ürünle ilgili otomatik olarak bir e-posta alacaksınız ve e-posta adresiniz ürünün posta listesinden kaldırılacaktır.</p> <p>Veriler, personelimizin bazı üyeleri tarafından görülebilir. Kişisel verilerinizin silinmesini istiyorsanız, [email]bir e-posta gönderin.</p> <p>Kişisel verilerinizin kötüye kullanıldığını düşünüyorsanız, bir denetim makamına şikayette bulunma hakkınız vardır. AB Genel Veri Koruma Yönetmeliği uyarınca bu hakkı size bildirmekle yükümlüyüz; aslında verilerinizi kötüye kullanmayı düşünmüyoruz.</p>"
+
+msgctxt "Languages::gdpr.products.subscribe.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows.</u>"
+msgstr "Kişisel verilerimin <u>aşağıdaki şekilde işlenmesini kabul ediyorum.</u>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.personal_data_processing"
+msgid "Checkout: profiles update"
+msgstr "Ödeme: profil güncellemesi"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_full_personal_data_processing"
+msgid "<p>We ([company]) send account-related emails (such as order status notifications, password reset emails, and more) to the provided email address. For that reason we need to store your email address while you remain our customer.</p> <p>We use the information in the billing/shipping address section and may send it to a shipping or payment method provider to:</p> <ul> <li>Determine what shipping and payment methods are available for your location. </li> <li>Complete the payment or shipping process via the provider that you choose at checkout when you submit the order.</li> </ul> <p>Some members of our staff and/or vendors who sell products in our store and use its administration panel may be able to access your data. We value your privacy, so the access to data is provided on a need-to-know basis in order to operate the store. For example, a vendor only receives your data if you ordered something from them, so that the vendor can fulfil that order.</p> <p>If you decide that you no longer want to use our store and would like to have your personal data removed from our database (or if you’d like to get all the personal data associated with your account that we have), please send an email to [email].</p> <p>If you believe that your personal data has been misused, you have the right to lodge a complaint with a supervisory authority. We’re obliged by EU General Data Protection Regulation to let you know about this right; we don’t actually intend to misuse your data.</p>"
+msgstr "<p>([company]) sağlanan e-posta adresine hesapla ilgili e-postalar (sipariş durumu bildirimleri, şifre sıfırlama e-postaları ve daha fazlası gibi) göndeririz. Bu nedenle, siz müşterimiz olarak kalırken e-posta adresinizi saklamamız gerekiyor.</p> <p>Fatura/gönderim adresi bölümündeki bilgileri kullanırız ve bunları bir gönderim veya ödeme yöntemi sağlayıcısına şu adrese gönderebiliriz:</p> <ul> <li>Bulunduğunuz yer için hangi gönderim ve ödeme yöntemlerinin mevcut olduğunu belirleyin. </li> <li>Siparişi gönderirken ödeme sırasında seçtiğiniz sağlayıcı aracılığıyla ödeme veya nakliye sürecini tamamlayın.</li> </ul> <p>Mağazamızda ürün satan ve yönetim panelini kullanan bazı personel ve/veya bayilerimiz verilerinize erişebilir. Gizliliğinize değer veriyoruz, bu nedenle mağazayı işletmek için verilere erişim bilmesi gereken bazında sağlanır. Örneğin, bir satıcı yalnızca onlardan bir şey sipariş ettiyseniz verilerinizi alır, böylece satıcı bu siparişi yerine getirebilir.</p> <p>Artık mağazamızı kullanmak istemediğinize karar verirseniz ve kişisel verilerinizin veri tabanımızdan kaldırılmasını istiyorsanız (veya hesabınızla ilgili elimizdeki tüm kişisel verileri almak istiyorsanız), lütfen bize gönderin. [email]bir e-posta.</p> <p>Kişisel verilerinizin kötüye kullanıldığını düşünüyorsanız, bir denetim makamına şikayette bulunma hakkınız vardır. AB Genel Veri Koruma Yönetmeliği uyarınca bu hakkı size bildirmekle yükümlüyüz; aslında verilerinizi kötüye kullanmayı düşünmüyoruz.</p>"
+
+msgctxt "Languages::gdpr.checkout.profiles_update.agreement_text_short_personal_data_processing"
+msgid "I agree to have my personal data <u>processed as follows</u>."
+msgstr "Kişisel verilerimin <u>aşağıdaki şekilde işlenmesini kabul ediyorum</u>."
+
+msgctxt "Languages::gdpr.export_to_xml"
+msgid "Export to XML"
+msgstr "XML'e aktar"
+
+msgctxt "Languages::gdpr.agreement_required_error"
+msgid "Your agreement is required to proceed."
+msgstr "Devam etmek için anlaşmanız gerekiyor."
+
+msgctxt "Languages::gdpr.user_anonymized"
+msgid "User has been anonymized."
+msgstr "Kullanıcı anonimleştirildi."
+
+msgctxt "Languages::gdpr.check_other_sources_for_personal_data"
+msgid "<p>Please note that anonymization doesn't affect any backups and logs that you might have. If necessary, please do the following:</p><ol><li>Clear the logs under <b>Administration → Logs</b>.</li><li>Secure and delete the backups you might have under <b>Administration → Backup/Restore</b>.</li></ol>"
+msgstr "<p>Lütfen anonimleştirmenin, sahip olabileceğiniz yedeklemeleri ve günlükleri etkilemediğini unutmayın. Gerekirse, lütfen aşağıdakileri yapın:</p><ol><li> <b>Yönetim → Günlükler</b>altındaki günlükleri temizleyin.</li><li>Sahip olabileceğiniz yedekleri güvenli hale getirin ve <b>Yönetim → Yedekle/Geri Yükle</b>altında silin.</li></ol>"
+
+msgctxt "Languages::gdpr.cookie_consent"
+msgid "Cookie consent"
+msgstr "Çerez onayı"
+
+msgctxt "Languages::gdpr.cookie_consent_message"
+msgid "<p>This website uses cookies (small pieces of data saved on your computer). Some cookies are added by the website itself: they help to show you the content of your cart, keep you signed in once you enter your email and password, preserve your preferences, and do a lot of other useful things. We use these cookies only to make the site work properly for you. Even your agreement to our use of cookies is stored as a cookie.</p><p>Other cookies may be used by third-party services (such as PayPal, YouTube, Google Maps, Facebook, etc.) to store the data about how you use those third-party services on the website. We have no control over how third parties use cookies, but those cookies are also important for proper functioning of the website. For example, some of the PayPal functionality may not work without PayPal cookies.</p><p>Without cookies, many things can go wrong. That's why we ask that you agree to cookies being used before you proceed. If you don't want any cookies but would like to continue using the website, please configure your browser to block cookies, and then you'll be able to \"agree\" to their use, while we won't treat that as your consent.</p>"
+msgstr "<p>Bu web sitesi tanımlama bilgileri (bilgisayarınızda kayıtlı küçük veri parçaları) kullanır. Bazı çerezler web sitesinin kendisi tarafından eklenir: size sepetinizin içeriğini göstermeye, e-postanızı ve şifrenizi girdikten sonra oturumunuzu açık tutmaya, tercihlerinizi korumaya ve daha birçok faydalı şey yapmaya yardımcı olurlar. Bu çerezleri yalnızca sitenin sizin için düzgün çalışmasını sağlamak için kullanıyoruz. Çerez kullanımımıza ilişkin sözleşmeniz bile çerez olarak saklanır.</p><p>Diğer çerezler, üçüncü taraf hizmetleri (PayPal, YouTube, Google Haritalar, Facebook vb.) tarafından, bu üçüncü taraf hizmetlerini web sitesinde nasıl kullandığınıza ilişkin verileri depolamak için kullanılabilir. Üçüncü tarafların çerezleri nasıl kullandığı üzerinde hiçbir kontrolümüz yoktur, ancak bu çerezler web sitesinin düzgün çalışması için de önemlidir. Örneğin, PayPal'ın bazı işlevleri PayPal tanımlama bilgileri olmadan çalışmayabilir.</p><p>Çerezler olmadan birçok şey ters gidebilir. Bu nedenle, devam etmeden önce çerezlerin kullanılmasını kabul etmenizi rica ediyoruz. Herhangi bir tanımlama bilgisi istemiyorsanız ancak web sitesini kullanmaya devam etmek istiyorsanız, lütfen tarayıcınızı tanımlama bilgilerini engelleyecek şekilde yapılandırın ve ardından bunların kullanımını \"kabul edebileceksiniz\", ancak biz bunu sizin izniniz olarak kabul etmeyeceğiz. .</p>"
+
+msgctxt "Languages::gdpr.cookie_consent_accept"
+msgid "I agree"
+msgstr "Kabul ediyorum"
+
+msgctxt "Languages::gdpr.cookie_consent_decline"
+msgid "No, take me out of here"
+msgstr "Hayır, beni buradan çıkar"
+
+msgctxt "Languages::gdpr.uk_cookies_law"
+msgid "Cookies are used on this site to provide the best user experience. If you continue, we assume that you agree to receive cookies from this site."
+msgstr "Bu sitede en iyi kullanıcı deneyimini sağlamak için çerezler kullanılmaktadır. Devam ederseniz, bu siteden çerez almayı kabul ettiğinizi varsayıyoruz."
+
+msgctxt "Languages::block_gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::gdpr"
+msgid "GDPR"
+msgstr "GDPR"
+
+msgctxt "Languages::block_gdpr_description"
+msgid "Allows registered users to request their personal data or anonymization"
+msgstr "Kayıtlı kullanıcıların kişisel verilerini veya anonimleştirmelerini talep etmelerine izin verir"
+
+msgctxt "Languages::gdpr.user_profile_actions_description"
+msgid "<p>As customers interact with the store, they provide personal data for various purposes. When you place an order, we need to know where to ship it; when you subscribe for an email newsletter, we need to know where to send it, and so on. We keep this data organized, so that you always could:</p> <ol> <li>Request that we send you all your personal data. In that case we’ll send you an XML file by email. That file will contain all your personal data we have.</li> <li>Request to be forgotten. In that case your account will be deactivated, and all your personal data will be removed. If necessary, you’ll be able to register a new account with the same email address in the future.</li> </ol> <p>Please note that we’ll need some time to process either of those requests. We may contact you regarding your request by email or through other means.</p>"
+msgstr "<p>Müşteriler mağaza ile etkileşime girdikçe, çeşitli amaçlarla kişisel veriler sağlarlar. Bir sipariş verdiğinizde, onu nereye göndereceğimizi bilmemiz gerekir; bir e-posta bültenine abone olduğunuzda, onu nereye göndereceğimizi bilmemiz gerekir, vb. Her zaman şunları yapabilmeniz için bu verileri düzenli tutuyoruz:</p> <ol> <li>Size tüm kişisel verilerinizi göndermemizi talep ediyoruz. Bu durumda size e-posta ile bir XML dosyası göndereceğiz. Bu dosya, sahip olduğumuz tüm kişisel verilerinizi içerecektir.</li> <li>Unutulma isteği. Bu durumda hesabınız devre dışı bırakılacak ve tüm kişisel verileriniz silinecektir. Gerekirse, gelecekte aynı e-posta adresiyle yeni bir hesap açabileceksiniz.</li> </ol> <p>Lütfen bu taleplerden herhangi birini işlemek için biraz zamana ihtiyacımız olacağını unutmayın. Talebiniz ile ilgili olarak sizinle e-posta veya başka yollarla iletişime geçebiliriz.</p>"
+
+msgctxt "Languages::gdpr.send_my_data"
+msgid "Send me my data"
+msgstr "verilerimi bana gönder"
+
+msgctxt "Languages::gdpr.send_my_data_description"
+msgid "<p>We’ll send you an XML file with all your personal data we have. Please note that we’ll need some time to process this request, so the email with your XML file won’t be sent immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Sahip olduğumuz tüm kişisel verilerinizi içeren bir XML dosyası göndereceğiz. Lütfen bu isteği işleme koymak için biraz zamana ihtiyacımız olacağını, bu nedenle XML dosyanızı içeren e-postanın hemen gönderilmeyeceğini unutmayın. Talebinizle ilgili herhangi bir yorumunuz varsa, lütfen bunları aşağıdaki alana bırakın.</p>"
+
+msgctxt "Languages::gdpr.email_subject_personal_data_request"
+msgid "Personal Data Copy Request: [customer_email]"
+msgstr "Kişisel Veri Kopyalama Talebi: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_personal_data_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested a copy of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to get the data in the XML format. After that, send the XML file to the customer.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> e-posta adresi [customer_email] ile aşağıdaki yorum ile kişisel verilerin bir kopyasını istedi:</p> <p>[comment]</p> <p>Bu mesajın başındaki bağlantıya tıklayın ve Yönetim panelindeki müşteri profili sayfasındaki ilgili düğmeyi kullanın. verileri XML biçiminde alın. Ardından XML dosyasını müşteriye gönderin.</p>"
+
+msgctxt "Languages::gdpr.remove_my_data"
+msgid "Remove my data"
+msgstr "verilerimi kaldır"
+
+msgctxt "Languages::gdpr.remove_my_data_description"
+msgid "<p>We’ll deactivate your account and remove all your personal data from it. After that you won’t be able to sign in. However, you’ll be able to register a new account with the same email address in the future. Please note that we’ll need some time to process this request, so your account won’t be deactivated immediately. If you have any comments regarding your request, please leave them in the field below.</p>"
+msgstr "<p>Hesabınızı devre dışı bırakacağız ve tüm kişisel verilerinizi hesabınızdan kaldıracağız. Bundan sonra oturum açamayacaksınız. Ancak gelecekte aynı e-posta adresiyle yeni bir hesap açabileceksiniz. Lütfen bu isteği işleme koymak için biraz zamana ihtiyacımız olacağını, bu nedenle hesabınızın hemen devre dışı bırakılmayacağını unutmayın. Talebinizle ilgili herhangi bir yorumunuz varsa, lütfen bunları aşağıdaki alana bırakın.</p>"
+
+msgctxt "Languages::gdpr.email_subject_anonymization_request"
+msgid "Personal Data Removal Request: [customer_email]"
+msgstr "Kişisel Veri Kaldırma Talebi: [customer_email]"
+
+msgctxt "Languages::gdpr.email_body_anonymization_request"
+msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Click the link at the beginning of this message and use the corresponding button on the customer profile page in the Administration panel to anonymize the customer.</p> <p>Please note that <b>this action will replace all the personal data of the customer</b> with randomly generated data. It’s best to make sure that all business with the customer (such as orders and return requests) is concluded before you do that.</p>"
+msgstr "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> e-posta adresi [customer_email] ile aşağıdaki yorum ile kişisel verilerin kaldırılmasını talep etti:</p> <p>[comment]</p> <p>Bu mesajın başındaki bağlantıya tıklayın ve Yönetim panelindeki müşteri profili sayfasındaki ilgili düğmeyi kullanın. müşteriyi anonimleştirir.</p> <p>Lütfen <b>bu eylemin müşterinin</b> tüm kişisel verilerini rastgele oluşturulmuş verilerle değiştireceğini unutmayın. Bunu yapmadan önce müşteriyle olan tüm işlerin (siparişler ve iade talepleri gibi) sonuçlandığından emin olmak en iyisidir.</p>"
+
+msgctxt "Languages::gdpr.user_action_request_success"
+msgid "Your request has been sent successfully."
+msgstr "İsteğiniz başarıyla gönderilmiştir."
+
+msgctxt "Languages::gdpr.user_action_request_fail"
+msgid "An error has occurred during the attempt to send your request. Please try again or send a message to the following email address: <a href=\"mailto:[email]\">[email]</a>"
+msgstr "İsteğinizi gönderme girişimi sırasında bir hata oluştu. Lütfen tekrar deneyin veya aşağıdaki e-posta adresine bir mesaj gönderin: <a href=\"mailto:[email]\">[email]</a>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. If you only have one storefront, the data for the placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>. If you have multiple storefronts, the data will be taken from the settings of the storefront that a customer visits:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Aşağıda listelenen sözleşmelerin metinlerinde <b>[email]</b> veya <b>[company]</b> olabilir. Bunlar, müşteriler sözleşmeleri gördüğünde otomatik olarak gerçek verilerle değiştirilecek olan yer tutuculardır. Yalnızca bir vitrininiz varsa, yer tutuculara ilişkin veriler <a href=\"[company_settings_url]\" target=\"_blank\">Ayarlar → Şirket</a>alınacaktır. Birden fazla vitrininiz varsa, veriler müşterinin ziyaret ettiği vitrinin ayarlarından alınacaktır:</p><ul><li><b>[company]</b> , <i>Şirket adı</i>alınacaktır.</li><li><b>[email]</b> <i>Kullanıcı bölümü e-posta adresinden</i>alınacaktır.</li></ul>"
+
+msgctxt "Languages::gdpr.agreement_variables_hint_mve"
+msgid "<p>The texts of the agreements listed below may have <b>[email]</b> or <b>[company]</b> in them. Those are placeholders that will be automatically replaced with actual data when customers see the agreements. The data for placeholders will be taken from <a href=\"[company_settings_url]\" target=\"_blank\">Settings → Company</a>:</p><ul><li><b>[company]</b> will be taken from <i>Company name</i>.</li><li><b>[email]</b> will be taken from <i>User department e-mail address</i>.</li></ul>"
+msgstr "<p>Aşağıda listelenen sözleşmelerin metinlerinde <b>[email]</b> veya <b>[company]</b> olabilir. Bunlar, müşteriler sözleşmeleri gördüğünde otomatik olarak gerçek verilerle değiştirilecek olan yer tutuculardır. Yer tutucular için veriler <a href=\"[company_settings_url]\" target=\"_blank\">Ayarlar → Şirket</a>alınacaktır:</p><ul><li><b>[company]</b> , <i>Şirket adı</i>alınacaktır.</li><li><b>[email]</b> <i>Kullanıcı bölümü e-posta adresinden</i>alınacaktır.</li></ul>"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_title"
+msgid "Strictly necessary cookies"
+msgstr "Kesinlikle gerekli çerezler"
+
+msgctxt "Languages::gdpr.strictly_necessary_cookies_description"
+msgid "These cookies are essential for the website to work properly. For example, they let you place an order, or help the site remember that you've signed into your account. That's why they can't be disabled through the site. You can configure your browser to disable even these cookies, but important parts of the site won't work without them."
+msgstr "Bu çerezler, web sitesinin düzgün çalışması için gereklidir. Örneğin, sipariş vermenize veya sitenin hesabınızda oturum açtığınızı hatırlamasına yardımcı olurlar. Bu yüzden site üzerinden devre dışı bırakılamazlar. Tarayıcınızı bu tanımlama bilgilerini bile devre dışı bırakacak şekilde yapılandırabilirsiniz, ancak sitenin önemli bölümleri onlarsız çalışmayacaktır."
+
+msgctxt "Languages::gdpr.performance_cookies_title"
+msgid "Performance cookies"
+msgstr "Performans çerezleri"
+
+msgctxt "Languages::gdpr.performance_cookies_description"
+msgid "These cookies allow us to see how the website works. The information that these cookies help to collect is anonymous; it is typically presented in numbers. For example, these cookies help us see how often errors occur, how many unique visitors we have, or how long each page is viewed on average. Thanks to these cookies, we can improve the site for you."
+msgstr "Bu çerezler, web sitesinin nasıl çalıştığını görmemizi sağlar. Bu tanımlama bilgilerinin toplanmasına yardımcı olan bilgiler anonimdir; genellikle sayılarla sunulur. Örneğin, bu tanımlama bilgileri, hataların ne sıklıkta meydana geldiğini, kaç tekil ziyaretçimiz olduğunu veya her sayfanın ortalama olarak ne kadar süreyle görüntülendiğini görmemize yardımcı olur. Bu çerezler sayesinde siteyi sizin için iyileştirebiliriz."
+
+msgctxt "Languages::gdpr.functional_cookies_title"
+msgid "Functional cookies"
+msgstr "Fonksiyonel çerezler"
+
+msgctxt "Languages::gdpr.functional_cookies_description"
+msgid "These cookies enable additional functionality at the website. They may be set by third-party providers whose services we've added to the website. Those services may include many things, like maps, geolocation for preliminary shipping rate calculation, or the ability to sign in with your social network account. Without functional cookies, the parts of the site associated with these services may not work properly."
+msgstr "Bu çerezler, web sitesinde ek işlevsellik sağlar. Hizmetlerini web sitesine eklediğimiz üçüncü taraf sağlayıcılar tarafından belirlenebilirler. Bu hizmetler, haritalar, ön nakliye ücreti hesaplaması için coğrafi konum veya sosyal ağ hesabınızla oturum açma yeteneği gibi birçok şeyi içerebilir. İşlevsel tanımlama bilgileri olmadan, sitenin bu hizmetlerle ilişkili bölümleri düzgün çalışmayabilir."
+
+msgctxt "Languages::gdpr.marketing_cookies_title"
+msgid "Marketing cookies"
+msgstr "Pazarlama çerezleri"
+
+msgctxt "Languages::gdpr.marketing_cookies_description"
+msgid "These cookies are used by our advertising partners. They help them to measure promotion efficiency and serve you ads that are more relevant and less repetitive. This is usually achieved by remembering the browser and device that saw the ad. Turning these cookies off won't reduce the number of ads you see on the internet, but will make them less personalized."
+msgstr "Bu çerezler, reklam ortaklarımız tarafından kullanılmaktadır. Promosyon verimliliğini ölçmelerine ve size daha alakalı ve daha az tekrarlı reklamlar sunmalarına yardımcı olurlar. Bu genellikle, reklamı gören tarayıcıyı ve cihazı hatırlayarak gerçekleştirilir. Bu çerezleri kapatmak, internette gördüğünüz reklamların sayısını azaltmaz, ancak onları daha az kişiselleştirir."
+
+msgctxt "Languages::gdpr.eway_cookies_title"
+msgid "eWAY"
+msgstr "eWAY"
+
+msgctxt "Languages::gdpr.eway_cookies_description"
+msgid "eWAY is a payment provider. It allows us to accept payments, if you choose a payment method powered by eWAY. Here is <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY privacy policy</a>."
+msgstr "eWAY bir ödeme sağlayıcısıdır. eWAY tarafından desteklenen bir ödeme yöntemi seçerseniz, ödemeleri kabul etmemizi sağlar. İşte <a href=\"https://www.eway.com.au/privacy-policy/\" target=\"_blank\">eWAY gizlilik politikası</a>."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_title"
+msgid "You can find out more in this document: {privacyPolicy}."
+msgstr "Bu belgede daha fazlasını bulabilirsiniz: {privacyPolicy}."
+
+msgctxt "Languages::gdpr.klaro_privacy_policy_name"
+msgid "Privacy policy"
+msgstr "Gizlilik Politikası"
+
+msgctxt "Languages::gdpr.klaro_service"
+msgid "service"
+msgstr "hizmet"
+
+msgctxt "Languages::gdpr.klaro_services"
+msgid "services"
+msgstr "Hizmetler"
+
+msgctxt "Languages::gdpr.klaro_accept_all"
+msgid "Accept all"
+msgstr "Hepsini kabul et"
+
+msgctxt "Languages::gdpr.klaro_accept_selected"
+msgid "Accept selected"
+msgstr "Seçilenleri kabul et"
+
+msgctxt "Languages::gdpr.klaro_close"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "Languages::gdpr.klaro_consent_modal_description"
+msgid "Here you can assess and customize the services (and their respective cookies) that we'd like to use on this website. You're in charge! Enable or disable services as you see fit."
+msgstr "Burada, bu web sitesinde kullanmak istediğimiz hizmetleri (ve ilgili çerezleri) değerlendirebilir ve özelleştirebilirsiniz. Sorumlu sensin! Hizmetleri uygun gördüğünüz şekilde etkinleştirin veya devre dışı bırakın."
+
+msgctxt "Languages::gdpr.klaro_consent_modal_title"
+msgid "Cookies we would like to use"
+msgstr "Kullanmak istediğimiz çerezler"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_change_description"
+msgid "There were changes since your last visit, please renew your consent."
+msgstr "Son ziyaretinizden bu yana değişiklikler oldu, lütfen onayınızı yenileyin."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_title"
+msgid "Cookie Consent"
+msgstr "Çerez İzni"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_description"
+msgid "Hi! Could we please enable some additional services that require cookies? You can always change or withdraw your consent later."
+msgstr "Merhaba! Çerez gerektiren bazı ek hizmetleri etkinleştirebilir miyiz? Onayınızı daha sonra istediğiniz zaman değiştirebilir veya geri çekebilirsiniz."
+
+msgctxt "Languages::gdpr.klaro_consent_notice_learn_more"
+msgid "Let me choose"
+msgstr "Seçmeme izin ver"
+
+msgctxt "Languages::gdpr.klaro_consent_notice_testing"
+msgid "Testing mode!"
+msgstr "Test modu!"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_always"
+msgid "Always"
+msgstr "Hep"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_accept_once"
+msgid "'Yes'"
+msgstr "'Evet'"
+
+msgctxt "Languages::gdpr.klaro_contextual_consent_description"
+msgid "Do you want to load external content supplied by {title}?"
+msgstr "{title}tarafından sağlanan harici içeriği yüklemek istiyor musunuz?"
+
+msgctxt "Languages::gdpr.klaro_decline"
+msgid "I decline"
+msgstr "reddediyorum"
+
+msgctxt "Languages::gdpr.klaro_ok"
+msgid "That's ok"
+msgstr "Bu iyi"
+
+msgctxt "Languages::gdpr.klaro_powered_by"
+msgid "Realized with Klaro!"
+msgstr "Klaro ile gerçekleşti!"
+
+msgctxt "Languages::gdpr.klaro_service_purpose"
+msgid "purpose"
+msgstr "amaç"
+
+msgctxt "Languages::gdpr.klaro_service_purposes"
+msgid "purposes"
+msgstr "amaçlar"
+
+msgctxt "Languages::gdpr.klaro_service_required_description"
+msgid "This service is always required"
+msgstr "Bu hizmet her zaman gereklidir"
+
+msgctxt "Languages::gdpr.disable_all_description"
+msgid "Use this switch to enable or disable all services."
+msgstr "Tüm hizmetleri etkinleştirmek veya devre dışı bırakmak için bu anahtarı kullanın."
+
+msgctxt "Languages::gdpr.disable_all_title"
+msgid "Enable or disable all services"
+msgstr "Tüm hizmetleri etkinleştirin veya devre dışı bırakın"
+
+msgctxt "Languages::gdpr.opt_out_description"
+msgid "This service is enabled by default (but you can opt out)"
+msgstr "Bu hizmet varsayılan olarak etkindir (ancak devre dışı bırakabilirsiniz)"
+
+msgctxt "Languages::gdpr.opt_out_title"
+msgid "(opt-out)"
+msgstr "(vazgeçmek)"
+
+msgctxt "Languages::gdpr.klaro_service_required_title"
+msgid "(always required)"
+msgstr "(her zaman gerekli)"
+

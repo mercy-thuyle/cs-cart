@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe_connect.po\n"
+"X-Crowdin-File-ID: 6676\n"
+"PO-Revision-Date: 2022-06-23 09:43\n"
+
+msgctxt "Addons::name::stripe_connect"
+msgid "Stripe Connect payments"
+msgstr "Pagamenti Stripe Connect"
+
+msgctxt "Addons::description::stripe_connect"
+msgid "This add-on will help root store administrators to distribute funds automatically among multiple vendors through Stripe."
+msgstr "Questo componente aggiuntivo aiuterà gli amministratori del root store a distribuire automaticamente i fondi tra più fornitori tramite Stripe."
+
+msgctxt "SettingsSections::stripe_connect::general"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "SettingsOptions::stripe_connect::collect_payouts"
+msgid "Commission includes"
+msgstr "Commissione include"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::N"
+msgid "Order commission"
+msgstr "Commissione d'ordine"
+
+msgctxt "SettingsVariants::stripe_connect::collect_payouts::Y"
+msgid "Order commission and unpaid payouts"
+msgstr "Commissione d'ordine e pagamenti non pagati"
+
+msgctxt "Languages::stripe_connect.stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+msgctxt "Languages::stripe_connect.stripe_connect_short"
+msgid "Stripe"
+msgstr "Banda"
+
+msgctxt "Languages::stripe_connect.redirect_uri_admin"
+msgid "Redirect URI for administrator"
+msgstr "Reindirizzamento URI per l'amministratore"
+
+msgctxt "Languages::stripe_connect.redirect_uris.description"
+msgid "Copy and paste this address into your Stripe Connect app settings"
+msgstr "Copia e incolla questo indirizzo nelle impostazioni dell'app Stripe Connect"
+
+msgctxt "Languages::stripe_connect.redirect_uri_vendor"
+msgid "Redirect URI for vendor"
+msgstr "URI di reindirizzamento per il fornitore"
+
+msgctxt "Languages::stripe_connect.client_id"
+msgid "Client ID"
+msgstr "Identificativo cliente"
+
+msgctxt "Languages::stripe_connect.publishable_key"
+msgid "Publishable key"
+msgstr "Chiave pubblicabile"
+
+msgctxt "Languages::stripe_connect.secret_key"
+msgid "Secret key"
+msgstr "Chiave segreta"
+
+msgctxt "Languages::stripe_connect.connect_with_stripe_standard"
+msgid "Connect with Stripe Standard"
+msgstr "Connettiti con Stripe Standard"
+
+msgctxt "Languages::stripe_connect.disconnect"
+msgid "Disconnect account"
+msgstr "Disconnetti l'account"
+
+msgctxt "Languages::stripe_connect.stripe_account"
+msgid "Stripe account"
+msgstr "Conto a strisce"
+
+msgctxt "Languages::stripe_connect.connected"
+msgid "Connected"
+msgstr "Collegato"
+
+msgctxt "Languages::stripe_connect.not_connected"
+msgid "Not connected"
+msgstr "Non connesso"
+
+msgctxt "Languages::stripe_connect.account_connected"
+msgid "Your Stripe account has been successfully connected to the store"
+msgstr "Il tuo account Stripe è stato collegato correttamente al negozio"
+
+msgctxt "Languages::stripe_connect.account_disconnected"
+msgid "Your Stripe account has been successfully disconnected from the store"
+msgstr "Il tuo account Stripe è stato disconnesso con successo dal negozio"
+
+msgctxt "Languages::stripe_connect.withdrawal_for_the_order"
+msgid "Withdrawal for the order #[order_id]"
+msgstr "Ritiro per l'ordine n.[order_id]"
+
+msgctxt "Languages::stripe_connect.refund_id"
+msgid "Refund transaction ID"
+msgstr "ID transazione di rimborso"
+
+msgctxt "Languages::stripe_connect.rma.perform_refund"
+msgid "Give a refund via Stripe Connect"
+msgstr "Fai un rimborso tramite Stripe Connect"
+
+msgctxt "Languages::ttc_stripe_connect.rma.perform_refund"
+msgid "A refund will be made once an administrator changes the return request status"
+msgstr "Verrà effettuato un rimborso una volta che un amministratore modifica lo stato della richiesta di reso"
+
+msgctxt "Languages::stripe_connect.rma.refund_performed"
+msgid "The refund has been made via Stripe Connect"
+msgstr "Il rimborso è stato effettuato tramite Stripe Connect"
+
+msgctxt "Languages::stripe_connect.token"
+msgid "Credit card token"
+msgstr "Gettone della carta di credito"
+
+msgctxt "Languages::stripe_connect.own_account_cant_be_used_for_vendor"
+msgid "Your own Stripe account can't be used to connect a vendor to the store"
+msgstr "Il tuo account Stripe non può essere utilizzato per collegare un fornitore al negozio"
+
+msgctxt "Languages::stripe_connect.rma.order_status_on_refund"
+msgid "Order status on refund"
+msgstr "Stato dell'ordine al momento del rimborso"
+
+msgctxt "Languages::ttc_stripe_connect.rma.order_status_on_refund"
+msgid "Determines whether or not to change the order status after a refund was performed via the RMA add-on."
+msgstr "Determina se modificare o meno lo stato dell'ordine dopo che è stato eseguito un rimborso tramite il componente aggiuntivo RMA."
+
+msgctxt "Languages::stripe_connect.do_not_change"
+msgid "Do not change"
+msgstr "Non cambiare"
+
+msgctxt "Languages::stripe_connect.set_status_to"
+msgid "Set to:"
+msgstr "Impostato:"
+
+msgctxt "Languages::stripe_connect.charge_id"
+msgid "Charge ID"
+msgstr "ID addebito"
+
+msgctxt "Languages::stripe_connect.transfer_id"
+msgid "Transfer ID"
+msgstr "Trasferimento ID"
+
+msgctxt "Languages::stripe_connect.payment_id"
+msgid "Payment ID"
+msgstr "ID pagamento"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure"
+msgid "Enable 3-D Secure"
+msgstr "Abilita 3-D Secure"
+
+msgctxt "Languages::stripe_connect.enable_3d_secure.description"
+msgid "<p>When 3-D Secure is <b>disabled</b>, money will go straight to the connected Stripe accounts of vendors. Commissions and payouts will be taken from vendors as <a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">application fees</a>.</p><p>When 3-D Secure is <b>enabled</b>, money will first go to the marketplace owner's Stripe account. Then it will be automatically distributed between the connected Stripe accounts via transfers. Transfers require that the marketplace owner and vendors have their accounts in the same region: either all in Europe, or all in the U.S. If a vendor's account is in a different region from the marketplace owner's, the money won't be transferred to that vendor automatically.</p>"
+msgstr "<p>Quando 3-D Secure è <b>disabilitato</b>, il denaro andrà direttamente ai conti Stripe dei fornitori collegati. Commissioni e pagamenti saranno prelevati dai fornitori come <a href=\"https://stripe.com/docs/connect/direct-charges#collecting-fees\" target=\"_blank\">tasse di iscrizione</a>.</p><p>Quando 3-D Secure è <b>abilitato</b>, il denaro andrà prima all'account Stripe del proprietario del mercato. Quindi verrà automaticamente distribuito tra gli account Stripe collegati tramite trasferimenti. I trasferimenti richiedono che il proprietario del mercato e i fornitori abbiano i loro conti nella stessa regione: tutti in Europa o tutti negli Stati Uniti Se l'account di un venditore si trova in una regione diversa da quella del proprietario del mercato, il denaro non verrà trasferito a quel venditore automaticamente.</p>"
+
+msgctxt "Languages::stripe_connect.gift_certificate_used"
+msgid "A gift certificate was used in this order. [product] doesn't know which of the vendors should get the money, and how much. Please transfer money from this order to each vendor manually."
+msgstr "In questo ordine è stato utilizzato un buono regalo. [product] non sa quale dei fornitori dovrebbe ottenere i soldi e quanto. Si prega di trasferire manualmente il denaro da questo ordine a ciascun fornitore."
+
+msgctxt "Languages::stripe_connect.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "Si è verificato un errore durante la creazione di un PaymentIntent con il pagamento #[payment_id]: [error]"
+
+msgctxt "Languages::log_type_stripe_connect"
+msgid "Stripe Connect"
+msgstr "Stripe Connect"
+
+msgctxt "Languages::log_action_sc_failure"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "Languages::log_action_sc_warning"
+msgid "Warning"
+msgstr "Avvertimento"
+
+msgctxt "Languages::log_action_sc_info"
+msgid "Info"
+msgstr "Informazioni"
+
+msgctxt "Languages::stripe_connect.log_context"
+msgid "Context"
+msgstr "Contesto"
+
+msgctxt "Languages::stripe_connect.unexpected_payment_intent_status"
+msgid "Unexpected status \"[status]\" of PaymentIntent"
+msgstr "Stato imprevisto \"[status]\" di PaymentIntent"
+
+msgctxt "Languages::stripe_connect.transfer_creating_error"
+msgid "An error occurred during the creation of a Stripe transfer: [error]"
+msgstr "Si è verificato un errore durante la creazione di un trasferimento Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.charge_creating_error"
+msgid "An error occurred during the creation of a Stripe charge: [error]"
+msgstr "Si è verificato un errore durante la creazione di un addebito Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.customer_creating_error"
+msgid "An error occurred during the creation of a Stripe customer: [error]"
+msgstr "Si è verificato un errore durante la creazione di un cliente Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.customer_sharing_error"
+msgid "An error occurred during the share of a Stripe customer: [error]"
+msgstr "Si è verificato un errore durante la condivisione di un cliente Stripe: [error]"
+
+msgctxt "Languages::stripe_connect.stripe_processor_params_missing"
+msgid "Stripe processor params missing"
+msgstr "Parametri del processore Stripe mancanti"
+
+msgctxt "Languages::stripe_connect.account_was_deauthorized"
+msgid "Account of company \"[company]\" (company ID = [company_id]) was deauthorized"
+msgstr "L'account della società \"[company]\" (ID società = [company_id]) è stato revocato"
+
+msgctxt "Languages::stripe_connect.on"
+msgid "On"
+msgstr "Su"
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds"
+msgid "Delay transfer of funds"
+msgstr "Ritardare il trasferimento di fondi"
+
+msgctxt "Languages::stripe_connect.transfer_funds_to_vendors"
+msgid "Transfer funds to vendors"
+msgstr "Trasferisci fondi ai fornitori"
+
+msgctxt "Languages::stripe_connect.automatic_transfer"
+msgid "Automatic transfer"
+msgstr "Trasferimento automatico"
+
+msgctxt "Languages::stripe_connect.trigger_transfer_funds.description"
+msgid "Only works when 3-D Secure is enabled. Allows you to check the orders first, instead of sending money to all vendors immediately. Transfer money to each vendor manually from the order page, or schedule automatic periodic transfers to all vendors with a cron command."
+msgstr "Funziona solo quando 3-D Secure è abilitato. Ti consente di controllare prima gli ordini, invece di inviare denaro a tutti i fornitori immediatamente. Trasferisci denaro a ciascun fornitore manualmente dalla pagina dell'ordine o pianifica trasferimenti periodici automatici a tutti i fornitori con un comando cron."
+
+msgctxt "Languages::stripe_connect.cron_text"
+msgid "The command below automatically transfers funds to vendors for all orders that are older than 14 days. Add it to cron to make sure that vendors get paid regularly. You can change the value of \"--days\" from 14 to any number."
+msgstr "Il comando seguente trasferisce automaticamente i fondi ai fornitori per tutti gli ordini precedenti a 14 giorni. Aggiungilo a cron per assicurarti che i fornitori vengano pagati regolarmente. È possibile modificare il valore di \"--days\" da 14 a qualsiasi numero."
+
+msgctxt "Languages::stripe_connect.delay_transfer_of_funds_to_vendors"
+msgid "Delay transfer of funds to vendors"
+msgstr "Ritardare il trasferimento di fondi ai fornitori"
+
+msgctxt "Languages::stripe_connect.redirect_uris"
+msgid "Redirect URIs"
+msgstr "Reindirizzare gli URI"
+
+msgctxt "Languages::stripe_connect.funds_were_transferred_to_vendor"
+msgid "Funds were transferred to vendor."
+msgstr "I fondi sono stati trasferiti al venditore."
+
+msgctxt "Languages::stripe_connect.funds_transferred_successfully"
+msgid "Funds have been transferred successfully."
+msgstr "I fondi sono stati trasferiti con successo."
+
+msgctxt "Languages::stripe_connect.transfer_funds_error"
+msgid "Couldn't transfer funds to vendor. Please try again later or contact the payment processor."
+msgstr "Impossibile trasferire i fondi al fornitore. Riprova più tardi o contatta il processore di pagamento."
+
+msgctxt "Languages::stripe_connect.reason_with_error_text"
+msgid "Reason (as provided by the payment processor): [error_text]"
+msgstr "Motivo (come fornito dal processore di pagamento): [error_text]"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts"
+msgid "Allow Express accounts"
+msgstr "Consenti account Express"
+
+msgctxt "Languages::stripe_connect.allow_express_accounts.description"
+msgid "Express accounts are much easier to register, and they have a simpler Stripe dashboard. But when you use Express accounts, your marketplace bears more responsibility, and there are platform fees involved. For more information, check Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">pricing</a> and <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">documentation on Express accounts</a>."
+msgstr "Gli account Express sono molto più facili da registrare e hanno una dashboard Stripe più semplice. Ma quando utilizzi gli account Express, il tuo mercato ha maggiori responsabilità e sono coinvolte commissioni di piattaforma. Per ulteriori informazioni, consulta la documentazione sui prezzi</a> e <a href=\"https://stripe.com/docs/connect/express-accounts\" target=\"_blank\">di Stripe Connect <a href=\"https://stripe.com/connect/pricing\" target=\"_blank\">sugli account Express</a>."
+
+msgctxt "Languages::stripe_connect.connect_stripe_express_account"
+msgid "Connect a Stripe Express account"
+msgstr "Collega un account Stripe Express"
+
+msgctxt "Languages::stripe_connect.connect_stripe_standard_account"
+msgid "I already have a Stripe Standard account"
+msgstr "Ho già un account Stripe Standard"
+
+msgctxt "Languages::stripe_connect.express_dashboard"
+msgid "Stripe Dashboard"
+msgstr "Cruscotto a strisce"
+
+msgctxt "Languages::stripe_connect.express_dashboard_menu_description"
+msgid "Transactions that went through your Stripe Express account."
+msgstr "Transazioni che sono passate attraverso il tuo account Stripe Express."
+
+msgctxt "Languages::stripe_connect.continue_express_registration"
+msgid "Continue Express registration"
+msgstr "Continua Registrazione rapida"
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete"
+msgid "Stripe still requires some data from you before you can accept payments. Please continue the registration and fill in the remaining fields. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripe richiede ancora alcuni dati da te prima di poter accettare pagamenti. Continua la registrazione e compila i campi rimanenti. Se hai inserito tutte le informazioni (anche i campi non obbligatori) e vedi ancora questo messaggio, controlla questa pagina tra un giorno o due. Se ciò non aiuta, contatta l'amministrazione del mercato."
+
+msgctxt "Languages::stripe_connect.registration_is_not_complete_linked"
+msgid "Stripe still requires some data from you before you can accept payments. Please <a href=\"[url]\">continue the registration and fill in the remaining fields</a>. If you've entered all the information (even the fields that aren't required) and still see this message, check this page in a day or two. If that doesn't help, please contact marketplace administration."
+msgstr "Stripe richiede ancora alcuni dati da te prima di poter accettare pagamenti. Per favore <a href=\"[url]\">continua la registrazione e compila i campi rimanenti</a>. Se hai inserito tutte le informazioni (anche i campi non obbligatori) e vedi ancora questo messaggio, controlla questa pagina tra un giorno o due. Se ciò non aiuta, contatta l'amministrazione del mercato."
+
+msgctxt "Languages::stripe_connect.account_was_rejected_and_unlinked"
+msgid "Account <b>[account_id]</b> was rejected and unlinked from the marketplace."
+msgstr "L'account <b>[account_id]</b> è stato rifiutato e scollegato dal mercato."
+
+msgctxt "Languages::stripe_connect.check_accounts_cron"
+msgid "The command below checks the statuses of the Express accounts that your vendors create. For example, if you reject a vendor's account on the Stripe end, that's how Multi-Vendor will know about it. Add this command to cron and run it once a day for smoother checkout experience."
+msgstr "Il comando seguente controlla gli stati degli account Express creati dai tuoi fornitori. Ad esempio, se rifiuti l'account di un fornitore su Stripe, è così che Multi-Vendor lo saprà. Aggiungi questo comando a cron ed eseguilo una volta al giorno per un'esperienza di pagamento più fluida."
+
+msgctxt "Languages::stripe_connect.check_accounts"
+msgid "Check accounts"
+msgstr "Controlla i conti"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_title"
+msgid "Stripe"
+msgstr "Banda"
+
+msgctxt "Languages::stripe_connect.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe è un fornitore di servizi di pagamento. Ci consente di accettare pagamenti, se scegli un metodo di pagamento basato su Stripe. Ecco <a href=\"https://stripe.com/privacy\" target=\"_blank\">Informativa sulla privacy di Stripe</a>."
+

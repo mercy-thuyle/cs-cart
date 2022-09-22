@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_locations.po\n"
+"X-Crowdin-File-ID: 6684\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::vendor_locations"
+msgid "Vendor locations [Beta]"
+msgstr "공급업체 위치 [Beta]"
+
+msgctxt "Addons::description::vendor_locations"
+msgid "Allows vendors to specify their addresses, so that customers can see distance to vendors and filter products and vendors by their locations."
+msgstr "공급업체가 주소를 지정할 수 있도록 하여 고객이 공급업체까지의 거리를 확인하고 위치별로 제품 및 공급업체를 필터링할 수 있습니다."
+
+msgctxt "SettingsOptions::vendor_locations::api_key"
+msgid "Google Maps API key"
+msgstr "Google 지도 API 키"
+
+msgctxt "SettingsTooltips::vendor_locations::api_key"
+msgid "Get the API key by following the instructions here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr "https://developers.google.com/maps/documentation/javascript/get-api-key의 지침에 따라 API 키를 가져옵니다."
+
+msgctxt "SettingsOptions::vendor_locations::start_search_radius"
+msgid "Default radius in distance filter"
+msgstr "거리 필터의 기본 반경"
+
+msgctxt "SettingsTooltips::vendor_locations::start_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the default search radius for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "고객이 위치를 입력하면 특정 거리 내에서 제품을 검색할 수 있는 제품 필터를 수동으로 추가할 수 있습니다. 이 설정은 해당 필터의 기본 검색 반경을 결정합니다. 필터를 생성하지 않으면 거리와 상관없이 상품이 노출되며, 이 설정은 아무런 영향을 미치지 않습니다."
+
+msgctxt "SettingsOptions::vendor_locations::max_search_radius"
+msgid "Maximum radius in distance filter"
+msgstr "거리 필터의 최대 반경"
+
+msgctxt "SettingsTooltips::vendor_locations::max_search_radius"
+msgid "You can manually add a product filter that allows customers to search for products within a certain distance if they enter their location. This setting determines the maximum search radius possible for that filter. If you don't create a filter, products will be shown regardless of distance, and this setting won't have any effect."
+msgstr "고객이 위치를 입력하면 특정 거리 내에서 제품을 검색할 수 있는 제품 필터를 수동으로 추가할 수 있습니다. 이 설정은 해당 필터에 대해 가능한 최대 검색 반경을 결정합니다. 필터를 생성하지 않으면 거리와 상관없이 상품이 노출되며, 이 설정은 아무런 영향을 미치지 않습니다."
+
+msgctxt "SettingsOptions::vendor_locations::distance_unit"
+msgid "Distance measurement unit"
+msgstr "거리 측정 단위"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::km"
+msgid "km"
+msgstr "km"
+
+msgctxt "SettingsVariants::vendor_locations::distance_unit::miles"
+msgid "mi"
+msgstr "미"
+
+msgctxt "SettingsOptions::vendor_locations::filter_by"
+msgid "Vendors shown by default"
+msgstr "기본적으로 표시되는 공급업체"
+
+msgctxt "SettingsTooltips::vendor_locations::filter_by"
+msgid "Determines what vendors are shown on the vendor list page (and on the map displayed on that page) by default."
+msgstr "기본적으로 공급업체 목록 페이지(및 해당 페이지에 표시된 지도)에 표시되는 공급업체를 결정합니다."
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::none"
+msgid "All"
+msgstr "모두"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::city"
+msgid "From customer's city"
+msgstr "고객의 도시에서"
+
+msgctxt "SettingsVariants::vendor_locations::filter_by::country"
+msgid "From customer's country"
+msgstr "고객의 국가에서"
+
+msgctxt "Languages::vendor_locations.location"
+msgid "Location"
+msgstr "위치"
+
+msgctxt "Languages::tt_addons_vendor_locations_hooks_companies_shipping_address_post_vendor_locations.location"
+msgid "The address that will be used to determine the position on Google Maps."
+msgstr "Google 지도에서 위치를 결정하는 데 사용되는 주소입니다."
+
+msgctxt "Languages::block_location_selector"
+msgid "Customer's location"
+msgstr "고객의 위치"
+
+msgctxt "Languages::block_location_selector_description"
+msgid "Enter address to search by location"
+msgstr "위치로 검색하려면 주소를 입력하세요"
+
+msgctxt "Languages::vendor_locations.search_vendors_by_address"
+msgid "Search vendors"
+msgstr "공급업체 검색"
+
+msgctxt "Languages::block_search_vendors"
+msgid "Vendors by location"
+msgstr "위치별 공급업체"
+
+msgctxt "Languages::block_search_vendors_description"
+msgid "Search for vendors in a specific location"
+msgstr "특정 위치의 공급업체 검색"
+
+msgctxt "Languages::block_closest_vendors"
+msgid "Closest vendors"
+msgstr "가장 가까운 공급업체"
+
+msgctxt "Languages::block_closest_vendors_description"
+msgid "Vendors from customer's city"
+msgstr "고객의 도시에서 공급 업체"
+
+msgctxt "Languages::block_vendors_map"
+msgid "Vendor map"
+msgstr "공급업체 지도"
+
+msgctxt "Languages::block_vendors_map_description"
+msgid "A map of all vendors"
+msgstr "모든 공급업체의 지도"
+
+msgctxt "Languages::vendor_location.search_vendors_geolocation"
+msgid "Search for vendors"
+msgstr "공급업체 검색"
+
+msgctxt "Languages::vendor_locations.block_template_location_selector"
+msgid "Location selector"
+msgstr "위치 선택기"
+
+msgctxt "Languages::vendor_locations.filter_by_city"
+msgid "Vendor's city"
+msgstr "공급업체의 도시"
+
+msgctxt "Languages::vendor_locations.filter_by_distance"
+msgid "Distance to vendor"
+msgstr "공급업체까지의 거리"
+
+msgctxt "Languages::vendor_locations.customer_geolocation"
+msgid "Your location"
+msgstr "내 위치"
+
+msgctxt "Languages::vendor_locations.select_city"
+msgid "Select a city"
+msgstr "도시 선택"
+
+msgctxt "Languages::vendor_locations.selected_city"
+msgid "Selected city"
+msgstr "선택한 도시"
+
+msgctxt "Languages::vendor_locations.not_your_city"
+msgid "Not your city?"
+msgstr "당신의 도시가 아닌가요?"
+
+msgctxt "Languages::vendor_locations.search_city"
+msgid "Search for a city"
+msgstr "도시 검색"
+
+msgctxt "Languages::vendor_locations.search_nearby"
+msgid "Search nearby"
+msgstr "주변 검색"
+
+msgctxt "Languages::vendor_locations.nearby"
+msgid "Nearby"
+msgstr "가까운"
+
+msgctxt "Languages::vendor_locations.vendors_map"
+msgid "Vendors map"
+msgstr "공급업체 지도"
+
+msgctxt "Languages::vendor_locations.closest_vendors"
+msgid "Closest vendors"
+msgstr "가장 가까운 공급업체"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_title"
+msgid "Google Maps"
+msgstr "구글지도"
+
+msgctxt "Languages::vendor_locations.google_maps_cookie_description"
+msgid "Google Maps is a service that allows us to show the maps and various locations on those maps, or automatically determine your location. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy;</a> we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google 지도는 해당 지도에 지도와 다양한 위치를 표시하거나 자동으로 위치를 확인할 수 있는 서비스입니다. 여기 <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google 개인 정보 보호 정책이 있습니다.</a> 개인 정보 보호에 대한 Google의 간결하고 포괄적인 <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">참고 사항도 권장합니다.</a>."
+

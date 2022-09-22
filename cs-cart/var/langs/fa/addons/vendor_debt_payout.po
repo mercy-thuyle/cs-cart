@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/vendor_debt_payout.po\n"
+"X-Crowdin-File-ID: 6672\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "پرداخت از فروشنده به مدیر"
+
+msgctxt "Addons::description::vendor_debt_payout"
+msgid "Restricts the functionality of vendors' admin panels under certain conditions and enables your vendors to pay their fees and debts from their admin panel dashboards. It is as easy as purchasing a product from the storefront."
+msgstr "عملکرد پنل‌های مدیریت فروشندگان را تحت شرایط خاص محدود می‌کند و به فروشندگان شما امکان می‌دهد هزینه‌ها و بدهی‌های خود را از داشبورد پنل مدیریت خود پرداخت کنند. به همین سادگی خرید یک محصول از ویترین فروشگاه است."
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_lowers_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "اگر موجودی فروشندگان در زیر باقی بماند، آنها را تعلیق کنید"
+
+msgctxt "SettingsOptions::vendor_debt_payout::default_grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "مهلت برای پر کردن مجدد موجودی"
+
+msgctxt "SettingsOptions::vendor_debt_payout::vendor_taxes"
+msgid "Taxes on refilling balance"
+msgstr "مالیات بر موجودی پر کردن مجدد"
+
+msgctxt "Languages::vendor_debt_payout"
+msgid "Vendor-to-admin payments"
+msgstr "پرداخت از فروشنده به مدیر"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout"
+msgid "Marketplace fees"
+msgstr "هزینه های بازار"
+
+msgctxt "Languages::vendor_debt_payout.debt_payout_w_order"
+msgid "Marketplace fees (order #[id])"
+msgstr "هزینه های بازار (سفارش شماره[id])"
+
+msgctxt "Languages::vendor_debt_payout.payment_surcharge_w_order"
+msgid "Payment surcharge for marketplace fees (order #[id])"
+msgstr "هزینه اضافی پرداخت برای هزینه های بازار (سفارش شماره[id])"
+
+msgctxt "Languages::vendor_debt_payout.pay_fees"
+msgid "Pay the fees"
+msgstr "هزینه ها را پرداخت کنید"
+
+msgctxt "Languages::vendor_debt_payout.vendor_debt_limit"
+msgid "Restrict admin panel functions if vendor's debt reaches"
+msgstr "در صورت رسیدن بدهی فروشنده، عملکردهای پنل مدیریت را محدود کنید"
+
+msgctxt "Languages::ttc_vendor_debt_payout.vendor_debt_limit"
+msgid "When a vendor's balance is negative and reaches this number, the vendor's administration panel will not allow to perform any actions. When a vendor's negative balance is half this number, the vendor will see the warning specified in the \"vendor_debt_payout.debt_near_limit_message\" language variable."
+msgstr "وقتی موجودی فروشنده منفی است و به این عدد می رسد، پنل مدیریت فروشنده اجازه انجام هیچ عملی را نمی دهد. وقتی موجودی منفی فروشنده نصف این عدد باشد، فروشنده اخطار مشخص شده در متغیر زبان \"vendor_debt_payout.debt_near_limit_message\" را می بیند."
+
+msgctxt "Languages::vendor_debt_payout.payout_overdue_limit"
+msgid "Grace period for vendor plan fees"
+msgstr "دوره مهلت برای هزینه های طرح فروشنده"
+
+msgctxt "Languages::ttc_vendor_debt_payout.payout_overdue_limit"
+msgid "Payments for plans are drawn from the vendor's account balance. If the balance gets negative after the fee is taken, and this period expires, the vendor's administration panel will not allow to perform any actions until the vendor pays the debt."
+msgstr "پرداخت ها برای طرح ها از موجودی حساب فروشنده گرفته می شود. اگر موجودی پس از اخذ کارمزد منفی شود و این مدت منقضی شود، پنل مدیریت فروشنده تا زمانی که فروشنده بدهی را پرداخت نکند، اجازه انجام هیچ کاری را نخواهد داد."
+
+msgctxt "Languages::vendor_debt_payout.day_or_days"
+msgid "day(s)"
+msgstr "روزها)"
+
+msgctxt "Languages::vendor_debt_payout.pending_payout_message"
+msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "برای استفاده از طرح [plan_name] باید هزینه [fee_amount] را پرداخت کنید. موجودی حساب جاری شما [current_balance]است. اگر هزینه تا [overdue_date]پرداخت نشود، تا زمانی که <a href=\"[pay_url]\" target=\"_blank\">تمام هزینه</a>بازار خود را پرداخت نکنید، نمی توانید با پنل مدیریت کار کنید."
+
+msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
+msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
+msgstr "موجودی حساب شما در حال حاضر [current_balance]است. اگر به [minimal_balance]برسد، تا زمانی که <a href=\"[pay_url]\" target=\"_blank\">تمام هزینه</a>بازار خود را پرداخت نکنید، نمی توانید از پانل مدیریت خود استفاده کنید."
+
+msgctxt "Languages::vendor_debt_payout.block_alert"
+msgid "<p>Your access to the administration panel has been restricted automatically because you have reached the limit of negative account balance or haven't paid a fee for your vendor plan in time.</p><p>Your current account balance is [current_balance].</p><p>Please <a href=\"[pay_url]\">pay the marketplace fees</a> — once the payment is processed, your access to the administration panel will be restored automatically.</p>"
+msgstr "<p>دسترسی شما به پانل مدیریت به طور خودکار محدود شده است زیرا به حد مجاز موجودی منفی حساب رسیده اید یا هزینه ای برای طرح فروشنده خود به موقع پرداخت نکرده اید.</p><p>موجودی حساب جاری شما [current_balance]است.</p><p>لطفاً <a href=\"[pay_url]\">هزینه های بازار را بپردازید</a> - پس از پردازش پرداخت، دسترسی شما به پنل مدیریت به طور خودکار بازیابی می شود.</p>"
+
+msgctxt "Languages::vendor_debt_payout.suspend_vendors"
+msgid "Suspend vendors"
+msgstr "تعلیق فروشندگان"
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance"
+msgid "Suspend vendors if their balance remains below"
+msgstr "اگر موجودی فروشندگان در زیر باقی بماند، آنها را تعلیق کنید"
+
+msgctxt "Languages::vendor_debt_payout.grace_period_to_refill_balance"
+msgid "Grace period to refill balance"
+msgstr "مهلت برای پر کردن مجدد موجودی"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
+msgid "The debt of [amount] that hasn't been paid until [date]."
+msgstr "بدهی [amount] که تا [date]پرداخت نشده است."
+
+msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
+msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
+msgstr "برای تسهیل کار با فروشندگان معلق، لطفاً تنظیمات افزونه <a href=\"[link]\">پرداخت فروشنده به سرپرست</a> را بررسی کنید."
+
+msgctxt "Languages::vendor_debt_payout.vendor_plan_debt_info_text"
+msgid "A vendor can get suspended if the debt exceeds the conditions of the <a href=\"[link]\">vendor plan</a>."
+msgstr "اگر بدهی بیش از شرایط طرح <a href=\"[link]\">فروشنده</a>باشد، فروشنده می تواند تعلیق شود."
+
+msgctxt "Languages::vendor_debt_payout.hide_products"
+msgid "Hide products of suspended vendors"
+msgstr "محصولات فروشندگان معلق را مخفی کنید"
+
+msgctxt "Languages::vendor_debt_payout.block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "پنل مدیریت فروشندگان معلق را مسدود کنید"
+
+msgctxt "SettingsOptions::vendor_debt_payout::block_admin_panel"
+msgid "Block admin panel of suspended vendors"
+msgstr "پنل مدیریت فروشندگان معلق را مسدود کنید"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications"
+msgid "Notify vendors about upcoming suspension"
+msgstr "فروشندگان را در مورد تعلیق آینده مطلع کنید"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications"
+msgid "Notify admin about suspended vendors"
+msgstr "در مورد فروشندگان تعلیق شده به مدیر اطلاع دهید"
+
+msgctxt "Languages::vendor_debt_payout.edit_notifications_link"
+msgid "<a target = \"_blank\" href = \"[link]\">Edit notifications</a>"
+msgstr "<a target = \"_blank\" href = \"[link]\">ویرایش اعلان ها</a>"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_weekly"
+msgid "Send weekly digest of suspended vendors"
+msgstr "ارسال خلاصه هفتگی فروشندگان معلق"
+
+msgctxt "Languages::vendor_debt_payout.disable_suspended_vendors"
+msgid "Disable suspended vendors after a while"
+msgstr "فروشندگان معلق را پس از مدتی غیرفعال کنید"
+
+msgctxt "Languages::vendor_debt_payout.days_before_disable"
+msgid "Time in days before a suspended vendor is disabled"
+msgstr "چند روز قبل از غیرفعال شدن یک فروشنده معلق"
+
+msgctxt "Languages::vendor_debt_payout.vendor_notifications_about_disable"
+msgid "Notify vendors about their disabled account"
+msgstr "فروشندگان را در مورد حساب غیرفعال شده خود مطلع کنید"
+
+msgctxt "Languages::vendor_debt_payout.admin_notifications_about_disable"
+msgid "Notify admin about disabled vendors"
+msgstr "در مورد فروشندگان غیر فعال به مدیر اطلاع دهید"
+
+msgctxt "Languages::vendor_debt_payout.actions_on_suspended"
+msgid "Actions on suspended vendors"
+msgstr "اقدامات در مورد فروشندگان معلق"
+
+msgctxt "Languages::vendor_debt_payout.notifications"
+msgid "Notifications"
+msgstr "اطلاعیه"
+
+msgctxt "Languages::vendor_debt_payout.refill_balance"
+msgid "Refill balance"
+msgstr "تعادل دوباره پر کنید"
+
+msgctxt "Languages::vendor_debt_payout.enter_an_amount"
+msgid "Enter an amount"
+msgstr "مقداری وارد کنید"
+
+msgctxt "Languages::vendor_debt_payout.error_refill_amount_lower_than_zero"
+msgid "Sorry, couldn't proceed to payment. The specified sum must be greater than 0."
+msgstr "متأسفیم، پرداخت امکان پذیر نیست. مجموع مشخص شده باید بیشتر از 0 باشد."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
+msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "حساب شما به حالت تعلیق درآمده. برای برداشتن تعلیق، لطفاً حداقل [amount] را واریز کنید تا موجودی تا [vendor_plan_lowers_allowed_balance]دوباره پر شود. <a target=\"_blank\" href=\"[link]\">موجودی مجدد</a>."
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
+msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
+msgstr "حساب شما ممکن است به زودی تعلیق شود. لطفاً برای جلوگیری از تعلیق حداقل [amount] تا [date] واریز کنید. <a target=\"_blank\" href=\"[link]\">موجودی مجدد</a>."
+
+msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
+msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
+msgstr "<p>حساب شما به طور خودکار به حالت تعلیق درآمده است.</p><p>دلیل: موجودی فعلی شما [balance]است که کمتر از حداقل موجودی مجاز [lowers_allowed_balance]است.</p><p>لطفا حداقل [amount]واریز کنید. پس از پردازش پرداخت، تعلیق به طور خودکار برداشته می شود.</p>"
+
+msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
+msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
+msgstr "<p>موجودی فعلی شما [balance]است که کمتر از حداقل موجودی مجاز [lowers_allowed_balance]است.</p><p>لطفاً حداقل [amount] تا [date]واریز کنید. در غیر این صورت ممکن است حساب شما به حالت تعلیق درآید."
+
+msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
+msgid "Suspended vendors"
+msgstr "فروشندگان معلق"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.subject"
+msgid "Your account might get suspended soon"
+msgstr "حساب شما ممکن است به زودی تعلیق شود"
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.subject"
+msgid "Your account is suspended"
+msgstr "حساب شما به حالت تعلیق درآمده"
+
+msgctxt "Languages::vendor_debt_payout.event.negative_balance_reached.name"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "ورود فروشنده: بدهی و دوره مهلت"
+
+msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
+msgid "Please deposit at least [amount] until [date] to avoid suspension."
+msgstr "لطفاً برای جلوگیری از تعلیق حداقل [amount] تا [date] واریز کنید."
+
+msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
+msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
+msgstr "برای برداشتن تعلیق، لطفاً حداقل [amount] را واریز کنید تا موجودی تا [vendor_plan_lowers_allowed_balance]دوباره پر شود."
+
+msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "اعلان‌های پرداخت‌های فروشنده به سرپرست"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "اعلان‌های پرداخت‌های فروشنده به سرپرست"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_vendor_days_before_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "اعلان‌های پرداخت‌های فروشنده به سرپرست"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_suspended"
+msgid "Vendor-to-admin payments notifications"
+msgstr "اعلان‌های پرداخت‌های فروشنده به سرپرست"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_suspended.name"
+msgid "Vendor status was changed to Suspended"
+msgstr "وضعیت فروشنده به حالت تعلیق تغییر کرد"
+
+msgctxt "Languages::email_template.vendor_debt_payout_email_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "اعلان های پرداخت فروشنده به سرپرست"
+
+msgctxt "Languages::email_template.company_status_changed_from_suspended_notification"
+msgid "Vendor status changed from Suspended"
+msgstr "وضعیت فروشنده از حالت تعلیق تغییر کرد"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_negative_balance_reached"
+msgid "Vendor sign-in: Debt and grace period"
+msgstr "ورود فروشنده: بدهی و دوره مهلت"
+
+msgctxt "Languages::internal_template.vendor_debt_payout_internal_admin_notification_vendor_status_changed_to_disabled"
+msgid "Vendor-to-admin payments notifications"
+msgstr "اعلان‌های پرداخت‌های فروشنده به سرپرست"
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_status_changed_to_disabled.name"
+msgid "Vendor status was changed to Disabled"
+msgstr "وضعیت فروشنده به غیر فعال تغییر کرد"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.subject"
+msgid "[marketplace_name]: Weekly digest of debtors"
+msgstr "[marketplace_name]: خلاصه هفتگی بدهکاران"
+
+msgctxt "Languages::vendor_debt_payout.weekly_digest_of_debtors.message"
+msgid "This is a weekly report on debtors in your marketplace. It includes the vendors who have become debtors or paid their debt since the last report. Your marketplace might have <a href=\"[href]\">more suspended vendors</a>."
+msgstr "این یک گزارش هفتگی در مورد بدهکاران در بازار شما است. شامل فروشندگانی می شود که از آخرین گزارش بدهکار شده اند یا بدهی خود را پرداخت کرده اند. ممکن است بازار شما <a href=\"[href]\">فروشنده معلق دیگر داشته باشد</a>."
+
+msgctxt "Languages::vendor_debt_payout.event.weekly_digest_of_debtors.name"
+msgid "Weekly digest of debtors"
+msgstr "خلاصه هفتگی بدهکاران"
+
+msgctxt "Languages::email_template.vendor_debt_payout_weekly_digest_of_debtors"
+msgid "Weekly digest of debtors"
+msgstr "خلاصه هفتگی بدهکاران"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
+msgid "[vendor_name]: Status changed to [status]"
+msgstr "[vendor_name]: وضعیت به [status]تغییر کرد"
+
+msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
+msgid "The status of vendor [vendor_name] was changed to [status]."
+msgstr "وضعیت فروشنده [vendor_name] به [status]تغییر یافت."
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.subject"
+msgid "Your account might get suspended soon"
+msgstr "حساب شما ممکن است به زودی تعلیق شود"
+
+msgctxt "Languages::vendor_debt_payout.vendor_days_before_suspend.message"
+msgid "Your account at [marketplace] might get suspended soon."
+msgstr "حساب شما در [marketplace] ممکن است به زودی تعلیق شود."
+
+msgctxt "Languages::vendor_debt_payout.event.vendor_days_before_suspend.name"
+msgid "Info about upcoming suspension"
+msgstr "اطلاعات در مورد تعلیق آینده"
+
+msgctxt "Languages::vendor_debt_payout.reason_block"
+msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
+msgstr "موجودی فعلی شما [balance]است که کمتر از حداقل موجودی مجاز [lowers_allowed_balance]است. لطفا برای جلوگیری از تعلیق حداقل [amount] تا [date] واریز کنید. می توانید موجودی را در پانل <a href=\"[link]\">فروشنده خود</a>دوباره پر کنید."
+
+msgctxt "Languages::vendor_debt_payout.minimum_allowed_balance_to_zero"
+msgid "We've set the minimum allowed balance to 0. Now whenever a vendor's balance goes below 0, the grace period will start, and the vendor will be asked to pay the debt."
+msgstr "ما حداقل موجودی مجاز را روی 0 تنظیم کرده‌ایم. اکنون هر زمان که موجودی فروشنده کمتر از 0 شود، دوره مهلت شروع می‌شود و از فروشنده خواسته می‌شود بدهی را پرداخت کند."
+
+msgctxt "Languages::vendor_debt_payout.admin_weekly_digest_of_suspended_vendors"
+msgid "Send weekly digest of suspended vendors"
+msgstr "ارسال خلاصه هفتگی فروشندگان معلق"
+
+msgctxt "Languages::vendor_debt_payout.debt_owned"
+msgid "Debt owned"
+msgstr "بدهی متعلق به"
+
+msgctxt "Languages::vendor_debt_payout.account_balance"
+msgid "Account balance"
+msgstr "موجودی حساب"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_label"
+msgid "These vendors got suspended for debt automatically since the last report::"
+msgstr "این فروشندگان از زمان آخرین گزارش به طور خودکار به دلیل بدهی تعلیق شدند:"
+
+msgctxt "Languages::vendor_debt_payout.list_of_vendors_got_suspended_and_paid_label"
+msgid "These vendors paid their debt and had their suspension lifted since the last report:"
+msgstr "این فروشندگان بدهی خود را پرداخت کردند و تعلیق آنها از زمان آخرین گزارش برداشته شد:"
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_label"
+msgid "No vendors got suspended for debt automatically since the last report."
+msgstr "هیچ فروشنده ای به دلیل بدهی به طور خودکار از آخرین گزارش تعلیق نشد."
+
+msgctxt "Languages::vendor_debt_payout.empty_list_of_vendors_got_suspended_and_paid_label"
+msgid "No vendors paid their debt and had their suspension lifted since the last report."
+msgstr "هیچ فروشنده ای بدهی خود را پرداخت نکرد و از زمان آخرین گزارش تعلیق آنها برداشته شد."
+
+msgctxt "Languages::vendor_debt_payout.total_debts"
+msgid "The total debt of all vendors in your marketplace (including those not listed in this report) is currently [total_debt]."
+msgstr "مجموع بدهی همه فروشندگان در بازار شما (از جمله آنهایی که در این گزارش فهرست نشده اند) در حال حاضر [total_debt]است."
+
+msgctxt "Languages::vendor_debt_payout.catalog_items"
+msgid "Naming \"Vendor debt\" for different languages"
+msgstr ""
+
+msgctxt "Languages::vendor_debt_payout.catalog_items.help"
+msgid "Vendors repay their debt by purchasing specific marketplace fees product. Here you can edit details of the product and the category it belongs to."
+msgstr "فروشندگان بدهی خود را با خرید محصول خاص در بازار پرداخت می کنند. در اینجا می توانید جزئیات محصول و دسته بندی آن را ویرایش کنید."
+
+msgctxt "Languages::vendor_debt_payout.product"
+msgid "Product"
+msgstr "تولید - محصول"
+
+msgctxt "Languages::vendor_debt_payout.category"
+msgid "Category"
+msgstr "دسته بندی"
+
+msgctxt "Languages::vendor_debt_payout.edit_description"
+msgid "<a href=\"[link]\" target=\"_blank\">Edit</a>"
+msgstr "<a href=\"[link]\" target=\"_blank\">ویرایش</a>"
+

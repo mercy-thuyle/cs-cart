@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /release-4.15.1/addons/pay360.po\n"
+"X-Crowdin-File-ID: 6626\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::pay360"
+msgid "Pay360 payments"
+msgstr "Pay360 fizetések"
+
+msgctxt "Addons::description::pay360"
+msgid "Allows you to accept payments via Pay360"
+msgstr "Engedélyezi a Pay360-al való fizetést"
+
+msgctxt "Languages::pay360.api_username"
+msgid "API Username"
+msgstr "API Felhasználónév"
+
+msgctxt "Languages::pay360.api_password"
+msgid "API Password"
+msgstr "API Jelszó"
+
+msgctxt "Languages::pay360.installation_id"
+msgid "Hosted Cashier"
+msgstr " Hosztolt pénztáros"
+
+msgctxt "Languages::pay360.account_number_description"
+msgid "Account number used to identify the customer or loan. If this is a PAN, then provide the first six and last four digits of the PAN. Otherwise, provide up to ten characters of the account number."
+msgstr "A vásárló vagy a kölcsön azonosítására használt számlaszám. Ha ez egy PAN, akkor add meg a PAN első hat és utolsó négy számjegyét. Ellenkező esetben add meg a számlaszám legfeljebb tíz karakterét."
+
+msgctxt "Languages::pay360.postal_code_description"
+msgid "First part of the postal code of the loan recipient; up to six characters. For example, if the postal code is “EC2A 1AE”, this would be “EC2A”."
+msgstr "A kölcsönt felvevő irányítószámának első része; legfeljebb hat karakter. Például, ha az irányítószám \"EC2A 1AE\", akkor ez \"EC2A\" lenne."
+
+msgctxt "Languages::pay360.surname_description"
+msgid "Surname of the loan recipient; up to six characters, excluding numbers or special characters. If the name is longer than six characters, then provide the first six. For example, for “Smith”, this would be “Smith”; for “Williams”, this would be “Willia”."
+msgstr "A kölcsön felvevőjének vezetékneve; legfeljebb hat karakter, kivéve a számokat és a különleges karaktereket. Ha a név hat karakternél hosszabb, akkor az első hat karaktert add meg. Például a \"Smith\" név esetében ez \"Smith\"; a \"Williams\" név esetében pedig  \"Willia\"."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols"
+msgid "Please, use only alphabetical characters."
+msgstr "Kérjük, csak az abc-ben szereplő karaktereket használd."
+
+msgctxt "Languages::pay360.use_only_alphabet_symbols_and_numbers"
+msgid "Please, use only alphabetical characters and numbers."
+msgstr "Kérjük, csak az abc-ben szereplő karaktereket és számokat használd."
+
+msgctxt "Languages::pay360.mandatory_fields_commentary"
+msgid "Mandatory for UK- and Europe-based MCC 6012, 6051 and some 7299 merchants"
+msgstr "Kötelező az Egyesült Királyságban és Európában működő MCC 6012, 6051 és néhány 7299 kategória kóddal rendelkező kereskedő számára."
+

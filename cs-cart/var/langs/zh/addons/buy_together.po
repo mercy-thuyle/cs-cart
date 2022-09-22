@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/buy_together.po\n"
+"X-Crowdin-File-ID: 6564\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::buy_together"
+msgid "Buy together [Deprecated]"
+msgstr "一起买 [Deprecated]"
+
+msgctxt "Addons::description::buy_together"
+msgid "Allows you to set up share discounts on certain product combinations"
+msgstr "允许您对某些产品组合设置共享折扣"
+
+msgctxt "Languages::buy_together"
+msgid "Buy together"
+msgstr "一起购买"
+
+msgctxt "Languages::specify_options"
+msgid "Specify options"
+msgstr "指定选项"
+
+msgctxt "Languages::total_list_price"
+msgid "Total list price"
+msgstr "整个清单价格"
+
+msgctxt "Languages::price_for_all"
+msgid "Price for all"
+msgstr "全部价格"
+
+msgctxt "Languages::add_all_to_cart"
+msgid "Add all to cart"
+msgstr "添加全部到购物车"
+
+msgctxt "Languages::editing_combination"
+msgid "Editing combination"
+msgstr "编辑组合"
+
+msgctxt "Languages::buy_together_calculation_information"
+msgid "Total price: [total_price], Discount: [discount], Combination price: [combination_price]"
+msgstr "总价: [total_price], 折扣: [discount], 组合价格: [combination_price]"
+
+msgctxt "Languages::display_in_promotions"
+msgid "Display in promotions"
+msgstr "在促销中显示"
+
+msgctxt "Languages::combination_products"
+msgid "Combination products"
+msgstr "组合产品"
+
+msgctxt "Languages::share_discount"
+msgid "Share discount"
+msgstr "共享折扣"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_configurator"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Product configurator add-on"
+msgstr "[product_name] 商品无法添加到组合中，一起购买与商品配置器插件不兼容。"
+
+msgctxt "Languages::buy_together_is_not_compatible_with_recurring_billing"
+msgid "[product_name] cannot be added to combination. Buy together is not compatible with the Recurring billing add-on"
+msgstr "[product_name] 商品无法添加到组合中，一起购买与重复购买插件不兼容。"
+
+msgctxt "Languages::buy_together_combination_cannot_be_added"
+msgid "Combination cannot be added to cart"
+msgstr "组合无法添加到购物车"
+
+msgctxt "Languages::buy_together_product_was_removed"
+msgid "[product] did not have enough amount ([amount]) and was removed from the cart"
+msgstr "[product] 数量不足([amount])已从购物车移除"
+
+msgctxt "Languages::buy_together_fill_the_mandatory_fields"
+msgid "Please specify product options before adding this product combination to the cart."
+msgstr "请指定产品选项前添加此产品组合到购物车."
+
+msgctxt "Languages::buy_together_info_message_for_mve"
+msgid "Only vendors can add product combinations. To add a combination, first <a class=\"buy-together-js-company-switcher\" data-ca-switcher-company-id=\"[company_id]\" data-ca-switcher-param-name=\"company_id\" data-ca-switcher-product-id=\"[product_id]\">log in as vendor</a>."
+msgstr "只有供应商可以添加产品组合。要添加组合，首先 <a class=\"buy-together-js-company-switcher\" data-ca-switcher-company-id=\"[company_id]\" data-ca-switcher-param-name=\"company_id\" data-ca-switcher-product-id=\"[product_id]\">以供应商</a>身份登录。"
+
+msgctxt "Languages::buy_together_info_message"
+msgid "To add a combination, first <a class=\"buy-together-js-storefront-switcher\" data-ca-switcher-storefront-id=\"[storefront_id]\" data-ca-switcher-param-name=\"switch_company_id\" data-ca-switcher-product-id=\"[product_id]\">select the storefront</a>."
+msgstr "要添加组合，首先 <a class=\"buy-together-js-storefront-switcher\" data-ca-switcher-storefront-id=\"[storefront_id]\" data-ca-switcher-param-name=\"switch_company_id\" data-ca-switcher-product-id=\"[product_id]\">选择店面</a>。"
+

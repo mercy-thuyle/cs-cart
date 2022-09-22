@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "HiDPI 显示支持"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "支持视网膜显示"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "一般的"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "考虑所有上传的图像 HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "考虑所有上传的图像 HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "默认情况下，在上传图像的所有位置勾选“我正在上传 HiDPI 图像”复选框。您可以在必要时取消选中这些复选框。"
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "启用 HiDPI 支持"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "我正在上传 HiDPI 图像。"
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "如果勾选此复选框，源图像将按比例缩小显示两次。此设置仅影响源图像的显示，而不影响其缩略图。如果您希望图像以原始尺寸显示，请取消选中此复选框。"
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "图像恢复"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "以前版本的 HiDPI 显示支持插件缩小了上传的图像。现在没必要了。但是要使您的图像看起来漂亮和清晰，您需要单击“恢复”。"
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "恢复"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>注意！</strong> 此过程是不可逆的：当您恢复升级时，图像恢复操作将不会恢复。因此，请确保执行备份。该过程可能需要一些时间 - 这取决于您商店中的图像数量。"
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "您商店中的一些旧图像质量仍然很低。要尽可能使用最高质量，请 <a href=\"[convert_url]\">恢复高质量图像</a>。该过程是自动的。"
+

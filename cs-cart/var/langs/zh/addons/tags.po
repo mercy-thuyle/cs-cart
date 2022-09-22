@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /release-4.15.1/addons/tags.po\n"
+"X-Crowdin-File-ID: 6680\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr "标签"
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr "启用产品标签"
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr "产品与页面标签管理"
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr "登录输入标签"
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr "标签云"
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr "标签"
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr "标签"
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr "产品标签"
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr "添加标签"
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr "标记为 \"[tag]\" 标记的项目:"
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr "标签"
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr "添加标签"
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr "常规"
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr "产品标签"
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr "页面标签"
+
+msgctxt "Languages::n_tags"
+msgid "[n] tag|[n] tags"
+msgstr "[n] 个标签|[n] 标签"
+

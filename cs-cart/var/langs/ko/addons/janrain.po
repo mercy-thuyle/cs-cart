@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/janrain.po\n"
+"X-Crowdin-File-ID: 6608\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::janrain"
+msgid "Janrain"
+msgstr "잔레인"
+
+msgctxt "Addons::description::janrain"
+msgid "Adds the Social Login feature; allows customers use Facebook, Twitter, etc. to log in on the store"
+msgstr "소셜 로그인 기능을 추가합니다. 고객이 Facebook, Twitter 등을 사용하여 스토어에 로그인할 수 있습니다."
+
+msgctxt "Languages::janrain_general_info"
+msgid "<p>Get these values and configure social login at <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+msgstr "<p>이 값을 가져오고 소셜 로그인을 구성하십시오. <a href=\"http://janrain.com\" target=\"_blank\">janrain.com</a></p>"
+
+msgctxt "Languages::janrain_social_login"
+msgid "Social login"
+msgstr "소셜 로그인"
+
+msgctxt "Languages::janrain_need_update_profile"
+msgid "The \"Password\" field and some other mandatory fields are empty at the moment. Please update your profile."
+msgstr "\"비밀번호\" 필드 및 기타 일부 필수 필드는 현재 비어 있습니다. 프로필을 업데이트하세요."
+
+msgctxt "Languages::janrain_cant_create_profile"
+msgid "Unfortunately, we failed to create a customer and log in to the store due to one of the following reasons:<br />- You logged in to our store earlier using some other OpenID provider in which the same email is used.<br />- You have already registered in our store using your email.<br />Please contact the store owner to resolve the problems."
+msgstr "유감스럽게도 다음 이유 중 하나로 인해 고객을 생성하고 스토어에 로그인하지 못했습니다.<br />- 동일한 이메일을 사용하는 다른 OpenID 제공업체를 사용하여 이전에 스토어에 로그인했습니다.<br />- 이메일을 사용하여 이미 저희 스토어에 등록하셨습니다.<br />문제를 해결하려면 상점 소유자에게 문의하십시오."
+
+msgctxt "SettingsSections::janrain::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::janrain::general_info"
+msgid "General info"
+msgstr "일반 정보"
+
+msgctxt "SettingsOptions::janrain::apikey"
+msgid "API Key"
+msgstr "API 키"
+
+msgctxt "SettingsOptions::janrain::appdomain"
+msgid "Application Domain"
+msgstr "애플리케이션 도메인"
+
+msgctxt "Languages::janrain.janrain_cookies_title"
+msgid "Janrain"
+msgstr "잔레인"
+
+msgctxt "Languages::janrain.janrain_cookies_description"
+msgid "Janrain is a service that allows you to sign into the website with your accounts from various social networks. It was acquired by Akamai in 2019; here is <a href=\"https://www.akamai.com/site/en/documents/akamai/akamai-privacy-statement.pdf\" target=\"_blank\">Akamai privacy statement</a>."
+msgstr "Janrain은 다양한 소셜 네트워크의 계정으로 웹사이트에 로그인할 수 있는 서비스입니다. 2019년 Akamai에 인수되었습니다. 여기 <a href=\"https://www.akamai.com/site/en/documents/akamai/akamai-privacy-statement.pdf\" target=\"_blank\">Akamai 개인 정보 보호 정책</a>입니다."
+

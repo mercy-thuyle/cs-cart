@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /release-4.15.1/addons/hidpi.po\n"
+"X-Crowdin-File-ID: 6720\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::hidpi"
+msgid "HiDPI displays support"
+msgstr "Suporte para monitores HiDPI"
+
+msgctxt "Addons::description::hidpi"
+msgid "Support for Retina displays"
+msgstr "Suporte para telas Retina"
+
+msgctxt "SettingsSections::hidpi::general"
+msgid "General"
+msgstr "Em geral"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Considere todas as imagens enviadas como HiDPI"
+
+msgctxt "SettingsOptions::hidpi::default_upload_high_res_image"
+msgid "Consider all uploaded images HiDPI"
+msgstr "Considere todas as imagens enviadas como HiDPI"
+
+msgctxt "SettingsTooltips::hidpi::default_upload_high_res_image"
+msgid "Make the \"I'm uploading a HiDPI image\" checkboxes ticked by default everywhere where images are uploaded. You'll be able to untick those checkboxes when necessary."
+msgstr "Marque as caixas de seleção \"Estou carregando uma imagem HiDPI\" marcadas por padrão em todos os lugares onde as imagens são carregadas. Você poderá desmarcar essas caixas de seleção quando necessário."
+
+msgctxt "Languages::text_hidpi_support_enabled"
+msgid "HiDPI support is enabled"
+msgstr "O suporte HiDPI está ativado"
+
+msgctxt "Languages::hidpi.upload_high_res_image"
+msgid "I’m uploading a HiDPI image."
+msgstr "Estou carregando uma imagem HiDPI."
+
+msgctxt "Languages::hidpi.upload_high_res_image.tooltip"
+msgid "If this checkbox is ticked, the source image will be displayed two times downscaled. This setting only affects the displaying of the source image and not its thumbnail. If you want an image to be displayed in the original size, untick this checkbox."
+msgstr "Se esta caixa de seleção estiver marcada, a imagem de origem será exibida duas vezes em escala reduzida. Essa configuração afeta apenas a exibição da imagem de origem e não sua miniatura. Se você quiser que uma imagem seja exibida no tamanho original, desmarque esta caixa de seleção."
+
+msgctxt "Languages::hidpi.restore_images"
+msgid "Image restoration"
+msgstr "Restauração de imagem"
+
+msgctxt "Languages::hidpi.text_restore_images"
+msgid "The previous version of the HiDPI display support add-on shrank the uploaded images. There’s no need for that now. But to make your images look nice and sharp you need to click Restore."
+msgstr "A versão anterior do complemento de suporte de exibição HiDPI reduziu as imagens carregadas. Não há necessidade disso agora. Mas para deixar suas imagens bonitas e nítidas, você precisa clicar em Restaurar."
+
+msgctxt "Languages::hidpi.restore_btn"
+msgid "Restore"
+msgstr "Restaurar"
+
+msgctxt "Languages::hidpi.warning_restore_images"
+msgid "<strong>Attention!</strong> This procedure is non—reversible: when you revert the upgrade, the image restoration manipulations will not be reverted. So, please make sure to perform a backup. The procedure can take some time—it depends on the number of images in your store."
+msgstr "<strong>Atenção!</strong> Este procedimento é irreversível: ao reverter a atualização, as manipulações de restauração da imagem não serão revertidas. Portanto, certifique-se de fazer um backup. O procedimento pode levar algum tempo – depende do número de imagens em sua loja."
+
+msgctxt "Languages::hidpi.notice.images_were_not_restored"
+msgid "Some of the old images in your store are still low-quality. To use the highest quality possible, please <a href=\"[convert_url]\">restore high-quality images</a>. The process is automatic."
+msgstr "Algumas das imagens antigas em sua loja ainda são de baixa qualidade. Para usar a qualidade mais alta possível, <a href=\"[convert_url]\">restaure imagens de alta qualidade</a>. O processo é automático."
+

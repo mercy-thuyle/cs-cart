@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /release-4.15.1/addons/rss_feed.po\n"
+"X-Crowdin-File-ID: 6658\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::rss_feed"
+msgid "RSS feed"
+msgstr "RSS-syöte"
+
+msgctxt "Addons::description::rss_feed"
+msgid "Generates RSS feeds for products and blog posts"
+msgstr "Luo RSS-syötteitä tuotteille ja blogikirjoituksille"
+
+msgctxt "Languages::rss_feed"
+msgid "RSS feed"
+msgstr "RSS-syöte"
+
+msgctxt "Languages::feed_title"
+msgid "Feed title"
+msgstr "Syötteen otsikko"
+
+msgctxt "Languages::feed_description"
+msgid "Feed description"
+msgstr "Syötteen kuvaus"
+
+msgctxt "Languages::rss_sort_by"
+msgid "Sort items by"
+msgstr "Lajittele kohteet"
+
+msgctxt "Languages::rss_display_sku"
+msgid "Display SKU"
+msgstr "Näytä SKU"
+
+msgctxt "Languages::rss_display_image"
+msgid "Display image"
+msgstr "Näytä kuva"
+
+msgctxt "Languages::rss_display_price"
+msgid "Display gross price"
+msgstr "Näytä bruttohinta"
+
+msgctxt "Languages::rss_display_original_price"
+msgid "Display net price"
+msgstr "Näytä nettohinta"
+
+msgctxt "Languages::rss_display_add_to_cart"
+msgid "Display add to cart button"
+msgstr "Näytä lisää ostoskoriin -painike"
+
+msgctxt "Languages::rss_created"
+msgid "Created"
+msgstr "Luotu"
+
+msgctxt "Languages::rss_updated"
+msgid "Updated"
+msgstr "Päivitetty"
+
+msgctxt "Languages::block_rss_feed"
+msgid "RSS feed"
+msgstr "RSS-syöte"
+
+msgctxt "Languages::block_rss_feed_description"
+msgid "RSS feed subscription icon"
+msgstr "RSS-syötteen tilauskuvake"
+
+msgctxt "SettingsSections::rss_feed::general"
+msgid "General"
+msgstr "Kenraali"
+
+msgctxt "SettingsOptions::rss_feed::managing_editor"
+msgid "Content editor"
+msgstr "Sisällön editori"
+
+msgctxt "SettingsOptions::rss_feed::display_rss_feed_in_category"
+msgid "Show RSS feed for each category"
+msgstr "Näytä kunkin luokan RSS-syöte"
+
+msgctxt "SettingsOptions::rss_feed::category_max_products_items"
+msgid "Max product number per category"
+msgstr "Max tuotemäärä luokkaa kohti"
+
+msgctxt "SettingsTooltips::rss_feed::managing_editor"
+msgid "Enter the content editor's email and real name, e.g. john@example.com (John Doe)"
+msgstr "Syötä sisällöntoimittajan sähköpostiosoite ja oikea nimi, esim. john@example.com (John Doe)"
+
+msgctxt "SettingsTooltips::rss_feed::display_rss_feed_in_category"
+msgid "RSS icon near category title."
+msgstr "RSS-kuvake luokan otsikon lähellä."
+
+msgctxt "Languages::addons.rss_feed.icon"
+msgid "RSS feed subscription icon"
+msgstr "RSS-syötteen tilauskuvake"
+

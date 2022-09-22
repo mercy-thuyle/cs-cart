@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.15.1/addons/product_bundles.po\n"
+"X-Crowdin-File-ID: 6644\n"
+"PO-Revision-Date: 2022-06-21 13:00\n"
+
+msgctxt "Addons::name::product_bundles"
+msgid "Product bundles"
+msgstr "حزم المنتجات"
+
+msgctxt "Addons::description::product_bundles"
+msgid "Allows you to create product bundles and set up discounts for them."
+msgstr "يتيح لك إنشاء حزم المنتجات وإعداد خصومات لها."
+
+msgctxt "Languages::product_bundles.product_bundles"
+msgid "Product bundles"
+msgstr "حزم المنتجات"
+
+msgctxt "Languages::product_bundles.product_bundles_menu_description"
+msgid "View, add and edit product bundles."
+msgstr "عرض وإضافة وتحرير حزم المنتجات."
+
+msgctxt "Languages::product_bundles.promo_image"
+msgid "Promo image"
+msgstr "صورة ترويجية"
+
+msgctxt "Languages::product_bundles.display_in_promotions"
+msgid "Display in promotions"
+msgstr "عرض في الترقيات"
+
+msgctxt "Languages::product_bundles.bundle_products"
+msgid "Bundle products"
+msgstr "منتجات الحزمة"
+
+msgctxt "Languages::product_bundles.price_for_all"
+msgid "Price for all"
+msgstr "السعر للجميع"
+
+msgctxt "Languages::product_bundles.share_discount"
+msgid "Share discount"
+msgstr "حصة الخصم"
+
+msgctxt "Languages::product_bundles.product_bundle_name"
+msgid "Bundle name"
+msgstr "اسم الحزمة"
+
+msgctxt "Languages::product_bundles.products_in_bundle"
+msgid "Products in bundle"
+msgstr "المنتجات في الحزمة"
+
+msgctxt "Languages::product_bundles.total_cost"
+msgid "Total cost"
+msgstr "التكلفة الإجمالية"
+
+msgctxt "Languages::product_bundles.add_new_bundle"
+msgid "Add new bundle"
+msgstr "إضافة حزمة جديدة"
+
+msgctxt "Languages::product_bundles.delete_product_in_bundle"
+msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
+msgstr "تم تعطيل الحزمة <b>[bundle_name]</b> بسبب حذف المنتجات من هذه الحزمة. | تم تعطيل الحزمة <b>[bundle_name]</b> ، لأنه تم حذف أحد المنتجات من هذه الحزم."
+
+msgctxt "Languages::product_bundles.new_bundle"
+msgid "New bundle"
+msgstr "حزمة جديدة"
+
+msgctxt "Languages::product_bundles.active_bundles"
+msgid "Active bundles"
+msgstr "الحزم النشطة"
+
+msgctxt "Languages::product_bundles.specify_features"
+msgid "Specify features"
+msgstr "حدد الميزات"
+
+msgctxt "Languages::product_bundles.any_variation"
+msgid "Any variation"
+msgstr "أي اختلاف"
+
+msgctxt "Languages::product_bundles.specify_options"
+msgid "Specify options"
+msgstr "حدد الخيارات"
+
+msgctxt "Languages::product_bundles.total_list_price"
+msgid "Total list price"
+msgstr "إجمالي سعر القائمة"
+
+msgctxt "Languages::product_bundles.order_discount"
+msgid "Order discount"
+msgstr "اطلب تخفيض"
+
+msgctxt "Languages::product_bundles.add_all_to_cart"
+msgid "Add all to cart"
+msgstr "أضف الكل إلى عربة التسوق"
+
+msgctxt "Languages::product_bundles.sign_in_to_view_price"
+msgid "Sign in to view price"
+msgstr "تسجيل الدخول لعرض السعر"
+
+msgctxt "Languages::product_bundles.bundle_details"
+msgid "Bundle details"
+msgstr "تفاصيل الباقة"
+
+msgctxt "Languages::product_bundles.search_in_products"
+msgid "Bundles with product"
+msgstr "حزم مع المنتج"
+
+msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
+msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
+msgstr "يظهر هذا الاسم فقط في لوحة الإدارة لمساعدتك على التمييز بين حزم المنتجات المتعددة التي لها نفس الاسم المعروض."
+
+msgctxt "Languages::product_bundles.show_on_product_page"
+msgid "Show on products page"
+msgstr "تظهر على صفحة المنتجات"
+
+msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
+msgid "Are you sure you want to create a bundle without products?"
+msgstr "هل أنت متأكد أنك تريد إنشاء حزمة بدون منتجات؟"
+
+msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
+msgid "Are you sure you want to create a bundle with 1 product?"
+msgstr "هل أنت متأكد أنك تريد إنشاء حزمة بمنتج واحد؟"
+
+msgctxt "Languages::product_bundles.specify_options_first"
+msgid "Product options should be specified"
+msgstr "يجب تحديد خيارات المنتج"
+
+msgctxt "Languages::privileges.view_product_bundles"
+msgid "Can view"
+msgstr "يمكن أن يشاهد"
+
+msgctxt "Languages::privileges.manage_product_bundles"
+msgid "Can edit"
+msgstr "يمكن التحرير"
+
+msgctxt "Languages::privilege_groups.product_bundles"
+msgid "Product bundles"
+msgstr "حزم المنتجات"
+

@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /release-4.15.1/addons/master_products.po\n"
+"X-Crowdin-File-ID: 6724\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::master_products"
+msgid "Common Products for Vendors"
+msgstr "מוצרים נפוצים עבור ספקים"
+
+msgctxt "Addons::description::master_products"
+msgid "Allows you to create a single product base: vendors choose which of the existing products they sell."
+msgstr "מאפשר לך ליצור בסיס מוצר אחד: ספקים לבחור איזה מהמוצרים הקיימים הם מוכרים."
+
+msgctxt "SettingsSections::master_products::general"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "SettingsOptions::master_products::allow_vendors_to_create_products"
+msgid "Allow vendors to create products"
+msgstr "מאפשר לספקים ליצור מוצרים"
+
+msgctxt "SettingsTooltips::master_products::allow_vendors_to_create_products"
+msgid "If you don't allow it, vendors will only be able to sell the products that you added to the marketplace."
+msgstr "אם לא תאפשר זאת, הספקים יוכלו למכור רק את המוצרים שהוספת לזירת מסחר."
+
+msgctxt "SettingsOptions::master_products::allow_buy_default_common_product"
+msgid "Buy a default common product"
+msgstr "קנה מוצר נפוץ ברירת מחדל"
+
+msgctxt "SettingsTooltips::master_products::allow_buy_default_common_product"
+msgid "The \"Add to cart\" button will appear next to the product (not just its offers) and select the best offer available."
+msgstr "כפתור \"הוסף לסל\" יופיע ליד המוצר (לא רק ההצעות שלו) ויבחר את ההצעה הטובה ביותר שיש."
+
+msgctxt "Languages::master_products.vendor_products_tab_name"
+msgid "Sellers of this product"
+msgstr "מוכרים של המוצר"
+
+msgctxt "Languages::master_products.vendor_products_filling"
+msgid "Sellers of this product"
+msgstr "מוכרים של המוצר"
+
+msgctxt "Languages::master_products.vendor_products_block_name"
+msgid "Sellers of a product"
+msgstr "מוכרים של המוצר"
+
+msgctxt "Languages::master_products.products_that_vendors_can_sell"
+msgid "Products that vendors can sell"
+msgstr "מוצרים שהספקים  יכולים למכור"
+
+msgctxt "Languages::master_products.products_being_sold"
+msgid "Products being sold"
+msgstr "מוצרים למכירה"
+
+msgctxt "Languages::master_products.all_products"
+msgid "All products"
+msgstr "כל המוצרים"
+
+msgctxt "Languages::master_products.add_product_from_catalog"
+msgid "Add product from catalog"
+msgstr "הוסף מוצרים מהקטלוג"
+
+msgctxt "Languages::master_products.create_new_product"
+msgid "Create new product"
+msgstr "צור מוצר חדש"
+
+msgctxt "Languages::master_products.sell_this"
+msgid "Sell this"
+msgstr "תמכור את זה"
+
+msgctxt "Languages::master_products.for_sale"
+msgid "For sale"
+msgstr "למכירה"
+
+msgctxt "Languages::master_products.sell_selected"
+msgid "Sell selected"
+msgstr "המכירה נבחרה"
+
+msgctxt "Languages::master_products.products_were_added_to_your_products"
+msgid "[n] product was added to your products|[n] products were added to your products"
+msgstr "[n] המוצר נוסף למוצרים שלך|[n] מוצרים נוספו למוצרים שלך"
+
+msgctxt "Languages::master_products.master_product"
+msgid "Common product"
+msgstr "מוצר משותף"
+
+msgctxt "Languages::master_products.all_vendors_master_product"
+msgid "All vendors (common product)"
+msgstr "כל המוכרים (מוצר משותף)"
+
+msgctxt "Languages::master_products.exported_products"
+msgid "Products to export"
+msgstr "מוצרים לייצוא"
+
+msgctxt "Languages::master_products.price_from"
+msgid "From [formatted_price]"
+msgstr "מ [formatted_price]"
+
+msgctxt "Languages::master_products.product_type.offer"
+msgid "Vendor offer"
+msgstr "הצעת מוכר"
+
+msgctxt "Languages::master_products.view_product_offers"
+msgid "See all offers"
+msgstr "הצגת כל ההצעות"
+
+msgctxt "Languages::master_products.product_type.offer_variation"
+msgid "Vendor variation offer"
+msgstr "הצעת וריאציה של ספק"
+
+msgctxt "Languages::master_products.resave_after_show_out_of_stock_products_changed"
+msgid "You've changed the <b>Show out of stock products</b> setting. Please export <a href=\"[url]\">all your catalog items</a> (use \"Export found products\" in the gear button) and reimport them. This will ensure that the displayed price of common products will always remain correct until you change the setting again."
+msgstr "שינית את <b>הצג מוצרים במלאי</b> הגדרה. אנא ייצא <a href=\"[url]\">כל הפריטים בקטלוג שלך</a> (השתמש ב\"ייצא מוצרים שנמצאו \"בהילוך כפתור) and לייבא אותם מחדש. זה יבטיח שהמחיר המוצג של מוצרים נפוצים תמיד יישאר נכון עד שתשנה שוב את ההגדרה."
+
+msgctxt "Languages::master_products.save_up_to"
+msgid "Save up to"
+msgstr "חסוך עד"
+
+msgctxt "Languages::master_products.buy_together_info_message_for_admin"
+msgid "Only vendors can add product combinations. To add a combination for a common product, first log in as one of the vendors that sell it."
+msgstr "רק ספקים יכולים להוסיף שילובי מוצרים. כדי להוסיף שילוב למוצר נפוץ, התחבר תחילה כאחד מהספקים שמוכרים אותו."
+
+msgctxt "Languages::master_products.buy_together_info_message_for_vendor"
+msgid "To add a combination for a common product, <a class=\"cm-post\" href=\"[href]\">start selling it</a> first."
+msgstr "כדי להוסיף שילוב למוצר נפוץ, <a class=\"cm-post\" href=\"[href]\">התחל למכור אותו</a> תחילה."
+
+msgctxt "Languages::master_products.changing_owner_is_not_available"
+msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
+msgstr "לא ניתן לשנות את הבעלים של המוצר מכיוון שחלק מהספקים עדיין מוכרים אותו. נא למחוק <a href=\"[vendors_offers_link]\" target=\"_blank\">הצעות של ספקים</a> לפני שינוי הבעלים של מוצר זה."
+
+msgctxt "Languages::master_products.product_bundles_info"
+msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
+msgstr "רק ספקים יכולים להוסיף חבילות מוצרים. כדי להוסיף חבילה למוצר נפוץ, התחבר תחילה כאחד מהספקים שמוכרים אותו."
+
+msgctxt "Languages::master_products.best_price"
+msgid "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>and other offers</a>)"
+msgstr "[formatted_price] (<a class=\"[link_class]\" data-ca-scroll=\"[data_scroll]\" [other_offers_link]>והצעות אחרות</a>)"
+
+msgctxt "Languages::master_products.include_offers_from_multiple_sellers"
+msgid "To add the required number of items to cart, we had to include offers from multiple sellers. Some of them may come at different prices."
+msgstr "כדי להוסיף את המספר הנדרש של פריטים לעגלה, היינו צריכים לכלול הצעות ממספר מוכרים. חלקם עשויים להגיע במחירים שונים."
+
+msgctxt "Languages::master_products.api_not_master_product"
+msgid "Product was found but it is not common product. Please specify common product ID."
+msgstr "נמצא מוצר אבל זה לא מוצר נפוץ. נא לציין מזהה מוצר נפוץ."
+
+msgctxt "Languages::master_products.api_not_vendor_product"
+msgid "Product was found but it is not vendor's product. Please specify vendor's product ID."
+msgstr "נמצא מוצר אבל זה לא מוצר של הספק. נא לציין את מזהה המוצר של הספק."
+
+msgctxt "Languages::master_products.api_master_product_must_be_specified"
+msgid "Common product ID must be specified for vendor's products search."
+msgstr "יש לציין מזהה מוצר נפוץ עבור חיפוש המוצרים של הספק."
+

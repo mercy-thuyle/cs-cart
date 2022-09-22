@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: /release-4.15.1/addons/recaptcha.po\n"
+"X-Crowdin-File-ID: 6560\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::recaptcha"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Addons::description::recaptcha"
+msgid "Adds the support of Google reCAPTCHA to protect your store against bots"
+msgstr "پشتیبانی Google reCAPTCHA را برای محافظت از فروشگاه شما در برابر ربات‌ها اضافه می‌کند"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_theme"
+msgid "Theme"
+msgstr "موضوع"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::light"
+msgid "Light"
+msgstr "سبک"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_theme::dark"
+msgid "Dark"
+msgstr "تاریک"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_size"
+msgid "Size"
+msgstr "اندازه"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::normal"
+msgid "Normal"
+msgstr "معمولی"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_size::compact"
+msgid "Compact"
+msgstr "فشرده - جمع و جور"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_type"
+msgid "Type"
+msgstr "تایپ کنید"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::image"
+msgid "Image"
+msgstr "تصویر"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_type::audio"
+msgid "Audio"
+msgstr "سمعی"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_site_key"
+msgid "Site key"
+msgstr "کلید سایت"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_secret"
+msgid "Secret"
+msgstr "راز"
+
+msgctxt "SettingsSections::recaptcha::general"
+msgid "General"
+msgstr "عمومی"
+
+msgctxt "SettingsSections::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "کشورهای مستثنی شده"
+
+msgctxt "SettingsOptions::recaptcha::forbidden_countries"
+msgid "Excluded countries"
+msgstr "کشورهای مستثنی شده"
+
+msgctxt "Languages::error_validator_recaptcha"
+msgid "Please confirm you are not a robot."
+msgstr "لطفاً تأیید کنید که ربات نیستید."
+
+msgctxt "Languages::recaptcha_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">here</a></b>.</p>"
+msgstr "<p>دستورالعمل نحوه به دست آوردن کلید سایت <b></b> و <b>مخفی</b> در دسترس است <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/docs/start\">اینجا</a></b>.</p>"
+
+msgctxt "Languages::recaptcha.text_settings_notice"
+msgid "<p>The instructions on how to get the <b>site key</b> and <b>secret</b> are available <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">here</a></b>.<br>Please note that the add-on currently supports only <b>Google reCAPTCHA v2: Checkbox</b> and <b>Google reCAPTCHA v3</b></p>"
+msgstr "<p>دستورالعمل نحوه به دست آوردن کلید سایت <b></b> و <b>مخفی</b> در دسترس است <b><a target=\"_blank\" href=\"https://developers.google.com/recaptcha/intro\">اینجا</a></b>.<br>لطفاً توجه داشته باشید که این افزونه در حال حاضر تنها <b>نسخه Google reCAPTCHA نسخه 2 را پشتیبانی می کند: چک باکس</b> و <b>Google reCAPTCHA نسخه</b></p>"
+
+msgctxt "Languages::recaptcha.text_forbidden_countries_notice"
+msgid "<p>Google reCAPTACHA will be disabled for the selected countries. Instead, visitors from those countries will be asked to type a few symbols they see on the screen.</p>"
+msgstr "<p>Google reCAPTACHA برای کشورهای انتخاب شده غیرفعال خواهد شد. در عوض، از بازدیدکنندگان آن کشورها خواسته می‌شود تا چند علامت را که روی صفحه می‌بینند تایپ کنند.</p>"
+
+msgctxt "SettingsOptions::recaptcha::information"
+msgid "Information"
+msgstr "اطلاعات"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v2_settings"
+msgid "reCAPTCHA v2 settings"
+msgstr "تنظیمات reCAPTCHA v2"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_settings"
+msgid "reCAPTCHA v3 settings"
+msgstr "تنظیمات reCAPTCHA v3"
+
+msgctxt "SettingsOptions::recaptcha::use_for_settings"
+msgid "Antibot settings"
+msgstr "تنظیمات آنتی بات"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_site_key"
+msgid "Site key"
+msgstr "کلید سایت"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_secret"
+msgid "Secret"
+msgstr "راز"
+
+msgctxt "SettingsOptions::recaptcha::recaptcha_v3_success_score"
+msgid "Required rating to pass the check"
+msgstr "امتیاز لازم برای قبولی در چک"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.9"
+msgid "0.9 (even some humans can't pass)"
+msgstr "0.9 (حتی برخی از انسان ها نمی توانند عبور کنند)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.8"
+msgid "0.8"
+msgstr "0.8"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.7"
+msgid "0.7"
+msgstr "0.7"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.6"
+msgid "0.6"
+msgstr "0.6"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.5"
+msgid "0.5 (recommended value)"
+msgstr "0.5 (مقدار توصیه شده)"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.4"
+msgid "0.4"
+msgstr "0.4"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.3"
+msgid "0.3"
+msgstr "0.3"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.2"
+msgid "0.2"
+msgstr "0.2"
+
+msgctxt "SettingsVariants::recaptcha::recaptcha_v3_success_score::0.1"
+msgid "0.1 (bots are welcome)"
+msgstr "0.1 (روبات ها خوش آمدید)"
+
+msgctxt "Languages::recaptcha.error_recaptcha_v3_failed"
+msgid "Sorry, the anti-bot validation has failed. If you're seeing this message, please contact us and let us know about it."
+msgstr "متأسفیم، اعتبارسنجی ضد ربات ناموفق بود. اگر این پیام را می بینید، لطفا با ما تماس بگیرید و در مورد آن به ما اطلاع دهید."
+
+msgctxt "Languages::recaptcha.recaptcha_v2"
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA نسخه 2"
+
+msgctxt "Languages::recaptcha.recaptcha_v3"
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA نسخه 3"
+
+msgctxt "Languages::recaptcha.none"
+msgid "none"
+msgstr "هیچ یک"
+
+msgctxt "Languages::recaptcha.recaptcha_cookie_title"
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+msgctxt "Languages::recaptcha.recaptcha_cookie_description"
+msgid "Google reCAPTCHA is a service that provides anti-bot protection and verifies that site visitors are humans. Here is <a href=\"https://policies.google.com/privacy\" target=\"_blank\">Google privacy policy</a>; we also recommend Google's concise and comprehensive <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">note on privacy</a>."
+msgstr "Google reCAPTCHA سرویسی است که محافظت ضد ربات را ارائه می دهد و تأیید می کند که بازدیدکنندگان سایت انسان هستند. اینجا <a href=\"https://policies.google.com/privacy\" target=\"_blank\">خط مشی رازداری Google است</a>; ما همچنین یادداشت <a href=\"https://support.google.com/maps/answer/10400210\" target=\"_blank\">مختصر و جامع Google را در مورد حریم خصوصی</a>توصیه می کنیم."
+

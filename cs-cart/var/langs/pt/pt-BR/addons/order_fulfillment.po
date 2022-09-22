@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /release-4.15.1/addons/order_fulfillment.po\n"
+"X-Crowdin-File-ID: 6622\n"
+"PO-Revision-Date: 2022-06-21 13:02\n"
+
+msgctxt "Addons::name::order_fulfillment"
+msgid "Order fulfillment by marketplace"
+msgstr "Atendimento de pedidos por marketplace"
+
+msgctxt "Addons::description::order_fulfillment"
+msgid "Allows you to offer vendor plans where the marketplace handles shipping for vendors and retains the shipping fees."
+msgstr "Permite a você oferecer planos de vendedores onde o marketplace cuida do envio para os vendedores e retêm as taxas de envio ."
+
+msgctxt "Languages::order_fulfillment.shipping_type"
+msgid "Shipping type"
+msgstr " Tipo de  envio"
+
+msgctxt "Languages::order_fulfillment.fulfillment_tooltip"
+msgid "Handle shipping for vendors as part of this vendor plan. If the marketplace handles shipping for multiple vendors, then the customer will only have to select one shipping method for all those vendors at checkout. Shipping costs will also go to the marketplace. <ul><li>Vendors who have fulfillment by marketplace as part of their vendor plan use ONLY the shipping methods that belong to the marketplace.</li><li>Vendors who don't have fulfillment by marketplace use ONLY the shipping methods that belong to them specifically.</li></ul>"
+msgstr "Cuida do envio para vendedores como parte do pano de vendedor. Se o marketplace cuida do envio para múltiplos vendedores, então o cliente vai ter que selecionar apenas um método de envio para todos os vendedores no checkout . Custos de envio também vão para o marketplace. <ul><li>Vendedores que tem o cumprimento pelo marketplace como parte de seu plano de vendedor usam APENAS os métodos de envio que pertencem ao marketplace.</li><li>Vendedores que não tem o cumprimento pelo marketplace usam APENAS os métodos de envio que pertencem a eles especificamente.</li></ul>"
+
+msgctxt "Languages::order_fulfillment.marketplace_shippings_available"
+msgid "The shipping methods owned by the marketplace will now be available to the vendors whose vendor plans include fulfillment by the marketplace."
+msgstr "Os métodos de envio próprios do marketplace agora estarão disponíveis aos vendedores cujos planos de vendedor inclui o cumprimento pelo marketplace ."
+
+msgctxt "Languages::order_fulfillment.vendor_shipping_settings_active"
+msgid "The shipping methods owned by the marketplace will now be available depending on the settings of each vendor. The fees for those shipping methods will go to vendors, not to the marketplace."
+msgstr "Os métodos de envio próprios do marketplace estarão agora disponíveis dependendo das configurações de cada vendedor. Os custos desses métodos de envio  irão para os vendedores, não para o marketplace"
+
+msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
+msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
+msgstr "Vendedor [name] movido para um plano  com cumprimento de ordens pelo marketplace. O vendedor vai usar agora métodos de envio providenciados pelo marketplace ao invés dos seus próprios."
+
+msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
+msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
+msgstr "Voce foi movido para um plano com cumprimento de pedido pelo marketplace. De agora em diante, os métodos de envio do marketplace  vão ser oferecidos para os seus clientes."
+
+msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
+msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
+msgstr "Venddedor [name] movido para um plano sem  cumrpimento de pedido pelo  marketplace. O vendendor agora tem que oferecer seus  próprios métodos de envio."
+
+msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
+msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."
+msgstr "Você foi movido para um plano sem cumprimento de pedido pelo marketplace. Por favor certifique-se de habilitar seus próprios métodos de envio."
+
+msgctxt "Languages::order_fulfillment.fulfillment_by_marketplace"
+msgid "Fulfillment by marketplace"
+msgstr "Cumprimento pelo marketplace"
+

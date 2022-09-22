@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/stripe.po\n"
+"X-Crowdin-File-ID: 6666\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::stripe"
+msgid "Stripe payments"
+msgstr "스트라이프 결제"
+
+msgctxt "Addons::description::stripe"
+msgid "Lets you accept payments via Stripe."
+msgstr "Stripe를 통해 결제를 수락할 수 있습니다."
+
+msgctxt "Languages::stripe.stripe"
+msgid "Stripe"
+msgstr "줄무늬"
+
+msgctxt "Languages::stripe.publishable_key"
+msgid "Publishable key"
+msgstr "게시 가능한 키"
+
+msgctxt "Languages::stripe.secret_key"
+msgid "Secret key"
+msgstr "비밀 키"
+
+msgctxt "Languages::stripe.payment_type"
+msgid "Payment type"
+msgstr "지불 유형"
+
+msgctxt "Languages::stripe.payment_type.card"
+msgid "Credit card"
+msgstr "신용 카드"
+
+msgctxt "Languages::stripe.payment_type.apple_pay"
+msgid "Apple Pay"
+msgstr "애플 페이"
+
+msgctxt "Languages::stripe.payment_type.apple_pay.description"
+msgid "<p>Apple's <a href=\"[guidelines_url]\" target=\"_blank\">Human Interface Guidelines</a> require you to display the Apple Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Apple의 <a href=\"[guidelines_url]\" target=\"_blank\">휴먼 인터페이스 지침</a> 에 따라 결제 페이지에 Apple Pay 마크를 표시해야 합니다.</p><p>다음 이미지를 결제수단 아이콘으로 설정하거나 결제수단 설명에 사용할 수 있습니다.</p>"
+
+msgctxt "Languages::stripe.payment_type.google_pay"
+msgid "Google Pay"
+msgstr "구글 페이"
+
+msgctxt "Languages::stripe.payment_type.google_pay.description"
+msgid "<p>Google's <a href=\"[guidelines_url]\" target=\"_blank\">Brand guidelines</a> require you to display the Google Pay mark on the checkout page.</p><p>You can set the following image as the payment method icon or use it in the payment method description:</p>"
+msgstr "<p>Google의 <a href=\"[guidelines_url]\" target=\"_blank\">브랜드 가이드라인</a> 에 따르면 결제 페이지에 Google Pay 마크를 표시해야 합니다.</p><p>다음 이미지를 결제수단 아이콘으로 설정하거나 결제수단 설명에 사용할 수 있습니다.</p>"
+
+msgctxt "Languages::stripe.online_payment"
+msgid "Online payment"
+msgstr "온라인 결제"
+
+msgctxt "Languages::stripe.test_payment"
+msgid "Test payment (won't be charged)"
+msgstr "테스트 결제(청구되지 않음)"
+
+msgctxt "Languages::stripe.test_payment.description"
+msgid "Your card won't be charged when using Apple Pay or Google Pay."
+msgstr "Apple Pay 또는 Google Pay를 사용할 때는 카드에 요금이 청구되지 않습니다."
+
+msgctxt "Languages::stripe.apple_pay_not_supported"
+msgid "Apple Pay is not supported on this device"
+msgstr "이 기기에서는 Apple Pay가 지원되지 않습니다."
+
+msgctxt "Languages::stripe.google_pay_not_supported"
+msgid "Google Pay is not supported on this device"
+msgstr "이 기기에서는 Google Pay가 지원되지 않습니다."
+
+msgctxt "Languages::stripe.token"
+msgid "Stripe payment token"
+msgstr "스트라이프 결제 토큰"
+
+msgctxt "Languages::stripe.account_country"
+msgid "Stripe account country"
+msgstr "스트라이프 계정 국가"
+
+msgctxt "Languages::stripe.show_payment_button"
+msgid "Show \"[button_name]\" button on product pages"
+msgstr "제품 페이지에 \"[button_name]\" 버튼 표시"
+
+msgctxt "Languages::stripe.payment_type.buy_with_apple_pay"
+msgid "Buy with Apple Pay"
+msgstr "Apple Pay로 구매"
+
+msgctxt "Languages::stripe.payment_type.buy_with_google_pay"
+msgid "Buy with Google Pay"
+msgstr "Google Pay로 구매"
+
+msgctxt "Languages::stripe.payment_intent_error"
+msgid "An error occurred when creating a PaymentIntent with the payment #[payment_id]: [error]"
+msgstr "결제 #[payment_id]: [error]로 PaymentIntent를 생성할 때 오류가 발생했습니다."
+
+msgctxt "Languages::stripe.webhook_register_error"
+msgid "An error occurred while registering the webhook for the payment #[payment_id]: [error]"
+msgstr "결제 #[payment_id]: [error]에 대한 웹훅 등록 중 오류가 발생했습니다."
+
+msgctxt "Languages::stripe.webhook_handle_error"
+msgid "An error occurred while processing the webhook: [error]"
+msgstr "웹훅을 처리하는 동안 오류가 발생했습니다: [error]"
+
+msgctxt "Languages::stripe.merchant_identifier"
+msgid "Merchant identifier"
+msgstr "판매자 식별자"
+
+msgctxt "Languages::stripe.stripe_cookie_title"
+msgid "Stripe"
+msgstr "줄무늬"
+
+msgctxt "Languages::stripe.stripe_cookie_description"
+msgid "Stripe is a payment provider. It allows us to accept payments, if you choose a payment method powered by Stripe. Here is <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe privacy policy</a>."
+msgstr "Stripe는 결제 서비스 제공업체입니다. Stripe에서 제공하는 결제 방법을 선택하면 결제를 수락할 수 있습니다. <a href=\"https://stripe.com/privacy\" target=\"_blank\">Stripe 개인 정보 보호 정책</a>입니다."
+

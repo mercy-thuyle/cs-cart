@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.15.1/addons/pdf_documents.po\n"
+"X-Crowdin-File-ID: 6636\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::pdf_documents"
+msgid "PDF Documents"
+msgstr "PDF-Dokumente"
+
+msgctxt "Addons::description::pdf_documents"
+msgid "Handles the generation of all PDF files. We offer it as a free service and generate PDFs on our own server WITHOUT keeping any data."
+msgstr "Behandelt die Generierung aller PDF-Dateien. Wir bieten es als kostenlosen Service an und generieren PDFs auf unserem eigenen Server, OHNE Daten zu speichern."
+
+msgctxt "SettingsOptions::pdf_documents::service_url"
+msgid "PDF server"
+msgstr "PDF-Server"
+
+msgctxt "SettingsTooltips::pdf_documents::service_url"
+msgid "The location of the server where we'll be generating PDF files for your site. All servers work the same way, and they don't keep or analyze any of your data. Select the one that your legal advisor suggests, or the one you're most comfortable with."
+msgstr "Der Standort des Servers, auf dem wir PDF-Dateien für Ihre Website generieren. Alle Server funktionieren auf die gleiche Weise und speichern oder analysieren keine Ihrer Daten. Wählen Sie diejenige aus, die Ihr Rechtsberater vorschlägt, oder diejenige, mit der Sie sich am wohlsten fühlen."
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cs-cart.ru"
+msgid "Russia"
+msgstr "Russland"
+
+msgctxt "SettingsVariants::pdf_documents::service_url::https://converter.cart-services.com"
+msgid "USA"
+msgstr "Vereinigte Staaten von Amerika"
+
+msgctxt "Languages::pdf_documents.activate_notification"
+msgid "PDF documents (such as invoices, packing slips, etc.) will now be generated at our cloud service: [service_url]. It works as follows: your store sends an HTML document and receives a PDF copy of it. We do not view, keep, or analyze any of your data that goes through that service."
+msgstr "PDF-Dokumente (wie Rechnungen, Lieferscheine etc.) werden jetzt bei unserem Cloud-Service generiert: [service_url]. Es funktioniert wie folgt: Ihr Shop sendet ein HTML-Dokument und erhält eine PDF-Kopie davon. Wir sehen, speichern oder analysieren keine Ihrer Daten, die diesen Dienst durchlaufen."
+
+msgctxt "Languages::pdf_documents.disable_notification"
+msgid "The generation of PDF documents (such as invoices, packing slips, etc.) has been disabled. Your data will no longer go through our cloud service [service_url]. If you'd like to generate PDF documents without using our cloud service, you're welcome to <a href=\"[helpdesk_url]\" target=\"_blank\">contact us via Help Desk</a> or configure it on your own."
+msgstr "Die Generierung von PDF-Dokumenten (wie Rechnungen, Lieferscheine etc.) wurde deaktiviert. Ihre Daten durchlaufen nicht mehr unseren Cloud-Service [service_url]. Wenn Sie PDF-Dokumente generieren möchten, ohne unseren Cloud-Service zu nutzen, können Sie uns gerne <a href=\"[helpdesk_url]\" target=\"_blank\">über Help Desk kontaktieren</a> oder selbst konfigurieren."
+

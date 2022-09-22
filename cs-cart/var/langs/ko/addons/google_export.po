@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: /release-4.15.1/addons/google_export.po\n"
+"X-Crowdin-File-ID: 6598\n"
+"PO-Revision-Date: 2022-06-21 13:01\n"
+
+msgctxt "Addons::name::google_export"
+msgid "Google export"
+msgstr "구글 내보내기"
+
+msgctxt "Addons::description::google_export"
+msgid "Expands the Data Feeds add-on to work with Google Base and creates an example of such data feed"
+msgstr "Google Base와 함께 작동하도록 데이터 피드 추가 기능을 확장하고 이러한 데이터 피드의 예를 만듭니다."
+
+msgctxt "Languages::google_export_general_info"
+msgid "<p>Note: toggle this setting if you need multi-language Google categories installed. Supports French, German, Italian, Spanish, and British English. Pay attention that this operation can take a significant amount of time.</p>"
+msgstr "<p>참고: 다국어 Google 카테고리를 설치해야 하는 경우 이 설정을 토글합니다. 프랑스어, 독일어, 이탈리아어, 스페인어 및 영국식 영어를 지원합니다. 이 작업에는 상당한 시간이 소요될 수 있습니다.</p>"
+
+msgctxt "Languages::google_export_start_import"
+msgid "Start importing"
+msgstr "가져오기 시작"
+
+msgctxt "SettingsSections::google_export::general"
+msgid "General"
+msgstr "일반적인"
+
+msgctxt "SettingsOptions::google_export::general_info"
+msgid "General info"
+msgstr "일반 정보"
+
+msgctxt "SettingsOptions::google_export::additional_langs"
+msgid "Install additional languages for Google categories"
+msgstr "Google 카테고리에 대한 추가 언어 설치"
+
+msgctxt "Languages::addons.google_export.skip_zero_prices"
+msgid "Don't export items with a price value of 0.00"
+msgstr "가격 값이 0.00인 항목을 내보내지 마십시오."
+
+msgctxt "Languages::addons.google_export.skip_zero_prices_description"
+msgid "You must not include a price value of 0.00 for your Google Products Feed items. Items with zero prices may not appear in the search results."
+msgstr "Google 제품 피드 항목에 0.00이라는 가격 값을 포함해서는 안 됩니다. 가격이 0인 항목은 검색 결과에 나타나지 않을 수 있습니다."
+
+msgctxt "Languages::addons.google_export.notice"
+msgid "Before you export products to Google Product Feed, make sure that the Code of your store's <a href=\"[currency_url]\">primary currency</a> conforms to <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> and used <a href=\"[settings_url]\">Weight symbol</a> is one of the following: lb, oz, g, kg"
+msgstr "제품을 Google 제품 피드로 내보내기 전에 상점의 <a href=\"[currency_url]\">기본 통화</a> 의 코드가 <a href=\"http://www.currency-iso.org/en/home/tables/table-a1.html\">ISO 4217</a> 을 준수하고 사용된 <a href=\"[settings_url]\">무게 기호</a> 가 lb, oz, g, kg 중 하나인지 확인하십시오."
+
+msgctxt "Languages::addons.google_export.google_export"
+msgid "Google export"
+msgstr "구글 내보내기"
+
+msgctxt "Languages::google_name_option"
+msgid "Equivalent in Google:"
+msgstr "Google에서 해당:"
+
+msgctxt "Languages::addons.google_export.tax_notice"
+msgid "For the US, don't include tax in the price. For Canada and India, do not include any value added tax in the price. For all other countries, value added tax (VAT) has to be included in the price."
+msgstr "미국의 경우 가격에 세금을 포함하지 마십시오. 캐나다 및 인도의 경우 가격에 부가가치세를 포함하지 마십시오. 다른 모든 국가의 경우 부가가치세(VAT)가 가격에 포함되어야 합니다."
+
+msgctxt "Languages::addons.google_export.info_google_features"
+msgid "<p>Before you export a data feed file for Google Merchant, make sure to edit your products and specify the values of product features that belong to the Google Export group. You can do this via product import and export, or mass editing.</p><p> GTIN is a key identifier of a product. If you didn't specify GTIN as a feature, product's SKU from the CODE field will be used. GTINs for option combinations are always taken from the CODE fields of combinations.</p>"
+msgstr "<p>Google 판매자용 데이터 피드 파일을 내보내기 전에 제품을 수정하고 Google 내보내기 그룹에 속하는 제품 기능의 값을 지정해야 합니다. 제품 가져오기 및 내보내기 또는 대량 편집을 통해 이 작업을 수행할 수 있습니다.</p><p> GTIN은 제품의 핵심 식별자입니다. GTIN을 기능으로 지정하지 않은 경우 CODE 필드의 제품 SKU가 사용됩니다. 옵션 조합에 대한 GTIN은 항상 조합의 CODE 필드에서 가져옵니다.</p>"
+
+msgctxt "Languages::tt_addons_google_export_hooks_product_options_properties_post_google_name_option"
+msgid "When you export a data feed file, this option will provide data for the selected Google field type."
+msgstr "데이터 피드 파일을 내보낼 때 이 옵션은 선택한 Google 필드 유형에 대한 데이터를 제공합니다."
+
+msgctxt "Languages::addons.google_export.text_info_setting_options"
+msgid "Please make sure that you selected this option as \"Equivalent in Google\" for one of the options in your store. Otherwise the data feed file may not be exported properly."
+msgstr "상점의 옵션 중 하나에 대해 이 옵션을 \"Google에서 동등함\"으로 선택했는지 확인하십시오. 그렇지 않으면 데이터 피드 파일이 제대로 내보내지지 않을 수 있습니다."
+
