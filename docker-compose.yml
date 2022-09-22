@@ -1,0 +1,43 @@
+version: '3'
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "9090:80"
+    volumes:
+      - ./etc/default.conf:/etc/nginx/conf.d/default.conf
+      - ./etc/nginx.conf:/etc/nginx/nginx.conf
+      - ./cs-cart:/var/www/html/dev-ssm.unicloud.com.vn
+    depends_on:
+      - cs-cart-php
+      - mysql
+  cs-cart-php:
+    build:
+      context: .
+      dockerfile: PHP.Dockerfile
+    volumes:
+      - ./cs-cart:/var/www/html/dev-ssm.unicloud.com.vn
+  mysql:
+    image: mysql:latest
+    ports:
+      - 9306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: 'cscart'
+      MYSQL_USER: 'cscart'
+      MYSQL_PASSWORD: 'cscart'
+      MYSQL_DATABASE: 'cscart'
+    volumes:
+      - mysqldata:/var/lib/mysql
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    ports:
+      - 9999:80
+    environment:
+      PMA_HOST: 'mysql'
+      PMA_USER: 'cscart'
+      PMA_PASSWORD: 'cscart'
+    depends_on:
+      - mysql
+volumes:
+  mysqldata: {}
+  
